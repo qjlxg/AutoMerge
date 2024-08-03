@@ -763,7 +763,7 @@ def main():
         try:
             for t in range(1, FETCH_TIMEOUT[0]+1):
                 print("抓取 '"+sources_obj[i].url+"'... ", end='', flush=True)
-                try: threads[i].join(timeout=FETCH_TIMEOUT[1])
+                try: threads[i].join(timeout=FETCH_TIMEOUT[10])
                 except KeyboardInterrupt:
                     print("正在退出...")
                     FETCH_TIMEOUT = (10, 0)

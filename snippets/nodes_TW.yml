@@ -1,4 +1,32 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|台湾_080317017
+  network: ws
+  port: '8888'
+  server: 165.154.227.99
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fbc1f4a7-9af6-42b1-b2aa-c3beafd20f52
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 0|台湾_080317019
+  network: ws
+  port: '12945'
+  server: 55.lwdh.us
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
 - cipher: chacha20-ietf-poly1305
   name: 2|🇹🇼 台湾01-1Q
   password: d0e82aa0-12c7-4d08-80f3-88588bd23f46

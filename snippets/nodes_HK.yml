@@ -1,148 +1,204 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇰 香港01-1D
-  password: 7ef604d8-a049-4e7b-ad45-6f675621e642
-  port: 34338
-  server: gd.xueyejiasu.com
+  name: 0|🇭🇰 香港 B HK-1A
+  password: fa43a744-676d-438c-bb05-e88792cda7f1
+  port: 22881
+  server: hk2.iepl.cooc.icu
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰 DX香港02|港|1x
-  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
-  port: 18596
-  server: hzgg.ewenhot.top
-  type: ss
+- alterId: 0
+  cipher: auto
+  name: 0|🇭🇰 香港 1-1W
+  network: ws
+  port: 80
+  server: m2-hk1.go-relay.top
+  tls: false
+  type: vmess
   udp: true
+  uuid: 4299f66c-1540-4556-8695-08ddd30d8c81
+  ws-opts:
+    headers:
+      Host: m2-hk1.go-relay.top
+    path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇰 1|香港01|X1|XD中港HKT-1B
-  password: ae8e8c11-943c-404d-aafb-77775059f9b5
-  port: 60003
-  server: xd-zg-hkt1.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 LS香港00|港|1x
-  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
-  port: 13648
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰 LS香港01|网|1x
-  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
-  port: 28921
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 2|香港07|X1|XD中港2-1B
-  password: ae8e8c11-943c-404d-aafb-77775059f9b5
-  port: 24039
-  server: xd-zg2.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 1|香港01|X1|XD中港2-1B
-  password: ae8e8c11-943c-404d-aafb-77775059f9b5
-  port: 26011
-  server: xd-zg2.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 香港03-1C
-  password: 5617aa90-125b-4d9e-984a-23d4413bd325
-  port: 15635
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 香港02-1C
-  password: 5617aa90-125b-4d9e-984a-23d4413bd325
-  port: 15931
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 DX香港01|三网|1x
-  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
-  port: 13490
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰 香港04-备用-1B
-  password: 5617aa90-125b-4d9e-984a-23d4413bd325
-  port: 15638
-  server: 140.249.160.81
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰 1|香港02|X1|XD中港HKT-1B
-  password: ae8e8c11-943c-404d-aafb-77775059f9b5
-  port: 41015
-  server: xd-zg-hkt1.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 香港03-1D
-  password: 7ef604d8-a049-4e7b-ad45-6f675621e642
-  port: 20052
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 香港02-1D
-  password: 7ef604d8-a049-4e7b-ad45-6f675621e642
-  port: 20035
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇰 香港05-备用-1B
+  name: 0,1|🇰 香港05-备用-1B
   password: 5617aa90-125b-4d9e-984a-23d4413bd325
   port: 15639
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 香港01-1C
+  name: '0,1|🇭🇰 香港01-1C #1'
   password: 5617aa90-125b-4d9e-984a-23d4413bd325
   port: 19630
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 香港07-备用-1B
+  name: '0,1|🇭🇰 香港02-1D #1'
+  password: 7ef604d8-a049-4e7b-ad45-6f675621e642
+  port: 20035
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 0|🇭🇰 香港HK03-1B
+  password: 46f1e170-8106-4ad7-954d-0cb7793ca45e
+  port: 20051
+  server: zz.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '0,1|🇭🇰 香港03-1D #1'
+  password: 7ef604d8-a049-4e7b-ad45-6f675621e642
+  port: 20052
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 0|🇭🇰 香港HK01-1B
+  password: 46f1e170-8106-4ad7-954d-0cb7793ca45e
+  port: 56701
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '0,1|🇭🇰 2|香港07|X1|XD中港2-1B #1'
+  password: ae8e8c11-943c-404d-aafb-77775059f9b5
+  port: 24039
+  server: xd-zg2.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '0,1|🇭🇰 香港03-1C #1'
   password: 5617aa90-125b-4d9e-984a-23d4413bd325
-  port: 15641
+  port: 15635
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '0,1|🇭🇰 香港02-1C #1'
+  password: 5617aa90-125b-4d9e-984a-23d4413bd325
+  port: 15931
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 香港04-备用-1B
+  password: 5617aa90-125b-4d9e-984a-23d4413bd325
+  port: 15638
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇰 1|香港02|X1|XD中港2-1B
+  name: 0|🇭🇰 香港 C HK-1C
+  password: 78a0c6ed-9254-4080-8cfe-16a280302c71
+  port: 23881
+  server: hk3.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 1|香港01|X1|XD中港HKT-1B
+  password: ae8e8c11-943c-404d-aafb-77775059f9b5
+  port: 60003
+  server: xd-zg-hkt1.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 LS香港02|港|1x
+  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  port: 27669
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 0|🇭🇰 香港HK02-1D
+  password: 7d199417-9656-4cdb-bb8b-11d0e58ef3c2
+  port: 20034
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 1|香港02|X1|XD中港2-1B
   password: ae8e8c11-943c-404d-aafb-77775059f9b5
   port: 26015
   server: xd-zg2.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇰 LS香港02|港|1x
+  name: '0,1|🇭🇰 DX香港01|三网|1x #1'
   password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
-  port: 27669
-  server: szyd.ewenhot.top
+  port: 13490
+  server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 1|香港L|X1|DF1-1B
+  name: '0,1|🇭🇰 香港07-备用-1B #1'
+  password: 5617aa90-125b-4d9e-984a-23d4413bd325
+  port: 15641
+  server: 140.249.160.81
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '0,1|🇭🇰 1|香港L|X1|DF1-1B #1'
   password: ae8e8c11-943c-404d-aafb-77775059f9b5
   port: 59993
   server: df-01.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰 DX香港00|港|1x
+  name: '0,1|🇭🇰 1|香港01|X1|XD中港2-1B #1'
+  password: ae8e8c11-943c-404d-aafb-77775059f9b5
+  port: 26011
+  server: xd-zg2.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 香港01-1D
+  password: 7ef604d8-a049-4e7b-ad45-6f675621e642
+  port: 34338
+  server: gd.xueyejiasu.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 LS香港01|网|1x
+  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  port: 28921
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇭🇰 DX香港00|港|1x
   password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
   port: 16072
   server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 DX香港02|港|1x
+  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  port: 18596
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇰 1|香港02|X1|XD中港HKT-1B
+  password: ae8e8c11-943c-404d-aafb-77775059f9b5
+  port: 41015
+  server: xd-zg-hkt1.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰 香港 A HK-1B
+  password: acd894b7-4a23-47dc-88cd-ce6d56f5496f
+  port: 21881
+  server: hk1.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0,1|🇭🇰 LS香港00|港|1x
+  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  port: 13648
+  server: szyd.ewenhot.top
   type: ss
   udp: true

@@ -1,1 +1,17 @@
-proxies: []
+proxies:
+- auth: 06a0199d-4249-41ed-aa42-31b5eb9c7c5a
+  name: 0,1|🇩🇪 --1
+  password: 06a0199d-4249-41ed-aa42-31b5eb9c7c5a
+  port: 30001
+  server: oracle-arm-frankfurt1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: frankfurt1.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: aes-128-gcm
+  name: 0|🇫🇷 法国 FR BIZ-1A
+  password: fa43a744-676d-438c-bb05-e88792cda7f1
+  port: 35611
+  server: 120.241.118.161
+  type: ss
+  udp: true

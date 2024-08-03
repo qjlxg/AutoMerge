@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,1|🇼 V3 台湾 华中专线-NF-1B
+  name: 2,4|🇼 V3 台湾 华中专线-NF-1B
   password: 370c18b5-67a9-46ca-9739-86cb8ec9bc03
   port: 31421
   server: azi.cn1.xiaomi-api.xyz
@@ -12,7 +12,7 @@ proxies:
   udp: true
   uuid: 15eb21be-5f58-4647-bbf1-e92df4e294fc
 - auth: dbf43fe1-6163-410d-947c-62bb75444cd0
-  name: 0|🇸🇬 新加坡 02-3U
+  name: 2|🇸🇬 新加坡 02-3U
   password: dbf43fe1-6163-410d-947c-62bb75444cd0
   port: 44300
   server: sg-02.worldfirst.eu.org
@@ -21,7 +21,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 6f9b6a1d-e01c-4b8e-b828-500017b0510e
-  name: 0|🇸🇬 新加坡-2K
+  name: 2|🇸🇬 新加坡-2K
   password: 6f9b6a1d-e01c-4b8e-b828-500017b0510e
   port: 46606
   server: zz.worldfirst.eu.org
@@ -31,41 +31,43 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 0|🇸🇬 新加坡 3-1H
+  name: 2,3|[butnono]美国_0803144653
   network: ws
-  port: 80
+  port: '80'
   server: m2-sg3.m2network.icu
+  servername: ''
   tls: false
   type: vmess
   udp: true
-  uuid: b0ecfede-702f-491f-a259-860a6e4a50af
+  uuid: c83f8289-bb83-489f-ae98-c13131ebd5af
   ws-opts:
     headers:
       Host: m2-sg3.m2network.icu
     path: /ws?ed=2560
 - alterId: 0
   cipher: auto
-  name: 0|🇸🇬 新加坡 1-1J
+  name: 2,3|[butnono]未知_0803146951
   network: ws
-  port: 80
+  port: '80'
   server: m2-sg1.m2network.icu
+  servername: ''
   tls: false
   type: vmess
   udp: true
-  uuid: 02ae838b-10fa-4bf0-9dfb-6382d8d71bb5
+  uuid: e397d2cc-a689-4cba-8d60-6e99bad44e1c
   ws-opts:
     headers:
       Host: m2-sg1.m2network.icu
     path: /ws?ed=2560
 - cipher: aes-128-gcm
-  name: 0|🇸🇬 新加坡SG02-1G
+  name: 2|🇸🇬 新加坡SG02-1G
   password: 4b9cfd46-77b3-409d-9557-e6b999439f26
   port: 56705
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0,1|🇬 新加坡01-1B
+  name: 2,4|🇬 新加坡01-1B
   password: 5617aa90-125b-4d9e-984a-23d4413bd325
   port: 15636
   server: gdcub.yunnode.win
@@ -73,7 +75,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 0|🇸🇬 新加坡 2-1L
+  name: 2|🇸🇬 新加坡 2-1L
   network: ws
   port: 80
   server: m2-sg2.m2network.icu
@@ -86,14 +88,14 @@ proxies:
       Host: m2-sg2.m2network.icu
     path: /ws?ed=2560
 - cipher: aes-128-gcm
-  name: 0|🇸🇬 新加坡SG01-1C
+  name: 2|🇸🇬 新加坡SG01-1C
   password: ce1a63ba-9636-4ef7-898a-2ac1a7888be1
   port: 56704
   server: gy.666666222.shop
   type: ss
   udp: true
 - auth: 06a0199d-4249-41ed-aa42-31b5eb9c7c5a
-  name: 0,1|🇬 新加坡-1
+  name: 2,4|🇬 新加坡-1
   password: 06a0199d-4249-41ed-aa42-31b5eb9c7c5a
   port: 30001
   server: oracle-amd-singapore1.lanmaoyun.icu
@@ -102,70 +104,70 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: aes-128-gcm
-  name: 0|🇸🇬 新加坡SG03-1I
+  name: 2|🇸🇬 新加坡SG03-1I
   password: 474b52da-570e-4ebb-93c1-256093364daf
   port: 56706
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0,1|🇬 新加坡02-1B
+  name: 2,4|🇬 新加坡02-1B
   password: 5617aa90-125b-4d9e-984a-23d4413bd325
   port: 15637
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0,1|🇬 新加坡03-1B
+  name: 2,4|🇬 新加坡03-1B
   password: 5617aa90-125b-4d9e-984a-23d4413bd325
   port: 15627
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇸🇬 新加坡 A SG-1B
+  name: 2|🇸🇬 新加坡 A SG-1B
   password: acd894b7-4a23-47dc-88cd-ce6d56f5496f
   port: 35105
   server: sg1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇸🇬 新加坡 B SG-1B
+  name: 2|🇸🇬 新加坡 B SG-1B
   password: acd894b7-4a23-47dc-88cd-ce6d56f5496f
   port: 35106
   server: sg2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0,1|🇬 DX加坡01|1x
+  name: 2,4|🇬 DX加坡01|1x
   password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
   port: 45769
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇸🇬 新加坡 C SG-1A
+  name: 2|🇸🇬 新加坡 C SG-1A
   password: fa43a744-676d-438c-bb05-e88792cda7f1
   port: 35107
   server: sg3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0,1|🇬 LS新加坡01|1x
+  name: 2,4|🇬 LS新加坡01|1x
   password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
   port: 21508
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0,1|🇬 2|英国05|X1|XD中-1A
+  name: 2,4|🇬 2|英国05|X1|XD中-1A
   password: 1d36c2da-94c1-47f0-b89b-98dca51131b3
   port: 24210
   server: xd-xjp9.bestdong.xyz
   type: ss
   udp: true
 - auth: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
-  name: 0,1|🇬 HY2新加坡-0.8x
+  name: 2,4|🇬 HY2新加坡-0.8x
   password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
   port: 20082
   server: xjpnat2.dackcf1.top
@@ -173,3 +175,217 @@ proxies:
   sni: xjpnat2.dackcf1.top
   type: hysteria2
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314085
+  network: ws
+  port: '2052'
+  server: 206.238.236.36
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: mysan2.jaquay22.workers.dev
+    path: /afrhms16v.bestxray.buzz/linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314047
+  network: tcp
+  port: '25371'
+  server: 167.172.65.242
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7c40ad14-ce6c-4d9f-82b8-b7daba4c18e7
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314111
+  network: ws
+  port: '80'
+  server: digital.rayzellstore.tech
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
+  ws-opts:
+    headers:
+      Host: digital.rayzellstore.tech
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314017
+  network: tcp
+  port: '41008'
+  server: 128.199.80.121
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e08eae1e-5f46-4dc7-e3ec-8772ee04cf84
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314049
+  network: tcp
+  port: '17501'
+  server: 165.22.106.189
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e3226fd5-3fd3-4c6b-bd93-7dece22e92dc
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314082
+  network: ws
+  port: '80'
+  server: 206.238.236.36
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
+  ws-opts:
+    headers:
+      Host: mysan2.jaquay22.workers.dev
+    path: /gwdef.sbs/linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314205
+  network: ws
+  port: '80'
+  server: 172.104.169.191
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b2a5956c-dcf3-4c3b-9f11-bc078cc17320
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /ht4gvpn.com
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314186
+  network: ws
+  port: '80'
+  server: 94.237.65.46
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
+  ws-opts:
+    headers:
+      Host: digital.rayzellstore.tech
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314048
+  network: tcp
+  port: '11337'
+  server: 206.189.155.159
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 107c7154-026b-45f9-c94d-04aca55c0f36
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314204
+  network: ws
+  port: '80'
+  server: 165.232.169.81
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b2a5956c-dcf3-4c3b-9f11-bc078cc17320
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /ht4gvpn.com
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314188
+  network: ws
+  port: '443'
+  server: 94.237.65.46
+  servername: digital.rayzellstore.tech
+  tls: true
+  type: vmess
+  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
+  ws-opts:
+    headers:
+      Host: digital.rayzellstore.tech
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314184
+  network: ws
+  port: '80'
+  server: 192.46.224.77
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7d039b88-bf42-4fdd-9c05-3656a1dbf729
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314110
+  network: ws
+  port: '443'
+  server: digital.rayzellstore.tech
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
+  ws-opts:
+    headers:
+      Host: digital.rayzellstore.tech
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314187
+  network: tcp
+  port: '54126'
+  server: sg5.mmmmmmmmmm.cfd
+  servername: sg-iplcm3.zodport.com
+  tls: false
+  type: vmess
+  uuid: 2062a5ca-a34e-47bf-9810-db91185f07fc
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314181
+  network: tcp
+  port: '12954'
+  server: 64.lwdh.us
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+- alterId: 16
+  cipher: auto
+  name: 3|[butnono]新加坡_080314189
+  network: ws
+  port: '10053'
+  server: 52.77.122.183
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d4851289-5ce7-4da7-a4c5-09649ace4a93
+  ws-opts:
+    headers:
+      Host: www.baidu.com
+    path: /lorgvdgnbhkx4zoj
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080314123
+  network: ws
+  port: '80'
+  server: 52.221.24.73
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4e26bc93-18eb-41d4-9d12-0bc27d30869e
+  ws-opts:
+    headers:
+      Host: tms.dingtalk.com
+    path: /

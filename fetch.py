@@ -766,7 +766,7 @@ def main():
                 try: threads[i].join(timeout=FETCH_TIMEOUT[1])
                 except KeyboardInterrupt:
                     print("正在退出...")
-                    FETCH_TIMEOUT = (1, 0)
+                    FETCH_TIMEOUT = (10, 0)
                     break
                 if not threads[i].is_alive(): break
                 print(f"{5*t}s")

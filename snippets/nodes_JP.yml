@@ -2,7 +2,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15|🇯🇵 日本5|@ripaojiedian
+  name: 8,12|🇯🇵 日本5|@ripaojiedian
   network: ws
   port: 46011
   server: mmjp11.micloud.buzz
@@ -18,7 +18,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 11,15,16|日本2|@ripaojiedian
+  name: 8,12,13|日本2|@ripaojiedian
   network: ws
   port: '80'
   server: cfcdn3.sanfencdn9.com
@@ -34,7 +34,7 @@ proxies:
     path: /video/ibCT6z55
 - alterId: 0
   cipher: auto
-  name: 11,16|日本5|@ripaojiedian
+  name: 8,13|日本5|@ripaojiedian
   network: ws
   port: '46011'
   server: mmjp11.micloud.buzz
@@ -48,7 +48,7 @@ proxies:
     path: /zh-cn
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 15|🇯🇵 日本特殊|@ripaojiedian
+  name: 12|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
   server: 54.255.211.19

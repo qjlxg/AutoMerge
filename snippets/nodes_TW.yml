@@ -1,29 +1,80 @@
 proxies:
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 12|🇹🇼 台湾|@ripaojiedian
-  password: NUeBvQHox0BmnHpu
-  port: 33368
-  server: guangguang01.xyz
-  tfo: false
-  type: ss
 - cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 12|🇹🇼 台湾2|@ripaojiedian
-  password: 356cd62f-a0ea-4630-8d67-847b6f2b3321
-  port: 32207
-  server: aa01gg.sssyun.xyz
-  tfo: false
+  name: 0|🇹🇼 台湾01-1B
+  password: c9b71df2-652a-404b-a09f-103927d602e9
+  port: 47564
+  server: gd.xueyejiasu.com
   type: ss
-- cipher: aes-128-gcm
-  client-fingerprint: chrome
-  name: 12|🇹🇼 台湾3|@ripaojiedian
-  password: VktroSoMbaFIFFhndcUqaSuGoHygMvg9kmTQzZeGB7BF
-  plugin: obfs
-  plugin-opts:
-    host: baidu.com
-    mode: http
-  port: 40304
-  server: 166.0.199.245
-  tfo: false
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 0|🇼 台湾03|直连线X0.5
+  network: ws
+  port: 2052
+  server: cfnatji3.x2tanzhen.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  ws-opts:
+    headers:
+      Host: twnat2.dackcf1.top
+    path: /x2cloud?ed=2048
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇼 台湾 1-1A
+  password: c9b71df2-652a-404b-a09f-103927d602e9
+  port: 20032
+  server: gy.666666222.shop
   type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 0|🇹🇼 台湾01|直连路线X0.5
+  network: ws
+  port: 8080
+  server: cfnatji1.x2tanzhen.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  ws-opts:
+    headers:
+      Host: twnat2.dackcf1.top
+    path: /x2cloud?ed=2048
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇹🇼 LS台湾|1x
+  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  port: 29637
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇼 台湾01-1C
+  password: 5617aa90-125b-4d9e-984a-23d4413bd325
+  port: 15632
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- auth: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  name: 0|🇹 HY2台湾-0.8x
+  password: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  port: 30158
+  server: twnat2.dackcf1.top
+  skip-cert-verify: true
+  sni: twnat2.dackcf1.top
+  type: hysteria2
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 0|🇼 台湾02|直连线X0.5
+  network: ws
+  port: 2052
+  server: cfnatji2.x2tanzhen.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5bb95ce2-a8cb-4fc5-9ba5-52d7c46d394e
+  ws-opts:
+    headers:
+      Host: twnat2.dackcf1.top
+    path: /x2cloud?ed=2048

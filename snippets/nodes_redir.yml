@@ -1,148 +1,148 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 2|🇹🇼 台湾中转 03
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
   port: 14232
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本中转 02
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 40005
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇭🇰 香港中转 04
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 11618
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 美国中转 01
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 26858
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡中转 03
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 11599
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡中转 01
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 11155
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本中转 01
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 13706
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 美国中转 02
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 15070
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡中转 02
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 26198
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾中转 04
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 25149
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾中转 01
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 27110
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇭🇰 香港中转 05
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 20901
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 美国中转 03
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 23631
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
   name: 2|🇭🇰 香港中转 03
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
   port: 43042
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇭🇰 香港中转 01
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 43641
+  name: 2|🇯🇵 日本中转 04
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 38649
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾中转 02
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 17010
+  name: 2|🇺🇸 美国中转 02
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 15070
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾中转 05
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 35846
+  name: 2|🇺🇸 美国中转 01
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 26858
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本中转 01
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 13706
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇭🇰 香港中转 02
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
   port: 36858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本中转 03
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 38225
+  name: 2|🇭🇰 香港中转 01
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 43641
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本中转 02
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 40005
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇯🇵 日本中转 05
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
   port: 21743
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本中转 04
-  password: 139929d2-e434-4a9e-8d5e-59c7d6b66120
-  port: 38649
+  name: 2|🇺🇸 美国中转 03
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 23631
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾中转 01
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 27110
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾中转 04
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 25149
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本中转 03
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 38225
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡中转 01
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 11155
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾中转 02
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 17010
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇭🇰 香港中转 05
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 20901
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾中转 05
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 35846
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡中转 02
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 26198
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇭🇰 香港中转 04
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 11618
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡中转 03
+  password: fbf86f48-06c0-4f61-afff-3a2d86bf0b0e
+  port: 11599
   server: gstdnb.myfczy168.top
   type: ss
   udp: true

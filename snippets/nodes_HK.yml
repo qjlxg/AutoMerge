@@ -15,7 +15,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2,3|[butnono]未知_080417424
+  name: 2,3|[butnono]美国_0804201813
   network: ws
   port: '80'
   server: m2-hk1.go-relay.top
@@ -23,7 +23,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: dabfe815-b578-4f2f-a34e-a0c5d6cd3c96
+  uuid: f7532447-30dc-461d-a897-337af0fc2f42
   ws-opts:
     headers:
       Host: m2-hk1.go-relay.top
@@ -205,7 +205,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]香港_080417089
+  name: 3|[butnono]香港_080420107
   network: ws
   port: '80'
   server: 92.223.76.25
@@ -219,7 +219,7 @@ proxies:
     path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]香港_080417090
+  name: 3|[butnono]香港_080420106
   network: ws
   port: '80'
   server: 92.223.76.24
@@ -233,7 +233,7 @@ proxies:
     path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]香港_080417108
+  name: 3|[butnono]香港_080420105
   network: ws
   port: '44445'
   server: hkt1.hkg.hypernat.com

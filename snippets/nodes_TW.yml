@@ -122,7 +122,35 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]台湾_080417019
+  name: 3|[butnono]台湾_080420018
+  network: ws
+  port: '80'
+  server: 111.248.201.47
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4929f0ca-2793-4aa3-b2d0-7445447097f6
+  ws-opts:
+    headers:
+      Host: oiictw.yydsii.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]台湾_080420016
+  network: ws
+  port: '12945'
+  server: 55.lwdh.us
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]台湾_080420019
   network: ws
   port: '8888'
   server: 165.154.227.99

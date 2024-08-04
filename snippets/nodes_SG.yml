@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 2,3|[butnono]美国_0804173756
+  name: 2,3|[butnono]美国_0804202811
   network: ws
   port: '80'
   server: m2-sg3.m2network.icu
@@ -9,7 +9,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: de3e2b2a-2488-49c6-a809-995788bdb2d4
+  uuid: b33e2af8-5e00-45c7-a5f3-338659b74b58
   ws-opts:
     headers:
       Host: m2-sg3.m2network.icu
@@ -41,30 +41,28 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2,3|[butnono]未知_0804177490
+  name: 2|🇸🇬 新加坡 2-2G
   network: ws
-  port: '80'
+  port: 80
   server: m2-sg2.m2network.icu
-  servername: ''
   tls: false
   type: vmess
   udp: true
-  uuid: de3e2b2a-2488-49c6-a809-995788bdb2d4
+  uuid: 7231f012-3239-40b7-b994-0bfd19442b00
   ws-opts:
     headers:
       Host: m2-sg2.m2network.icu
     path: /ws?ed=2560
 - alterId: 0
   cipher: auto
-  name: 2,3|[butnono]美国_0804172868
+  name: 2|🇸🇬 新加坡 1-1I
   network: ws
-  port: '80'
+  port: 80
   server: m2-sg1.m2network.icu
-  servername: ''
   tls: false
   type: vmess
   udp: true
-  uuid: 52064bc9-6fd1-4140-bed7-df78d13dd556
+  uuid: 6f03417a-e08f-4a25-9d15-41843095a192
   ws-opts:
     headers:
       Host: m2-sg1.m2network.icu
@@ -166,21 +164,21 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080417181
+  name: 3|[butnono]新加坡_080420115
   network: ws
-  port: '80'
-  server: 172.104.169.191
+  port: '443'
+  server: digital.rayzellstore.tech
   servername: ''
-  tls: false
+  tls: true
   type: vmess
-  uuid: b2a5956c-dcf3-4c3b-9f11-bc078cc17320
+  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
   ws-opts:
     headers:
-      Host: dl.kgvn.garenanow.com
-    path: /ht4gvpn.com
+      Host: digital.rayzellstore.tech
+    path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080417178
+  name: 3|[butnono]新加坡_080420185
   network: ws
   port: '80'
   server: 94.237.65.46
@@ -194,49 +192,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080417174
-  network: ws
-  port: '80'
-  server: 165.232.169.81
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b2a5956c-dcf3-4c3b-9f11-bc078cc17320
-  ws-opts:
-    headers:
-      Host: dl.kgvn.garenanow.com
-    path: /ht4gvpn.com
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]新加坡_080417107
-  network: ws
-  port: '80'
-  server: digital.rayzellstore.tech
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
-  ws-opts:
-    headers:
-      Host: digital.rayzellstore.tech
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]新加坡_080417106
-  network: ws
-  port: '443'
-  server: digital.rayzellstore.tech
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
-  ws-opts:
-    headers:
-      Host: digital.rayzellstore.tech
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]新加坡_080417175
+  name: 3|[butnono]新加坡_080420184
   network: ws
   port: '443'
   server: 94.237.65.46
@@ -250,17 +206,59 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080417183
+  name: 3|[butnono]新加坡_080420190
+  network: ws
+  port: '80'
+  server: 172.104.169.191
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b2a5956c-dcf3-4c3b-9f11-bc078cc17320
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /ht4gvpn.com
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080420188
   network: tcp
   port: '12954'
   server: 64.lwdh.us
-  servername: 31.192.234.7
+  servername: ''
   tls: true
   type: vmess
   uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080420116
+  network: ws
+  port: '80'
+  server: digital.rayzellstore.tech
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8c58753-8eda-4f19-aa17-59781ebe7e65
+  ws-opts:
+    headers:
+      Host: digital.rayzellstore.tech
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080420194
+  network: ws
+  port: '80'
+  server: 165.232.169.81
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b2a5956c-dcf3-4c3b-9f11-bc078cc17320
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /ht4gvpn.com
 - alterId: 16
   cipher: auto
-  name: 3|[butnono]新加坡_080417177
+  name: 3|[butnono]新加坡_080420187
   network: ws
   port: '10053'
   server: 52.77.122.183
@@ -274,7 +272,7 @@ proxies:
     path: /lorgvdgnbhkx4zoj
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080417176
+  name: 3|[butnono]新加坡_080420186
   network: ws
   port: '14444'
   server: 172.104.182.141

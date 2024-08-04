@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇬🇧 2|英国05|X1|上海LL-1C
-  password: 3549133b-8c07-4aae-8fda-b9b39a412cbf
+  name: 2|🇬🇧 2|英国05|X1|上海LL-1A
+  password: dc3b69ef-526c-4c25-a5e2-0a02d33e37b3
   port: 24051
   server: ll-sh1.bestdong.xyz
   type: ss

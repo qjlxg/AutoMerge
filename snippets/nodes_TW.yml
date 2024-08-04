@@ -1,62 +1,85 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 2|🇹🇼 台湾01-1E
-  password: c3d123f6-0077-4989-a688-bef72b0040c2
-  port: 20031
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 C TW-1A
-  password: 68b4f40a-c260-4d80-b1cb-b339fd0d0a41
-  port: 35111
-  server: tw3.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾01-1S
-  password: 4dd12c4f-2956-4380-9fd5-97bfc3035b98
+  password: 3cc87f81-9929-4920-a0bf-f746a17879ea
   port: 15632
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾01-1C
-  password: c07402b4-da58-426c-93b2-95b1752eacdf
-  port: 47564
-  server: gd.xueyejiasu.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 1-1A
-  password: c07402b4-da58-426c-93b2-95b1752eacdf
+  name: 2|🇹🇼 台湾 1-1D
+  password: 316c897d-0e10-4a56-b73d-b4d15f4c126c
   port: 20032
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 A TW-1A
-  password: 68b4f40a-c260-4d80-b1cb-b339fd0d0a41
+  name: 2|🇹🇼 台湾 C TW-1A
+  password: 435304ad-5b8e-430a-9f83-3a64c1769feb
+  port: 35111
+  server: tw3.iepl.cooc.icu
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 2|🇹🇼 台湾01|直连路线X0.5
+  network: ws
+  port: 8080
+  server: cfnatji1.x2tanzhen.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d973425e-ff01-4fd5-b12f-d701b28a7857
+  ws-opts:
+    headers:
+      Host: twnat2.dackcf1.top
+    path: /x2cloud?ed=2048
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾01-1x
+  password: ea7b866b-48d8-4707-ad40-35c71e04afeb
+  port: 47564
+  server: gd.xueyejiasu.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾 A TW-1C
+  password: 23f414ed-28cd-4a26-9a89-6b0844183b0d
   port: 35109
   server: tw1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 台湾 B TW-1B
+  name: 2|🇹🇼 台湾01-1O
+  password: b2ec0b64-3554-4fba-85ed-f642c0e139d8
+  port: 20031
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 台湾 B TW-1A
   password: 435304ad-5b8e-430a-9f83-3a64c1769feb
   port: 35110
   server: tw2.iepl.cooc.icu
   type: ss
   udp: true
+- auth: d973425e-ff01-4fd5-b12f-d701b28a7857
+  name: 2|🇹🇼 HY2台湾-0.8x
+  password: d973425e-ff01-4fd5-b12f-d701b28a7857
+  port: 30158
+  server: twnat2.dackcf1.top
+  skip-cert-verify: true
+  sni: twnat2.dackcf1.top
+  type: hysteria2
+  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇹🇼 DX台湾|1x
-  password: eaabac06-efcb-4b26-814f-2f8421d6a5a2
+  password: d973425e-ff01-4fd5-b12f-d701b28a7857
   port: 17791
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: 2|🇹🇼 TW 海外用户-1C
+  name: 2|🇹🇼 TW 海外用户-1B
   password: 5ec80c02-4b5e-423a-8d6d-510c689a699e
   port: 36881
   server: tw.cooc.icu
@@ -71,18 +94,11 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: eaabac06-efcb-4b26-814f-2f8421d6a5a2
+  uuid: d973425e-ff01-4fd5-b12f-d701b28a7857
   ws-opts:
     headers:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇹🇼 LS台湾|1x
-  password: eaabac06-efcb-4b26-814f-2f8421d6a5a2
-  port: 29637
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
   name: 2|🇹🇼 台湾02|直连路线X0.5
@@ -92,51 +108,21 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: eaabac06-efcb-4b26-814f-2f8421d6a5a2
+  uuid: d973425e-ff01-4fd5-b12f-d701b28a7857
   ws-opts:
     headers:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
-- auth: eaabac06-efcb-4b26-814f-2f8421d6a5a2
-  name: 2|🇹🇼 HY2台湾-0.8x
-  password: eaabac06-efcb-4b26-814f-2f8421d6a5a2
-  port: 30158
-  server: twnat2.dackcf1.top
-  skip-cert-verify: true
-  sni: twnat2.dackcf1.top
-  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇹🇼 LS台湾|1x
+  password: d973425e-ff01-4fd5-b12f-d701b28a7857
+  port: 29637
+  server: szyd.ewenhot.top
+  type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2|🇹🇼 台湾01|直连路线X0.5
-  network: ws
-  port: 8080
-  server: cfnatji1.x2tanzhen.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: eaabac06-efcb-4b26-814f-2f8421d6a5a2
-  ws-opts:
-    headers:
-      Host: twnat2.dackcf1.top
-    path: /x2cloud?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]台湾_080414019
-  network: ws
-  port: '80'
-  server: 111.248.201.47
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4929f0ca-2793-4aa3-b2d0-7445447097f6
-  ws-opts:
-    headers:
-      Host: oiictw.yydsii.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]台湾_080414017
+  name: 3|[butnono]台湾_080417019
   network: ws
   port: '8888'
   server: 165.154.227.99

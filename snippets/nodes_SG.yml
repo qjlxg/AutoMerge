@@ -1,71 +1,29 @@
 proxies:
-- auth: f07008f2-ae1a-4372-aaca-84daa6d5e910
-  name: 2|🇸🇬 新加坡 02-2D
-  password: f07008f2-ae1a-4372-aaca-84daa6d5e910
-  port: 44300
-  server: sg-02.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: sg-02.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- auth: f9941a50-d5cd-4e35-8d3e-e06a4c52d9c8
-  name: 2|🇸🇬 新加坡-5U
-  password: f9941a50-d5cd-4e35-8d3e-e06a4c52d9c8
+- auth: 80715330-21ac-443c-a130-bbf3e232b917
+  name: 2|🇸🇬 新加坡-3O
+  password: 80715330-21ac-443c-a130-bbf3e232b917
   port: 46606
   server: zz.worldfirst.eu.org
   skip-cert-verify: true
   sni: sg-01.worldfirst.eu.org
   type: hysteria2
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 2|🇸🇬 新加坡 2-1D
-  network: ws
-  port: 80
-  server: m2-sg2.m2network.icu
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa0dd364-d588-458a-ad42-272c9c0bad7d
-  ws-opts:
-    headers:
-      Host: m2-sg2.m2network.icu
-    path: /ws?ed=2560
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 A SG-1A
-  password: 7cfcc437-a07a-4c7b-93fa-17eeebb20c7a
-  port: 35105
-  server: sg1.iepl.cooc.icu
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
-  name: 2|🇸🇬 新加坡SG01-1G
-  password: 5f1e0c45-9451-4253-8cab-3290323a4368
+  name: 2|🇸🇬 新加坡SG01-1I
+  password: 4f904c5b-aca7-419c-842a-9e12d69bf816
   port: 56704
   server: gy.666666222.shop
   type: ss
   udp: true
-- cipher: aes-128-gcm
-  name: 2|🇸🇬 新加坡SG03-1D
-  password: 4d735407-71dd-4219-8885-6d4b1bc4ab9c
-  port: 56706
-  server: gy.666666222.shop
-  type: ss
+- auth: eab7fbde-d7f8-4f3d-89d1-1b8ac715f5c2
+  name: 2|🇸🇬 新加坡 02-1C
+  password: eab7fbde-d7f8-4f3d-89d1-1b8ac715f5c2
+  port: 44300
+  server: sg-02.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: sg-02.worldfirst.eu.org
+  type: hysteria2
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 2|🇸🇬 新加坡 1-1V
-  network: ws
-  port: 80
-  server: m2-sg1.m2network.icu
-  tls: false
-  type: vmess
-  udp: true
-  uuid: b33e2af8-5e00-45c7-a5f3-338659b74b58
-  ws-opts:
-    headers:
-      Host: m2-sg1.m2network.icu
-    path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
   name: '2,4|🇸🇬 新加坡03-1B #1'
   password: db534a40-6490-44b8-be0c-182c5a003115
@@ -73,48 +31,81 @@ proxies:
   server: gdcub.yunnode.win
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 2|🇸🇬 新加坡 1-1Q
+  network: ws
+  port: 80
+  server: m2-sg1.m2network.icu
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 405a6778-cebb-4f10-b026-9f2d564ab4e3
+  ws-opts:
+    headers:
+      Host: m2-sg1.m2network.icu
+    path: /ws?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 2|🇸🇬 新加坡 2-1Q
+  network: ws
+  port: 80
+  server: m2-sg2.m2network.icu
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 405a6778-cebb-4f10-b026-9f2d564ab4e3
+  ws-opts:
+    headers:
+      Host: m2-sg2.m2network.icu
+    path: /ws?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇬 新加坡01-1C
+  password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
+  port: 15636
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
 - cipher: aes-128-gcm
-  name: 2|🇸🇬 新加坡SG02-1C
+  name: 2|🇸🇬 新加坡SG03-1E
   password: 150077eb-b560-4c61-b6ac-97c5ff05e18a
-  port: 56705
+  port: 56706
   server: gy.666666222.shop
   type: ss
   udp: true
-- auth: e32f7fb3-dcad-431c-bd42-30951f3486b0
-  name: 2,4|🇬 HY2新加坡-0.8x-1A
-  password: e32f7fb3-dcad-431c-bd42-30951f3486b0
-  port: 20082
-  server: xjpnat2.dackcf1.top
-  skip-cert-verify: true
-  sni: xjpnat2.dackcf1.top
-  type: hysteria2
+- cipher: chacha20-ietf-poly1305
+  name: '2,4|🇸🇬 新加坡02-1B #1'
+  password: db534a40-6490-44b8-be0c-182c5a003115
+  port: 15637
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡 C SG-1A
+  password: 68b36bad-27dc-401e-93cc-be2c38ed923c
+  port: 35107
+  server: sg3.iepl.cooc.icu
+  type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2|🇸🇬 新加坡 3-1U
+  name: 2|🇸🇬 新加坡 3-2H
   network: ws
   port: 80
   server: m2-sg3.m2network.icu
   tls: false
   type: vmess
   udp: true
-  uuid: e58456fe-b15d-43eb-ace6-6d98d5aaf116
+  uuid: 085d1e11-fbf3-411e-8129-59e72cb3567d
   ws-opts:
     headers:
       Host: m2-sg3.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇸🇬 LS新加坡01|1x-1A
-  password: e32f7fb3-dcad-431c-bd42-30951f3486b0
-  port: 21508
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡01-1C
-  password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
-  port: 15636
-  server: gdcub.yunnode.win
+  name: 2|🇸🇬 新加坡 A SG-1B
+  password: ffbb3fef-93e6-4436-836c-e271020f7b74
+  port: 35105
+  server: sg1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
@@ -124,18 +115,16 @@ proxies:
   server: xd-xjp9.bestdong.xyz
   type: ss
   udp: true
-- auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 2,4|🇬 新加坡-1-1A
-  password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  port: 30001
-  server: oracle-amd-singapore1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: main.nodes.lanmaoyun.icu
-  type: hysteria2
+- cipher: aes-128-gcm
+  name: 2|🇸🇬 新加坡SG02-1A
+  password: 5f1e0c45-9451-4253-8cab-3290323a4368
+  port: 56705
+  server: gy.666666222.shop
+  type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 B SG-1A
-  password: 7cfcc437-a07a-4c7b-93fa-17eeebb20c7a
+  name: 2|🇸🇬 新加坡 B SG-1C
+  password: 11ce4dae-46a2-4563-b1e9-ff838bdc93b1
   port: 35106
   server: sg2.iepl.cooc.icu
   type: ss
@@ -148,18 +137,29 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇸🇬 新加坡02-1B #1'
-  password: db534a40-6490-44b8-be0c-182c5a003115
-  port: 15637
-  server: gdcub.yunnode.win
+  name: 2,4|🇸🇬 LS新加坡01|1x-1A
+  password: e32f7fb3-dcad-431c-bd42-30951f3486b0
+  port: 21508
+  server: szyd.ewenhot.top
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 C SG-1B
-  password: ffbb3fef-93e6-4436-836c-e271020f7b74
-  port: 35107
-  server: sg3.iepl.cooc.icu
-  type: ss
+- auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
+  name: 2,4|🇬 新加坡-1-1A
+  password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
+  port: 30001
+  server: oracle-amd-singapore1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: main.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- auth: e32f7fb3-dcad-431c-bd42-30951f3486b0
+  name: 2,4|🇬 HY2新加坡-0.8x-1A
+  password: e32f7fb3-dcad-431c-bd42-30951f3486b0
+  port: 20082
+  server: xjpnat2.dackcf1.top
+  skip-cert-verify: true
+  sni: xjpnat2.dackcf1.top
+  type: hysteria2
   udp: true
 - alterId: 0
   cipher: auto
@@ -171,17 +171,3 @@ proxies:
   tls: false
   type: vmess
   uuid: d65d2afe-f0fb-48ef-d329-14d8baf334f7
-- alterId: 0
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-1058-SG
-  network: ws
-  port: 80
-  server: 8.219.42.72
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5d69710a-af13-4405-b92e-1caf0ed79bd2
-  ws-opts:
-    headers:
-      Host: 75596161178518.tw.chibaba.filegear-sg.me
-    path: /mls.html?ed=2048

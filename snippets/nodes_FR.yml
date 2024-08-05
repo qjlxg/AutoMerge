@@ -1,159 +1,23 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509201
-  network: tcp
-  port: '22324'
-  server: 23.162.152.13
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509145
-  network: ''
-  port: '44513'
-  server: 162.19.25.207
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509179
-  network: ws
-  port: '80'
-  server: 141.94.237.82
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fd43c7a9-19f7-4c3a-88e2-eaac77e08d42
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /RACEVPN
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509188
-  network: tcp
-  port: '44513'
-  server: 162.19.25.207
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509198
-  network: ws
-  port: '443'
-  server: 172.232.62.161
-  servername: glweidf.cfd
-  tls: true
-  type: vmess
-  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
-  ws-opts:
-    headers:
-      Host: glweidf.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509184
-  network: ws
-  port: '443'
-  server: 45.145.167.103
-  servername: indiavideo.sbs
-  tls: true
-  type: vmess
-  uuid: 425c5e6e-30a0-4984-8a13-ee6f72053162
-  ws-opts:
-    headers:
-      Host: indiavideo.sbs
-    path: /linkws
+- cipher: aes-128-gcm
+  name: 2|🇫🇷 法国 FR BIZ-1A
+  password: cf4ef611-3aaf-4eae-94ed-d65229217957
+  port: 35611
+  server: 120.241.118.161
+  type: ss
+  udp: true
+- auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
+  name: 2,4|🇪 欧洲-法兰克福-1-1A
+  password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
+  port: 30001
+  server: oracle-arm-frankfurt1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: frankfurt1.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 3|[butnono]法国_080509174
-  network: ws
-  port: '80'
-  server: 217.69.1.123
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: hdfy6d3.cpi1.eu.org
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[butnono]法国_080509177
-  network: ws
-  port: '80'
-  server: hdfy6d6.jahangirkh.eu.org
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: ''
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[butnono]法国_080509196
-  network: ws
-  port: '80'
-  server: hdfy6d3.freelines.net
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: hdfy6d3.cpi1.eu.org
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509180
-  network: ws
-  port: '443'
-  server: 110.724064.xyz
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: b11208a0-d0b1-486d-95bb-7e88ed6012b9
-  ws-opts:
-    headers:
-      Host: ''
-    path: /nlpivws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509123
-  network: tcp
-  port: '22324'
-  server: 23.162.152.6
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 04621bae-ab36-11ec-b909-0242ac120002
-- alterId: 0
-  cipher: aes-128-gcm
-  name: 3|[butnono]法国_080509195
-  network: ws
-  port: '443'
-  server: 172.232.49.74
-  servername: glweidf.cfd
-  tls: true
-  type: vmess
-  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
-  ws-opts:
-    headers:
-      Host: glweidf.cfd
-    path: /linkws
-- alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[butnono]法国_080509176
+  name: 3|[butnono]法国_080511241
   network: ws
   port: '80'
   server: hdfy6d3.cpi1.eu.org
@@ -163,91 +27,11 @@ proxies:
   uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
   ws-opts:
     headers:
-      Host: hdfy6d1.cpionline.co
+      Host: hdfy6d1.cpionline.cc
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]法国_080509203
-  network: ws
-  port: '443'
-  server: 194.9.172.47
-  servername: gwdef.sbs
-  tls: true
-  type: vmess
-  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
-  ws-opts:
-    headers:
-      Host: gwdef.sbs
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509192
-  network: ws
-  port: '443'
-  server: 129.151.232.16
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
-  ws-opts:
-    headers:
-      Host: 109.724064.xyz
-    path: /qqsvvws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509194
-  network: ws
-  port: '443'
-  server: 172.232.50.230
-  servername: glweidf.sbs
-  tls: true
-  type: vmess
-  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
-  ws-opts:
-    headers:
-      Host: glweidf.sbs
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509186
-  network: ws
-  port: '443'
-  server: 109.724064.xyz
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
-  ws-opts:
-    headers:
-      Host: ''
-    path: /qqsvvws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509190
-  network: ws
-  port: '443'
-  server: 45.145.164.92
-  servername: obdii.cfd
-  tls: true
-  type: vmess
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
-  ws-opts:
-    headers:
-      Host: obdii.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509200
-  network: tcp
-  port: '80'
-  server: 57.128.104.198
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 71bb0ec7-b9c2-4202-9a48-09a819f7b8f4
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509207
+  name: 3|[butnono]法国_080511256
   network: ws
   port: '443'
   server: 172.232.56.181
@@ -261,7 +45,63 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]法国_080509206
+  name: 3|[butnono]法国_080511255
+  network: ws
+  port: '443'
+  server: 172.232.50.230
+  servername: glweidf.sbs
+  tls: true
+  type: vmess
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-opts:
+    headers:
+      Host: glweidf.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511239
+  network: ws
+  port: '443'
+  server: 45.145.164.92
+  servername: obdii.cfd
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: obdii.cfd
+    path: /linkws
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 3|[butnono]法国_080511240
+  network: ws
+  port: '80'
+  server: hdfy6d6.jahangirkh.eu.org
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511230
+  network: ws
+  port: '443'
+  server: 172.232.62.177
+  servername: glweidf.sbs
+  tls: true
+  type: vmess
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-opts:
+    headers:
+      Host: glweidf.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511236
   network: ws
   port: '443'
   server: 193.160.130.108
@@ -274,50 +114,42 @@ proxies:
       Host: xmivideo.cfd
     path: /linkws
 - alterId: 0
-  cipher: auto
-  name: 3|[butnono]法国_080509189
+  cipher: aes-128-gcm
+  name: 3|[butnono]法国_080511242
   network: ws
   port: '443'
-  server: 129.151.225.197
-  servername: 110.724064.xyz
+  server: 172.232.49.74
+  servername: glweidf.cfd
   tls: true
   type: vmess
-  uuid: b11208a0-d0b1-486d-95bb-7e88ed6012b9
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
   ws-opts:
     headers:
-      Host: 110.724064.xyz
-    path: /nlpivws
+      Host: glweidf.cfd
+    path: /linkws
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]法国_080509208
-  network: ws
+  name: 3|[butnono]法国_080511252
+  network: tcp
   port: '80'
-  server: 94.176.183.11
+  server: 57.128.104.198
   servername: ''
   tls: false
   type: vmess
-  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
-  ws-opts:
-    headers:
-      Host: m3hdi.servehttp.com
-    path: /💘 @v2ray_configs_pool 💘
+  uuid: 71bb0ec7-b9c2-4202-9a48-09a819f7b8f4
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]法国_080509204
-  network: ws
-  port: '443'
-  server: 172.234.57.42
-  servername: gwdef.sbs
-  tls: true
+  name: 3|[butnono]法国_080511122
+  network: tcp
+  port: '22324'
+  server: 23.162.152.6
+  servername: ''
+  tls: false
   type: vmess
-  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
-  ws-opts:
-    headers:
-      Host: gwdef.sbs
-    path: /linkws
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 3|[butnono]法国_080509181
+  name: 3|[butnono]法国_080511248
   network: ws
   port: '80'
   server: hdfy6d5.cpi2hidd.eu.org
@@ -327,11 +159,11 @@ proxies:
   uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
   ws-opts:
     headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+      Host: ''
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]法国_080509202
+  name: 3|[butnono]法国_080511251
   network: ws
   port: '443'
   server: 172.232.61.247
@@ -344,8 +176,88 @@ proxies:
       Host: gwdef.sbs
     path: /linkws
 - alterId: 0
+  cipher: chacha20-poly1305
+  name: 3|[butnono]法国_080511228
+  network: ws
+  port: '80'
+  server: hdfy6d3.freelines.net
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 0
   cipher: auto
-  name: 3|[butnono]法国_080509185
+  name: 3|[butnono]法国_080511247
+  network: ws
+  port: '80'
+  server: 141.94.237.82
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fd43c7a9-19f7-4c3a-88e2-eaac77e08d42
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /RACEVPN
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 3|[butnono]法国_080511229
+  network: ws
+  port: '80'
+  server: 217.69.1.123
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: hdfy6d1.cpionline.cc
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511249
+  network: ws
+  port: '443'
+  server: 129.151.232.16
+  servername: 109.724064.xyz
+  tls: true
+  type: vmess
+  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
+  ws-opts:
+    headers:
+      Host: 109.724064.xyz
+    path: /qqsvvws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511225
+  network: ws
+  port: '443'
+  server: 129.151.225.197
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: b11208a0-d0b1-486d-95bb-7e88ed6012b9
+  ws-opts:
+    headers:
+      Host: 110.724064.xyz
+    path: /nlpivws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511258
+  network: tcp
+  port: '22324'
+  server: 23.162.152.13
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511254
   network: ws
   port: '443'
   server: 45.145.167.49
@@ -357,3 +269,59 @@ proxies:
     headers:
       Host: glweidf.sbs
     path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511232
+  network: ws
+  port: '443'
+  server: 110.724064.xyz
+  servername: 110.724064.xyz
+  tls: true
+  type: vmess
+  uuid: b11208a0-d0b1-486d-95bb-7e88ed6012b9
+  ws-opts:
+    headers:
+      Host: ''
+    path: /nlpivws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511257
+  network: ws
+  port: '443'
+  server: 172.234.57.42
+  servername: gwdef.sbs
+  tls: true
+  type: vmess
+  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
+  ws-opts:
+    headers:
+      Host: gwdef.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511259
+  network: ws
+  port: '443'
+  server: 194.9.172.47
+  servername: gwdef.sbs
+  tls: true
+  type: vmess
+  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
+  ws-opts:
+    headers:
+      Host: gwdef.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]法国_080511235
+  network: ws
+  port: '443'
+  server: 109.724064.xyz
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
+  ws-opts:
+    headers:
+      Host: ''
+    path: /qqsvvws

@@ -1,64 +1,8 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇼 台湾中转 01-1A
-  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
-  port: 27110
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 日本中转 05-1B
+  name: 2,4|🇼 台湾中转 03-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 21743
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇹🇼 台湾中转 05-1A
-  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
-  port: 35846
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡中转 01-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 11155
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇯🇵 日本中转 03-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 38225
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇹🇼 台湾中转 04-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 25149
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇭🇰 香港中转 03-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 43042
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇰 香港中转 02-1A
-  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
-  port: 36858
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇭🇰 香港中转 04-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 11618
+  port: 14232
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
@@ -70,44 +14,9 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇯🇵 日本中转 01-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 13706
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇭🇰 香港中转 05-1A
+  name: 2,4|🇯🇵 日本中转 02-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
-  port: 20901
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡中转 02-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 26198
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇼 台湾中转 03-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 14232
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇰 香港中转 01-1B
-  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 43641
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇧 英国中转 02-1A
-  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
-  port: 34013
+  port: 40005
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
@@ -126,9 +35,9 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇯🇵 日本中转 02-1A
-  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
-  port: 40005
+  name: 2,4|🇭🇰 香港中转 03-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 43042
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
@@ -140,6 +49,20 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 2,4|🇹🇼 台湾中转 05-1A
+  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
+  port: 35846
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇭🇰 香港中转 05-1A
+  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
+  port: 20901
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 2,4|🇼 台湾中转 02-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 17010
@@ -147,9 +70,37 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇧 英国中转 03-1B
+  name: 2,4|🇬 新加坡中转 02-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
-  port: 13708
+  port: 26198
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇹🇼 台湾中转 04-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 25149
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇯🇵 日本中转 01-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 13706
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇯🇵 日本中转 03-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 38225
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇰 香港中转 01-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 43641
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
@@ -161,26 +112,103 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 2,4|🇰 香港中转 02-1A
+  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
+  port: 36858
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇵 日本中转 05-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 21743
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇬 新加坡中转 01-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 11155
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇼 台湾中转 01-1A
+  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
+  port: 27110
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇧 英国中转 02-1A
+  password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
+  port: 34013
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇧 英国中转 03-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 13708
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 2,4|🇺🇸 美国中转 02-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 15070
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇭🇰 香港中转 04-1B
+  password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
+  port: 11618
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]03-217-RELAY
+  name: '3|[ermaozi/get_subscribe]🇺🇸_US_美... #1'
   network: ws
-  port: 2095
-  server: 185.146.173.185
+  port: 2086
+  server: 104.19.46.22
   servername: ''
   tls: false
   type: vmess
-  uuid: 5eef4a7a-0e5e-46fa-b6b4-ec2c0371ea3e
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
   ws-opts:
     headers:
-      Host: wWW.speEDTesT.Net.fTP.deBIAN.Org.DAsH.cLoUdFlare.COmwwW.DIGIkaLa.Ir.ZEDpIng7.ShOP
-    path: /Ftp.Debian.Org?ed=2560
+      Host: ip13.freegradely.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]03-094-RELAY
+  network: ws
+  port: 2086
+  server: 172.64.166.9
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: '3|[ermaozi/get_subscribe]🇺🇸_US_美... #4'
+  network: ws
+  port: 2086
+  server: 172.64.166.28
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: 3|[xiyaowong/freeFQ]03-129-RELAY
@@ -197,28 +225,29 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '3|[ermaozi/get_subscribe]🇺🇸_US_美... #1'
+  name: 3|[freefq]🏁RELAY-172.64.167.44-3...
   network: ws
-  port: 2052
-  server: 104.18.57.111
+  port: 2086
+  server: 172.64.167.44
   servername: ''
   tls: false
   type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
   ws-opts:
     headers:
-      Host: cdn1.freegradely.xyz
+      Host: ip2.1457230.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '3|[ermaozi/get_subscribe]🇺🇸_US_美... #2'
+  name: '3|[Rawdroid/Free-servers]美国 Clou... #27'
   network: ws
-  port: 2052
-  server: 104.20.17.186
+  port: 2086
+  server: 104.19.45.13
+  servername: ''
   tls: false
   type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
   ws-opts:
     headers:
-      Host: cdn1.freegradely.xyz
+      Host: ip13.freegradely.xyz
     path: github.com/Alvin9999

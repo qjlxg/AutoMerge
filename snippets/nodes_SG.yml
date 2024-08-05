@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080505071
+  name: 3|[butnono]新加坡_080509066
   network: tcp
   port: '56737'
   server: 206.189.39.89
@@ -11,27 +11,35 @@ proxies:
   uuid: 74720f86-ee10-43fa-d390-f434d580a2c6
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080505067
-  network: tcp
-  port: '21631'
-  server: 68.183.190.162
+  name: 3|[butnono]新加坡_080509106
+  network: ws
+  port: '2052'
+  server: 206.238.236.36
   servername: ''
   tls: false
   type: vmess
-  uuid: d65d2afe-f0fb-48ef-d329-14d8baf334f7
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: mysan2.jaquay22.workers.dev
+    path: /afrhms16v.bestxray.buzz/linkws
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080505070
-  network: tcp
-  port: '11549'
-  server: 159.223.92.183
+  name: 3|[butnono]新加坡_080509218
+  network: ws
+  port: '80'
+  server: 172.104.169.191
   servername: ''
   tls: false
   type: vmess
-  uuid: d6f82dfe-16d0-479c-c75c-cc50e4c000df
+  uuid: 83e91d68-8457-4271-991d-3e8830de773a
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /ht4gvpn.com
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080505068
+  name: 3|[butnono]新加坡_080509065
   network: tcp
   port: '51133'
   server: 209.97.162.159
@@ -41,7 +49,51 @@ proxies:
   uuid: b95914b4-49e6-4611-a61f-0056887a50ca
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080505069
+  name: 3|[butnono]新加坡_080509064
+  network: tcp
+  port: '11549'
+  server: 159.223.92.183
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d6f82dfe-16d0-479c-c75c-cc50e4c000df
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080509035
+  network: tcp
+  port: '21631'
+  server: 68.183.190.162
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d65d2afe-f0fb-48ef-d329-14d8baf334f7
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080509217
+  network: ws
+  port: '80'
+  server: 165.232.169.81
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83e91d68-8457-4271-991d-3e8830de773a
+  ws-opts:
+    headers:
+      Host: dl.kgvn.garenanow.com
+    path: /ht4gvpn.com
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080509198
+  network: tcp
+  port: '12954'
+  server: 64.lwdh.us
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+- alterId: 0
+  cipher: auto
+  name: 3|[butnono]新加坡_080509067
   network: tcp
   port: '24601'
   server: 128.199.200.126
@@ -51,7 +103,7 @@ proxies:
   uuid: 2bb92d64-e90b-45b5-b919-e7e3cd083123
 - alterId: 16
   cipher: auto
-  name: 3|[butnono]新加坡_080505168
+  name: 3|[butnono]新加坡_080509203
   network: ws
   port: '10053'
   server: 52.77.122.183
@@ -65,17 +117,7 @@ proxies:
     path: /lorgvdgnbhkx4zoj
 - alterId: 0
   cipher: auto
-  name: 3|[butnono]新加坡_080505167
-  network: tcp
-  port: '12954'
-  server: 64.lwdh.us
-  servername: 31.192.234.7
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-- alterId: 0
-  cipher: auto
-  name: 3|[butnono]新加坡_080505170
+  name: 3|[butnono]新加坡_080509197
   network: ws
   port: '14444'
   server: 172.104.182.141
@@ -87,3 +129,49 @@ proxies:
     headers:
       Host: linode-sg.cfnode.shop
     path: /
+- cipher: chacha20-ietf-poly1305
+  name: 4|🇸🇬 新加坡02-1B
+  password: db534a40-6490-44b8-be0c-182c5a003115
+  port: 15637
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 4|🇸🇬 LS新加坡01|1x-1A
+  password: e32f7fb3-dcad-431c-bd42-30951f3486b0
+  port: 21508
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 4|🇬 新加坡01-1C
+  password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
+  port: 15636
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- auth: e32f7fb3-dcad-431c-bd42-30951f3486b0
+  name: 4|🇬 HY2新加坡-0.8x-1A
+  password: e32f7fb3-dcad-431c-bd42-30951f3486b0
+  port: 20082
+  server: xjpnat2.dackcf1.top
+  skip-cert-verify: true
+  sni: xjpnat2.dackcf1.top
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 4|🇸🇬 2|国05|X1|XD中
+  password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
+  port: 24210
+  server: xd-xjp9.bestdong.xyz
+  type: ss
+  udp: true
+- auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
+  name: 4|🇬 新加坡-1-1A
+  password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
+  port: 30001
+  server: oracle-amd-singapore1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: main.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true

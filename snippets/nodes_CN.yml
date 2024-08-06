@@ -7,8 +7,8 @@ proxies:
   type: ss
   udp: true
 - alterId: 0
-  cipher: none
-  name: 3|[1808.ga]TG频道@mfbpn-0649-CN
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]03-069-CN
   network: ws
   port: 80
   server: 103.184.44.74
@@ -18,5 +18,5 @@ proxies:
   uuid: 2568e84a-197a-5269-be28-027b55d09025
   ws-opts:
     headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+      Host: ua1.vmess.site
     path: /vmess

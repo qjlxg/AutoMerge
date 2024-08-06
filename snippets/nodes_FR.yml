@@ -1,7 +1,7 @@
 proxies:
 - cipher: aes-128-gcm
   name: 2|🇫🇷 法国 FR BIZ-1C
-  password: 2cade8d5-a172-4d90-9254-3b3a916536dd
+  password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 35611
   server: 120.241.118.161
   type: ss
@@ -17,7 +17,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]03-175-FR
+  name: 3|[xiyaowong/freeFQ]03-137-FR
   network: tcp
   port: 80
   server: 57.128.104.198

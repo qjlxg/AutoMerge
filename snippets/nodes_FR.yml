@@ -1,13 +1,4 @@
 proxies:
-- auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 2,4|🇪 欧洲-法兰克福-1-1A
-  password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  port: 30001
-  server: oracle-arm-frankfurt1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: frankfurt1.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
 - cipher: aes-128-gcm
   name: 2|🇫🇷 法国 FR BIZ-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a

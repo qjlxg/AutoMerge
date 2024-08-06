@@ -138,13 +138,6 @@ proxies:
   server: gdcub.yunnode.win
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇸🇬 2|国05|X1|XD中
-  password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
-  port: 24210
-  server: xd-xjp9.bestdong.xyz
-  type: ss
-  udp: true
 - auth: e32f7fb3-dcad-431c-bd42-30951f3486b0
   name: 2,4|🇬 HY2新加坡-0.8x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0

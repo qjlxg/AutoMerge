@@ -1,28 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0,3|[xiyaowong/freeFQ]03-137-FR
-  network: tcp
-  port: 80
-  server: 57.128.104.198
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 71bb0ec7-b9c2-4202-9a48-09a819f7b8f4
-- alterId: 0
-  cipher: auto
-  name: 0|法国_0806028
-  network: ws
-  port: '80'
-  server: 195.154.102.210
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
-  ws-opts:
-    headers:
-      Host: fr1e-unmetered.v2freevpn.com
-    path: /v133PDXkklxLEcOvD
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   name: 2,4|🇪 欧洲-法兰克福-1-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
@@ -39,3 +15,13 @@ proxies:
   server: 120.241.118.161
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]03-137-FR
+  network: tcp
+  port: 80
+  server: 57.128.104.198
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 71bb0ec7-b9c2-4202-9a48-09a819f7b8f4

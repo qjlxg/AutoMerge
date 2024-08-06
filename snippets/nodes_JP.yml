@@ -1,14 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|日本_0806013
-  network: tcp
-  port: '53001'
-  server: cctv.overseas01.yuntiair365.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb
 - auth: e47bb463-fb03-46c8-978f-3e4eb2343590
   name: 2|🇯🇵 日本 01-6P
   password: e47bb463-fb03-46c8-978f-3e4eb2343590

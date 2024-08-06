@@ -1,34 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|新加坡_0806015
-  network: tcp
-  port: '57614'
-  server: 5.34.176.111
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
-- alterId: 0
-  cipher: auto
-  name: 0|新加坡_0806016
-  network: tcp
-  port: '51133'
-  server: 209.97.162.159
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: b95914b4-49e6-4611-a61f-0056887a50ca
-- alterId: 0
-  cipher: auto
-  name: 0|新加坡_0806017
-  network: tcp
-  port: '21631'
-  server: 68.183.190.162
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d65d2afe-f0fb-48ef-d329-14d8baf334f7
 - cipher: chacha20-ietf-poly1305
   name: '2,4|🇸🇬 新加坡02-1B #1'
   password: db534a40-6490-44b8-be0c-182c5a003115

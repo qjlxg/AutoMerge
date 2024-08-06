@@ -1,18 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0,3|[1808.ga]TG频道@mfbpn-0603-CN
-  network: ws
-  port: 80
-  server: 103.184.44.74
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇧 2|英国05|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
@@ -33,4 +19,18 @@ proxies:
   ws-opts:
     headers:
       Host: ua1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0603-CN
+  network: ws
+  port: 80
+  server: 103.184.44.74
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
     path: /vmess

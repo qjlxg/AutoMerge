@@ -7,8 +7,8 @@ proxies:
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 2|🇬🇧 英国 UK | BIZ-1B
-  password: 49453526-4b5d-4719-b769-27e8caf7660c
+  name: 2|🇬🇧 英国 UK | BIZ-1C
+  password: b657d4ea-b2ce-49fb-99e2-12bd6dde627c
   port: 35605
   server: uk1.iepl.cooc.icu
   type: ss

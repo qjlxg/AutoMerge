@@ -8,11 +8,11 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[freefq]🇷🇺RU-194.87.69.102-180
+  name: 3|[freefq]🇷🇺RU-194.87.69.102-069
   network: ws
   port: 12910
   server: 22.lwdh.us
-  servername: ''
+  servername: 22.lwdh.us
   tls: true
   type: vmess
   uuid: 8259cb1c-dd6c-4739-9c88-af550d977525

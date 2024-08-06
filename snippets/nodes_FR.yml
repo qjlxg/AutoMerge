@@ -1,7 +1,7 @@
 proxies:
 - cipher: aes-128-gcm
-  name: 2|🇫🇷 法国 FR BIZ-1A
-  password: 9b79682f-03c8-4610-a19a-24d8db96a345
+  name: 2|🇫🇷 法国 FR BIZ-1C
+  password: b657d4ea-b2ce-49fb-99e2-12bd6dde627c
   port: 35611
   server: 120.241.118.161
   type: ss

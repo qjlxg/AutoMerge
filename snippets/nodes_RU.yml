@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇷🇺 DX俄罗斯-SS|1x
-  password: 17839f88-da9a-4d20-afac-c8d76a50f9b4
+  name: 2,4|🇺 DX-SS|1x
+  password: 536d2992-7972-44b3-9d41-63af60ad7837
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
@@ -20,3 +20,13 @@ proxies:
     headers:
       Host: 22.lwdh.us
     path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]03-189-RU
+  network: tcp
+  port: 48440
+  server: rus4.hologate22.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 00834102-53fc-7462-7849-22a396503e11

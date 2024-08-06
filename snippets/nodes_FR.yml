@@ -1,18 +1,8 @@
 proxies:
 - cipher: aes-128-gcm
-  name: 2|🇫🇷 法国 FR BIZ-1C
+  name: 2|🇫🇷 法国 FR BIZ-1A
   password: 9b79682f-03c8-4610-a19a-24d8db96a345
   port: 35611
   server: 120.241.118.161
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0745-FR
-  network: tcp
-  port: 80
-  server: 57.128.104.198
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 71bb0ec7-b9c2-4202-9a48-09a819f7b8f4

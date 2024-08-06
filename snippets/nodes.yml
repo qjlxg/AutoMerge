@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0603-CN
+  name: 0,3|[1808.ga]TG频道@mfbpn-0603-CN
   network: ws
   port: 80
   server: 103.184.44.74
@@ -49,7 +49,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🇷🇺RU-194.87.69.102-180
+  name: 0,3|[freefq]🇷🇺RU-194.87.69.102-180
   network: ws
   port: 12910
   server: 22.lwdh.us
@@ -73,7 +73,7 @@ proxies:
   uuid: 00834102-53fc-7462-7849-22a396503e11
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0625-RU
+  name: 0,3|[1808.ga]TG频道@mfbpn-0625-RU
   network: tcp
   port: 48440
   server: rus5.hologate22.com
@@ -125,7 +125,7 @@ proxies:
     path: /afrhms16v.bestxray.buzz/linkws
 - alterId: 0
   cipher: auto
-  name: '0,2|[peasoft/NoMoreWalls]2|d******... #3'
+  name: '0,3|[peasoft/NoMoreWalls]2|d******... #3'
   network: ws
   port: 2086
   server: 23.227.38.5
@@ -153,7 +153,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0542-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0542-RELAY
   network: ws
   port: 2086
   server: 23.227.38.6
@@ -205,7 +205,7 @@ proxies:
     path: /cp15jvhn
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🇸🇬SG-206.238.236.36-00...
+  name: 0,3|[freefq]🇸🇬SG-206.238.236.36-00...
   network: ws
   port: 80
   server: 206.238.236.36
@@ -433,7 +433,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-144-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-144-RELAY
   network: ws
   port: 80
   server: 104.20.74.91
@@ -447,7 +447,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-104.21.51.208-0...
+  name: 0,3|[freefq]🏁RELAY-104.21.51.208-0...
   network: ws
   port: 80
   server: 104.21.51.208
@@ -503,7 +503,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-162.159.140.77-...
+  name: 0,3|[freefq]🏁RELAY-162.159.140.77-...
   network: ws
   port: 2086
   server: 162.159.140.77
@@ -517,7 +517,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-133-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-133-RELAY
   network: ws
   port: 2086
   server: 104.19.21.71
@@ -531,7 +531,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0972-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0972-RELAY
   network: ws
   port: 2052
   server: 104.19.32.226
@@ -545,7 +545,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1261-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1261-RELAY
   network: ws
   port: 2052
   server: 104.19.38.18
@@ -559,7 +559,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0539-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0539-RELAY
   network: ws
   port: 2086
   server: 104.16.148.244
@@ -573,7 +573,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1059-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1059-RELAY
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -615,7 +615,7 @@ proxies:
     path: /glweidf.cfd/linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0982-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0982-RELAY
   network: ws
   port: 2052
   server: 104.18.25.92
@@ -629,7 +629,7 @@ proxies:
     path: /afrhms16v.bestxray.buzz/linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-199-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-199-RELAY
   network: ws
   port: 2052
   server: 104.19.58.175
@@ -667,7 +667,7 @@ proxies:
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1017-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1017-RELAY
   network: ws
   port: 2086
   server: 104.19.57.4
@@ -681,7 +681,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1162-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1162-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -751,7 +751,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0541-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0541-RELAY
   network: ws
   port: 2086
   server: 104.19.32.46
@@ -765,7 +765,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '0,2|[freefq]🏁RELAY-104.19.38.62-00... #1'
+  name: '0,3|[freefq]🏁RELAY-104.19.38.62-00... #1'
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -779,7 +779,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-146-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-146-RELAY
   network: ws
   port: 2052
   server: 104.19.21.73
@@ -793,7 +793,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-176-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-176-RELAY
   network: ws
   port: 2052
   server: 104.19.123.31
@@ -807,7 +807,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1271-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1271-RELAY
   network: ws
   port: 2052
   server: 104.18.57.121
@@ -821,7 +821,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1287-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1287-RELAY
   network: ws
   port: 2052
   server: 104.19.21.240
@@ -835,7 +835,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1326-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1326-RELAY
   network: ws
   port: 2052
   server: 104.19.21.220
@@ -849,7 +849,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0564-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0564-RELAY
   network: ws
   port: 2052
   server: 104.19.46.123
@@ -863,7 +863,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0570-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0570-RELAY
   network: ws
   port: 2052
   server: 104.17.106.171
@@ -877,7 +877,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1304-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1304-RELAY
   network: ws
   port: 2052
   server: 104.19.42.79
@@ -891,7 +891,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-054-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-054-RELAY
   network: ws
   port: 2086
   server: 104.19.46.103
@@ -905,7 +905,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1263-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1263-RELAY
   network: ws
   port: 2086
   server: 104.19.47.22
@@ -919,7 +919,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-083-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-083-RELAY
   network: ws
   port: 2052
   server: 104.19.57.4
@@ -933,7 +933,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-104.20.17.196-0...
+  name: 0,3|[freefq]🏁RELAY-104.20.17.196-0...
   network: ws
   port: 2052
   server: 104.20.17.196
@@ -947,7 +947,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-182-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-182-RELAY
   network: ws
   port: 2052
   server: 104.20.25.146
@@ -975,7 +975,7 @@ proxies:
     path: ''
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-115-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-115-RELAY
   network: ws
   port: 2052
   server: 104.19.123.11
@@ -1017,7 +1017,7 @@ proxies:
     path: /jahfkjha.cfd/linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-104.19.32.216-4...
+  name: 0,3|[freefq]🏁RELAY-104.19.32.216-4...
   network: ws
   port: 2086
   server: 104.19.32.216
@@ -1031,7 +1031,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0612-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0612-RELAY
   network: ws
   port: 2086
   server: 104.19.45.11
@@ -1045,7 +1045,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-036-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-036-RELAY
   network: ws
   port: 2086
   server: 104.19.45.13
@@ -1059,7 +1059,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0609-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0609-RELAY
   network: ws
   port: 2086
   server: 104.19.45.50
@@ -1073,7 +1073,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-110-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-110-RELAY
   network: ws
   port: 2086
   server: 104.20.25.146
@@ -1115,7 +1115,7 @@ proxies:
     path: /obdii.cfd/linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0606-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0606-RELAY
   network: ws
   port: 2086
   server: 104.19.46.17
@@ -1143,7 +1143,7 @@ proxies:
     path: /link
 - alterId: 0
   cipher: auto
-  name: '0,2|[freefq]🏁RELAY-162.159.129.129... #1'
+  name: '0,3|[freefq]🏁RELAY-162.159.129.129... #1'
   network: ws
   port: 443
   server: 162.159.129.129
@@ -1177,7 +1177,7 @@ proxies:
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-204-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-204-RELAY
   network: ws
   port: 2052
   server: www.speedtest.net
@@ -1289,7 +1289,7 @@ proxies:
     path: /us2ekjds3nay
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]34-754-RELAY
+  name: 0,3|[xiyaowong/freeFQ]34-754-RELAY
   network: ws
   port: 8080
   server: 104.16.67.38
@@ -1331,7 +1331,7 @@ proxies:
     path: /afrhms16v.bestxray.buzz/linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0946-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0946-RELAY
   network: ws
   port: 2086
   server: 104.16.67.38
@@ -1485,7 +1485,7 @@ proxies:
     path: /us2ekjds3nay
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0649-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0649-RELAY
   network: ws
   port: 2082
   server: 104.21.8.157
@@ -1555,7 +1555,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1336-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1336-RELAY
   network: ws
   port: 80
   server: 141.101.114.40
@@ -1611,7 +1611,7 @@ proxies:
     path: /d3
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-162.159.129.129...
+  name: 0,3|[freefq]🏁RELAY-162.159.129.129...
   network: ws
   port: 443
   server: 162.159.129.129
@@ -1905,7 +1905,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-024-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-024-RELAY
   network: ws
   port: 80
   server: parsvds.ir
@@ -1933,7 +1933,7 @@ proxies:
     path: /linde06.indiavideo.sbs/linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-137-FR
+  name: 0,3|[xiyaowong/freeFQ]03-137-FR
   network: tcp
   port: 80
   server: 57.128.104.198
@@ -1971,7 +1971,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '0,2|[freefq]🏁RELAY-185.146.173.59-... #1'
+  name: '0,3|[freefq]🏁RELAY-185.146.173.59-... #1'
   network: ws
   port: 443
   server: 185.146.173.59
@@ -2009,7 +2009,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-185.146.173.59-...
+  name: 0,3|[freefq]🏁RELAY-185.146.173.59-...
   network: ws
   port: 80
   server: 185.146.173.59
@@ -2023,7 +2023,7 @@ proxies:
     path: /glweidf.cfd/linkws
 - alterId: 0
   cipher: auto
-  name: '0,2|[freefq]🏁RELAY-185.146.173.92-... #1'
+  name: '0,3|[freefq]🏁RELAY-185.146.173.92-... #1'
   network: ws
   port: 2052
   server: 185.146.173.92
@@ -2037,7 +2037,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-185.146.173.92-...
+  name: 0,3|[freefq]🏁RELAY-185.146.173.92-...
   network: ws
   port: 80
   server: 185.146.173.92
@@ -2281,7 +2281,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1335-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1335-RELAY
   network: ws
   port: 80
   server: 108.162.192.109
@@ -2295,7 +2295,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1183-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1183-RELAY
   network: ws
   port: 80
   server: 108.162.192.63
@@ -2323,7 +2323,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1253-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1253-RELAY
   network: ws
   port: 2086
   server: 172.64.167.29
@@ -2337,7 +2337,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-044-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-044-RELAY
   network: ws
   port: 2052
   server: 172.64.175.223
@@ -2375,7 +2375,7 @@ proxies:
   uuid: 9167cb13-26f7-408c-8b20-40c2f1256c4e
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1066-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1066-RELAY
   network: ws
   port: 2086
   server: 104.26.0.56
@@ -2417,7 +2417,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-172.64.198.229-...
+  name: 0,3|[freefq]🏁RELAY-172.64.198.229-...
   network: ws
   port: 2052
   server: 172.64.198.229
@@ -2431,7 +2431,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-172.64.194.96-0...
+  name: 0,3|[freefq]🏁RELAY-172.64.194.96-0...
   network: ws
   port: 2052
   server: 172.64.194.96
@@ -2455,7 +2455,7 @@ proxies:
   uuid: 04621bae-ab36-11ec-b909-0242ac120002
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0550-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0550-RELAY
   network: ws
   port: 2052
   server: 104.26.0.66
@@ -2469,7 +2469,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1098-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1098-RELAY
   network: ws
   port: 2086
   server: 104.26.5.88
@@ -2483,7 +2483,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-172.64.175.213-...
+  name: 0,3|[freefq]🏁RELAY-172.64.175.213-...
   network: ws
   port: 2052
   server: 172.64.175.213
@@ -2497,7 +2497,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1242-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1242-RELAY
   network: ws
   port: 2052
   server: 172.64.99.32
@@ -2511,7 +2511,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1291-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1291-RELAY
   network: ws
   port: 2086
   server: ip.sb
@@ -2525,7 +2525,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-158-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-158-RELAY
   network: ws
   port: 2086
   server: malaysia.com
@@ -2539,7 +2539,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-004-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-004-RELAY
   network: ws
   port: 80
   server: russia.com
@@ -2553,7 +2553,7 @@ proxies:
     path: /api/v3/download.getFile
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-117-RELAY
+  name: 0,3|[xiyaowong/freeFQ]03-117-RELAY
   network: ws
   port: 8880
   server: russia.com
@@ -2577,7 +2577,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-1243-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-1243-RELAY
   network: ws
   port: 2086
   server: 172.64.166.33
@@ -2685,7 +2685,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]14-708-RELAY
+  name: 0,3|[xiyaowong/freeFQ]14-708-RELAY
   network: ws
   port: 443
   server: capellare.com
@@ -2699,7 +2699,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-172.67.133.167-...
+  name: 0,3|[freefq]🏁RELAY-172.67.133.167-...
   network: ws
   port: 443
   server: baradiha.com
@@ -2713,7 +2713,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-104.21.32.108-0...
+  name: 0,3|[freefq]🏁RELAY-104.21.32.108-0...
   network: ws
   port: 443
   server: harriscity.com
@@ -2727,7 +2727,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-104.21.31.106-0...
+  name: 0,3|[freefq]🏁RELAY-104.21.31.106-0...
   network: ws
   port: 443
   server: me.kalakatha.org
@@ -2741,7 +2741,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-172.67.161.92-0...
+  name: 0,3|[freefq]🏁RELAY-172.67.161.92-0...
   network: ws
   port: 443
   server: o.metuji.com
@@ -2755,7 +2755,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-172.67.146.10-0...
+  name: 0,3|[freefq]🏁RELAY-172.67.146.10-0...
   network: ws
   port: 443
   server: sareikela.com
@@ -3041,7 +3041,7 @@ proxies:
   uuid: f6ba9e5a-711c-496f-be60-ac5464dec2b8
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]14-703-US
+  name: 0,3|[xiyaowong/freeFQ]14-703-US
   network: ws
   port: 2086
   server: 23.254.166.237
@@ -3177,7 +3177,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-104.21.9.209-07...
+  name: 0,3|[freefq]🏁RELAY-104.21.9.209-07...
   network: ws
   port: 443
   server: pandor.boats
@@ -3233,7 +3233,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-188.114.97.3-06...
+  name: 0,3|[freefq]🏁RELAY-188.114.97.3-06...
   network: ws
   port: 443
   server: 188.114.97.3
@@ -3247,7 +3247,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 0,2|[freefq]🏁RELAY-188.114.99.205-...
+  name: 0,3|[freefq]🏁RELAY-188.114.99.205-...
   network: ws
   port: 443
   server: 188.114.99.205
@@ -3392,14 +3392,14 @@ proxies:
       Host: linde06.indiavideo.sbs
     path: /linkws
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 台湾中转 01-1A
+  name: 2,4|🇼 台湾中转 01-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 27110
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - auth: afdb5a91-e977-459d-b695-18ee0623f0c3
-  name: 1|🇺🇸 美国 01-4K
+  name: 2|🇺🇸 美国 01-4K
   password: afdb5a91-e977-459d-b695-18ee0623f0c3
   port: 44300
   server: us-01.worldfirst.eu.org
@@ -3409,7 +3409,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇺🇸 美国 4-1K
+  name: 2|🇺🇸 美国 4-1K
   network: ws
   port: 80
   server: m2-us1.m2network.icu
@@ -3422,7 +3422,7 @@ proxies:
       Host: m2-us1.m2network.icu
     path: /ws?ed=2560
 - auth: e47bb463-fb03-46c8-978f-3e4eb2343590
-  name: 1|🇯🇵 日本 01-6P
+  name: 2|🇯🇵 日本 01-6P
   password: e47bb463-fb03-46c8-978f-3e4eb2343590
   port: 44300
   server: jp-01.worldfirst.eu.org
@@ -3432,7 +3432,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇦 加拿大2
+  name: 2,4|🇦 加拿大2
   password: ecdec43f-b664-455a-87e7-1827fc7b7dc8
   port: 45067
   server: xdd.dashuai.cyou
@@ -3443,7 +3443,7 @@ proxies:
   udp: true
   uuid: c31c9ae4-9427-4050-84ec-33acd2daf697
 - auth: a6d4fe41-5edb-43fc-910e-298311c31286
-  name: 1|🇰🇷 韩国 02-5B
+  name: 2|🇰🇷 韩国 02-5B
   password: a6d4fe41-5edb-43fc-910e-298311c31286
   port: 44300
   server: kr-04.worldfirst.eu.org
@@ -3452,14 +3452,14 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇸🇬 新加坡02-1B #1'
+  name: '2,4|🇸🇬 新加坡02-1B #1'
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15637
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - auth: 6f9b6a1d-e01c-4b8e-b828-500017b0510e
-  name: 1|PQ-JXM
+  name: 2|PQ-JXM
   password: 6f9b6a1d-e01c-4b8e-b828-500017b0510e
   port: 44300
   server: sg-01.worldfirst.eu.org
@@ -3468,7 +3468,7 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 1-2D
+  name: 2|🇺🇸 美国 1-2D
   password: 5171ee7b-f8b6-4cd8-8b03-49671e36fc66
   port: 20012
   server: gy.666666222.shop
@@ -3476,7 +3476,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇸🇬 新加坡 2-1G
+  name: 2|🇸🇬 新加坡 2-1G
   network: ws
   port: 80
   server: m2-sg2.m2network.icu
@@ -3490,7 +3490,7 @@ proxies:
     path: /ws?ed=2560
 - alterId: 0
   cipher: auto
-  name: 1|🇭🇰 香港 1-1L
+  name: 2|🇭🇰 香港 1-1L
   network: ws
   port: 80
   server: m2-hk1.go-relay.top
@@ -3503,14 +3503,14 @@ proxies:
       Host: m2-hk1.go-relay.top
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇭🇰 香港01-1E #1'
+  name: '2,4|🇭🇰 香港01-1E #1'
   password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
   port: 19630
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - auth: a90a2326-7e35-45c6-9157-8736fa41cdca
-  name: 1|🇸🇬 新加坡-1M
+  name: 2|🇸🇬 新加坡-1M
   password: a90a2326-7e35-45c6-9157-8736fa41cdca
   port: 46606
   server: zz.worldfirst.eu.org
@@ -3519,7 +3519,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: dc690412-c786-4131-b0d1-3c071cedc024
-  name: 1|🇸🇬 新加坡 02-3Q
+  name: 2|🇸🇬 新加坡 02-3Q
   password: dc690412-c786-4131-b0d1-3c071cedc024
   port: 44300
   server: sg-02.worldfirst.eu.org
@@ -3529,7 +3529,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇺🇸 美国 1-1W
+  name: 2|🇺🇸 美国 1-1W
   network: ws
   port: 80
   server: m2-us1.go-relay.top
@@ -3542,28 +3542,28 @@ proxies:
       Host: m2-us1.go-relay.top
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 B US-1A
+  name: 2|🇺🇸 美国 B US-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 32881
   server: usa2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇺🇸 美国02-1B #1'
+  name: '2,4|🇺🇸 美国02-1B #1'
   password: be9d2401-69ab-4929-8ee9-8eb02b023cea
   port: 58159
   server: gd.xueyejiasu.com
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇭🇰 香港HK03-1D
+  name: 2|🇭🇰 香港HK03-1D
   password: 5f1e0c45-9451-4253-8cab-3290323a4368
   port: 20051
   server: zz.666666222.shop
   type: ss
   udp: true
 - auth: 89260311-0107-47a2-8037-243154420ceb
-  name: 1|🇰🇷 韩国 01-3K
+  name: 2|🇰🇷 韩国 01-3K
   password: 89260311-0107-47a2-8037-243154420ceb
   port: 44301
   server: kr-01.worldfirst.eu.org
@@ -3572,21 +3572,21 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 2|台湾05|X1|上海LL
+  name: 2,4|🇼 2|台湾05|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24020
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇯🇵 1|日本01|X1|DF1
+  name: 2,4|🇯🇵 1|日本01|X1|DF1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 33030
   server: df-01.bestdong.xyz
   type: ss
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇺 欧洲-伦敦-1-1A
+  name: 2,4|🇺 欧洲-伦敦-1-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-arm-london1.lanmaoyun.icu
@@ -3595,42 +3595,42 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇺🇸 美国 01-1B #1'
+  name: '2,4|🇺🇸 美国 01-1B #1'
   password: d515c863-51b1-476e-baa5-31246f301de8
   port: 20013
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇬🇧 英国 UK | BIZ-1B
+  name: 2|🇬🇧 英国 UK | BIZ-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 35605
   server: uk1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 2|香港06|X1|上海LL
+  name: 2,4|🇰 2|香港06|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24040
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇭🇰 香港02-1D #1'
+  name: '2,4|🇭🇰 香港02-1D #1'
   password: d515c863-51b1-476e-baa5-31246f301de8
   port: 20035
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 香港05-备用-1A
+  name: 2,4|🇰 香港05-备用-1A
   password: d5ada604-c152-4c1a-a5d2-2a2d46355434
   port: 15639
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇯🇵 日本04-1B #1'
+  name: '2,4|🇯🇵 日本04-1B #1'
   password: d515c863-51b1-476e-baa5-31246f301de8
   port: 20008
   server: gy.666666222.shop
@@ -3638,7 +3638,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇸🇬 新加坡 1-2B
+  name: 2|🇸🇬 新加坡 1-2B
   network: ws
   port: 80
   server: m2-sg1.m2network.icu
@@ -3651,14 +3651,14 @@ proxies:
       Host: m2-sg1.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|DX-SS|1x-1B #4'
+  name: '2,4|DX-SS|1x-1B #4'
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇭🇰 香港04-备用-1B #1'
+  name: '2,4|🇭🇰 香港04-备用-1B #1'
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15638
   server: 140.249.160.81
@@ -3666,7 +3666,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇺🇸 美国 6-2I
+  name: 2|🇺🇸 美国 6-2I
   network: ws
   port: 80
   server: m2-us3.m2network.icu
@@ -3679,35 +3679,35 @@ proxies:
       Host: m2-us3.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 美国01-1A
+  name: 2,4|🇸 美国01-1A
   password: d5ada604-c152-4c1a-a5d2-2a2d46355434
   port: 15532
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 日本JP03-1F
+  name: 2|🇯🇵 日本JP03-1F
   password: 150077eb-b560-4c61-b6ac-97c5ff05e18a
   port: 20005
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 香港中转 01-1B
+  name: 2,4|🇰 香港中转 01-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 43641
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇺🇸 2|美国06|X1|上海LL
+  name: 2,4|🇺🇸 2|美国06|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24022
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - auth: e32f7fb3-dcad-431c-bd42-30951f3486b0
-  name: 1,3|🇸 HY2美国凤城-0.8x-1A
+  name: 2,4|🇸 HY2美国凤城-0.8x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 20202
   server: usanat.dackcf1.top
@@ -3716,35 +3716,35 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 美国01-1F
+  name: 2,4|🇸 美国01-1F
   password: 88a1529d-c1ff-4f29-a060-4180cf4d15f8
   port: 56011
   server: gd.xueyejiasu.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇯🇵 1|日本L|X1|DF1
+  name: 2,4|🇯🇵 1|日本L|X1|DF1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 59995
   server: df-01.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇭🇰 香港02-1C #1'
+  name: '2,4|🇭🇰 香港02-1C #1'
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15931
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇸🇬 新加坡SG02-1D
+  name: 2|🇸🇬 新加坡SG02-1D
   password: 5f1e0c45-9451-4253-8cab-3290323a4368
   port: 56705
   server: gy.666666222.shop
   type: ss
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇪 欧洲-法兰克福-1-1A
+  name: 2,4|🇪 欧洲-法兰克福-1-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-arm-frankfurt1.lanmaoyun.icu
@@ -3753,35 +3753,35 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇺🇸 美国04-1C #1'
+  name: '2,4|🇺🇸 美国04-1C #1'
   password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
   port: 15728
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 1|美国L|X1|DF1
+  name: 2,4|🇸 1|美国L|X1|DF1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 59994
   server: df-01.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇧 英国中转 02-1A
+  name: 2,4|🇧 英国中转 02-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 34013
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 香港03-1B
+  name: 2,4|🇰 香港03-1B
   password: be9d2401-69ab-4929-8ee9-8eb02b023cea
   port: 20052
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇩🇪 德国 DE | BIZ-1A
+  name: 2|🇩🇪 德国 DE | BIZ-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 35607
   server: 120.241.118.161
@@ -3789,7 +3789,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1|🇺🇸 美国 5-1J
+  name: 2|🇺🇸 美国 5-1J
   network: ws
   port: 80
   server: m2-us2.m2network.icu
@@ -3803,7 +3803,7 @@ proxies:
     path: /ws?ed=2560
 - alterId: 0
   cipher: auto
-  name: 1|🇸🇬 新加坡 3-2A
+  name: 2|🇸🇬 新加坡 3-2A
   network: ws
   port: 80
   server: m2-sg3.m2network.icu
@@ -3816,21 +3816,21 @@ proxies:
       Host: m2-sg3.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇸🇬 新加坡 C SG-1C
+  name: 2|🇸🇬 新加坡 C SG-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 35107
   server: sg3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 2|香港05|X1|上海LL
+  name: 2,4|🇰 2|香港05|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24049
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇸🇬 新加坡SG03-1G
+  name: 2|🇸🇬 新加坡SG03-1G
   password: a8201910-c3df-4d03-bc80-14c0275218fa
   port: 56706
   server: gy.666666222.shop
@@ -3838,7 +3838,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: '1,3|🇺🇸 美国CF优选06-1B #1'
+  name: '2,4|🇺🇸 美国CF优选06-1B #1'
   network: ws
   port: 443
   server: us06.jkjs.cloud
@@ -3852,35 +3852,35 @@ proxies:
       Host: us06.xfxvpn.one
     path: /usjp06
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 2|美国08|X1|上海LL
+  name: 2,4|🇸 2|美国08|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24038
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇸🇬 新加坡 A SG-1C
+  name: 2|🇸🇬 新加坡 A SG-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 35105
   server: sg1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 日本01-1C
+  name: 2,4|🇵 日本01-1C
   password: 88a1529d-c1ff-4f29-a060-4180cf4d15f8
   port: 20002
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇹 DX意大利-SS|1x-1A
+  name: 2,4|🇹 DX意大利-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 40515
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 台湾01-1E
+  name: 2,4|🇼 台湾01-1E
   password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
   port: 15632
   server: gdcub.yunnode.win
@@ -3888,7 +3888,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇸 美国CF优选07-1B
+  name: 2,4|🇸 美国CF优选07-1B
   network: ws
   port: 443
   server: us07.jkjs.cloud
@@ -3902,91 +3902,91 @@ proxies:
       Host: us07.xfxvpn.top
     path: /usjp07
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 JP 海外用户-1C
+  name: 2|🇯🇵 JP 海外用户-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 10001
   server: jp.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 C US-1C
+  name: 2|🇺🇸 美国 C US-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 33881
   server: usa3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|DX西-SS|1x-1A
+  name: 2,4|DX西-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 16231
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇭🇰 香港01-1D #1'
+  name: '2,4|🇭🇰 香港01-1D #1'
   password: d515c863-51b1-476e-baa5-31246f301de8
   port: 34338
   server: gd.xueyejiasu.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 日本JP02-1A
+  name: 2|🇯🇵 日本JP02-1A
   password: 4f904c5b-aca7-419c-842a-9e12d69bf816
   port: 20003
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 日本03-1C
+  name: 2,4|🇵 日本03-1C
   password: 88a1529d-c1ff-4f29-a060-4180cf4d15f8
   port: 20006
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 日本02-1A
+  name: 2,4|🇵 日本02-1A
   password: be9d2401-69ab-4929-8ee9-8eb02b023cea
   port: 20004
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 US 海外用户-1B
+  name: 2|🇺🇸 US 海外用户-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 35881
   server: us.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇺🇸 美国 纽约2-1A #1'
+  name: '2,4|🇺🇸 美国 纽约2-1A #1'
   password: be9d2401-69ab-4929-8ee9-8eb02b023cea
   port: 20016
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇹🇼 台湾 A TW-1A
+  name: 2|🇹🇼 台湾 A TW-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 35109
   server: tw1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇭🇰 香港HK01-1B
+  name: 2|🇭🇰 香港HK01-1B
   password: 2ad3875d-6b04-456c-830d-8307fc1ae83d
   port: 56701
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 日本JP04-1I
+  name: 2|🇯🇵 日本JP04-1I
   password: 6cfb8a00-8cc2-4d4b-b3a4-534e269efbf5
   port: 20007
   server: gy.666666222.shop
   type: ss
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇬 新加坡-1-1A
+  name: 2,4|🇬 新加坡-1-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-amd-singapore1.lanmaoyun.icu
@@ -3995,7 +3995,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: b0f69b06-68a9-46a6-8d65-46d30e134456
-  name: '1,3|🇯🇵 日本-2-1B #1'
+  name: '2,4|🇯🇵 日本-2-1B #1'
   password: b0f69b06-68a9-46a6-8d65-46d30e134456
   port: 30001
   server: oracle-amd-osaka1.lanmaoyun.icu
@@ -4004,7 +4004,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: '1,3|🇰🇷 韩国-1-1A #1'
+  name: '2,4|🇰🇷 韩国-1-1A #1'
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-arm-chuncheon1.lanmaoyun.icu
@@ -4013,56 +4013,56 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇰🇷 韩国 C KR-1C
+  name: 2|🇰🇷 韩国 C KR-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 35609
   server: kr3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 美国02-1C
+  name: 2,4|🇸 美国02-1C
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15628
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 2|台湾06|X1|上海LL
+  name: 2,4|🇼 2|台湾06|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24092
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇳 越南01-1A
+  name: 2,4|🇳 越南01-1A
   password: d5ada604-c152-4c1a-a5d2-2a2d46355434
   port: 15642
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇹🇼 台湾01-1T
+  name: 2|🇹🇼 台湾01-1T
   password: a8201910-c3df-4d03-bc80-14c0275218fa
   port: 20031
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 香港07-备用-1B
+  name: 2,4|🇰 香港07-备用-1B
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15641
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇺🇸 美国03-1C #1'
+  name: '2,4|🇺🇸 美国03-1C #1'
   password: 88a1529d-c1ff-4f29-a060-4180cf4d15f8
   port: 42414
   server: gd.xueyejiasu.com
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇯🇵 日本JP01-1C
+  name: 2|🇯🇵 日本JP01-1C
   password: 5a54ae01-4ad4-40c3-b8b0-ce2e57f1bb38
   port: 56707
   server: gy.666666222.shop
@@ -4070,7 +4070,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇸 美国CF优选05-1A
+  name: 2,4|🇸 美国CF优选05-1A
   network: ws
   port: 443
   server: us05.jkjs.cloud
@@ -4084,91 +4084,91 @@ proxies:
       Host: us05.xfxvpn.cloud
     path: /usjp05
 - cipher: aes-128-gcm
-  name: 1|🇹🇭 泰国 TH BIZ-1C
+  name: 2|🇹🇭 泰国 TH BIZ-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 35613
   server: 120.241.118.161
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 香港中转 02-1A
+  name: 2,4|🇰 香港中转 02-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 36858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰 香港 C HK-1A
+  name: 2|🇭🇰 香港 C HK-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 23881
   server: hk3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 2|美国05|X1|XD中港1
+  name: 2,4|🇭🇰 2|美国05|X1|XD中港1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 25021
   server: xd-zg1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰 香港 B HK-1A
+  name: 2|🇭🇰 香港 B HK-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 22881
   server: hk2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇧 英国01-1B
+  name: 2,4|🇧 英国01-1B
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15634
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 1|美国01|X1|XD中港HKT
+  name: 2,4|🇭🇰 1|美国01|X1|XD中港HKT
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 41013
   server: xd-zg-hkt1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 1|日本02|X1|XD中日1
+  name: 2,4|🇵 1|日本02|X1|XD中日1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 28916
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 1|香港L|X1|DF1
+  name: 2,4|🇭🇰 1|香港L|X1|DF1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 59993
   server: df-01.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 LS香港00|港|1x-1A
+  name: 2,4|🇭🇰 LS香港00|港|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 13648
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇧 2|英国05|X1|上海LL
+  name: 2,4|🇧 2|英国05|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24051
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 A US-1B
+  name: 2|🇺🇸 美国 A US-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 31881
   server: usa1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇰🇷 韩国 B KR-1A
+  name: 2|🇰🇷 韩国 B KR-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 35102
   server: kr2.iepl.cooc.icu
@@ -4176,7 +4176,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇼 台湾03|直连路线X0.5-1B
+  name: 2,4|🇼 台湾03|直连路线X0.5-1B
   network: ws
   port: 2052
   server: cfnatji3.x2tanzhen.top
@@ -4189,210 +4189,210 @@ proxies:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰 香港 A HK-1B
+  name: 2|🇭🇰 香港 A HK-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 21881
   server: hk1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 日本 A JP-1B
+  name: 2|🇯🇵 日本 A JP-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 47100
   server: jp1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇸🇬 新加坡SG01-1G
+  name: 2|🇸🇬 新加坡SG01-1G
   password: a8201910-c3df-4d03-bc80-14c0275218fa
   port: 56704
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 1|香港01|X1|XD中港HKT
+  name: 2,4|🇭🇰 1|香港01|X1|XD中港HKT
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 60003
   server: xd-zg-hkt1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 1|香港01|X1|XD中港2
+  name: 2,4|🇭🇰 1|香港01|X1|XD中港2
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 26011
   server: xd-zg2.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇸🇬 新加坡 B SG-1A
+  name: 2|🇸🇬 新加坡 B SG-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 35106
   server: sg2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇧 英国中转 01-1B
+  name: 2,4|🇧 英国中转 01-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 29172
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇭🇰 香港HK02-1H
+  name: 2|🇭🇰 香港HK02-1H
   password: 0efcff2a-4a16-431f-8f52-d3a4ae8dae44
   port: 20034
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 1|香港02|X1|XD中港2
+  name: 2,4|🇭🇰 1|香港02|X1|XD中港2
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 26015
   server: xd-zg2.bestdong.xyz
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: 1|🇹🇼 TW 海外用户-1C
+  name: 2|🇹🇼 TW 海外用户-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 36881
   server: tw.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇷 DX土耳其-SS|1x-1B
+  name: 2,4|🇷 DX土耳其-SS|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 20403
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇧 英国中转 03-1B
+  name: 2,4|🇧 英国中转 03-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 13708
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰🇷 DX韩国|1x-1A
+  name: 2,4|🇰🇷 DX韩国|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 13666
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 LS香港01|三网|1x-1B
+  name: 2,4|🇭🇰 LS香港01|三网|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 28921
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 台湾01-1F
+  name: 2,4|🇼 台湾01-1F
   password: 88a1529d-c1ff-4f29-a060-4180cf4d15f8
   port: 47564
   server: gd.xueyejiasu.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰🇷 LS韩国|1x-1A
+  name: 2,4|🇰🇷 LS韩国|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 48296
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇫🇷 法国 FR BIZ-1C
+  name: 2|🇫🇷 法国 FR BIZ-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 35611
   server: 120.241.118.161
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇯🇵 日本中转 02-1A
+  name: 2,4|🇯🇵 日本中转 02-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 40005
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇹🇼 台湾 1-1A #1'
+  name: '2,4|🇹🇼 台湾 1-1A #1'
   password: be9d2401-69ab-4929-8ee9-8eb02b023cea
   port: 20032
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸🇬 DX新加坡01|1x-1B
+  name: 2,4|🇸🇬 DX新加坡01|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 45769
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇹🇼 台湾 B TW-1A
+  name: 2|🇹🇼 台湾 B TW-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 35110
   server: tw2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇬 新加坡01-1C
+  name: 2,4|🇬 新加坡01-1C
   password: 61f82273-76e3-4a0a-a27c-bc7c5cee0e6e
   port: 15636
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇬 新加坡中转 03-1A
+  name: 2,4|🇬 新加坡中转 03-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 11599
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇸🇬 新加坡03-1B #1'
+  name: '2,4|🇸🇬 新加坡03-1B #1'
   password: db534a40-6490-44b8-be0c-182c5a003115
   port: 15627
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇺🇸 美国 2-1B
+  name: 2|🇺🇸 美国 2-1B
   password: 2ad3875d-6b04-456c-830d-8307fc1ae83d
   port: 20015
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 1|日本03|X1|XD中1
+  name: 2,4|🇵 1|日本03|X1|XD中1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 28074
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇪 DX国-SS|1x-1B
+  name: 2,4|🇪 DX国-SS|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 44281
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 1|日本01|X1|上海LL
+  name: 2,4|🇵 1|日本01|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24012
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 1|香港02|X1|XD中港HKT
+  name: 2,4|🇰 1|香港02|X1|XD中港HKT
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 41015
   server: xd-zg-hkt1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 2|香港07|X1|LL
+  name: 2,4|🇭🇰 2|香港07|X1|LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24039
   server: ll-sh1.bestdong.xyz
@@ -4400,7 +4400,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇼 台湾02|直连路线X0.5-1A
+  name: 2,4|🇼 台湾02|直连路线X0.5-1A
   network: ws
   port: 2052
   server: cfnatji2.x2tanzhen.top
@@ -4413,14 +4413,14 @@ proxies:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸🇬 2|国05|X1|XD中
+  name: 2,4|🇸🇬 2|国05|X1|XD中
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24210
   server: xd-xjp9.bestdong.xyz
   type: ss
   udp: true
 - auth: e32f7fb3-dcad-431c-bd42-30951f3486b0
-  name: 1,3|🇬 HY2新加坡-0.8x-1A
+  name: 2,4|🇬 HY2新加坡-0.8x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 20082
   server: xjpnat2.dackcf1.top
@@ -4429,7 +4429,7 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇷 DX巴西-SS|1x-1B
+  name: 2,4|🇷 DX巴西-SS|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 34469
   server: hzgg.ewenhot.top
@@ -4437,7 +4437,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇸 美国CF优选08-1B
+  name: 2,4|🇸 美国CF优选08-1B
   network: ws
   port: 443
   server: us08.jkjs.cloud
@@ -4451,112 +4451,112 @@ proxies:
       Host: us08.xfxvpn.xyz
     path: /usjp08
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 2|日本05|X1|上海LL
+  name: 2,4|🇵 2|日本05|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24018
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|🇭🇰 香港03-1A #1'
+  name: '2,4|🇭🇰 香港03-1A #1'
   password: d5ada604-c152-4c1a-a5d2-2a2d46355434
   port: 15635
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇬 新加坡中转 02-1B
+  name: 2,4|🇬 新加坡中转 02-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 26198
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇲🇾 马来西亚 MY | BIZ-1B
+  name: 2|🇲🇾 马来西亚 MY | BIZ-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 35603
   server: mas1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 日本中转 04-1A
+  name: 2,4|🇵 日本中转 04-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 38649
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 1|日本01|X1|XD中日1
+  name: 2,4|🇵 1|日本01|X1|XD中日1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 28912
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: 1|🇯🇵 JAPAN 06-1B
+  name: 2|🇯🇵 JAPAN 06-1B
   password: f4192b6f-2912-41ca-97bd-6a84eaab493b
   port: 30606
   server: host-016.v2fastlink.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 美国中转 01-1A
+  name: 2,4|🇸 美国中转 01-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 26858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 台湾中转 02-1B
+  name: 2,4|🇼 台湾中转 02-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 17010
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 日本 C JP-1B
+  name: 2|🇯🇵 日本 C JP-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 19881
   server: jp3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇯🇵 2|日本06|X1|上海LL
+  name: 2,4|🇯🇵 2|日本06|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24019
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 2|美国05|X1|上海LL
+  name: 2,4|🇸 2|美国05|X1|上海LL
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24021
   server: ll-sh1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇬 新加坡中转 01-1B
+  name: 2,4|🇬 新加坡中转 01-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 11155
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|备用-1A
+  name: 2,4|备用-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 777
   server: 666.com
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇻🇳 越南 VN | BIZ-1A
+  name: 2|🇻🇳 越南 VN | BIZ-1A
   password: abb9d880-70c9-4a58-858e-e7eb91284048
   port: 35601
   server: 120.241.118.161
   type: ss
   udp: true
 - auth: b0f69b06-68a9-46a6-8d65-46d30e134456
-  name: 1,3|🇷 韩国-首尔-1B
+  name: 2,4|🇷 韩国-首尔-1B
   password: b0f69b06-68a9-46a6-8d65-46d30e134456
   port: 30001
   server: oracle-arm-seoul1.lanmaoyun.icu
@@ -4565,63 +4565,63 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇺 DX大利亚-SS|1x-1B
+  name: 2,4|🇺 DX大利亚-SS|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 18703
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇹🇼 台湾 C TW-1B
+  name: 2|🇹🇼 台湾 C TW-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 35111
   server: tw3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 1|美国01|X1|XD中港1
+  name: 2,4|🇭🇰 1|美国01|X1|XD中港1
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 25013
   server: xd-zg1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇳 DX印度-SS|1x-1A
+  name: 2,4|🇳 DX印度-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 12554
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 LS台湾|1x-1A
+  name: 2,4|🇼 LS台湾|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 29637
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '1,3|DX-SS|1x-1A #1'
+  name: '2,4|DX-SS|1x-1A #1'
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 19684
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 日本中转 05-1B
+  name: 2,4|🇵 日本中转 05-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 21743
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇰🇷 韩国 A KR-1B
+  name: 2|🇰🇷 韩国 A KR-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 35101
   server: kr1.iepl.cooc.icu
   type: ss
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇸 北美-US-圣何塞-2-1A
+  name: 2,4|🇸 北美-US-圣何塞-2-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-amd-san-jose2.lanmaoyun.icu
@@ -4630,7 +4630,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇷 韩国-2-1A
+  name: 2,4|🇷 韩国-2-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-arm-chuncheon2.lanmaoyun.icu
@@ -4639,28 +4639,28 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 DX冰岛-SS|1x-1A
+  name: 2,4|🇸 DX冰岛-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 15705
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇺🇸 DX美国|1x-1B
+  name: 2,4|🇺🇸 DX美国|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 26323
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 LS香港02|苏港|1x-1A
+  name: 2,4|🇭🇰 LS香港02|苏港|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 27669
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇵 日本-1-1A
+  name: 2,4|🇵 日本-1-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-amd-tokyo1.lanmaoyun.icu
@@ -4669,63 +4669,63 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇬🇧 DX英国-SS|1x-1B
+  name: 2,4|🇬🇧 DX英国-SS|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 10522
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 LS日本|1x-1B
+  name: 2,4|🇵 LS日本|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 24893
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇺🇸 美国中转 02-1A
+  name: 2,4|🇺🇸 美国中转 02-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 15070
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇵 DX日本|1x-1B
+  name: 2,4|🇵 DX日本|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 19381
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 DX-SS|1x-1A
+  name: 2,4|🇰 DX-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 32942
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇪 DX-SS|1x-1A
+  name: 2,4|🇪 DX-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 37518
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 香港中转 04-1B
+  name: 2,4|🇭🇰 香港中转 04-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 11618
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸🇬 LS新加坡01|1x-1A
+  name: 2,4|🇸🇬 LS新加坡01|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 21508
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 2|香港07|X1|XD中2
+  name: 2,4|🇭🇰 2|香港07|X1|XD中2
   password: 98eef931-0efe-4a83-8d79-27cd03ea0d3c
   port: 24039
   server: xd-zg2.bestdong.xyz
@@ -4733,7 +4733,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 1,3|🇼 台湾01|直连路线X0.5-1A
+  name: 2,4|🇼 台湾01|直连路线X0.5-1A
   network: ws
   port: 8080
   server: cfnatji1.x2tanzhen.top
@@ -4746,35 +4746,35 @@ proxies:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 LS美国|1x-1A
+  name: 2,4|🇸 LS美国|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 18825
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 香港中转 05-1A
+  name: 2,4|🇭🇰 香港中转 05-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 20901
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 台湾中转 03-1B
+  name: 2,4|🇼 台湾中转 03-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 14232
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇯🇵 日本 B JP-1B
+  name: 2|🇯🇵 日本 B JP-1B
   password: cfd57274-cde6-40bc-bcc9-6ed03c2c5cf5
   port: 47101
   server: jp2.iepl.cooc.icu
   type: ss
   udp: true
 - auth: 29a29073-bcc3-4fb0-96b5-71036d1bd925
-  name: 1,3|🇼 HY2台湾-0.8x-1B
+  name: 2,4|🇼 HY2台湾-0.8x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 30158
   server: twnat2.dackcf1.top
@@ -4783,77 +4783,77 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇯🇵 日本中转 03-1B
+  name: 2,4|🇯🇵 日本中转 03-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 38225
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇹🇼 台湾中转 04-1B
+  name: 2,4|🇹🇼 台湾中转 04-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 25149
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 DX香港01|三网|1x-1A
+  name: 2,4|🇭🇰 DX香港01|三网|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 13490
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇬 DX尼日利亚-SS|1x-1A
+  name: 2,4|🇬 DX尼日利亚-SS|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 19749
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇼 DX台湾|1x-1A
+  name: 2,4|🇼 DX台湾|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 17791
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇸 美国中转 03-1B
+  name: 2,4|🇸 美国中转 03-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 23631
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇰 DX香港02|苏港|1x-1A
+  name: 2,4|🇰 DX香港02|苏港|1x-1A
   password: e32f7fb3-dcad-431c-bd42-30951f3486b0
   port: 18596
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 DX香港00|广港|1x-1B
+  name: 2,4|🇭🇰 DX香港00|广港|1x-1B
   password: 29a29073-bcc3-4fb0-96b5-71036d1bd925
   port: 16072
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇭🇰 香港中转 03-1B
+  name: 2,4|🇭🇰 香港中转 03-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 43042
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇹🇼 台湾中转 05-1A
+  name: 2,4|🇹🇼 台湾中转 05-1A
   password: bac2a196-c8f3-4482-8dd9-ab6e91df4f8a
   port: 35846
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1,3|🇯🇵 日本中转 01-1B
+  name: 2,4|🇯🇵 日本中转 01-1B
   password: 80520cc8-6d0a-48ed-a3ee-6474ef0dbf23
   port: 13706
   server: gstdnb.myfczy168.top
@@ -4861,7 +4861,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1161-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1161-RELAY
   network: ws
   port: 2052
   server: cfcdn2.sanfencdn9.com
@@ -4875,7 +4875,7 @@ proxies:
     path: /video/u4eCZTxW
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-185-RELAY
+  name: 3|[xiyaowong/freeFQ]03-185-RELAY
   network: ws
   port: 80
   server: 104.16.61.8
@@ -4889,7 +4889,7 @@ proxies:
     path: /hms02.fxiaomi.sbs/link
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]09-524-RELAY
+  name: 3|[xiyaowong/freeFQ]09-524-RELAY
   network: ws
   port: 443
   server: pandor.boats
@@ -4903,7 +4903,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]34-749-RELAY
+  name: 3|[xiyaowong/freeFQ]34-749-RELAY
   network: ws
   port: 2095
   server: 104.16.61.8
@@ -4917,7 +4917,7 @@ proxies:
     path: /ivideos.sbs/linkws
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]34-752-RELAY
+  name: 3|[xiyaowong/freeFQ]34-752-RELAY
   network: ws
   port: 2082
   server: 104.16.67.38
@@ -4931,7 +4931,7 @@ proxies:
     path: /glweidf.cfd/linkws
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]34-751-RELAY
+  name: 3|[xiyaowong/freeFQ]34-751-RELAY
   network: ws
   port: 8080
   server: 104.16.61.8
@@ -4945,7 +4945,7 @@ proxies:
     path: /jahfkjha.cfd/linkws
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]09-526-RELAY
+  name: 3|[xiyaowong/freeFQ]09-526-RELAY
   network: ws
   port: 443
   server: s.marktred.com
@@ -4959,7 +4959,7 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]17-738-US
+  name: 3|[xiyaowong/freeFQ]17-738-US
   network: ws
   port: 80
   server: 15.204.67.50
@@ -4973,7 +4973,7 @@ proxies:
     path: /v149-dskds65
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0971-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0971-RELAY
   network: ws
   port: 2095
   server: 104.16.60.8
@@ -4987,7 +4987,7 @@ proxies:
     path: /ivideos.sbs/linkws
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-069-CN
+  name: 3|[xiyaowong/freeFQ]03-069-CN
   network: ws
   port: 80
   server: 103.184.44.74
@@ -5001,7 +5001,7 @@ proxies:
     path: /vmess
 - alterId: 64
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]17-726-NL
+  name: 3|[xiyaowong/freeFQ]17-726-NL
   network: ws
   port: 41001
   server: 154.85.0.224
@@ -5015,7 +5015,7 @@ proxies:
     path: /path/1720963559796
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.17.165.151-...
+  name: 3|[freefq]🏁RELAY-104.17.165.151-...
   network: ws
   port: 2052
   server: cfcdn1.sanfencdn9.com
@@ -5029,7 +5029,7 @@ proxies:
     path: /video/6VBhAkCtV4/
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 2|[xiyaowong/freeFQ]17-725-LV
+  name: 3|[xiyaowong/freeFQ]17-725-LV
   network: ws
   port: 80
   server: de.tradex2080.com
@@ -5043,7 +5043,7 @@ proxies:
     path: /0fpZFB6IbpNptGAxAtI0QM
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-162-FASTL...
+  name: 3|[xiyaowong/freeFQ]03-162-FASTL...
   network: ws
   port: 80
   server: 151.101.65.57
@@ -5057,7 +5057,7 @@ proxies:
     path: ws/?ed=2048
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]16-711-RELAY
+  name: 3|[xiyaowong/freeFQ]16-711-RELAY
   network: ws
   port: 80
   server: cfcdn3.sanfencdn9.com
@@ -5071,7 +5071,7 @@ proxies:
     path: /video/P7EExoE2
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1216-JP
+  name: 3|[1808.ga]TG频道@mfbpn-1216-JP
   network: ws
   port: 80
   server: jp01.thomasina.buzz
@@ -5085,7 +5085,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]14-688-RELAY
+  name: 3|[xiyaowong/freeFQ]14-688-RELAY
   network: ws
   port: 8880
   server: fr-a.yuji2022.eu.org
@@ -5099,7 +5099,7 @@ proxies:
     path: /9sTFt5L554kPVWmuJ2k8baS4bEY83PZ66xb4twoBBtsiMPK2b
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]07-491-KR
+  name: 3|[xiyaowong/freeFQ]07-491-KR
   network: ws
   port: 80
   server: kr04.thomasina.buzz
@@ -5113,7 +5113,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0596-KR
+  name: 3|[1808.ga]TG频道@mfbpn-0596-KR
   network: ws
   port: 80
   server: kr02.thomasina.buzz
@@ -5127,7 +5127,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]14-697-RELAY
+  name: 3|[xiyaowong/freeFQ]14-697-RELAY
   network: ws
   port: 80
   server: us3e-mmnnfr9dop0.v2freevpn.com
@@ -5141,7 +5141,7 @@ proxies:
     path: /v118-fccxmxm35
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1303-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1303-RELAY
   network: ws
   port: 2086
   server: 162.159.140.56
@@ -5155,7 +5155,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0163-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0163-RELAY
   network: ws
   port: 8443
   server: usbk.cfip.top
@@ -5169,7 +5169,7 @@ proxies:
     path: /cctv13/hd.m3u8
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.21.9.24-161
+  name: 3|[freefq]🏁RELAY-104.21.9.24-161
   network: ws
   port: 2052
   server: kt01.898965.xyz
@@ -5183,7 +5183,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]07-471-DE
+  name: 3|[xiyaowong/freeFQ]07-471-DE
   network: ws
   port: 80
   server: de04.thomasina.buzz
@@ -5197,7 +5197,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]09-502-US
+  name: 3|[xiyaowong/freeFQ]09-502-US
   network: ws
   port: 80
   server: us.eaxeg.be
@@ -5211,7 +5211,7 @@ proxies:
     path: /5k7oCLn871DU5O2ONZ6a2i
 - alterId: 0
   cipher: auto
-  name: '2|[freefq]🏁RELAY-162.159.129.129... #2'
+  name: '3|[freefq]🏁RELAY-162.159.129.129... #2'
   network: ws
   port: 443
   server: 162.159.129.129
@@ -5225,7 +5225,7 @@ proxies:
     path: /f4
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]09-503-US
+  name: 3|[xiyaowong/freeFQ]09-503-US
   network: ws
   port: 38848
   server: proxy.cc-la.152618.xyz
@@ -5239,7 +5239,7 @@ proxies:
     path: /6c8e5a1b
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1217-JP
+  name: 3|[1808.ga]TG频道@mfbpn-1217-JP
   network: ws
   port: 80
   server: jp03.thomasina.buzz
@@ -5253,7 +5253,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1297-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1297-RELAY
   network: ws
   port: 2086
   server: 104.18.57.111
@@ -5267,7 +5267,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]07-482-US
+  name: 3|[xiyaowong/freeFQ]07-482-US
   network: ws
   port: 20621
   server: oracle-us-04.t3csyun.buzz
@@ -5281,7 +5281,7 @@ proxies:
     path: /us4
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]07-472-DE
+  name: 3|[xiyaowong/freeFQ]07-472-DE
   network: ws
   port: 80
   server: de01.thomasina.buzz
@@ -5295,7 +5295,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🇺🇸US-38.95.115.176-153
+  name: 3|[freefq]🇺🇸US-38.95.115.176-153
   network: ws
   port: 16424
   server: 38.95.115.176
@@ -5309,7 +5309,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🇰🇷KR-152.67.218.38-312
+  name: 3|[freefq]🇰🇷KR-152.67.218.38-312
   network: ws
   port: 443
   server: 152.67.218.38
@@ -5323,7 +5323,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1077-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1077-RELAY
   network: ws
   port: 2086
   server: 104.26.7.132
@@ -5337,7 +5337,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1064-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1064-RELAY
   network: ws
   port: 2086
   server: 23.227.38.6
@@ -5351,7 +5351,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]07-483-US
+  name: 3|[xiyaowong/freeFQ]07-483-US
   network: ws
   port: 80
   server: us01.thomasina.buzz
@@ -5365,7 +5365,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-058-NL
+  name: 3|[xiyaowong/freeFQ]03-058-NL
   network: ws
   port: 80
   server: hidd2.afsharidempire.uk
@@ -5379,7 +5379,7 @@ proxies:
     path: /liUxUGJTGoPjd07ui73LZgwx8s
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1028-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1028-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -5393,7 +5393,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0706-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0706-RELAY
   network: ws
   port: 2086
   server: 104.19.47.27
@@ -5407,7 +5407,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1328-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1328-RELAY
   network: ws
   port: 2052
   server: 104.19.38.22
@@ -5421,7 +5421,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.26.8.156-42...
+  name: 3|[freefq]🏁RELAY-104.26.8.156-42...
   network: ws
   port: 2086
   server: 104.26.8.156
@@ -5435,7 +5435,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0938-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0938-RELAY
   network: ws
   port: 2086
   server: icook.tw
@@ -5449,7 +5449,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.38.12-40...
+  name: 3|[freefq]🏁RELAY-104.19.38.12-40...
   network: ws
   port: 2052
   server: 104.19.38.12
@@ -5463,7 +5463,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-172-RELAY
+  name: 3|[xiyaowong/freeFQ]03-172-RELAY
   network: ws
   port: 2086
   server: 162.159.140.89
@@ -5477,7 +5477,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '2|[peasoft/NoMoreWalls]5|d******... #21'
+  name: '3|[peasoft/NoMoreWalls]5|d******... #21'
   network: ws
   port: 2052
   server: 104.20.25.166
@@ -5491,7 +5491,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-194-NL
+  name: 3|[xiyaowong/freeFQ]03-194-NL
   network: tcp
   port: 8099
   server: 154.47.21.56
@@ -5501,7 +5501,7 @@ proxies:
   uuid: fa1897db-1925-4c86-a495-939a959af900
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]09-494-US
+  name: 3|[xiyaowong/freeFQ]09-494-US
   network: ws
   port: 80
   server: us-21.hihu.net
@@ -5515,7 +5515,7 @@ proxies:
     path: /cp15jvhn
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0602-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0602-RELAY
   network: ws
   port: 2052
   server: 104.17.106.171
@@ -5529,7 +5529,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0614-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0614-RELAY
   network: ws
   port: 2086
   server: 104.19.47.36
@@ -5543,7 +5543,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.21.81-01...
+  name: 3|[freefq]🏁RELAY-104.19.21.81-01...
   network: ws
   port: 2052
   server: 104.19.21.81
@@ -5557,7 +5557,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-203-RELAY
+  name: 3|[xiyaowong/freeFQ]03-203-RELAY
   network: ws
   port: 2052
   server: 172.67.74.122
@@ -5571,7 +5571,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0811-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0811-RELAY
   network: ws
   port: 2086
   server: 104.19.47.79
@@ -5585,7 +5585,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]06-450-RELAY
+  name: 3|[xiyaowong/freeFQ]06-450-RELAY
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -5599,7 +5599,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.59.99-03...
+  name: 3|[freefq]🏁RELAY-104.19.59.99-03...
   network: ws
   port: 2052
   server: 104.19.59.99
@@ -5613,7 +5613,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1085-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1085-RELAY
   network: ws
   port: 2086
   server: 162.159.140.19
@@ -5627,7 +5627,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-042-RELAY
+  name: 3|[xiyaowong/freeFQ]03-042-RELAY
   network: ws
   port: 2086
   server: 104.26.5.90
@@ -5641,7 +5641,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.21.71-41...
+  name: 3|[freefq]🏁RELAY-104.19.21.71-41...
   network: ws
   port: 2052
   server: 104.19.21.71
@@ -5655,7 +5655,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0598-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0598-RELAY
   network: ws
   port: 2086
   server: 104.17.106.151
@@ -5669,7 +5669,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0980-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0980-RELAY
   network: ws
   port: 2086
   server: 104.19.46.33
@@ -5683,7 +5683,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0537-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0537-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -5697,7 +5697,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0640-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0640-RELAY
   network: ws
   port: 2052
   server: 104.19.47.75
@@ -5711,7 +5711,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-045-RELAY
+  name: 3|[xiyaowong/freeFQ]03-045-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -5725,7 +5725,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.55.49-37...
+  name: 3|[freefq]🏁RELAY-104.19.55.49-37...
   network: ws
   port: 2086
   server: 104.19.55.49
@@ -5739,7 +5739,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0644-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0644-RELAY
   network: ws
   port: 2052
   server: 104.18.57.111
@@ -5753,7 +5753,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-206-RELAY
+  name: 3|[xiyaowong/freeFQ]03-206-RELAY
   network: ws
   port: 2086
   server: 104.19.45.42
@@ -5767,7 +5767,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1294-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1294-RELAY
   network: ws
   port: 2052
   server: 104.20.25.176
@@ -5781,7 +5781,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0551-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0551-RELAY
   network: ws
   port: 2052
   server: 23.227.38.13
@@ -5795,7 +5795,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-037-RELAY
+  name: 3|[xiyaowong/freeFQ]03-037-RELAY
   network: ws
   port: 2086
   server: 172.64.167.25
@@ -5809,7 +5809,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1252-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1252-RELAY
   network: ws
   port: 2086
   server: 172.64.166.28
@@ -5823,7 +5823,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-046-RELAY
+  name: 3|[xiyaowong/freeFQ]03-046-RELAY
   network: ws
   port: 2086
   server: 104.19.47.80
@@ -5837,7 +5837,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1327-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1327-RELAY
   network: ws
   port: 2086
   server: 104.19.59.89
@@ -5851,7 +5851,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '2|[peasoft/NoMoreWalls]5|d******... #25'
+  name: '3|[peasoft/NoMoreWalls]5|d******... #25'
   network: ws
   port: 2052
   server: 172.64.175.98
@@ -5865,7 +5865,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.46.123-3...
+  name: 3|[freefq]🏁RELAY-104.19.46.123-3...
   network: ws
   port: 2052
   server: 104.19.46.123
@@ -5879,7 +5879,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]07-473-DE
+  name: 3|[xiyaowong/freeFQ]07-473-DE
   network: ws
   port: 80
   server: de02.thomasina.buzz
@@ -5893,7 +5893,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 2|[xiyaowong/freeFQ]17-729-TR
+  name: 3|[xiyaowong/freeFQ]17-729-TR
   network: ws
   port: 80
   server: tr16-quarks.cloud-speedtest.net
@@ -5907,7 +5907,7 @@ proxies:
     path: IGxEImRDbGktPGhVTk5ZUCpBP2NUalEwNXR9TGwvPGxuGi5efWN8fXFPBAFeIEpvQWgvHAVdZAx5
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-056-RELAY
+  name: 3|[xiyaowong/freeFQ]03-056-RELAY
   network: ws
   port: 2086
   server: 172.64.166.9
@@ -5921,7 +5921,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1090-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1090-RELAY
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -5935,7 +5935,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.20.17.186-3...
+  name: 3|[freefq]🏁RELAY-104.20.17.186-3...
   network: ws
   port: 2052
   server: 104.20.17.186
@@ -5949,7 +5949,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1288-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1288-RELAY
   network: ws
   port: 2086
   server: 104.26.7.132
@@ -5963,7 +5963,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1254-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1254-RELAY
   network: ws
   port: 2052
   server: 172.64.175.88
@@ -5977,7 +5977,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1220-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1220-RELAY
   network: ws
   port: 2082
   server: s1c.v2.v001sss.xyz
@@ -5991,7 +5991,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0622-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0622-RELAY
   network: ws
   port: 2052
   server: 104.19.59.89
@@ -6005,7 +6005,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0977-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0977-RELAY
   network: ws
   port: 2086
   server: 23.227.38.6
@@ -6019,7 +6019,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1016-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1016-RELAY
   network: ws
   port: 2086
   server: 104.19.47.77
@@ -6033,7 +6033,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '2|[peasoft/NoMoreWalls]5|d******... #26'
+  name: '3|[peasoft/NoMoreWalls]5|d******... #26'
   network: ws
   port: 2052
   server: 104.19.58.185
@@ -6047,7 +6047,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0571-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0571-RELAY
   network: ws
   port: 2052
   server: 104.19.57.24
@@ -6061,7 +6061,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1267-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1267-RELAY
   network: ws
   port: 2086
   server: 104.26.5.123
@@ -6075,7 +6075,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-090-RELAY
+  name: 3|[xiyaowong/freeFQ]03-090-RELAY
   network: ws
   port: 2086
   server: 104.19.46.27
@@ -6089,7 +6089,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1063-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1063-RELAY
   network: ws
   port: 2086
   server: 104.26.5.103
@@ -6103,7 +6103,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1070-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1070-RELAY
   network: ws
   port: 2052
   server: 104.26.7.152
@@ -6117,7 +6117,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1086-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1086-RELAY
   network: ws
   port: 2052
   server: 104.26.0.56
@@ -6131,7 +6131,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-172.64.233.7-42...
+  name: 3|[freefq]🏁RELAY-172.64.233.7-42...
   network: ws
   port: 2086
   server: 172.64.233.7
@@ -6145,7 +6145,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1050-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1050-RELAY
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -6159,7 +6159,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1099-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1099-RELAY
   network: ws
   port: 2086
   server: 104.19.45.35
@@ -6173,7 +6173,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.55.49-39...
+  name: 3|[freefq]🏁RELAY-104.19.55.49-39...
   network: ws
   port: 2052
   server: 104.19.55.49
@@ -6187,7 +6187,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-181-RELAY
+  name: 3|[xiyaowong/freeFQ]03-181-RELAY
   network: ws
   port: 2086
   server: 104.19.59.89
@@ -6201,7 +6201,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-085-RELAY
+  name: 3|[xiyaowong/freeFQ]03-085-RELAY
   network: ws
   port: 2052
   server: 23.227.38.3
@@ -6215,7 +6215,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1096-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1096-RELAY
   network: ws
   port: 2086
   server: 104.19.32.46
@@ -6229,7 +6229,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1323-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1323-RELAY
   network: ws
   port: 2052
   server: 104.19.21.230
@@ -6243,7 +6243,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.21.220-4...
+  name: 3|[freefq]🏁RELAY-104.19.21.220-4...
   network: ws
   port: 2052
   server: 104.19.21.220
@@ -6257,7 +6257,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1313-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1313-RELAY
   network: ws
   port: 2052
   server: 104.17.106.151
@@ -6271,7 +6271,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-016-RELAY
+  name: 3|[xiyaowong/freeFQ]03-016-RELAY
   network: ws
   port: 2086
   server: fbi.gov
@@ -6285,7 +6285,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-172.67.74.122-3...
+  name: 3|[freefq]🏁RELAY-172.67.74.122-3...
   network: ws
   port: 2052
   server: 172.67.74.122
@@ -6299,7 +6299,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0624-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0624-RELAY
   network: ws
   port: 2052
   server: 172.64.194.76
@@ -6313,7 +6313,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1036-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1036-RELAY
   network: ws
   port: 2086
   server: 104.19.46.36
@@ -6327,7 +6327,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-092-RELAY
+  name: 3|[xiyaowong/freeFQ]03-092-RELAY
   network: ws
   port: 2052
   server: 104.19.42.79
@@ -6341,7 +6341,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-060-RELAY
+  name: 3|[xiyaowong/freeFQ]03-060-RELAY
   network: ws
   port: 2086
   server: 172.67.71.187
@@ -6355,7 +6355,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1043-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1043-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -6369,7 +6369,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1018-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1018-RELAY
   network: ws
   port: 2086
   server: 104.19.45.42
@@ -6383,7 +6383,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1329-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1329-RELAY
   network: ws
   port: 2052
   server: 104.19.21.63
@@ -6397,7 +6397,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1255-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1255-RELAY
   network: ws
   port: 2052
   server: 172.64.198.249
@@ -6411,7 +6411,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-086-RELAY
+  name: 3|[xiyaowong/freeFQ]03-086-RELAY
   network: ws
   port: 2052
   server: 104.19.42.49
@@ -6425,7 +6425,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0923-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0923-RELAY
   network: ws
   port: 2086
   server: 172.64.233.27
@@ -6439,7 +6439,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0540-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0540-RELAY
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -6453,7 +6453,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1007-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1007-RELAY
   network: ws
   port: 2086
   server: 172.64.233.37
@@ -6467,7 +6467,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1309-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1309-RELAY
   network: ws
   port: 2086
   server: 104.26.5.66
@@ -6481,7 +6481,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-135-RELAY
+  name: 3|[xiyaowong/freeFQ]03-135-RELAY
   network: ws
   port: 2086
   server: 172.64.99.22
@@ -6495,7 +6495,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.26.5.145-38...
+  name: 3|[freefq]🏁RELAY-104.26.5.145-38...
   network: ws
   port: 2086
   server: 104.26.5.145
@@ -6509,7 +6509,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1241-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1241-RELAY
   network: ws
   port: 2086
   server: 172.64.175.88
@@ -6523,7 +6523,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]13-685-RELAY
+  name: 3|[xiyaowong/freeFQ]13-685-RELAY
   network: ws
   port: 2086
   server: 104.19.38.88
@@ -6537,7 +6537,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-116-RELAY
+  name: 3|[xiyaowong/freeFQ]03-116-RELAY
   network: ws
   port: 2086
   server: 104.18.57.111
@@ -6551,7 +6551,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1244-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1244-RELAY
   network: ws
   port: 2086
   server: 172.64.167.35
@@ -6565,7 +6565,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0568-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0568-RELAY
   network: ws
   port: 2052
   server: 104.19.55.79
@@ -6579,7 +6579,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0534-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0534-RELAY
   network: ws
   port: 2086
   server: 104.19.38.12
@@ -6593,7 +6593,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1062-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1062-RELAY
   network: ws
   port: 2086
   server: 104.19.46.33
@@ -6607,7 +6607,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-127-RELAY
+  name: 3|[xiyaowong/freeFQ]03-127-RELAY
   network: ws
   port: 2086
   server: 104.19.45.47
@@ -6621,7 +6621,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-147-RELAY
+  name: 3|[xiyaowong/freeFQ]03-147-RELAY
   network: ws
   port: 2086
   server: 172.64.175.213
@@ -6635,7 +6635,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1293-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1293-RELAY
   network: ws
   port: 2086
   server: 162.159.140.93
@@ -6649,7 +6649,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-019-RELAY
+  name: 3|[xiyaowong/freeFQ]03-019-RELAY
   network: ws
   port: 2086
   server: 104.26.0.50
@@ -6663,7 +6663,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-017-RELAY
+  name: 3|[xiyaowong/freeFQ]03-017-RELAY
   network: ws
   port: 2086
   server: 172.64.167.19
@@ -6677,7 +6677,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0850-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0850-RELAY
   network: ws
   port: 2086
   server: 104.19.46.27
@@ -6691,7 +6691,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-055-RELAY
+  name: 3|[xiyaowong/freeFQ]03-055-RELAY
   network: ws
   port: 2086
   server: 104.19.46.59
@@ -6705,7 +6705,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1073-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1073-RELAY
   network: ws
   port: 2086
   server: 104.26.7.132
@@ -6719,7 +6719,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0531-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0531-RELAY
   network: ws
   port: 2086
   server: 172.64.175.88
@@ -6733,7 +6733,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1067-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1067-RELAY
   network: ws
   port: 2086
   server: 104.26.0.56
@@ -6747,7 +6747,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0731-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0731-RELAY
   network: ws
   port: 2086
   server: 104.19.47.32
@@ -6761,7 +6761,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1314-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1314-RELAY
   network: ws
   port: 2086
   server: 104.26.5.113
@@ -6775,7 +6775,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1299-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1299-RELAY
   network: ws
   port: 2086
   server: 104.19.32.216
@@ -6789,7 +6789,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-002-RELAY
+  name: 3|[xiyaowong/freeFQ]03-002-RELAY
   network: ws
   port: 2086
   server: 104.19.46.56
@@ -6803,7 +6803,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1250-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1250-RELAY
   network: ws
   port: 2086
   server: 172.64.166.22
@@ -6817,7 +6817,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0533-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0533-RELAY
   network: ws
   port: 2086
   server: 172.64.166.12
@@ -6831,7 +6831,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-190-RELAY
+  name: 3|[xiyaowong/freeFQ]03-190-RELAY
   network: ws
   port: 2086
   server: 104.19.55.49
@@ -6845,7 +6845,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-196-RELAY
+  name: 3|[xiyaowong/freeFQ]03-196-RELAY
   network: ws
   port: 2086
   server: 104.19.47.45
@@ -6859,7 +6859,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1285-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1285-RELAY
   network: ws
   port: 2086
   server: 104.19.47.65
@@ -6873,7 +6873,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0786-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0786-RELAY
   network: ws
   port: 2082
   server: 172.67.130.140
@@ -6887,7 +6887,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1055-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1055-RELAY
   network: ws
   port: 2086
   server: 104.19.45.47
@@ -6901,7 +6901,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-205-RELAY
+  name: 3|[xiyaowong/freeFQ]03-205-RELAY
   network: ws
   port: 2086
   server: 104.19.46.22
@@ -6915,7 +6915,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-136-RELAY
+  name: 3|[xiyaowong/freeFQ]03-136-RELAY
   network: ws
   port: 2086
   server: 104.19.21.63
@@ -6929,7 +6929,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1035-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1035-RELAY
   network: ws
   port: 2086
   server: 104.19.32.46
@@ -6943,7 +6943,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0882-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0882-RELAY
   network: ws
   port: 2086
   server: 104.19.45.31
@@ -6957,7 +6957,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1020-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1020-RELAY
   network: ws
   port: 2086
   server: 104.19.46.17
@@ -6971,7 +6971,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1040-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1040-RELAY
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -6985,7 +6985,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1277-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1277-RELAY
   network: ws
   port: 2086
   server: 104.19.45.17
@@ -6999,7 +6999,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-112-RELAY
+  name: 3|[xiyaowong/freeFQ]03-112-RELAY
   network: ws
   port: 2052
   server: 104.19.38.18
@@ -7013,7 +7013,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1258-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1258-RELAY
   network: ws
   port: 2086
   server: 104.19.46.59
@@ -7027,7 +7027,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-142-RELAY
+  name: 3|[xiyaowong/freeFQ]03-142-RELAY
   network: ws
   port: 2086
   server: 104.19.45.15
@@ -7041,7 +7041,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-051-RELAY
+  name: 3|[xiyaowong/freeFQ]03-051-RELAY
   network: ws
   port: 2086
   server: 104.19.47.88
@@ -7055,7 +7055,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-150-RELAY
+  name: 3|[xiyaowong/freeFQ]03-150-RELAY
   network: ws
   port: 2052
   server: 104.19.47.65
@@ -7069,7 +7069,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0764-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0764-RELAY
   network: ws
   port: 2086
   server: 23.227.38.3
@@ -7083,7 +7083,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-168-RELAY
+  name: 3|[xiyaowong/freeFQ]03-168-RELAY
   network: ws
   port: 2086
   server: 104.19.38.12
@@ -7097,7 +7097,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0803-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0803-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -7111,7 +7111,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0607-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0607-RELAY
   network: ws
   port: 2086
   server: 172.64.167.44
@@ -7125,7 +7125,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-172.64.194.76-3...
+  name: 3|[freefq]🏁RELAY-172.64.194.76-3...
   network: ws
   port: 2086
   server: 172.64.194.76
@@ -7139,7 +7139,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0619-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0619-RELAY
   network: ws
   port: 2086
   server: 104.19.45.15
@@ -7153,7 +7153,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-198-RELAY
+  name: 3|[xiyaowong/freeFQ]03-198-RELAY
   network: ws
   port: 2086
   server: 104.19.47.122
@@ -7167,7 +7167,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-043-RELAY
+  name: 3|[xiyaowong/freeFQ]03-043-RELAY
   network: ws
   port: 2086
   server: 172.64.198.249
@@ -7181,7 +7181,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0630-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0630-RELAY
   network: ws
   port: 2086
   server: 104.19.46.103
@@ -7195,7 +7195,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0642-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0642-RELAY
   network: ws
   port: 2086
   server: 104.19.45.90
@@ -7209,7 +7209,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-157-RELAY
+  name: 3|[xiyaowong/freeFQ]03-157-RELAY
   network: ws
   port: 2086
   server: 104.19.38.8
@@ -7223,7 +7223,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1317-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1317-RELAY
   network: ws
   port: 2086
   server: 104.19.46.27
@@ -7237,7 +7237,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-011-RELAY
+  name: 3|[xiyaowong/freeFQ]03-011-RELAY
   network: ws
   port: 2052
   server: 104.19.46.103
@@ -7251,7 +7251,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-209-RELAY
+  name: 3|[xiyaowong/freeFQ]03-209-RELAY
   network: ws
   port: 2086
   server: 172.64.167.5
@@ -7265,7 +7265,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.55.79-38...
+  name: 3|[freefq]🏁RELAY-104.19.55.79-38...
   network: ws
   port: 2052
   server: 104.19.55.79
@@ -7279,7 +7279,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-022-RELAY
+  name: 3|[xiyaowong/freeFQ]03-022-RELAY
   network: ws
   port: 2086
   server: 104.19.58.175
@@ -7293,7 +7293,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1032-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1032-RELAY
   network: ws
   port: 2086
   server: 104.17.106.151
@@ -7307,7 +7307,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '2|[freefq]🏁RELAY-104.19.123.11-4... #1'
+  name: '3|[freefq]🏁RELAY-104.19.123.11-4... #1'
   network: ws
   port: 2086
   server: 104.19.123.11
@@ -7321,7 +7321,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-003-RELAY
+  name: 3|[xiyaowong/freeFQ]03-003-RELAY
   network: ws
   port: 2086
   server: 104.19.47.65
@@ -7335,7 +7335,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1298-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1298-RELAY
   network: ws
   port: 2086
   server: 104.19.47.79
@@ -7349,7 +7349,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-070-RELAY
+  name: 3|[xiyaowong/freeFQ]03-070-RELAY
   network: ws
   port: 2086
   server: 104.19.32.88
@@ -7363,7 +7363,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-187-RELAY
+  name: 3|[xiyaowong/freeFQ]03-187-RELAY
   network: ws
   port: 2086
   server: 104.19.123.11
@@ -7377,7 +7377,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.46.59-41...
+  name: 3|[freefq]🏁RELAY-104.19.46.59-41...
   network: ws
   port: 2086
   server: 104.19.46.59
@@ -7391,7 +7391,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[freefq]🏁RELAY-104.19.47.22-41...
+  name: 3|[freefq]🏁RELAY-104.19.47.22-41...
   network: ws
   port: 2086
   server: 104.19.47.22
@@ -7405,7 +7405,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1092-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1092-RELAY
   network: ws
   port: 2086
   server: russia.com
@@ -7419,7 +7419,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1011-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1011-RELAY
   network: ws
   port: 2086
   server: 104.19.45.13
@@ -7433,7 +7433,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1281-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1281-RELAY
   network: ws
   port: 2086
   server: 104.19.47.80
@@ -7447,7 +7447,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1065-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1065-RELAY
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -7461,7 +7461,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1265-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1265-RELAY
   network: ws
   port: 2086
   server: www.visa.com
@@ -7475,7 +7475,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1280-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1280-RELAY
   network: ws
   port: 2086
   server: 162.159.140.45
@@ -7489,7 +7489,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-210-RELAY
+  name: 3|[xiyaowong/freeFQ]03-210-RELAY
   network: ws
   port: 2086
   server: 104.19.21.230
@@ -7503,7 +7503,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1104-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1104-RELAY
   network: ws
   port: 2086
   server: 104.26.5.112
@@ -7517,7 +7517,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-068-RELAY
+  name: 3|[xiyaowong/freeFQ]03-068-RELAY
   network: ws
   port: 2086
   server: 104.19.45.19
@@ -7531,7 +7531,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1038-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1038-RELAY
   network: ws
   port: 2086
   server: 104.19.46.22
@@ -7545,7 +7545,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1033-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1033-RELAY
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -7559,7 +7559,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1301-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1301-RELAY
   network: ws
   port: 2086
   server: 172.64.233.43
@@ -7573,7 +7573,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1010-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1010-RELAY
   network: ws
   port: 2086
   server: 172.64.233.17
@@ -7587,7 +7587,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-052-RELAY
+  name: 3|[xiyaowong/freeFQ]03-052-RELAY
   network: ws
   port: 2086
   server: 104.19.57.4
@@ -7601,7 +7601,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0276-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0276-RELAY
   network: ws
   port: 80
   server: 172.67.45.185
@@ -7615,7 +7615,7 @@ proxies:
     path: /dabai.in172.67.45.185
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-0620-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-0620-RELAY
   network: ws
   port: 2086
   server: 104.19.42.49
@@ -7629,7 +7629,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1021-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1021-RELAY
   network: ws
   port: 2086
   server: 104.19.45.90
@@ -7643,7 +7643,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1030-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1030-RELAY
   network: ws
   port: 2086
   server: 104.19.46.36
@@ -7657,7 +7657,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1278-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1278-RELAY
   network: ws
   port: 2086
   server: 104.19.45.11
@@ -7671,7 +7671,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1325-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1325-RELAY
   network: ws
   port: 2086
   server: 104.19.45.47
@@ -7685,7 +7685,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2|[1808.ga]TG频道@mfbpn-1352-RELAY
+  name: 3|[1808.ga]TG频道@mfbpn-1352-RELAY
   network: ws
   port: 8080
   server: 104.19.44.174
@@ -7699,7 +7699,7 @@ proxies:
     path: /?ed=2048
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]03-131-US
+  name: 3|[xiyaowong/freeFQ]03-131-US
   network: tcp
   port: 60001
   server: bgroup.node5.v.nodelist-airport.com
@@ -7709,7 +7709,7 @@ proxies:
   uuid: 2155145a-b1b5-443a-8977-670f6bd10f02
 - alterId: 0
   cipher: auto
-  name: 2|[xiyaowong/freeFQ]34-769-RELAY
+  name: 3|[xiyaowong/freeFQ]34-769-RELAY
   network: ws
   port: 2082
   server: 104.16.61.8
@@ -7723,7 +7723,7 @@ proxies:
     path: /glweidf.sbs/linkws
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US25
+  name: 5|Youtube顺丰资源  US25
   network: ws
   port: '8880'
   server: 104.19.40.174
@@ -7737,7 +7737,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US37
+  name: 5|Youtube顺丰资源  US37
   network: ws
   port: '8880'
   server: 104.19.40.176
@@ -7751,7 +7751,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US233
+  name: 5|Youtube顺丰资源  US233
   network: ws
   port: '8080'
   server: 172.67.199.185
@@ -7765,7 +7765,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US79
+  name: 5|Youtube顺丰资源  US79
   network: ws
   port: '8880'
   server: 104.19.40.167
@@ -7779,7 +7779,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US53
+  name: 5|Youtube顺丰资源  US53
   network: ws
   port: '8880'
   server: 104.19.40.211
@@ -7793,7 +7793,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US20
+  name: 5|Youtube顺丰资源  US20
   network: ws
   port: '8880'
   server: 104.19.40.175
@@ -7807,7 +7807,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US197
+  name: 5|Youtube顺丰资源  US197
   network: ws
   port: '8880'
   server: 104.19.40.30
@@ -7821,7 +7821,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US36
+  name: 5|Youtube顺丰资源  US36
   network: ws
   port: '8880'
   server: 104.19.40.50
@@ -7835,7 +7835,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US52
+  name: 5|Youtube顺丰资源  US52
   network: ws
   port: '8880'
   server: 104.19.40.192
@@ -7849,7 +7849,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US127
+  name: 5|Youtube顺丰资源  US127
   network: ws
   port: '8880'
   server: 104.19.40.86
@@ -7863,7 +7863,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US60
+  name: 5|Youtube顺丰资源  US60
   network: ws
   port: '8880'
   server: 104.19.40.247
@@ -7877,7 +7877,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US90
+  name: 5|Youtube顺丰资源  US90
   network: ws
   port: '8880'
   server: 104.19.40.202
@@ -7891,7 +7891,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US141
+  name: 5|Youtube顺丰资源  US141
   network: ws
   port: '8880'
   server: 104.19.40.10
@@ -7905,7 +7905,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US98
+  name: 5|Youtube顺丰资源  US98
   network: ws
   port: '8880'
   server: 104.19.40.160
@@ -7919,7 +7919,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US155
+  name: 5|Youtube顺丰资源  US155
   network: ws
   port: '8880'
   server: 104.19.40.250
@@ -7933,7 +7933,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US67
+  name: 5|Youtube顺丰资源  US67
   network: ws
   port: '8880'
   server: 104.19.40.59
@@ -7947,7 +7947,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US118
+  name: 5|Youtube顺丰资源  US118
   network: ws
   port: '8880'
   server: 104.19.40.239
@@ -7961,7 +7961,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US50
+  name: 5|Youtube顺丰资源  US50
   network: ws
   port: '8880'
   server: 104.19.40.145
@@ -7975,7 +7975,7 @@ proxies:
     path: /d/65dd503.TG.WangCai2.WangCai_8:107690
 - alterId: 0
   cipher: auto
-  name: 4|Youtube顺丰资源  US228
+  name: 5|Youtube顺丰资源  US228
   network: ws
   port: '2082'
   server: 104.16.60.8

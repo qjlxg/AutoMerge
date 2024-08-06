@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,2|[xiyaowong/freeFQ]03-137-FR
+  name: 0,3|[xiyaowong/freeFQ]03-137-FR
   network: tcp
   port: 80
   server: 57.128.104.198
@@ -24,7 +24,7 @@ proxies:
       Host: fr1e-unmetered.v2freevpn.com
     path: /v133PDXkklxLEcOvD
 - auth: 5bcde6e8-c7de-481b-a791-1aacdf781ada
-  name: 1,3|🇪 欧洲-法兰克福-1-1A
+  name: 2,4|🇪 欧洲-法兰克福-1-1A
   password: 5bcde6e8-c7de-481b-a791-1aacdf781ada
   port: 30001
   server: oracle-arm-frankfurt1.lanmaoyun.icu
@@ -33,7 +33,7 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: aes-128-gcm
-  name: 1|🇫🇷 法国 FR BIZ-1C
+  name: 2|🇫🇷 法国 FR BIZ-1C
   password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
   port: 35611
   server: 120.241.118.161

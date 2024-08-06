@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '0,2|[peasoft/NoMoreWalls]2|d******... #3'
+  name: '0,3|[peasoft/NoMoreWalls]2|d******... #3'
   network: ws
   port: 2086
   server: 23.227.38.5
@@ -29,7 +29,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,2|[1808.ga]TG频道@mfbpn-0542-RELAY
+  name: 0,3|[1808.ga]TG频道@mfbpn-0542-RELAY
   network: ws
   port: 2086
   server: 23.227.38.6

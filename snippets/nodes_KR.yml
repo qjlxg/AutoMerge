@@ -1,1 +1,107 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 2|🇨🇦 加拿大-4B
+  password: fde2bb7c-7b19-4d0b-9436-b3573164e1e2
+  port: 21953
+  server: ca-01.dsajdnioajfgoiyubsaoddjuh.sanxi.online
+  skip-cert-verify: false
+  sni: kr-qingyun.dwyun.me
+  tls: false
+  type: trojan
+  udp: true
+  uuid: 85c90aa5-157b-4ba2-8a2f-021e8a3524b9
+- auth: 9f1b5909-7495-4f22-8a44-6ea8a8752681
+  name: 2|🇰🇷 韩国 02-4G
+  password: 9f1b5909-7495-4f22-8a44-6ea8a8752681
+  port: 44300
+  server: kr-04.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-03.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- auth: 00d061f4-c727-4bf6-9c15-908849f6ded3
+  name: 2|🇰🇷 韩国 01-1F
+  password: 00d061f4-c727-4bf6-9c15-908849f6ded3
+  port: 44301
+  server: kr-01.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-01.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- auth: 6e5a22f5-f5ea-43ca-89fb-85ac0d54228e
+  name: 2|🇰🇷 韩国-1-1B
+  password: 6e5a22f5-f5ea-43ca-89fb-85ac0d54228e
+  port: 30001
+  server: oracle-arm-chuncheon1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 C KR-1B
+  password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
+  port: 35609
+  server: kr3.iepl.cooc.icu
+  type: ss
+  udp: true
+- auth: 6e5a22f5-f5ea-43ca-89fb-85ac0d54228e
+  name: 2|🇰🇷 韩国-首尔-1B
+  password: 6e5a22f5-f5ea-43ca-89fb-85ac0d54228e
+  port: 30001
+  server: oracle-arm-seoul1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 LS韩国|1x
+  password: 17839f88-da9a-4d20-afac-c8d76a50f9b4
+  port: 48296
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 DX韩国|1x
+  password: 17839f88-da9a-4d20-afac-c8d76a50f9b4
+  port: 13666
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- auth: 6e5a22f5-f5ea-43ca-89fb-85ac0d54228e
+  name: 2|🇰🇷 韩国-2-1B
+  password: 6e5a22f5-f5ea-43ca-89fb-85ac0d54228e
+  port: 30001
+  server: oracle-arm-chuncheon2.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 B KR-1B
+  password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
+  port: 35102
+  server: kr2.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 A KR-1A
+  password: fb140657-f31d-4713-b5a3-c4f85dd014ab
+  port: 35101
+  server: kr1.iepl.cooc.icu
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[freefq]🇰🇷KR-152.67.218.38-312
+  network: ws
+  port: 443
+  server: 152.67.218.38
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4
+  ws-opts:
+    headers:
+      Host: ''
+    path: /

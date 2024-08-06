@@ -1,1 +1,22 @@
-proxies: []
+proxies:
+- cipher: aes-128-gcm
+  name: 2|🇬🇧 英国 UK | BIZ-1B
+  password: 7a6913c4-e411-43b3-86e5-2d71657cb28a
+  port: 35605
+  server: uk1.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇬🇧 英国01-1C
+  password: 1f686918-a43a-4600-a6ae-af5ad87978c2
+  port: 15634
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇬🇧 DX英国-SS|1x
+  password: 17839f88-da9a-4d20-afac-c8d76a50f9b4
+  port: 10522
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true

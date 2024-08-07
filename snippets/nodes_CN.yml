@@ -1,1 +1,85 @@
-proxies: []
+proxies:
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0301-CN
+  network: ws
+  port: 23619
+  server: 19.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
+  ws-opts:
+    headers:
+      Host: 19.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-165-CN
+  network: ws
+  port: 23613
+  server: 13.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
+  ws-opts:
+    headers:
+      Host: 13.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-162-CN
+  network: ws
+  port: 23614
+  server: 14.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
+  ws-opts:
+    headers:
+      Host: 14.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0300-CN
+  network: ws
+  port: 23611
+  server: 11.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
+  ws-opts:
+    headers:
+      Host: 11.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0195-CN
+  network: ws
+  port: 23617
+  server: 17.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e4bb8827-c8c8-3453-8f41-80db8edf7ded
+  ws-opts:
+    headers:
+      Host: 17.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0194-CN
+  network: ws
+  port: 23612
+  server: 12.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e4bb8827-c8c8-3453-8f41-80db8edf7ded
+  ws-opts:
+    headers:
+      Host: 12.v2-ray.cyou
+    path: /

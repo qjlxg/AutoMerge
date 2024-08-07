@@ -1,7 +1,7 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇺 DX-SS|1x
-  password: 68cf8507-fa73-4627-aaa4-f0f3872150e0
+  password: 254f5358-e711-496f-997a-3489fa98b42c
   port: 10871
   server: hzgg.ewenhot.top
   type: ss

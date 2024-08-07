@@ -1,1 +1,225 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807040
+  network: ws
+  port: '2083'
+  server: 85.237.211.219
+  servername: ul-uae2.09vpn.com
+  tls: true
+  type: vmess
+  uuid: 620d476d-c78f-45fa-a608-4755f9551927
+  ws-opts:
+    headers:
+      Host: ul-uae2.09vpn.com
+    path: /vmess/
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807042
+  network: ws
+  port: '8443'
+  server: 85.237.211.219
+  servername: ul-uae2.09vpn.com
+  tls: true
+  type: vmess
+  uuid: 620d476d-c78f-45fa-a608-4755f9551927
+  ws-opts:
+    headers:
+      Host: ul-uae2.09vpn.com
+    path: /vmess/
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807044
+  network: ws
+  port: '80'
+  server: 85.237.211.219
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 374b1a59-886e-4631-8ad2-41d24241d165
+  ws-opts:
+    headers:
+      Host: ul-uae2.09vpn.com
+    path: /vmess/
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807045
+  network: ws
+  port: '443'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807047
+  network: ws
+  port: '2053'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807049
+  network: ws
+  port: '2083'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807051
+  network: ws
+  port: '2087'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807053
+  network: ws
+  port: '2096'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807054
+  network: ws
+  port: '8443'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807057
+  network: ws
+  port: '80'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807059
+  network: ws
+  port: '2052'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807060
+  network: ws
+  port: '2082'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807062
+  network: ws
+  port: '2086'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807064
+  network: ws
+  port: '2095'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807066
+  network: ws
+  port: '8080'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞士_0807068
+  network: ws
+  port: '8880'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess

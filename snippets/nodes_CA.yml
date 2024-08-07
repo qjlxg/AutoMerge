@@ -1,77 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 0,3|[freefq]🏁RELAY-23.227.38.5-002
-  network: ws
-  port: 2086
-  server: 23.227.38.5
-  servername: ip006.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip006.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 0|加拿大_0807022
-  network: ws
-  port: '2086'
-  server: ip001.dtku47.xyz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip001.dtku47.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 0|加拿大_0807028
-  network: ws
-  port: '2086'
-  server: shopify.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip1.1789034.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 0,3|[xiyaowong/freeFQ]17-829-US
-  network: ws
-  port: 2086
-  server: 108.181.23.41
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 0,3|[freefq]🏁RELAY-23.227.38.6-010
-  network: ws
-  port: 2086
-  server: 23.227.38.6
-  servername: ip005.3196772.xyz
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip005.3196772.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 0|加拿大_0807064
+  name: 0|加拿大_0807027
   network: ws
   port: '2086'
   server: 23.227.38.8
@@ -85,7 +15,21 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 0,3|[xiyaowong/freeFQ]07-585-RELAY
+  name: 0|加拿大_0807030
+  network: ws
+  port: '2086'
+  server: 23.227.38.3
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 0,3|[freefq]🏁RELAY-23.227.38.13-42...
   network: ws
   port: 2052
   server: 23.227.38.13
@@ -95,17 +39,243 @@ proxies:
   uuid: d6b6d982-d52f-465a-b988-85670b23f64a
   ws-opts:
     headers:
-      Host: cdn3.freegradely.xyz
+      Host: cdn2.freegradely.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 2,4|澳NO.2-1A
-  password: b85d4d46-02b6-4ab9-b0bd-53fd1794dc90
-  port: 45051
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  sni: tro-us.linkconnectnf.xyz
+  name: 0|加拿大_0807037
+  network: tcp
+  port: '3389'
+  server: 167.99.179.27
+  servername: ''
   tls: false
   type: vmess
-  udp: true
-  uuid: 6b228577-9d12-444c-84a0-8f36e6ffee44
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 0,3|[1808.ga]TG频道@mfbpn-0795-RELAY
+  network: ws
+  port: 2086
+  server: 23.227.38.6
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  ws-opts:
+    headers:
+      Host: ip006.3196772.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 0,3|[xiyaowong/freeFQ]17-842-US
+  network: ws
+  port: 2086
+  server: 108.181.23.41
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807104
+  network: ws
+  port: '2095'
+  server: 23.227.38.8
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9555d84-a146-4e36-9c23-eac28387be48
+  ws-opts:
+    headers:
+      Host: ip5.freegradely.xyz
+    path: /WNh8bXQv/
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807118
+  network: ws
+  port: '2086'
+  server: ip001.dtku47.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip001.dtku47.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807158
+  network: ws
+  port: '38848'
+  server: 74.48.173.147
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 20fed645-619c-4ca1-c00e-743ea8a3b51f
+  ws-opts:
+    headers:
+      Host: proxy.cc-la.152618.xyz
+    path: /6c8e5a1b
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807164
+  network: tcp
+  port: '3389'
+  server: prxm-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807165
+  network: tcp
+  port: '3389'
+  server: shn-142.93.144.99.sslip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807166
+  network: tcp
+  port: '3389'
+  server: 142.93.144.99
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807182
+  network: ws
+  port: '443'
+  server: 142.724064.xyz
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 508b2b91-0aba-411e-97be-c544a0ea7170
+  ws-opts:
+    headers:
+      Host: ''
+    path: /pttnvws
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807184
+  network: ws
+  port: '2086'
+  server: 108.181.5.131
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807197
+  network: ws
+  port: '2086'
+  server: shopify.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1789034.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807258
+  network: ws
+  port: '443'
+  server: 168.138.70.157
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 5de1ff44-aaf8-4790-b0fb-e55aab062622
+  ws-opts:
+    headers:
+      Host: 145.724064.xyz
+    path: /zrqrvws
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807259
+  network: ws
+  port: '443'
+  server: 140.238.147.128
+  servername: 141.724064.xyz
+  tls: true
+  type: vmess
+  uuid: f3878e79-8166-4140-8dbe-e1f35b650e1c
+  ws-opts:
+    headers:
+      Host: 141.724064.xyz
+    path: /gmvfvws
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807260
+  network: ws
+  port: '443'
+  server: 140.238.157.13
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 508b2b91-0aba-411e-97be-c544a0ea7170
+  ws-opts:
+    headers:
+      Host: 142.724064.xyz
+    path: /pttnvws
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807261
+  network: tcp
+  port: '3389'
+  server: antm-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807262
+  network: tcp
+  port: '3389'
+  server: gd-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 0|加拿大_0807263
+  network: tcp
+  port: '3389'
+  server: ho-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 3|[freefq]🇨🇦CA-23.162.200.227-40...
+  network: ws
+  port: 443
+  server: 23.162.200.227
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: ''
+    path: /linkvws

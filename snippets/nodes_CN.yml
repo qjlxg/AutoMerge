@@ -1,39 +1,71 @@
 proxies:
-- alterId: 0
+- alterId: 2
   cipher: auto
-  name: 0|中国_0807120
-  network: tcp
-  port: '55218'
-  server: 103.85.25.134
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 3827a5c8-c031-46cf-848d-e890d0ead803
-- alterId: 0
-  cipher: none
-  name: 0|中国_0807121
+  name: 3|[1808.ga]TG频道@mfbpn-0297-CN
   network: ws
-  port: '80'
-  server: 103.184.44.74
+  port: 23615
+  server: 15.v2-ray.cyou
   servername: ''
   tls: false
   type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  uuid: ef7f2d33-7cc7-3340-ac47-c8c605aee3ed
   ws-opts:
     headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
-- alterId: 0
-  cipher: none
-  name: 0|中国_0807122
+      Host: 15.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-260-CN
   network: ws
-  port: '80'
-  server: 103.184.45.10
+  port: 23618
+  server: 18.v2-ray.cyou
   servername: ''
   tls: false
   type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  uuid: ef7f2d33-7cc7-3340-ac47-c8c605aee3ed
   ws-opts:
     headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
+      Host: 18.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-267-CN
+  network: ws
+  port: 23611
+  server: 11.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ef7f2d33-7cc7-3340-ac47-c8c605aee3ed
+  ws-opts:
+    headers:
+      Host: 11.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0295-CN
+  network: ws
+  port: 23617
+  server: 17.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ef7f2d33-7cc7-3340-ac47-c8c605aee3ed
+  ws-opts:
+    headers:
+      Host: 17.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-261-CN
+  network: ws
+  port: 23612
+  server: 12.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ef7f2d33-7cc7-3340-ac47-c8c605aee3ed
+  ws-opts:
+    headers:
+      Host: 12.v2-ray.cyou
+    path: /

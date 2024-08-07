@@ -1,77 +1,16 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 0|英国_0807136
-  network: ws
-  port: '443'
-  server: 45.158.77.195
-  servername: obdii.cfd
-  tls: true
-  type: vmess
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
-  ws-opts:
-    headers:
-      Host: obdii.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 0|英国_0807139
-  network: ws
-  port: '443'
-  server: 139.162.194.178
-  servername: linja05.hwcar.sbs
-  tls: true
-  type: vmess
-  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
-  ws-opts:
-    headers:
-      Host: linja05.hwcar.sbs
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 0|英国_0807203
-  network: ws
-  port: '443'
-  server: 194.36.55.55
-  servername: aveiror.com
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: aveiror.com
-    path: /linkvws
-- alterId: 0
-  cipher: auto
-  name: 0|英国_0807237
-  network: ws
-  port: '443'
-  server: 129.151.68.253
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
-  ws-opts:
-    headers:
-      Host: 17.724064.xyz
-    path: /hbtovws
-- alterId: 0
-  cipher: auto
-  name: 0|英国_0807261
-  network: ws
-  port: '80'
-  server: 51.89.150.41
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 18f96d21-4563-4d25-965e-14ef852f6d1c
-  ws-opts:
-    headers:
-      Host: 4un1.09vpn.com
-    path: /vmess/
+- auth: 2b21ffbb-0410-4870-a894-8f4dfaea5206
+  name: 2|ZB-WUR
+  password: 2b21ffbb-0410-4870-a894-8f4dfaea5206
+  port: 44300
+  server: sg-01.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: sg-01.worldfirst.eu.org
+  type: hysteria2
+  udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇧 英国01-1C
-  password: 99ac39cd-dd2b-453f-9341-011594376756
+  name: '2,4|🇬🇧 英国01-1G #1'
+  password: ff82e529-8b1f-4bc7-a378-bd24901ebe0d
   port: 15634
   server: gdcub.yunnode.win
   type: ss
@@ -84,8 +23,8 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇬🇧 DX英国-SS|1x #1'
-  password: f47f24bc-700a-4bfb-af67-5b7bacea965c
+  name: 2,4|🇧 DX英国-SS|1x
+  password: b0d05597-55e6-44fa-a692-7c1de1e6990e
   port: 10522
   server: hzgg.ewenhot.top
   type: ss

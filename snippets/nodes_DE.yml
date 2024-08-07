@@ -1,15 +1,15 @@
 proxies:
+- cipher: aes-128-gcm
+  name: 2|🇩🇪 德国 DE | BIZ-1B
+  password: f0940a69-8d25-4221-96e6-80af3e9b4726
+  port: 35607
+  server: 120.241.118.161
+  type: ss
+  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2,4|DX国-SS|1x
   password: 254f5358-e711-496f-997a-3489fa98b42c
   port: 44281
   server: hzgg.ewenhot.top
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  name: 2|🇩🇪 德国 DE | BIZ-1B
-  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
-  port: 35607
-  server: 120.241.118.161
   type: ss
   udp: true

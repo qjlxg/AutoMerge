@@ -1,18 +1,4 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 2|🇺🇸 美国 6-1W
-  network: ws
-  port: 80
-  server: m2-us3.m2network.icu
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 77f9e923-c96a-4bf7-b21b-ef6e4ee267d1
-  ws-opts:
-    headers:
-      Host: m2-us3.m2network.icu
-    path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇸 美国02-1N
   password: 521855db-bf9e-4d8e-97dd-32ced1f2aab1
@@ -20,15 +6,123 @@ proxies:
   server: gd.xueyejiasu.com
   type: ss
   udp: true
-- auth: f50cf292-007f-4d81-8598-53fdc7cfb616
-  name: 2|🇺🇸 美国 01-1F
-  password: f50cf292-007f-4d81-8598-53fdc7cfb616
+- auth: 80715330-21ac-443c-a130-bbf3e232b917
+  name: 2|🇺🇸 美国 01-2W
+  password: 80715330-21ac-443c-a130-bbf3e232b917
   port: 44300
   server: us-01.worldfirst.eu.org
   skip-cert-verify: true
   sni: us-01.worldfirst.eu.org
   type: hysteria2
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸 美国 5-1O
+  network: ws
+  port: 80
+  server: m2-us2.m2network.icu
+  tls: false
+  type: vmess
+  udp: true
+  uuid: eb7cc65f-e0c7-4d70-9d21-e2dc2be92848
+  ws-opts:
+    headers:
+      Host: m2-us2.m2network.icu
+    path: /ws?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸 美国 1-2B
+  network: ws
+  port: 80
+  server: m2-us1.go-relay.top
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 6f03417a-e08f-4a25-9d15-41843095a192
+  ws-opts:
+    headers:
+      Host: m2-us1.go-relay.top
+    path: /ws?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇺🇸 US 海外用户-1A
+  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
+  port: 35881
+  server: us.cooc.icu
+  type: ss
+  udp: true
+- auth: be4f86c5-d77e-49be-abdb-7b0c4e7f98c9
+  name: 2,4|🇸 北美-US-圣何塞-2-1A
+  password: be4f86c5-d77e-49be-abdb-7b0c4e7f98c9
+  port: 30001
+  server: oracle-amd-san-jose2.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: san-jose2.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸 美国 4-1P
+  network: ws
+  port: 80
+  server: m2-us1.m2network.icu
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c9eb3167-51d1-4a16-9c0c-36a9a15d012d
+  ws-opts:
+    headers:
+      Host: m2-us1.m2network.icu
+    path: /ws?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇸 美国01-1D
+  password: 957a22a8-d64f-4827-9118-0e7da9fe44a4
+  port: 15532
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇸 美国01-1C
+  password: fa43de8f-21fb-4f57-9583-b8fa2a34f0db
+  port: 56011
+  server: gd.xueyejiasu.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇸 美国04-1I
+  password: b3a16bd1-9d3a-485c-9ee7-66017805eeb6
+  port: 15728
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 2|🇺🇸 美国 6-1Q
+  network: ws
+  port: 80
+  server: m2-us3.m2network.icu
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 05df2bf7-6445-411a-a3d9-759bd391505e
+  ws-opts:
+    headers:
+      Host: m2-us3.m2network.icu
+    path: /ws?ed=2560
+- alterId: 0
+  cipher: auto
+  name: 2,4|🇸 美国CF优选07-1E
+  network: ws
+  port: 443
+  server: us07.jkjs.cloud
+  servername: us07.xfxvpn.top
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 7fff56f7-a674-4151-9495-b4dd04700720
+  ws-opts:
+    headers:
+      Host: us07.xfxvpn.top
+    path: /usjp07
 - alterId: 0
   cipher: auto
   name: '2,4|🇺🇸 美国CF优选05-1C #1'
@@ -44,20 +138,30 @@ proxies:
     headers:
       Host: us05.xfxvpn.cloud
     path: /usjp05
-- cipher: chacha20-ietf-poly1305
-  name: '2,4|🇺🇸 美国 纽约01-1G #1'
-  password: 521855db-bf9e-4d8e-97dd-32ced1f2aab1
-  port: 20013
-  server: gy.666666222.shop
-  type: ss
+- auth: 254f5358-e711-496f-997a-3489fa98b42c
+  name: 2,4|🇸 HY2美国-0.8x
+  password: 254f5358-e711-496f-997a-3489fa98b42c
+  port: 20202
+  server: usanat.dackcf1.top
+  skip-cert-verify: true
+  sni: usanat.dackcf1.top
+  type: hysteria2
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇸 美国 纽约2-1I
-  password: 5e80b478-a047-4630-bc3c-64615b690f6e
-  port: 20016
-  server: gy.666666222.shop
-  type: ss
+- alterId: 0
+  cipher: auto
+  name: 2,4|🇸 美国CF优选06-1E
+  network: ws
+  port: 443
+  server: us06.jkjs.cloud
+  servername: us06.xfxvpn.one
+  tls: true
+  type: vmess
   udp: true
+  uuid: 7fff56f7-a674-4151-9495-b4dd04700720
+  ws-opts:
+    headers:
+      Host: us06.xfxvpn.one
+    path: /usjp06
 - alterId: 0
   cipher: auto
   name: '2,4|🇺🇸 美国CF优选08-1F #1'
@@ -81,6 +185,13 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 2|🇺🇸 美国 B US-1B
+  password: f0940a69-8d25-4221-96e6-80af3e9b4726
+  port: 32881
+  server: usa2.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 2,4|🇸 美国02-1O
   password: e1356d2a-ab9d-44d3-a25b-5d579b1a24a9
   port: 15628
@@ -88,110 +199,31 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇸 美国01-1D
-  password: 957a22a8-d64f-4827-9118-0e7da9fe44a4
-  port: 15532
-  server: gdcub.yunnode.win
+  name: 2,4|🇸 美国 纽约2-1I
+  password: 5e80b478-a047-4630-bc3c-64615b690f6e
+  port: 20016
+  server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇸 美国01-1C
-  password: fa43de8f-21fb-4f57-9583-b8fa2a34f0db
-  port: 56011
-  server: gd.xueyejiasu.com
+  name: '2,4|🇺🇸 美国 纽约01-1G #1'
+  password: 521855db-bf9e-4d8e-97dd-32ced1f2aab1
+  port: 20013
+  server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇺🇸 1|美国L|X1|DF1-1A #1'
-  password: 95bdb988-53c9-4a73-b3c0-aa05c4306d38
-  port: 59994
-  server: df-01.bestdong.xyz
+  name: 2|🇺🇸 美国 C US-1A
+  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
+  port: 33881
+  server: usa3.iepl.cooc.icu
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 2|🇺🇸 美国 1-1T
-  network: ws
-  port: 80
-  server: m2-us1.go-relay.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c40d2056-0d51-4e1e-8beb-9086ff985f6a
-  ws-opts:
-    headers:
-      Host: m2-us1.go-relay.top
-    path: /ws?ed=2560
-- alterId: 0
-  cipher: auto
-  name: 2|🇺🇸 美国 5-1G
-  network: ws
-  port: 80
-  server: m2-us2.m2network.icu
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4299f66c-1540-4556-8695-08ddd30d8c81
-  ws-opts:
-    headers:
-      Host: m2-us2.m2network.icu
-    path: /ws?ed=2560
-- alterId: 0
-  cipher: auto
-  name: 2|🇺🇸 美国 4-1P
-  network: ws
-  port: 80
-  server: m2-us1.m2network.icu
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 81d37cab-1006-4723-80f4-4700ef6109f1
-  ws-opts:
-    headers:
-      Host: m2-us1.m2network.icu
-    path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 US 海外用户-1A
-  password: f0940a69-8d25-4221-96e6-80af3e9b4726
-  port: 35881
-  server: us.cooc.icu
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 2,4|🇸 美国CF优选06-1E
-  network: ws
-  port: 443
-  server: us06.jkjs.cloud
-  servername: us06.xfxvpn.one
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 7fff56f7-a674-4151-9495-b4dd04700720
-  ws-opts:
-    headers:
-      Host: us06.xfxvpn.one
-    path: /usjp06
-- alterId: 0
-  cipher: auto
-  name: 2,4|🇸 美国CF优选07-1E
-  network: ws
-  port: 443
-  server: us07.jkjs.cloud
-  servername: us07.xfxvpn.top
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 7fff56f7-a674-4151-9495-b4dd04700720
-  ws-opts:
-    headers:
-      Host: us07.xfxvpn.top
-    path: /usjp07
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇸 美国04-1I
-  password: b3a16bd1-9d3a-485c-9ee7-66017805eeb6
-  port: 15728
-  server: gdcub.yunnode.win
+  name: 2|🇺🇸 美国 A US-1A
+  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
+  port: 31881
+  server: usa1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
@@ -202,34 +234,11 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 美国 B US-1A
-  password: f0940a69-8d25-4221-96e6-80af3e9b4726
-  port: 32881
-  server: usa2.iepl.cooc.icu
+  name: '2,4|🇺🇸 1|美国L|X1|DF1-1A #1'
+  password: 95bdb988-53c9-4a73-b3c0-aa05c4306d38
+  port: 59994
+  server: df-01.bestdong.xyz
   type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 美国 A US-1B
-  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
-  port: 31881
-  server: usa1.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇺🇸 美国 C US-1B
-  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
-  port: 33881
-  server: usa3.iepl.cooc.icu
-  type: ss
-  udp: true
-- auth: be4f86c5-d77e-49be-abdb-7b0c4e7f98c9
-  name: 2,4|🇸 北美-US-圣何塞-2-1A
-  password: be4f86c5-d77e-49be-abdb-7b0c4e7f98c9
-  port: 30001
-  server: oracle-amd-san-jose2.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: san-jose2.nodes.lanmaoyun.icu
-  type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇸 LS美国|1x
@@ -238,57 +247,6 @@ proxies:
   server: szyd.ewenhot.top
   type: ss
   udp: true
-- auth: 254f5358-e711-496f-997a-3489fa98b42c
-  name: 2,4|🇸 HY2美国-0.8x
-  password: 254f5358-e711-496f-997a-3489fa98b42c
-  port: 20202
-  server: usanat.dackcf1.top
-  skip-cert-verify: true
-  sni: usanat.dackcf1.top
-  type: hysteria2
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 3|[xiyaowong/freeFQ]14-744-US
-  network: ws
-  port: 2086
-  server: 23.254.166.237
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 8d0fd618-5d60-40d6-9f23-e503555f496f
-  ws-opts:
-    headers:
-      Host: 23.254.166.237
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[xiyaowong/freeFQ]03-222-US
-  network: ws
-  port: 80
-  server: us01.thomasina.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d2b1dfb1-3751-4b62-b2c2-cc234a15adb7
-  ws-opts:
-    headers:
-      Host: us01.thomasina.buzz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[xiyaowong/freeFQ]03-012-US
-  network: ws
-  port: 80
-  server: us04.thomasina.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d2b1dfb1-3751-4b62-b2c2-cc234a15adb7
-  ws-opts:
-    headers:
-      Host: us04.thomasina.buzz
-    path: /
 - alterId: 0
   cipher: auto
   name: 3|[xiyaowong/freeFQ]03-028-US
@@ -305,35 +263,17 @@ proxies:
     path: /awd
 - alterId: 0
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]03-247-US
-  network: ws
-  port: 80
-  server: us03.thomasina.buzz
+  name: 3|[1808.ga]TG频道@mfbpn-0786-US
+  network: tcp
+  port: 29679
+  server: 74.48.81.85
   servername: ''
   tls: false
   type: vmess
-  uuid: d2b1dfb1-3751-4b62-b2c2-cc234a15adb7
-  ws-opts:
-    headers:
-      Host: us03.thomasina.buzz
-    path: /
+  uuid: 12546069-7afa-4f6b-965c-9de13b8e74e8
 - alterId: 0
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]03-231-US
-  network: ws
-  port: 80
-  server: us02.thomasina.buzz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d2b1dfb1-3751-4b62-b2c2-cc234a15adb7
-  ws-opts:
-    headers:
-      Host: us02.thomasina.buzz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0651-RELAY
+  name: 3|[freefq]🏁RELAY-104.26.0.56-056
   network: ws
   port: 2086
   server: 104.26.0.56
@@ -347,7 +287,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '3|[freefq]🏁RELAY-104.19.51.232-0... #2'
+  name: 3|[1808.ga]TG频道@mfbpn-0646-RELAY
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -361,21 +301,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0733-US
-  network: ws
-  port: 80
-  server: 5.180.24.205
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 5d214f53-1332-449f-ad0e-0a1888ef5479
-  ws-opts:
-    headers:
-      Host: None
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[xiyaowong/freeFQ]17-781-US
+  name: 3|[xiyaowong/freeFQ]17-767-US
   network: ws
   port: 80
   server: 5.180.24.205
@@ -386,6 +312,20 @@ proxies:
   ws-opts:
     headers:
       Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0777-US
+  network: ws
+  port: 80
+  server: 5.180.24.205
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5d214f53-1332-449f-ad0e-0a1888ef5479
+  ws-opts:
+    headers:
+      Host: None
     path: /vmess
 - alterId: 0
   cipher: auto

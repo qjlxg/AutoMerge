@@ -1,85 +1,25 @@
 proxies:
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0301-CN
+  name: 0|中国_0807003
   network: ws
-  port: 23619
-  server: 19.v2-ray.cyou
+  port: '80'
+  server: 103.184.45.10
   servername: ''
   tls: false
   type: vmess
-  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
   ws-opts:
     headers:
-      Host: 19.v2-ray.cyou
-    path: /
-- alterId: 2
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 64
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]04-165-CN
-  network: ws
-  port: 23613
-  server: 13.v2-ray.cyou
+  name: 3|[xiyaowong/freeFQ]03-121-CN
+  network: tcp
+  port: 54002
+  server: 183.236.48.163
   servername: ''
   tls: false
   type: vmess
-  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
-  ws-opts:
-    headers:
-      Host: 13.v2-ray.cyou
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 3|[xiyaowong/freeFQ]04-162-CN
-  network: ws
-  port: 23614
-  server: 14.v2-ray.cyou
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
-  ws-opts:
-    headers:
-      Host: 14.v2-ray.cyou
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0300-CN
-  network: ws
-  port: 23611
-  server: 11.v2-ray.cyou
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 7d3e92a0-c998-330a-8689-a5ccf93c8b93
-  ws-opts:
-    headers:
-      Host: 11.v2-ray.cyou
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0195-CN
-  network: ws
-  port: 23617
-  server: 17.v2-ray.cyou
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e4bb8827-c8c8-3453-8f41-80db8edf7ded
-  ws-opts:
-    headers:
-      Host: 17.v2-ray.cyou
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0194-CN
-  network: ws
-  port: 23612
-  server: 12.v2-ray.cyou
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e4bb8827-c8c8-3453-8f41-80db8edf7ded
-  ws-opts:
-    headers:
-      Host: 12.v2-ray.cyou
-    path: /
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24

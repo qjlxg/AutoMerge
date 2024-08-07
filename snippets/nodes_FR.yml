@@ -1,8 +1,48 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|法国_0807038
+  network: ''
+  port: '18701'
+  server: germany.raspberryip.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6371a73c-d2e5-42b8-9102-53e1b7ebc971
+- alterId: 0
+  cipher: auto
+  name: 0|法国_0807046
+  network: ''
+  port: '18701'
+  server: 162.19.250.255
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6371a73c-d2e5-42b8-9102-53e1b7ebc971
+- alterId: 0
+  cipher: auto
+  name: 0|法国_0807057
+  network: ''
+  port: '44513'
+  server: 162.19.25.207
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
 - cipher: aes-128-gcm
-  name: 2|🇫🇷 法国 FR BIZ-1B
-  password: ab555682-8e7d-43dc-be37-5cdac5a6d674
+  name: 2|🇫🇷 法国 FR BIZ-1A
+  password: 4b690ff6-a825-44d1-a70e-f5b585de684d
   port: 35611
   server: 120.241.118.161
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0660-FR
+  network: tcp
+  port: 18701
+  server: 162.19.250.255
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6371a73c-d2e5-42b8-9102-53e1b7ebc971

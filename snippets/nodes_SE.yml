@@ -1,1 +1,43 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 0,3|[xiyaowong/freeFQ]34-880-RELAY
+  network: ws
+  port: 80
+  server: Back.MsV2ray.online
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: d396-flower-d396.megare7260.workers.dev
+    path: /obdii.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 0,3|[freefq]🏁RELAY-185.146.173.92-...
+  network: ws
+  port: 80
+  server: 185.146.173.92
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 8639e52b-a0ce-5d68-b465-b594881feb78
+  ws-opts:
+    headers:
+      Host: De1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 0|瑞典_0807020
+  network: ws
+  port: '2052'
+  server: 185.146.173.92
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: Ch2.vmess.site.
+    path: /

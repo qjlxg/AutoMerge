@@ -1,4 +1,14 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|俄罗斯联邦_0807025
+  network: ''
+  port: '47555'
+  server: 46.29.166.237
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇺 DX-SS|1x
   password: 170346fa-b2cb-4a72-8696-ce4b69ab7263

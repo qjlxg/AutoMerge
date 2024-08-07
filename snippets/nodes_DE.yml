@@ -1,4 +1,14 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 0|德国_0807068
+  network: ''
+  port: '18571'
+  server: 91.107.186.162
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fdf7d99f-7cf3-4b95-891f-4fa9db5b716e
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇪 DX德国-SS|1x
   password: 170346fa-b2cb-4a72-8696-ce4b69ab7263
@@ -7,7 +17,7 @@ proxies:
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 2|🇩🇪 德国 DE | BIZ-1C
+  name: 2|🇩🇪 德国 DE | BIZ-1A
   password: 4b690ff6-a825-44d1-a70e-f5b585de684d
   port: 35607
   server: 120.241.118.161

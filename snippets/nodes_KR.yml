@@ -1,19 +1,30 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 2,4|澳NO.2-1A
-  password: b85d4d46-02b6-4ab9-b0bd-53fd1794dc90
-  port: 45051
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  sni: tro-us.linkconnectnf.xyz
+  name: 0|韩国_0807010
+  network: ws
+  port: '54700'
+  server: 193.123.244.147
+  servername: ''
   tls: false
   type: vmess
+  uuid: 1b7eac5b-476b-4433-bb43-720e659e01ae
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- auth: dc3925fd-f68f-4a55-8144-93a74e7214fa
+  name: 2|🇰🇷 韩国 02-4Q
+  password: dc3925fd-f68f-4a55-8144-93a74e7214fa
+  port: 44300
+  server: kr-04.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-03.worldfirst.eu.org
+  type: hysteria2
   udp: true
-  uuid: 6b228577-9d12-444c-84a0-8f36e6ffee44
-- auth: 2a66d076-b457-421c-8ebe-d48956808774
-  name: 2|🇰🇷 韩国 01-6K
-  password: 2a66d076-b457-421c-8ebe-d48956808774
+- auth: 44e3e8d3-6643-4e6a-b671-e9c4b5785c0e
+  name: 2|🇰🇷 韩国 01-1F
+  password: 44e3e8d3-6643-4e6a-b671-e9c4b5785c0e
   port: 44301
   server: kr-01.worldfirst.eu.org
   skip-cert-verify: true
@@ -21,14 +32,14 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 A KR-1A
-  password: b657d4ea-b2ce-49fb-99e2-12bd6dde627c
-  port: 35101
-  server: kr1.iepl.cooc.icu
+  name: 2|🇰🇷 韩国 B KR-1A
+  password: 4b690ff6-a825-44d1-a70e-f5b585de684d
+  port: 35102
+  server: kr2.iepl.cooc.icu
   type: ss
   udp: true
 - auth: 2acd2848-3458-4b58-ba8b-97843299d715
-  name: 2,4|🇰🇷 韩国-2
+  name: '2,4|🇰🇷 韩国-2 #1'
   password: 2acd2848-3458-4b58-ba8b-97843299d715
   port: 30001
   server: oracle-arm-chuncheon2.lanmaoyun.icu
@@ -36,34 +47,25 @@ proxies:
   sni: korea.nodes.lanmaoyun.icu
   type: hysteria2
   udp: true
-- auth: 91556169-5b5b-4d30-87db-360168fa4008
-  name: 2|🇰🇷 韩国 02-4M
-  password: 91556169-5b5b-4d30-87db-360168fa4008
-  port: 44300
-  server: kr-04.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: kr-03.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇷 DX韩国|1x
-  password: 170346fa-b2cb-4a72-8696-ce4b69ab7263
-  port: 13666
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇰🇷 韩国 C KR-1B
-  password: ab555682-8e7d-43dc-be37-5cdac5a6d674
+  password: bda77473-5e50-452e-a0f3-66d1e6d283e0
   port: 35609
   server: kr3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 B KR-1B
-  password: ab555682-8e7d-43dc-be37-5cdac5a6d674
-  port: 35102
-  server: kr2.iepl.cooc.icu
+  name: 2,4|🇷 LS韩国|1x
+  password: 170346fa-b2cb-4a72-8696-ce4b69ab7263
+  port: 48296
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 A KR-1A
+  password: 4b690ff6-a825-44d1-a70e-f5b585de684d
+  port: 35101
+  server: kr1.iepl.cooc.icu
   type: ss
   udp: true
 - auth: 2acd2848-3458-4b58-ba8b-97843299d715
@@ -76,10 +78,10 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇷 LS韩国|1x
+  name: 2,4|🇷 DX韩国|1x
   password: 170346fa-b2cb-4a72-8696-ce4b69ab7263
-  port: 48296
-  server: szyd.ewenhot.top
+  port: 13666
+  server: hzgg.ewenhot.top
   type: ss
   udp: true
 - auth: 2acd2848-3458-4b58-ba8b-97843299d715
@@ -105,3 +107,17 @@ proxies:
     headers:
       Host: ''
     path: /
+- alterId: 64
+  cipher: auto
+  name: 3|[peasoft/NoMoreWalls]10,11|韩国|...
+  network: ws
+  port: '30000'
+  server: 104.37.215.69
+  servername: www.47961225.xyz
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      Host: www.47961225.xyz
+    path: /path/011410073331

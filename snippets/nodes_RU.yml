@@ -1,8 +1,22 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇺 DX-SS|1x
-  password: b0d05597-55e6-44fa-a692-7c1de1e6990e
+  password: 68cf8507-fa73-4627-aaa4-f0f3872150e0
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[freefq]🇷🇺RU-194.87.69.102-077
+  network: ws
+  port: 12910
+  server: 22.lwdh.us
+  servername: 22.lwdh.us
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: 22.lwdh.us
+    path: /

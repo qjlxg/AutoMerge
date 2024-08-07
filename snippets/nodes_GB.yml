@@ -1,30 +1,21 @@
 proxies:
-- auth: 2b21ffbb-0410-4870-a894-8f4dfaea5206
-  name: 2|ZB-WUR
-  password: 2b21ffbb-0410-4870-a894-8f4dfaea5206
-  port: 44300
-  server: sg-01.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: sg-01.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '2,4|🇬🇧 英国01-1G #1'
-  password: ff82e529-8b1f-4bc7-a378-bd24901ebe0d
-  port: 15634
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
-  name: 2|🇬🇧 英国 UK | BIZ-1B
-  password: 6f9ba1c8-904f-404f-84c4-476bade80062
+  name: 2|🇬🇧 英国 UK | BIZ-1C
+  password: f0940a69-8d25-4221-96e6-80af3e9b4726
   port: 35605
   server: uk1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 2,4|🇧 英国01-1E
+  password: eb4d40d6-eedd-4eef-9571-e801e4020a0d
+  port: 15634
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 2,4|🇧 DX英国-SS|1x
-  password: b0d05597-55e6-44fa-a692-7c1de1e6990e
+  password: 68cf8507-fa73-4627-aaa4-f0f3872150e0
   port: 10522
   server: hzgg.ewenhot.top
   type: ss

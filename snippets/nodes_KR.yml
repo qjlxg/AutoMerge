@@ -1,62 +1,44 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 2,4|🇭🇰 V2 香港 华南专线-1B
-  password: 370c18b5-67a9-46ca-9739-86cb8ec9bc03
-  port: 31011
-  server: azi.cm2.xiaomi-api.xyz
+  name: 2,4|🇦 加拿大1-1B
+  password: 2ba27c40-7468-4558-a32b-e709e104106b
+  port: 45066
+  server: haa.dashuai.cyou
   skip-cert-verify: false
-  sni: tro-us.linkconnectnf.xyz
+  sni: kr-qingyun.dwyun.me
   tls: false
   type: vmess
   udp: true
-  uuid: 9e94ecb5-c24f-4588-a00e-05902520f7bf
-- auth: 97529ea7-7a8c-416d-ae25-cafc665783d3
-  name: 2|🇰🇷 韩国 01-3M
-  password: 97529ea7-7a8c-416d-ae25-cafc665783d3
-  port: 44301
-  server: kr-01.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: kr-01.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- auth: 51eff2ae-5928-456f-837e-38a842fdbf22
-  name: 2|🇰🇷 韩国 02-3A
-  password: 51eff2ae-5928-456f-837e-38a842fdbf22
+  uuid: 19b7ac17-ea79-45d4-9856-4b12d9a061ac
+- auth: 17353f6c-c0f4-48fa-9d82-8ab6b167c6bc
+  name: 2|🇰🇷 韩国 02-4I
+  password: 17353f6c-c0f4-48fa-9d82-8ab6b167c6bc
   port: 44300
   server: kr-04.worldfirst.eu.org
   skip-cert-verify: true
   sni: kr-03.worldfirst.eu.org
   type: hysteria2
   udp: true
-- auth: 3b25f1de-b545-435d-82f3-22a723449828
-  name: 2,4|🇷 韩国--1B
-  password: 3b25f1de-b545-435d-82f3-22a723449828
-  port: 30001
-  server: oracle-arm-seoul1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- auth: 3b25f1de-b545-435d-82f3-22a723449828
-  name: 2,4|🇷 韩国-2-1B
-  password: 3b25f1de-b545-435d-82f3-22a723449828
-  port: 30001
-  server: oracle-arm-chuncheon2.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
+- auth: d72add79-9402-4cc0-8317-b01d5fbceb67
+  name: 2|🇰🇷 韩国 01-4G
+  password: d72add79-9402-4cc0-8317-b01d5fbceb67
+  port: 44301
+  server: kr-01.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-01.worldfirst.eu.org
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇷 LS韩国|1x
-  password: 254f5358-e711-496f-997a-3489fa98b42c
-  port: 48296
-  server: szyd.ewenhot.top
+  name: 2|🇰🇷 韩国 C KR-1B
+  password: b5f77a54-4dc8-4927-931d-91b55c345860
+  port: 35609
+  server: kr3.iepl.cooc.icu
   type: ss
   udp: true
-- auth: 3b25f1de-b545-435d-82f3-22a723449828
-  name: '2,4|🇰🇷 韩国-1-1B #1'
-  password: 3b25f1de-b545-435d-82f3-22a723449828
+- auth: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+  name: 2,4|🇷 韩国-1-1A
+  password: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
   port: 30001
   server: oracle-arm-chuncheon1.lanmaoyun.icu
   skip-cert-verify: false
@@ -64,18 +46,20 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 C KR-1C
-  password: b5f77a54-4dc8-4927-931d-91b55c345860
-  port: 35609
-  server: kr3.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 B KR-1B
-  password: f0940a69-8d25-4221-96e6-80af3e9b4726
+  name: 2|🇰🇷 韩国 B KR-1C
+  password: cf5be73c-5315-4e17-b83c-34957ea1532c
   port: 35102
   server: kr2.iepl.cooc.icu
   type: ss
+  udp: true
+- auth: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+  name: 2,4|🇷 韩国-2-1A
+  password: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+  port: 30001
+  server: oracle-arm-chuncheon2.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇰🇷 韩国 A KR-1A
@@ -85,12 +69,42 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇰🇷 DX国|1x
-  password: 254f5358-e711-496f-997a-3489fa98b42c
+  name: 2,4|🇷 DX国|1x
+  password: 5662b3a5-e002-4f34-9602-05960e299a2c
   port: 13666
   server: hzgg.ewenhot.top
   type: ss
   udp: true
+- auth: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+  name: 2,4|🇰🇷 韩国-首尔-1A
+  password: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+  port: 30001
+  server: oracle-arm-seoul1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '2,4|🇰🇷 LS韩国|1x #1'
+  password: 5662b3a5-e002-4f34-9602-05960e299a2c
+  port: 48296
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[freefq]🇰🇷KR-152.67.218.38-148
+  network: ws
+  port: 443
+  server: 152.67.218.38
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b5e9480a-b7aa-40a4-f9a7-5299b5e363b4
+  ws-opts:
+    headers:
+      Host: 152.67.218.38
+    path: /
 - alterId: 0
   cipher: auto
   name: 3|[freefq]🇰🇷KR-152.67.218.38-318

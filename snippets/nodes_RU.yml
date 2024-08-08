@@ -1,31 +1,14 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇺 DX-SS|1x
+  password: a1962221-1097-458d-93f3-423dce1ef922
+  port: 10871
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808020
-  network: tcp
-  port: '47555'
-  server: 46.29.166.237
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808113
-  network: ws
-  port: '12910'
-  server: 194.87.69.102
-  servername: 22.lwdh.us
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    headers:
-      Host: 22.lwdh.us
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808120
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808104
   network: ''
   port: '47555'
   server: 46.29.166.237
@@ -35,18 +18,14 @@ proxies:
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808046
-  network: ws
-  port: '2024'
-  server: 45.14.244.133
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808080
+  network: tcp
+  port: '47555'
+  server: 46.29.166.237
   servername: ''
   tls: false
   type: vmess
-  uuid: 6ceb6456-6264-4e81-b504-4dadb1cd0a0b
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
+  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
   name: 3|[freefq]🇷🇺RU-194.87.69.102-272
@@ -62,8 +41,36 @@ proxies:
       Host: 22.lwdh.us
     path: /
 - alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808081
+  network: ws
+  port: '12910'
+  server: 194.87.69.102
+  servername: 22.lwdh.us
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: 22.lwdh.us
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808105
+  network: ws
+  port: '2024'
+  server: 45.14.244.133
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6ceb6456-6264-4e81-b504-4dadb1cd0a0b
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808137
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808141
   network: ws
   port: '80'
   server: 185.174.138.60

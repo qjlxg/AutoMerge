@@ -1,7 +1,87 @@
 proxies:
+- auth: f3aaf9f7-d79c-47bb-ba1b-8efa6d5741ca
+  name: 2|🇰🇷 韩国 02-5J
+  password: f3aaf9f7-d79c-47bb-ba1b-8efa6d5741ca
+  port: 44300
+  server: kr-04.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-03.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 B KR-1B
+  password: c6bed339-1fce-45f1-a333-1f879f75a319
+  port: 35102
+  server: kr2.iepl.cooc.icu
+  type: ss
+  udp: true
+- auth: 0b67ada8-67de-4d16-815b-696558362d53
+  name: 2|🇰🇷 韩国 01-3S
+  password: 0b67ada8-67de-4d16-815b-696558362d53
+  port: 44301
+  server: kr-01.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-01.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- auth: 2ba62f86-b856-4355-a66e-9091af28eb74
+  name: 2,4|🇷 韩国-2-1A
+  password: 2ba62f86-b856-4355-a66e-9091af28eb74
+  port: 30001
+  server: oracle-arm-chuncheon2.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- auth: 2ba62f86-b856-4355-a66e-9091af28eb74
+  name: 2,4|🇷 韩国-首尔-1A
+  password: 2ba62f86-b856-4355-a66e-9091af28eb74
+  port: 30001
+  server: oracle-arm-seoul1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- auth: dac5696b-7ee9-4e06-8184-0cc38f5dabaa
+  name: '2,4|🇰🇷 韩国-1-1B #1'
+  password: dac5696b-7ee9-4e06-8184-0cc38f5dabaa
+  port: 30001
+  server: oracle-arm-chuncheon1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 A KR-1C
+  password: bf380a30-2a2b-4dd8-9531-372f9f25aee6
+  port: 35101
+  server: kr1.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇰🇷 韩国 C KR-1B
+  password: c6bed339-1fce-45f1-a333-1f879f75a319
+  port: 35609
+  server: kr3.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇰🇷 LS国|1x
+  password: a1962221-1097-458d-93f3-423dce1ef922
+  port: 48296
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '2,4|🇰🇷 DX韩国|1x #1'
+  password: a1962221-1097-458d-93f3-423dce1ef922
+  port: 13666
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0808080
+  name: 3|[mianfeifq/share]韩国_0808074
   network: ws
   port: '54700'
   server: 193.123.244.147
@@ -15,7 +95,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0808082
+  name: 3|[mianfeifq/share]韩国_0808066
   network: ''
   port: '26022'
   server: 152.70.39.9
@@ -23,54 +103,3 @@ proxies:
   tls: false
   type: vmess
   uuid: e0254dda-dc8c-46b0-8df8-07c453aaafd7
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]韩国_0808101
-  network: tcp
-  port: '26022'
-  server: 152.70.39.9
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e0254dda-dc8c-46b0-8df8-07c453aaafd7
-- auth: 2ba62f86-b856-4355-a66e-9091af28eb74
-  name: 4|🇰🇷 韩国-2
-  password: 2ba62f86-b856-4355-a66e-9091af28eb74
-  port: 30001
-  server: oracle-arm-chuncheon2.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- auth: 2ba62f86-b856-4355-a66e-9091af28eb74
-  name: 4|🇷 韩国-1
-  password: 2ba62f86-b856-4355-a66e-9091af28eb74
-  port: 30001
-  server: oracle-arm-chuncheon1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 4|🇷 DX韩国|1x
-  password: edce87c1-6a89-4cee-99ee-7c7e39c604bf
-  port: 13666
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
-- auth: 2ba62f86-b856-4355-a66e-9091af28eb74
-  name: 4|🇷 韩国-
-  password: 2ba62f86-b856-4355-a66e-9091af28eb74
-  port: 30001
-  server: oracle-arm-seoul1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 4|🇷 LS韩国|1x
-  password: edce87c1-6a89-4cee-99ee-7c7e39c604bf
-  port: 48296
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true

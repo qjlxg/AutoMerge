@@ -1,49 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808032
-  network: ws
-  port: '80'
-  server: 185.146.173.63
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2ced7332-31d2-4b62-b098-fb31ea120359
-  ws-opts:
-    headers:
-      Host: 5e1ace082c1f1632.5e1ace082c1f1632knock.hihi.5e1ace082c1f1632.dE-DaRGAh.oFFdARSAd.iR.
-    path: /navigate/de?ed=1024
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808033
-  network: ws
-  port: '80'
-  server: 185.146.173.167
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2ced7332-31d2-4b62-b098-fb31ea120359
-  ws-opts:
-    headers:
-      Host: 5e1ace082c1f1632.5e1ace082c1f1632knock.hihi.5e1ace082c1f1632.dE-DaRGAh.oFFdARSAd.iR.
-    path: /navigate/de?ed=1024
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808008
-  network: ws
-  port: '443'
-  server: 185.146.173.158
-  servername: jahfkjha.cfd
-  tls: true
-  type: vmess
-  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
-  ws-opts:
-    headers:
-      Host: jahfkjha.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808027
+  name: 3|[mianfeifq/share]瑞典_0808019
   network: ws
   port: '80'
   server: 185.146.173.227
@@ -57,7 +15,7 @@ proxies:
     path: /navigate/de?ed=1024
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808010
+  name: 3|[mianfeifq/share]瑞典_0808033
   network: ws
   port: '2095'
   server: 185.146.173.185
@@ -71,47 +29,23 @@ proxies:
     path: /Ftp.Debian.Org?ed=2560
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808034
+  name: 3|[mianfeifq/share]瑞典_0808025
   network: ws
-  port: '80'
-  server: 185.146.173.33
-  servername: ''
-  tls: false
+  port: '443'
+  server: 185.146.173.158
+  servername: jahfkjha.cfd
+  tls: true
   type: vmess
-  uuid: 2ced7332-31d2-4b62-b098-fb31ea120359
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
   ws-opts:
     headers:
-      Host: 5e1ace082c1f1632.5e1ace082c1f1632knock.hihi.5e1ace082c1f1632.dE-DaRGAh.oFFdARSAd.iR.
-    path: /navigate/de?ed=1024
+      Host: jahfkjha.cfd
+    path: /linkws
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808014
+  name: '3|[freefq]🏁RELAY-185.146.173.92-... #1'
   network: ws
-  port: '80'
-  server: 185.146.173.59
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
-  ws-opts:
-    headers:
-      Host: freevpn878.hamidimorteza680.workers.dev
-    path: /glweidf.cfd/linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808042
-  network: ''
-  port: '32648'
-  server: 45.154.156.178
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: bc8e1235-6cef-4bdd-f3f2-0b4f3c8a7b70
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]瑞典_0808001
-  network: ws
-  port: '80'
+  port: 80
   server: 185.146.173.92
   servername: ''
   tls: false
@@ -121,16 +55,6 @@ proxies:
     headers:
       Host: De1.vmess.site.
     path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808007
-  network: tcp
-  port: '32648'
-  server: 45.154.156.178
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: bc8e1235-6cef-4bdd-f3f2-0b4f3c8a7b70
 - alterId: 0
   cipher: none
   name: 3|[mianfeifq/share]瑞典_0808039

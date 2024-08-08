@@ -1,10 +1,10 @@
 proxies:
 - alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]中国_0808181
+  name: 3|[mianfeifq/share]中国_0808186
   network: ws
   port: '80'
-  server: 103.184.44.74
+  server: 103.184.45.10
   servername: ''
   tls: false
   type: vmess
@@ -15,10 +15,10 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]中国_0808182
+  name: 3|[mianfeifq/share]中国_0808185
   network: ws
   port: '80'
-  server: 103.184.45.10
+  server: 103.184.44.74
   servername: ''
   tls: false
   type: vmess

@@ -1,15 +1,15 @@
 proxies:
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]德国_0808149
-  network: ws
-  port: '80'
-  server: 188.244.122.72
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
+- cipher: aes-128-gcm
+  name: 2|🇩🇪 德国 DE | BIZ-1B
+  password: c6bed339-1fce-45f1-a333-1f879f75a319
+  port: 35607
+  server: 120.241.118.161
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇪 DX国-SS|1x
+  password: a1962221-1097-458d-93f3-423dce1ef922
+  port: 44281
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true

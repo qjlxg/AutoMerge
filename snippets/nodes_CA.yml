@@ -1,71 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808206
-  network: tcp
-  port: '3389'
-  server: ho-142.93.144.99.nip.io
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808215
-  network: ws
-  port: '443'
-  server: 140.238.147.128
-  servername: 141.724064.xyz
-  tls: true
-  type: vmess
-  uuid: f3878e79-8166-4140-8dbe-e1f35b650e1c
-  ws-opts:
-    headers:
-      Host: 141.724064.xyz
-    path: /gmvfvws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808182
-  network: tcp
-  port: '3389'
-  server: shn-142.93.144.99.sslip.io
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808209
-  network: tcp
-  port: '3389'
-  server: antm-142.93.144.99.nip.io
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808142
-  network: tcp
-  port: '3389'
-  server: 167.99.179.27
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808195
-  network: tcp
-  port: '3389'
-  server: gd-142.93.144.99.nip.io
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808058
+  name: 3|[mianfeifq/share]加拿大_0808057
   network: tcp
   port: '3389'
   server: 178.128.237.6
@@ -75,7 +11,41 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808181
+  name: 3|[mianfeifq/share]加拿大_0808176
+  network: tcp
+  port: '3389'
+  server: shn-142.93.144.99.sslip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808196
+  network: tcp
+  port: '3389'
+  server: gd-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808188
+  network: ws
+  port: '38848'
+  server: proxy.cc-la.152618.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 20fed645-619c-4ca1-c00e-743ea8a3b51f
+  ws-opts:
+    headers:
+      Host: ''
+    path: /6c8e5a1b
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808175
   network: tcp
   port: '3389'
   server: prxm-142.93.144.99.nip.io
@@ -85,7 +55,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808183
+  name: 3|[mianfeifq/share]加拿大_0808177
   network: tcp
   port: '3389'
   server: 142.93.144.99
@@ -95,35 +65,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808214
-  network: ws
-  port: '443'
-  server: 168.138.70.157
-  servername: 145.724064.xyz
-  tls: true
-  type: vmess
-  uuid: 5de1ff44-aaf8-4790-b0fb-e55aab062622
-  ws-opts:
-    headers:
-      Host: 145.724064.xyz
-    path: /zrqrvws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808201
-  network: ws
-  port: '443'
-  server: 142.724064.xyz
-  servername: 142.724064.xyz
-  tls: true
-  type: vmess
-  uuid: 508b2b91-0aba-411e-97be-c544a0ea7170
-  ws-opts:
-    headers:
-      Host: ''
-    path: /pttnvws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808062
+  name: 3|[mianfeifq/share]加拿大_0808061
   network: ws
   port: '38848'
   server: 74.48.173.147
@@ -137,11 +79,83 @@ proxies:
     path: /6c8e5a1b
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808204
+  name: 3|[mianfeifq/share]加拿大_0808195
+  network: tcp
+  port: '3389'
+  server: ho-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808152
+  network: tcp
+  port: '3389'
+  server: 167.99.179.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808203
+  network: ws
+  port: '443'
+  server: 140.238.147.128
+  servername: 141.724064.xyz
+  tls: true
+  type: vmess
+  uuid: f3878e79-8166-4140-8dbe-e1f35b650e1c
+  ws-opts:
+    headers:
+      Host: 141.724064.xyz
+    path: /gmvfvws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808191
+  network: tcp
+  port: '3389'
+  server: antm-142.93.144.99.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808206
+  network: ws
+  port: '443'
+  server: 142.724064.xyz
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 508b2b91-0aba-411e-97be-c544a0ea7170
+  ws-opts:
+    headers:
+      Host: ''
+    path: /pttnvws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808201
+  network: ws
+  port: '443'
+  server: 168.138.70.157
+  servername: 145.724064.xyz
+  tls: true
+  type: vmess
+  uuid: 5de1ff44-aaf8-4790-b0fb-e55aab062622
+  ws-opts:
+    headers:
+      Host: 145.724064.xyz
+    path: /zrqrvws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808207
   network: ws
   port: '443'
   server: 140.238.157.13
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  servername: 142.724064.xyz
   tls: true
   type: vmess
   uuid: 508b2b91-0aba-411e-97be-c544a0ea7170
@@ -151,18 +165,158 @@ proxies:
     path: /pttnvws
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808205
+  name: 3|[mianfeifq/share]加拿大_0808192
   network: ws
-  port: '38848'
-  server: proxy.cc-la.152618.xyz
+  port: '80'
+  server: us-21.hihu.net
   servername: ''
   tls: false
   type: vmess
-  uuid: 20fed645-619c-4ca1-c00e-743ea8a3b51f
+  uuid: f838adb0-5314-11ef-b532-205c6d5f5d78
+  ws-opts:
+    headers:
+      Host: android.googleapis.com
+    path: /cp15jvhn
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808194
+  network: ws
+  port: '2095'
+  server: 108.181.5.19
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9555d84-a146-4e36-9c23-eac28387be48
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /WNh8bXQv/
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808043
+  network: ws
+  port: '2086'
+  server: shopify.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1789034.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808208
+  network: ws
+  port: '2086'
+  server: 108.181.24.77
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip001.dtku47.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808142
+  network: ws
+  port: '2086'
+  server: ip001.dtku47.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip001.dtku47.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808036
+  network: ws
+  port: '2086'
+  server: 23.227.38.8
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip5-10.freegradely.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808193
+  network: ws
+  port: '2086'
+  server: 108.181.23.41
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip2.1457230.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808200
+  network: ws
+  port: '2086'
+  server: 108.181.22.55
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip1.1789034.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808197
+  network: ws
+  port: '2086'
+  server: 108.181.5.19
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: ip14.freegradely.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808205
+  network: ws
+  port: '8080'
+  server: ip001.dtku47.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ffaba3ee-4070-4590-9959-d863f9a4c6de
   ws-opts:
     headers:
       Host: ''
-    path: /6c8e5a1b
+    path: /9aqOiXD2/
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]加拿大_0808190
+  network: ws
+  port: '2086'
+  server: 108.181.5.131
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  ws-opts:
+    headers:
+      Host: ip002.dtku47.xyz
+    path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: 3|[mianfeifq/share]加拿大_0808099
@@ -179,189 +333,7 @@ proxies:
     path: /WNh8bXQv/
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808199
-  network: ws
-  port: '2086'
-  server: 108.181.5.19
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip14.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808197
-  network: ws
-  port: '2086'
-  server: 108.181.5.131
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip006.3196772.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808213
-  network: ws
-  port: '2095'
-  server: 108.181.5.19
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9555d84-a146-4e36-9c23-eac28387be48
-  ws-opts:
-    headers:
-      Host: ip5.freegradely.xyz
-    path: /WNh8bXQv/
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808037
-  network: ws
-  port: '2086'
-  server: 23.227.38.8
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip5-10.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808210
-  network: ws
-  port: '2086'
-  server: 108.181.23.41
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[freefq]🏁RELAY-23.227.38.5-002
-  network: ws
-  port: 2086
-  server: 23.227.38.5
-  servername: ip006.freegradely.xyz
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip006.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808160
-  network: ws
-  port: '2086'
-  server: ip001.dtku47.xyz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip001.dtku47.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[freefq]🏁RELAY-23.227.38.6-006
-  network: ws
-  port: 2086
-  server: 23.227.38.6
-  servername: ip006.3196772.xyz
-  tls: false
-  type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
-  ws-opts:
-    headers:
-      Host: ip006.3196772.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808203
-  network: ws
-  port: '2086'
-  server: 108.181.24.77
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip001.dtku47.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808208
-  network: ws
-  port: '8080'
-  server: ip001.dtku47.xyz
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: ffaba3ee-4070-4590-9959-d863f9a4c6de
-  ws-opts:
-    headers:
-      Host: ip001.freegradely.xyz
-    path: /9aqOiXD2/
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808193
-  network: ws
-  port: '2052'
-  server: 108.181.23.161
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808196
-  network: ws
-  port: '2086'
-  server: 108.181.22.55
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip1.1457230.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-0957-RELAY
-  network: ws
-  port: 2086
-  server: 23.227.38.3
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip14.freegradely.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808161
+  name: 3|[mianfeifq/share]加拿大_0808143
   network: ws
   port: '2086'
   server: ip002.dtku47.xyz
@@ -372,18 +344,4 @@ proxies:
   ws-opts:
     headers:
       Host: ip002.dtku47.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]加拿大_0808044
-  network: ws
-  port: '2086'
-  server: shopify.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
-  ws-opts:
-    headers:
-      Host: ip1.1789034.xyz
     path: github.com/Alvin9999

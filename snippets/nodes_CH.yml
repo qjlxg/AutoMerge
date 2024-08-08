@@ -1,1 +1,29 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]瑞士_0808025
+  network: ws
+  port: '80'
+  server: ch1.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]瑞士_0808027
+  network: ws
+  port: '80'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess

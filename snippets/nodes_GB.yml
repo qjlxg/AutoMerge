@@ -1,11 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇧 英国01-1G
-  password: 4edd6480-5c42-4a9d-b99e-067584ee21e1
-  port: 15634
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
   name: 2|🇬🇧 英国 UK | BIZ-1A
   password: 5141d71d-8a0d-4954-9a04-e40cb3562d7b
@@ -15,84 +8,14 @@ proxies:
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇧 DX英国-SS|1x
-  password: a1962221-1097-458d-93f3-423dce1ef922
+  password: 1220114e-1971-4bac-9e56-d97f7e154fe4
   port: 10522
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]英国_0808057
-  network: tcp
-  port: '8099'
-  server: 154.47.21.44
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808035
-  network: tcp
-  port: '8099'
-  server: 154.47.21.54
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808066
-  network: ''
-  port: '8099'
-  server: 154.47.21.54
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808055
-  network: tcp
-  port: '8099'
-  server: 154.47.21.52
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808079
-  network: ''
-  port: '8099'
-  server: 154.47.21.52
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808062
-  network: ''
-  port: '8099'
-  server: 154.47.21.56
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808054
-  network: tcp
-  port: '8099'
-  server: 154.47.21.56
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]英国_0808063
+  name: 3|[mianfeifq/share]英国_0808083
   network: ''
   port: '8099'
   server: 154.47.21.44
@@ -102,17 +25,139 @@ proxies:
   uuid: fa1897db-1925-4c86-a495-939a959af900
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]英国_0808056
+  name: 3|[mianfeifq/share]英国_0808075
+  network: tcp
+  port: '8099'
+  server: 154.47.21.44
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808040
+  network: tcp
+  port: '8099'
+  server: 154.47.21.54
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808116
+  network: ws
+  port: '443'
+  server: 139.162.194.178
+  servername: linja05.hwcar.sbs
+  tls: true
+  type: vmess
+  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
+  ws-opts:
+    headers:
+      Host: linja05.hwcar.sbs
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808074
   network: tcp
   port: '8099'
   server: 154.47.21.27
   servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808033
+  network: ''
+  port: '8099'
+  server: 154.47.21.54
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808073
+  network: tcp
+  port: '8099'
+  server: 154.47.21.52
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808101
+  network: ''
+  port: '8099'
+  server: 154.47.21.56
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808084
+  network: ''
+  port: '8099'
+  server: 154.47.21.52
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808122
+  network: tcp
+  port: '8099'
+  server: 154.47.21.37
+  servername: 154.47.21.37
   tls: false
   type: vmess
   uuid: fa1897db-1925-4c86-a495-939a959af900
 - alterId: 0
   cipher: auto
   name: 3|[mianfeifq/share]英国_0808072
+  network: tcp
+  port: '8099'
+  server: 154.47.21.56
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808129
+  network: ws
+  port: '443'
+  server: 45.158.77.195
+  servername: obdii.cfd
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: obdii.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808115
+  network: ws
+  port: '443'
+  server: 17.724064.xyz
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /hbtovws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808087
   network: ''
   port: '8099'
   server: 154.47.21.27
@@ -120,3 +165,45 @@ proxies:
   tls: false
   type: vmess
   uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808123
+  network: ws
+  port: '443'
+  server: 139.162.208.117
+  servername: obdii.cfd
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: obdii.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808118
+  network: ws
+  port: '443'
+  server: 129.151.68.253
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
+  ws-opts:
+    headers:
+      Host: 17.724064.xyz
+    path: /hbtovws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808128
+  network: ws
+  port: '80'
+  server: 4un1.09vpn.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 18f96d21-4563-4d25-965e-14ef852f6d1c
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess/

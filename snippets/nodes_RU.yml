@@ -1,14 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇺 DX-SS|1x
-  password: a1962221-1097-458d-93f3-423dce1ef922
+  password: 1220114e-1971-4bac-9e56-d97f7e154fe4
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808104
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808097
   network: ''
   port: '47555'
   server: 46.29.166.237
@@ -18,7 +18,7 @@ proxies:
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808080
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808023
   network: tcp
   port: '47555'
   server: 46.29.166.237
@@ -28,9 +28,9 @@ proxies:
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
-  name: 3|[freefq]🇷🇺RU-194.87.69.102-272
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808032
   network: ws
-  port: 12910
+  port: '12910'
   server: 22.lwdh.us
   servername: ''
   tls: true
@@ -42,7 +42,27 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808081
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808131
+  network: tcp
+  port: '2098'
+  server: 185.247.184.115
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808127
+  network: tcp
+  port: '2098'
+  server: f41.maryam1500.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808049
   network: ws
   port: '12910'
   server: 194.87.69.102
@@ -56,7 +76,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808105
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808098
   network: ws
   port: '2024'
   server: 45.14.244.133
@@ -68,17 +88,3 @@ proxies:
     headers:
       Host: ''
     path: /
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808141
-  network: ws
-  port: '80'
-  server: 185.174.138.60
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess

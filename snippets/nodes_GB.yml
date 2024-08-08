@@ -6,17 +6,17 @@ proxies:
   server: gdcub.yunnode.win
   type: ss
   udp: true
-- cipher: aes-128-gcm
-  name: 2|🇬🇧 英国 UK | BIZ-1C
-  password: 6af51480-78f7-456f-9dc2-9a68075ec6a2
-  port: 35605
-  server: uk1.iepl.cooc.icu
-  type: ss
-  udp: true
 - cipher: chacha20-ietf-poly1305
   name: 2|🇬🇧 DX英国-SS|1x
-  password: 7ea0a9cd-3bc3-42b8-b33e-1293e088bf4e
+  password: e2d0919a-1587-4ae7-a8b8-8a2e91780dfb
   port: 10522
   server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 2|🇬🇧 英国 UK | BIZ-1B
+  password: 746a3ed1-7a79-4fc5-8317-76fc23b691ca
+  port: 35605
+  server: uk1.iepl.cooc.icu
   type: ss
   udp: true

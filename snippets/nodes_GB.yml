@@ -1,22 +1,136 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808103
+  network: ''
+  port: '8099'
+  server: 154.47.21.52
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808073
+  network: tcp
+  port: '8099'
+  server: 154.47.21.44
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808076
+  network: tcp
+  port: '8099'
+  server: 154.47.21.56
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808040
+  network: ''
+  port: '8099'
+  server: 154.47.21.54
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808051
+  network: tcp
+  port: '8099'
+  server: 154.47.21.54
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808079
+  network: ''
+  port: '8099'
+  server: 154.47.21.44
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808078
+  network: ''
+  port: '8099'
+  server: 154.47.21.56
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808074
+  network: tcp
+  port: '8099'
+  server: 154.47.21.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808086
+  network: ''
+  port: '8099'
+  server: 154.47.21.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808075
+  network: tcp
+  port: '8099'
+  server: 154.47.21.52
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]英国_0808104
+  network: ws
+  port: '443'
+  server: 194.36.55.55
+  servername: aveiror.com
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: aveiror.com
+    path: /linkvws
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇧 英国01-1G
-  password: 7fff56f7-a674-4151-9495-b4dd04700720
+  name: 4|🇧 英国01-1C
+  password: b3a16bd1-9d3a-485c-9ee7-66017805eeb6
   port: 15634
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇧 DX英国-SS|1x
-  password: e6cd4f1d-9758-412b-a7fb-75f2fd24126b
-  port: 10522
-  server: hzgg.ewenhot.top
+  name: 4|🇬 2|英国05|X1|XD中-1B
+  password: f7b02726-ea00-469b-824b-f8136da2ffdc
+  port: 24210
+  server: xd-xjp9.bestdong.xyz
   type: ss
   udp: true
-- cipher: aes-128-gcm
-  name: 2|🇬🇧 英国 UK | BIZ-1C
-  password: c6bed339-1fce-45f1-a333-1f879f75a319
-  port: 35605
-  server: uk1.iepl.cooc.icu
+- cipher: chacha20-ietf-poly1305
+  name: 4|🇧 DX英国-SS|1x
+  password: edce87c1-6a89-4cee-99ee-7c7e39c604bf
+  port: 10522
+  server: hzgg.ewenhot.top
   type: ss
   udp: true

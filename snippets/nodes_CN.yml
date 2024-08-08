@@ -1,1 +1,29 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: none
+  name: 3|[mianfeifq/share]中国_0808181
+  network: ws
+  port: '80'
+  server: 103.184.44.74
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: none
+  name: 3|[mianfeifq/share]中国_0808182
+  network: ws
+  port: '80'
+  server: 103.184.45.10
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess

@@ -1,8 +1,53 @@
 proxies:
-- cipher: aes-128-gcm
-  name: 2|🇫🇷 法国 FR BIZ-1C
-  password: c6bed339-1fce-45f1-a333-1f879f75a319
-  port: 35611
-  server: 120.241.118.161
-  type: ss
-  udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0808185
+  network: ws
+  port: '443'
+  server: 109.724064.xyz
+  servername: 109.724064.xyz
+  tls: true
+  type: vmess
+  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
+  ws-opts:
+    headers:
+      Host: 109.724064.xyz
+    path: /qqsvvws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0808166
+  network: ''
+  port: '44513'
+  server: 162.19.25.207
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0808206
+  network: ws
+  port: '443'
+  server: 146.19.168.161
+  servername: az05.beyondy.cfd
+  tls: true
+  type: vmess
+  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+  ws-opts:
+    headers:
+      Host: az05.beyondy.cfd
+    path: /link
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0808135
+  network: ws
+  port: '443'
+  server: az05.beyondy.cfd
+  servername: az05.beyondy.cfd
+  tls: true
+  type: vmess
+  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+  ws-opts:
+    headers:
+      Host: az05.beyondy.cfd
+    path: /link

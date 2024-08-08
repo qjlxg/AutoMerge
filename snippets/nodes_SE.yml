@@ -1,34 +1,6 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808012
-  network: ws
-  port: '80'
-  server: ctel.dargah.network
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2ced7332-31d2-4b62-b098-fb31ea120359
-  ws-opts:
-    headers:
-      Host: 6962b4e872b7ce96.6962b4e872b7ce96V2ray.hihi.6962b4e872b7ce96.FI-DaRGAh.dorEirAn.iR.
-    path: /navigate/fi?ed=1048
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808034
-  network: ws
-  port: '2095'
-  server: 185.146.173.185
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 11c206e4-9c84-45fe-9955-d229bbefce87
-  ws-opts:
-    headers:
-      Host: wWW.speEDTesT.Net.fTP.deBIAN.Org.DAsH.cLoUdFlare.COmwwW.DIGIkaLa.Ir.ZEDpIng7.ShOP
-    path: /Ftp.Debian.Org?ed=2560
-- alterId: 0
-  cipher: auto
   name: 3|[mianfeifq/share]瑞典_0808003
   network: ws
   port: '443'
@@ -41,6 +13,34 @@ proxies:
     headers:
       Host: obdii.cfd
     path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]瑞典_0808050
+  network: ws
+  port: '443'
+  server: Back.MsV2ray.online
+  servername: jahfkjha.cfd
+  tls: true
+  type: vmess
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
+  ws-opts:
+    headers:
+      Host: jahfkjha.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]瑞典_0808030
+  network: ws
+  port: '2095'
+  server: 185.146.173.185
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 11c206e4-9c84-45fe-9955-d229bbefce87
+  ws-opts:
+    headers:
+      Host: wWW.speEDTesT.Net.fTP.deBIAN.Org.DAsH.cLoUdFlare.COmwwW.DIGIkaLa.Ir.ZEDpIng7.ShOP
+    path: /Ftp.Debian.Org?ed=2560
 - alterId: 0
   cipher: none
   name: 3|[mianfeifq/share]瑞典_0808055
@@ -56,10 +56,10 @@ proxies:
       Host: no2.vmess.site
     path: /vmess
 - alterId: 0
-  cipher: auto
-  name: 3|[freefq]🏁RELAY-185.146.173.92-...
+  cipher: none
+  name: 3|[mianfeifq/share]瑞典_0808001
   network: ws
-  port: 80
+  port: '80'
   server: 185.146.173.92
   servername: ''
   tls: false

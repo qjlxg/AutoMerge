@@ -1,45 +1,21 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇩🇪 DX德国-SS|1x
-  password: b56aeaea-2209-4610-9c8a-06cee4ff3aec
-  port: 44281
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
 - cipher: aes-128-gcm
-  name: 2|🇩🇪 德国 DE | BIZ-1A
-  password: b92153f9-255d-4d49-8aa3-eea6c5f2cc84
+  name: 2|🇩🇪 德国 DE | BIZ-1C
+  password: c98066c9-463a-4a5d-94f0-c6c0eefd4ebb
   port: 35607
   server: 120.241.118.161
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇪 DX德国-SS|1x
+  password: bd9bbcfc-bf36-4f25-a4f4-93f1f137f0b7
+  port: 44281
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0808189
-  network: tcp
-  port: '2086'
-  server: 78.46.242.92
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 1bdc1b8f-0a20-4dc8-8f73-e008f64da65e
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]德国_0808170
-  network: ws
-  port: '80'
-  server: 199.247.18.211
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f
-  ws-opts:
-    headers:
-      Host: hdfy1c3.iraniancpi.uk
-    path: /QvtvPdDXXIlSdZMqnuxG
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]德国_0808186
+  name: 3|[mianfeifq/share]德国_0808187
   network: ws
   port: '8880'
   server: 157.90.173.82
@@ -53,7 +29,21 @@ proxies:
     path: /@irvpnn?ed=2560
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0808188
+  name: 3|[mianfeifq/share]德国_0808171
+  network: ws
+  port: '80'
+  server: 199.247.18.211
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f
+  ws-opts:
+    headers:
+      Host: hdfy1c3.iraniancpi.uk
+    path: /QvtvPdDXXIlSdZMqnuxG
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0808189
   network: ws
   port: '443'
   server: 139.162.163.11
@@ -67,35 +57,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0808164
-  network: ws
-  port: '80'
-  server: 5.75.192.223
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2ced7332-31d2-4b62-b098-fb31ea120359
-  ws-opts:
-    headers:
-      Host: 5e1ace082c1f1632.5e1ace082c1f1632knock.hihi.5e1ace082c1f1632.de-dargah.offdarsad.ir.
-    path: /navigate/de?ed=1024
-- alterId: 1
-  cipher: auto
-  name: 3|[mianfeifq/share]德国_0808185
-  network: ws
-  port: '443'
-  server: 139.162.176.50
-  servername: jahfkjha.cfd
-  tls: true
-  type: vmess
-  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
-  ws-opts:
-    headers:
-      Host: jahfkjha.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]德国_0808191
+  name: 3|[mianfeifq/share]德国_0808192
   network: ws
   port: '2052'
   server: 83.147.42.144
@@ -109,15 +71,39 @@ proxies:
     path: /user-content/images
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0808183
+  name: 3|[mianfeifq/share]德国_0808190
+  network: tcp
+  port: '2086'
+  server: 78.46.242.92
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 1bdc1b8f-0a20-4dc8-8f73-e008f64da65e
+- alterId: 1
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0808186
+  network: ws
+  port: '443'
+  server: 139.162.176.50
+  servername: jahfkjha.cfd
+  tls: true
+  type: vmess
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
+  ws-opts:
+    headers:
+      Host: jahfkjha.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0808178
   network: ws
   port: '80'
-  server: 4ge1.09vpn.com
+  server: 51.195.44.19
   servername: ''
   tls: false
   type: vmess
   uuid: b0500f4a-972d-4d2f-b788-4ac4d6d74ce1
   ws-opts:
     headers:
-      Host: ''
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
     path: /vmess/

@@ -1,28 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇷🇺 DX俄罗斯-SS|1x
-  password: b56aeaea-2209-4610-9c8a-06cee4ff3aec
+  name: 2,4|🇺 DX-SS|1x
+  password: bd9bbcfc-bf36-4f25-a4f4-93f1f137f0b7
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808032
-  network: ws
-  port: '12910'
-  server: 22.lwdh.us
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    headers:
-      Host: 22.lwdh.us
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808092
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808011
   network: ''
   port: '47555'
   server: 46.29.166.237
@@ -32,7 +18,7 @@ proxies:
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808023
+  name: 3|[mianfeifq/share]俄罗斯联邦_0808030
   network: tcp
   port: '47555'
   server: 46.29.166.237
@@ -42,11 +28,11 @@ proxies:
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808049
+  name: 3|[freefq]🇷🇺RU-194.87.69.102-254
   network: ws
-  port: '12910'
-  server: 194.87.69.102
-  servername: 22.lwdh.us
+  port: 12910
+  server: 22.lwdh.us
+  servername: ''
   tls: true
   type: vmess
   uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
@@ -64,6 +50,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-1219-RELAY
+  network: ws
+  port: 80
+  server: 185.174.138.60
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
 - alterId: 0
   cipher: auto
   name: 3|[mianfeifq/share]俄罗斯联邦_0808126

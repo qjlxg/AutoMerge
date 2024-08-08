@@ -1,21 +1,21 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇬🇧 英国01-1F
-  password: cc4ec83b-6413-4a6b-bf01-6629a640b104
+  name: 2,4|🇧 英国01-1G
+  password: 7fff56f7-a674-4151-9495-b4dd04700720
   port: 15634
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇬🇧 DX英国-SS|1x
-  password: e2d0919a-1587-4ae7-a8b8-8a2e91780dfb
+  name: 2,4|🇧 DX英国-SS|1x
+  password: e6cd4f1d-9758-412b-a7fb-75f2fd24126b
   port: 10522
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: aes-128-gcm
-  name: 2|🇬🇧 英国 UK | BIZ-1B
-  password: 746a3ed1-7a79-4fc5-8317-76fc23b691ca
+  name: 2|🇬🇧 英国 UK | BIZ-1C
+  password: c6bed339-1fce-45f1-a333-1f879f75a319
   port: 35605
   server: uk1.iepl.cooc.icu
   type: ss

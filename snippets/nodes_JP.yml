@@ -1,23 +1,7 @@
 proxies:
-- auth: 8cb30ce3-b509-4c4a-89db-65739be49df6
-  name: 2|EL-NIW
-  password: 8cb30ce3-b509-4c4a-89db-65739be49df6
-  port: 44300
-  server: sg-01.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: sg-01.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 日本04-1B
-  password: 7aa54f98-ea34-44bd-ac57-64275ed5a54a
-  port: 20008
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- auth: fe23fb8a-aae3-4e26-9a9b-a6fc63c566fe
-  name: 2|🇯🇵 日本 01-3E
-  password: fe23fb8a-aae3-4e26-9a9b-a6fc63c566fe
+- auth: a6d4fe41-5edb-43fc-910e-298311c31286
+  name: 2|🇯🇵 日本 01-1E
+  password: a6d4fe41-5edb-43fc-910e-298311c31286
   port: 44300
   server: jp-01.worldfirst.eu.org
   skip-cert-verify: true
@@ -25,92 +9,57 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇯🇵 1|日本L|X1|DF1-1A #1'
-  password: 95bdb988-53c9-4a73-b3c0-aa05c4306d38
-  port: 59995
-  server: df-01.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 日本02-1F
-  password: 521855db-bf9e-4d8e-97dd-32ced1f2aab1
-  port: 20004
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 日本03-1E
-  password: fa43de8f-21fb-4f57-9583-b8fa2a34f0db
-  port: 20006
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本 A JP-1B
-  password: b5f77a54-4dc8-4927-931d-91b55c345860
-  port: 47100
-  server: jp1.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 1|日本01|X1|XD中日1-1B
-  password: 3eddcaf6-f902-4227-8221-a9b0b8e1f8c3
+  name: 2|🇯🇵 1|日本01|X1|XD中日1-1B
+  password: 4aae35cb-494c-45b2-a3d9-bfe977307843
   port: 28912
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 JP 海外用户-1A
-  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
-  port: 10001
-  server: jp.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 日本01-1D
-  password: 1ed0366a-82b7-4feb-b9f6-4cea46176dc2
-  port: 20002
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 2|🇯🇵 JAPAN 06-1H
-  password: 8a1c3316-47c9-479c-9a10-026406429a23
-  port: 30606
-  server: host-016.v2fastlink.com
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 1|日本01|X1|DF1-1B
-  password: 3eddcaf6-f902-4227-8221-a9b0b8e1f8c3
-  port: 33030
-  server: df-01.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本 B JP-1A
-  password: 4a6cc24e-7e2e-4fa1-a829-1c161bebf7a8
-  port: 47101
-  server: jp2.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 1|日本03|X1|XD中日1-1A
-  password: 95bdb988-53c9-4a73-b3c0-aa05c4306d38
+  name: 2|🇯🇵 1|日本03|X1|XD中日1-1A
+  password: b6ccf5f9-4b72-43be-a66f-dc64bab7c1c8
   port: 28074
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 1|日本02|X1|XD中1-1B
-  password: 3eddcaf6-f902-4227-8221-a9b0b8e1f8c3
-  port: 28916
-  server: xd-zhongri1.bestdong.xyz
+  name: 2|🇯🇵 日本03-1C
+  password: 3d35977a-64c1-4d3a-b2eb-e332479102cd
+  port: 20006
+  server: gy.666666222.shop
   type: ss
   udp: true
-- auth: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
-  name: 2,4|🇵 日本-2-1A
-  password: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+- cipher: aes-256-gcm
+  name: 2|🇯🇵 JAPAN 06-1B
+  password: 2ac8263a-1571-420b-b9b8-563dcc2f5fb9
+  port: 30606
+  server: host-016.v2fastlink.com
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本02-1C
+  password: 3d35977a-64c1-4d3a-b2eb-e332479102cd
+  port: 20004
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本01-1B
+  password: 48bfcda1-f449-4e4f-b2aa-be57a3d813a5
+  port: 20002
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 LS日本|优化|1x
+  password: 7ea0a9cd-3bc3-42b8-b33e-1293e088bf4e
+  port: 19930
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- auth: 31ea6917-0917-4960-a431-f3435e85cf35
+  name: 2|🇯🇵 日本-2-1B
+  password: 31ea6917-0917-4960-a431-f3435e85cf35
   port: 30001
   server: oracle-amd-osaka1.lanmaoyun.icu
   skip-cert-verify: false
@@ -118,15 +67,15 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 DX日利亚2-SS|1x
-  password: 5662b3a5-e002-4f34-9602-05960e299a2c
-  port: 18922
-  server: hzgg.ewenhot.top
+  name: 2|🇯🇵 1|日本L|X1|DF1-1B
+  password: 4aae35cb-494c-45b2-a3d9-bfe977307843
+  port: 59995
+  server: df-01.bestdong.xyz
   type: ss
   udp: true
-- auth: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
-  name: 2,4|🇵 日本-1-1A
-  password: ab56f721-0b76-4aa3-8f87-56d7e01d89e5
+- auth: 31ea6917-0917-4960-a431-f3435e85cf35
+  name: 2|🇯🇵 日本-1-1B
+  password: 31ea6917-0917-4960-a431-f3435e85cf35
   port: 30001
   server: oracle-amd-tokyo1.lanmaoyun.icu
   skip-cert-verify: false
@@ -134,48 +83,104 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 DX日本|优化|1x
-  password: 5662b3a5-e002-4f34-9602-05960e299a2c
-  port: 54431
-  server: hzgg.ewenhot.top
+  name: 2|🇯🇵 日本 B JP-1C
+  password: 6af51480-78f7-456f-9dc2-9a68075ec6a2
+  port: 47101
+  server: jp2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 DX日本|0.6x
-  password: 5662b3a5-e002-4f34-9602-05960e299a2c
-  port: 19381
-  server: hzgg.ewenhot.top
+  name: 2|🇯🇵 日本04-1A
+  password: a078ba6a-facc-4e9e-a433-4176e97aeac6
+  port: 20008
+  server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本 C JP-1C
-  password: cf5be73c-5315-4e17-b83c-34957ea1532c
+  name: 2|🇯🇵 日本 A JP-1A
+  password: b5f77a54-4dc8-4927-931d-91b55c345860
+  port: 47100
+  server: jp1.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本 C JP-1A
+  password: b5f77a54-4dc8-4927-931d-91b55c345860
   port: 19881
   server: jp3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 LS日本|0.6x
-  password: 5662b3a5-e002-4f34-9602-05960e299a2c
+  name: 2|🇯🇵 LS日本|0.6x
+  password: 7ea0a9cd-3bc3-42b8-b33e-1293e088bf4e
   port: 24893
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇵 LS日本|优化|1x
-  password: 5662b3a5-e002-4f34-9602-05960e299a2c
-  port: 19930
-  server: szyd.ewenhot.top
+  name: 2|🇯🇵 JP 海外用户-1C
+  password: 6af51480-78f7-456f-9dc2-9a68075ec6a2
+  port: 10001
+  server: jp.cooc.icu
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 1|日本02|X1|XD中日1-1A
+  password: b6ccf5f9-4b72-43be-a66f-dc64bab7c1c8
+  port: 28916
+  server: xd-zhongri1.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 DX日本|0.6x
+  password: 7ea0a9cd-3bc3-42b8-b33e-1293e088bf4e
+  port: 19381
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 1|日本01|X1|DF1-1A
+  password: b6ccf5f9-4b72-43be-a66f-dc64bab7c1c8
+  port: 33030
+  server: df-01.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇳🇬 DX尼日利亚2-SS|1x
+  password: 7ea0a9cd-3bc3-42b8-b33e-1293e088bf4e
+  port: 18922
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 DX日本|优化|1x
+  password: 7ea0a9cd-3bc3-42b8-b33e-1293e088bf4e
+  port: 54431
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]09-521-JP
+  network: ws
+  port: 80
+  server: ul-japan1.09vpn.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fb24f342-520f-4b60-ac3e-42291c41f5f8
+  ws-opts:
+    headers:
+      Host: ul-japan1.09vpn.com
+    path: /vmess/
 - alterId: 64
   cipher: auto
-  name: 3|[freefq]🇸🇬SG-134.122.139.79-04...
+  name: 3|[xiyaowong/freeFQ]16-705-SG
   network: ws
   port: 443
   server: 134.122.139.79
-  servername: www.48907900.xyz
-  tls: true
+  servername: ''
+  tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
   ws-opts:

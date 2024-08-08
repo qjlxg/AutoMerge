@@ -1,6 +1,18 @@
 proxies:
 - alterId: 0
   cipher: auto
+  name: '2,4|TROJAN-1Q #1'
+  password: 8df76236-5e58-4a32-af89-19730454fa2b
+  port: 10067
+  server: tro-us.linkconnectnf.xyz
+  skip-cert-verify: true
+  sni: tro-us.linkconnectnf.xyz
+  tls: true
+  type: trojan
+  udp: true
+  uuid: 6936ba22-7b60-4009-abb3-8836e76ccc8b
+- alterId: 0
+  cipher: auto
   name: 3|[freefq]🇨🇦CA-23.162.200.227-40...
   network: ws
   port: 443

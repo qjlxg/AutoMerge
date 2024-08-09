@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '16,33,49,64,88,91,92,113,126,130,136,137,159,160,181,185,186,195,196,203,212,235,262,263,288|未知_0808173
+  name: '16,33,49,88,91,92,113,126,130,136,137,159,160,181,185,186,195,196,203,212,235,262,263,288|未知_0808173
     #1'
   network: ws
   port: '2086'
@@ -17,7 +17,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,49,65,92,113,130,136,137,159,160,186,195,196,203,212,235,262,263,288|未知_0808084
+  name: '16,33,49,92,113,130,136,137,159,160,186,195,196,203,212,235,262,263,288|未知_0808084
     #1'
   network: ws
   port: '2086'
@@ -79,7 +79,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,64,113,130,136,137,212,235|🏁RELAY-104.19.59.89-1135 #1'
+  name: '16,33,113,130,136,137,212,235|🏁RELAY-104.19.59.89-1135 #1'
   network: ws
   port: 2052
   server: 104.19.59.89
@@ -171,7 +171,7 @@ proxies:
 - alterId: 0
   cipher: auto
   delay: 1045
-  name: '16,33,65,91,113,130,136,137,185,195,212,235,288|未知_0808319 #1'
+  name: '16,33,91,113,130,136,137,185,195,212,235,288|未知_0808319 #1'
   network: ws
   port: '2095'
   server: 104.17.148.22
@@ -219,7 +219,7 @@ proxies:
     path: /?ed=2048
 - alterId: 0
   cipher: auto
-  name: '16,33,65,113,130,136,137,212,235|🏁RELAY-104.19.42.49-1144 #1'
+  name: '16,33,113,130,136,137,212,235|🏁RELAY-104.19.42.49-1144 #1'
   network: ws
   port: 2052
   server: 104.19.42.49
@@ -235,7 +235,7 @@ proxies:
 - alterId: 0
   cipher: auto
   delay: 886
-  name: '16,33,66,91,113,130,136,137,185,195,203,212,235,288|未知_0808321 #1'
+  name: '16,33,91,113,130,136,137,185,195,203,212,235,288|未知_0808321 #1'
   network: ws
   port: '2052'
   server: 104.17.106.151
@@ -251,7 +251,7 @@ proxies:
 - alterId: 0
   cipher: auto
   delay: 999
-  name: '16,33,65,91,113,130,136,137,185,195,196,203,212,235,288|未知_0808322 #1'
+  name: '16,33,91,113,130,136,137,185,195,196,203,212,235,288|未知_0808322 #1'
   network: ws
   port: '2052'
   server: 104.19.21.230
@@ -266,7 +266,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,65,91,113,130,136,137,185,212,235|🏁RELAY-104.26.4.57-1147 #1'
+  name: '16,33,91,113,130,136,137,185,212,235|🏁RELAY-104.26.4.57-1147 #1'
   network: ws
   port: 2086
   server: russia.com
@@ -281,7 +281,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,65,66,113,130,136,137,212,235|🏁RELAY-104.16.148.244-0870 #1'
+  name: '16,33,113,130,136,137,212,235|🏁RELAY-104.16.148.244-0870 #1'
   network: ws
   port: 2086
   server: 104.16.148.244
@@ -314,7 +314,7 @@ proxies:
 - alterId: 0
   cipher: auto
   delay: 1382
-  name: '16,33,64,113,130,136,137,195,201,212,235,288|未知_0808323 #1'
+  name: '16,33,113,130,136,137,195,201,212,235,288|未知_0808323 #1'
   network: ws
   port: '8080'
   server: 104.16.61.8
@@ -377,7 +377,7 @@ proxies:
     path: /hms02.fxiaomi.sbs/link
 - alterId: 0
   cipher: auto
-  name: '16,33,65,91,113,130,136,137,159,160,185,195,203,212,235,262,263,288|未知_0808054
+  name: '16,33,91,113,130,136,137,159,160,185,195,203,212,235,262,263,288|未知_0808054
     #1'
   network: ws
   port: '2052'
@@ -394,8 +394,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,64,85,91,113,130,136,137,185,195,196,203,212,235,267,288|美国_0808010
-    #1'
+  name: '16,33,85,91,113,130,136,137,185,195,196,203,212,235,267,288|美国_0808010 #1'
   network: ws
   port: '2052'
   server: 104.26.0.56
@@ -411,7 +410,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,66,84,91,113,130,136,137,185,195,203,212,235,288|美国_0808202 #1'
+  name: '16,33,84,91,113,130,136,137,185,195,203,212,235,288|美国_0808202 #1'
   network: ws
   port: '80'
   server: www.zula.ir
@@ -461,7 +460,7 @@ proxies:
 - alterId: 0
   cipher: auto
   delay: 1488
-  name: '16,33,49,62,64,88,91,113,130,136,137,160,181,185,191,195,196,203,212,235,236,263,278,284,288|未知_0808141
+  name: '16,33,49,62,88,91,113,130,136,137,160,181,185,191,195,196,203,212,235,236,263,278,284,288|未知_0808141
     #1'
   network: ws
   port: '2086'
@@ -509,7 +508,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,49,66,91,113,130,136,137,185,195,212,235,288|未知_0808329 #1'
+  name: '16,33,49,91,113,130,136,137,185,195,212,235,288|未知_0808329 #1'
   network: ws
   port: '2095'
   server: 104.19.45.130
@@ -525,7 +524,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,65,113,130,136,137,212,235|🏁RELAY-104.19.38.12-1164 #1'
+  name: '16,33,113,130,136,137,212,235|🏁RELAY-104.19.38.12-1164 #1'
   network: ws
   port: 2052
   server: 104.19.38.12
@@ -570,7 +569,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,66,91,113,130,136,137,185,191,195,212,235,288|美国_0808205 #1'
+  name: '16,33,91,113,130,136,137,185,191,195,212,235,288|美国_0808205 #1'
   network: ws
   port: '2082'
   server: 104.26.5.32
@@ -586,7 +585,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,66,91,113,130,136,137,139,185,195,196,212,235,288|未知_0808047 #1'
+  name: '16,33,91,113,130,136,137,139,185,195,196,212,235,288|未知_0808047 #1'
   network: ws
   port: '2052'
   server: 104.19.38.18
@@ -603,7 +602,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,66,91,113,130,136,137,139,185,195,196,203,212,235|🏁RELAY-104.19.21.81-1170
+  name: '16,33,91,113,130,136,137,139,185,195,196,203,212,235|🏁RELAY-104.19.21.81-1170
     #1'
   network: ws
   port: 2052
@@ -621,7 +620,7 @@ proxies:
 - alterId: 0
   cipher: auto
   delay: 2787
-  name: '16,33,65,91,113,130,136,137,185,195,196,203,212,235,288|未知_0808330 #1'
+  name: '16,33,91,113,130,136,137,185,195,196,203,212,235,288|未知_0808330 #1'
   network: ws
   port: '2095'
   server: 104.19.45.3
@@ -654,7 +653,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,64,65,91,113,130,136,137,139,185,195,196,212,235,288|加拿大_0808003 #1'
+  name: '16,33,91,113,130,136,137,139,185,195,196,212,235,288|加拿大_0808003 #1'
   network: ws
   port: '2052'
   server: 23.227.38.13
@@ -671,7 +670,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,64,113,130,136,137,139,195,203,212,235|🏁RELAY-104.19.21.73-1174 #1'
+  name: '16,33,113,130,136,137,139,195,203,212,235|🏁RELAY-104.19.21.73-1174 #1'
   network: ws
   port: 2052
   server: 104.19.21.73
@@ -688,7 +687,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,65,91,113,130,136,137,139,185,195,203,212,235|🏁RELAY-104.19.21.220-1175
+  name: '16,33,91,113,130,136,137,139,185,195,203,212,235|🏁RELAY-104.19.21.220-1175
     #1'
   network: ws
   port: 2052
@@ -706,7 +705,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,65,85,91,113,130,136,137,139,185,195,196,212,235,288|未知_0808025 #1'
+  name: '16,33,85,91,113,130,136,137,139,185,195,196,212,235,288|未知_0808025 #1'
   network: ws
   port: '2052'
   server: 104.19.57.24
@@ -723,7 +722,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,64,113,130,136,137,139,159,195,196,203,212,235,262,267,288|美国_0808009
+  name: '16,33,113,130,136,137,139,159,195,196,203,212,235,262,267,288|美国_0808009
     #1'
   network: ws
   port: '2052'
@@ -756,7 +755,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,28,33,49,87,91,92,101,102,113,115,130,136,137,175,185,186,193,195,203,212,214,235,288|美国_0808192
+  name: '16,28,33,49,87,91,92,102,113,115,130,136,137,185,186,193,195,203,212,214,235,288|美国_0808192
     #1'
   network: ws
   port: '2052'
@@ -802,7 +801,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,64,66,91,113,130,136,137,159,160,185,195,196,203,212,235,262,263,288|未知_0808216
+  name: '16,33,91,113,130,136,137,159,160,185,195,196,203,212,235,262,263,288|未知_0808216
     #1'
   network: ws
   port: '2052'
@@ -836,7 +835,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 16,33,64,91,113,130,136,137,160,185,195,203,212,235,263,267,288|美国_0808147
+  name: 16,33,91,113,130,136,137,160,185,195,203,212,235,263,267,288|美国_0808147
   network: ws
   port: '2052'
   server: 104.26.7.132
@@ -852,7 +851,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,65,113,130,136,137,212,235|🏁RELAY-104.19.46.36-1186 #1'
+  name: '16,33,113,130,136,137,212,235|🏁RELAY-104.19.46.36-1186 #1'
   network: ws
   port: 2086
   server: 104.19.46.36
@@ -934,8 +933,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,65,66,91,113,130,136,137,139,185,195,196,203,212,235,288|未知_0808037
-    #1'
+  name: '16,33,91,113,130,136,137,139,185,195,196,203,212,235,288|未知_0808037 #1'
   network: ws
   port: '2052'
   server: 104.17.106.171
@@ -952,7 +950,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,64,66,84,85,91,113,130,136,137,139,160,185,195,203,212,235,263,267,288|未知_0808222
+  name: '16,33,84,85,91,113,130,136,137,139,160,185,195,203,212,235,263,267,288|未知_0808222
     #1'
   network: ws
   port: '2052'
@@ -971,7 +969,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,64,65,91,113,130,136,137,139,185,195,203,212,235|🏁RELAY-104.20.25.166-1197
+  name: '16,33,91,113,130,136,137,139,185,195,203,212,235|🏁RELAY-104.20.25.166-1197
     #1'
   network: ws
   port: 2052
@@ -1089,7 +1087,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,66,113,130,136,137,195,212,235,288|未知_0808335 #1'
+  name: '16,33,113,130,136,137,195,212,235,288|未知_0808335 #1'
   network: ws
   port: '2082'
   server: 104.21.69.44
@@ -1105,7 +1103,7 @@ proxies:
     path: /?ed=1024
 - alterId: 0
   cipher: auto
-  name: '16,33,49,65,91,113,130,136,137,185,196,212,235|🏁RELAY-104.26.8.156-1208 #1'
+  name: '16,33,49,91,113,130,136,137,185,196,212,235|🏁RELAY-104.26.8.156-1208 #1'
   network: ws
   port: 2086
   server: 104.26.8.156
@@ -1121,7 +1119,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,65,91,113,130,136,137,185,195,212,235,288|美国_0808209 #1'
+  name: '16,33,91,113,130,136,137,185,195,212,235,288|美国_0808209 #1'
   network: ws
   port: '2082'
   server: www.zula.ir
@@ -1137,7 +1135,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,65,91,113,130,136,137,139,185,195,203,212,235,288|未知_0808045 #1'
+  name: '16,33,91,113,130,136,137,139,185,195,203,212,235,288|未知_0808045 #1'
   network: ws
   port: '2052'
   server: 104.19.42.79
@@ -1153,7 +1151,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,65,113,130,136,137,195,196,203,212,235,288|未知_0808336 #1'
+  name: '16,33,113,130,136,137,195,196,203,212,235,288|未知_0808336 #1'
   network: ws
   port: '2052'
   server: 104.20.25.176
@@ -1184,7 +1182,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,65,91,92,113,130,136,137,185,186,195,196,212,235,288|未知_0808339 #1'
+  name: '16,33,91,92,113,130,136,137,185,186,195,196,212,235,288|未知_0808339 #1'
   network: ws
   port: '2095'
   server: 104.19.45.106
@@ -1262,7 +1260,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '16,33,66,91,113,130,136,137,139,159,185,195,196,212,235,262|CA??SSRSUB_1715272415
+  name: '16,33,91,113,130,136,137,139,159,185,195,196,212,235,262|CA??SSRSUB_1715272415
     #1'
   network: ws
   port: 2052
@@ -1279,8 +1277,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,64,65,91,113,130,136,137,160,185,195,203,212,235,263,288|未知_0808031
-    #1'
+  name: '16,33,91,113,130,136,137,160,185,195,203,212,235,263,288|未知_0808031 #1'
   network: ws
   port: '2052'
   server: 104.18.57.111
@@ -1296,8 +1293,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '16,33,66,91,113,130,136,137,160,185,195,196,203,212,235,263,288|未知_0808053
-    #1'
+  name: '16,33,91,113,130,136,137,160,185,195,196,203,212,235,263,288|未知_0808053 #1'
   network: ws
   port: '2052'
   server: 104.19.47.65
@@ -1315,7 +1311,7 @@ proxies:
   cipher: auto
   grpc-opts:
     grpc-service-name: /
-  name: '16,64,113,137,212,235|🏁RELAY-104.17.148.22-0501 #4'
+  name: '16,113,137,212,235|🏁RELAY-104.17.148.22-0501 #4'
   network: grpc
   port: 2053
   server: 104.17.148.22
@@ -1762,7 +1758,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '33,65,91,130,136,137,185,235|🇨CA-104.247.81.52-1354 #1'
+  name: '33,91,130,136,137,185,235|🇨CA-104.247.81.52-1354 #1'
   network: ws
   port: 443
   server: uk.xlkjjs.top
@@ -1890,7 +1886,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '33,65,90,91,130,136,137,183,185,235|🇨🇦CA-104.247.81.52-5670 #1'
+  name: '33,90,91,130,136,137,183,185,235|🇨🇦CA-104.247.81.52-5670 #1'
   network: ws
   port: 443
   server: tw.xlkjjs.top
@@ -1950,7 +1946,7 @@ proxies:
   delay: 1109
   h2-opts: {}
   http-opts: {}
-  name: 35,36,66,129|加拿大 - 多伦多 - GLOBALTELEHOST Cor...
+  name: 35,36,129|加拿大 - 多伦多 - GLOBALTELEHOST Cor...
   network: ws
   port: 443
   server: 23.162.200.94
@@ -2055,12 +2051,11 @@ proxies:
     path: None
 - alterId: 0
   cipher: auto
-  name: '49,66,91,92,108,133,180,185,186,191,203,204,229|t.me/DailyV2ry #129'
+  name: '49,91,92,108,133,180,185,186,191,203,204,229|t.me/DailyV2ry #129'
   network: ws
   port: '443'
   server: zula.ir
   servername: jahfkjha.cfd
-  skip-cert-verify: true
   tls: true
   type: vmess
   uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
@@ -2151,12 +2146,11 @@ proxies:
     path: /pttnvws
 - alterId: 0
   cipher: auto
-  name: '49,64,91,185,203|United States #114'
+  name: '49,91,185,203|United States #114'
   network: ws
   port: '443'
   server: tilebani.com
   servername: ''
-  skip-cert-verify: true
   tls: true
   type: vmess
   uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
@@ -2246,12 +2240,11 @@ proxies:
     path: /cp15jvhn
 - alterId: 0
   cipher: auto
-  name: '49,65,203|United States #591'
+  name: '49,203|United States #591'
   network: ws
   port: 2086
   server: ip002.dtku47.xyz
   servername: ''
-  skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
@@ -2362,7 +2355,7 @@ proxies:
   delay: 802
   h2-opts: {}
   http-opts: {}
-  name: '49,129|美国 - 洛杉矶 - Psychz Networks - 4... #3'
+  name: 49,129,293|Canada_Ottawa_vmess_92
   network: ws
   port: 2086
   server: 23.227.38.8
@@ -2552,451 +2545,6 @@ proxies:
     headers:
       Host: ip14.freegradely.xyz
     path: github.com/Alvin9999
-- cipher: aes-256-gcm
-  name: 64,65|ChatGPT 🏁 ZZ_1227
-  password: lGqs95QkFHo2NV
-  port: 5499
-  server: 23.162.200.181
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: '64,65,103,108,194,195,203,204,288|未知_0808342 #1'
-  network: ws
-  port: '443'
-  server: 23.162.200.227
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: ''
-    path: /linkvws
-- cipher: aes-256-gcm
-  name: 64,66|CA_562🇦
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64,66|ChatGPT 🏁 ZZ_208
-  password: zDNVedRFPQexG9v
-  port: 445
-  server: 23.162.200.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64,66|ChatGPT 🏁 ZZ_134
-  password: KixLvKzwjekG00rm
-  port: 5500
-  server: 23.162.200.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64,65,66|ChatGPT 🏁 ZZ_1198
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64,66|CA_549🇨🇦
-  password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64|ChatGPT 🇨🇦 CA_83
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64|ChatGPT 🇨🇦 CA_77
-  password: Y6R9pAtvxxzmGC
-  port: 5600
-  server: 23.162.200.181
-  type: ss
-- cipher: aes-256-gcm
-  name: 64|CA_527🇨🇦
-  password: lGqs95QkFHo2NV
-  port: 5498
-  server: 38.111.114.161
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,65,103,194|RW 48 → tg@nicevpn123 #1'
-  password: lGqs95QkFHo2NV
-  port: 5499
-  server: 23.162.200.77
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 64,65|ChatGPT 🏁 ZZ_1174
-  password: Y6R9pAtvxxzmGC
-  port: 5601
-  server: 23.162.200.181
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,103,194|🇨🇦 CA 90 → tg@nicevpn123 #1'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 142.202.48.43
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 64|ChatGPT 🇦 CA_31
-  password: KixLvKzwjekG00rm
-  port: 8000
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64|ChatGPT 🇨🇦 CA_103
-  password: e4FCWrgpkji3QY
-  port: 9101
-  server: 23.162.200.181
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,66,103,194|RW 77 → tg@nicevpn123 #1'
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 64,66|CA_545🇨🇦
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 64,66|ChatGPT  ZZ_558
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 23.162.200.133
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,137,235|🇦CA-134.195.196.230-6506 #1'
-  password: TEzjfAYq2IjtuoS
-  port: 6679
-  server: 134.195.196.230
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,103,194|RW 55 → tg@nicevpn123 #1'
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 64,66|ChatGPT 🏁 ZZ_492
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,137,235|🇨🇦CA-23.162.200.181-0661 #1'
-  password: Y6R9pAtvxxzmGC
-  port: 9090
-  server: 23.162.200.181
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '64,78,137,178,235|🇨🇦CA-134.195.196.178-0823 #1'
-  password: G!yBwPWH3Vao
-  port: 807
-  server: 134.195.196.178
-  type: ss
-- cipher: aes-256-gcm
-  name: 64,65,66|ChatGPT 🏁 ZZ_1240
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,65,66,78,178|🇺🇸US(AzadNet.t.me)_282 #1'
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 23.162.200.130
-  type: ss
-- cipher: aes-256-gcm
-  name: 64|CA_547🇨🇦
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: '64,66,103,137,194,235|🇦CA-23.162.200.181-0644 #1'
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 64|ChatGPT 🇨🇦 CA_42
-  password: lGqs95QkFHo2NV
-  port: 5498
-  server: 23.162.200.181
-  type: ss
-- cipher: aes-256-gcm
-  name: '65,103,194|RW 113 → tg@nicevpn123 #1'
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 65|ZZ_1241🇨🇦
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 23.162.200.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 65|ChatGPT 🏁 ZZ_133
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 23.162.200.77
-  type: ss
-- cipher: aes-256-gcm
-  name: '65,103,194|RW 4 → tg@nicevpn123 #1'
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 65,66|🇦 CA-134.195.196.178-3891 | 19...
-  password: G!yBwPWH3Vao
-  port: 802
-  server: 134.195.196.178
-  type: ss
-- cipher: aes-256-gcm
-  name: '65,66,103,137,194,235|🇨🇦CA-23.162.200.181-0655 #1'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 65,107|加拿大 005_2@9
-  network: ws
-  port: 2052
-  server: 104.19.201.135
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
-  ws-opts:
-    headers:
-      Host: tw1bQiWSE4x.fzbqfrse.xyz
-    path: /video/GQ2qE5Us9g
-- cipher: aes-256-gcm
-  name: 65|CA_25🇨🇦
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 65,66|ChatGPT 🇨🇦 CA_121
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: '65,66,103,194|RW 107 → tg@nicevpn123 #1'
-  password: FoOiGlkAA9yPEGP
-  port: 7307
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 65,107|加拿大 024_2@67
-  network: ws
-  port: 2053
-  server: 104.17.164.97
-  servername: cache-hk-2.cn-db.top
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
-  ws-opts:
-    headers:
-      Host: cache-hk-2.cn-db.top
-    path: /db00
-- cipher: aes-256-gcm
-  name: 65,66|ChatGPT 🇦 CA_63
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 38.111.114.133
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 65,107|加拿大 015_2@56
-  network: ws
-  port: 2083
-  server: 104.19.58.127
-  servername: cache-hk-1.cn-db.top
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
-  ws-opts:
-    headers:
-      Host: cache-hk-1.cn-db.top
-    path: /db00
-- cipher: aes-256-gcm
-  name: 65|ChatGPT 🇦 CA_115
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 38.111.114.161
-  type: ss
-- cipher: aes-256-gcm
-  name: '65,103,194|RW 38 → tg@nicevpn123 #1'
-  password: KixLvKzwjekG00rm
-  port: 8000
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: '65,103,194|RW 15 → tg@nicevpn123 #1'
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 65|ChatGPT 🇦 CA_101
-  password: lGqs95QkFHo2NV
-  port: 5498
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 65|ChatGPT 🇦 CA_102
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 66|ZZ_1220🇨🇦
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 23.162.200.181
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 66,107|加拿大 022_2@64
-  network: ws
-  port: 8880
-  server: fr-01.snangua.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
-  ws-opts:
-    headers:
-      Host: fr-01.snangua.com
-    path: /
-- cipher: aes-256-gcm
-  name: '66,103,194|RW 36 → tg@nicevpn123 #1'
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 66,107|加拿大 021_2@63
-  network: ws
-  port: 8880
-  server: au-01.snangua.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
-  ws-opts:
-    headers:
-      Host: au-01.snangua.com
-    path: /
-- name: '66,103,194|🇨🇦 CA 67 → tg@nicevpn123 #2'
-  network: ws
-  password: dGKXcHgs3P
-  port: 80
-  server: 23.227.60.186
-  skip-cert-verify: true
-  type: trojan
-  udp: true
-  ws-opts:
-    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252CTurk'
-- cipher: aes-256-gcm
-  name: 66|ChatGPT 🇦 CA_118
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 23.162.200.181
-  type: ss
-- cipher: aes-256-gcm
-  name: '66,103,194|RW 127 → tg@nicevpn123 #1'
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 23.162.200.181
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: '66,78,178|🇺🇸US(AzadNet.t.me)_441 #1'
-  network: ws
-  port: 443
-  server: 134.195.198.61
-  servername: novia.makeup
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      host: novia.makeup
-    path: /linkvws
-- cipher: chacha20-ietf-poly1305
-  name: '66,103,137,194,235|🇨🇦CA-134.195.196.178-0822 #1'
-  password: G!yBwPWH3Vao
-  port: 804
-  server: 134.195.196.178
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 66|CA_24🇨🇦
-  password: KixLvKzwjekG00rm
-  port: 8080
-  server: 38.111.114.133
-  type: ss
-- cipher: aes-256-gcm
-  name: 66|ChatGPT 🇦 CA_73
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 38.111.114.133
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 66,107|加拿大 016_2@57
-  network: ws
-  port: 2053
-  server: 104.19.169.7
-  servername: data-hk-1.cn-db.top
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
-  ws-opts:
-    headers:
-      Host: data-hk-1.cn-db.top
-    path: /db00
-- cipher: chacha20-ietf-poly1305
-  name: 66|🇦 CA-134.195.196.178-5625 | 20...
-  password: G!yBwPWH3Vao
-  port: 801
-  server: 134.195.196.178
-  type: ss
 - name: '78,178|🇦CA(AzadNet.t.me)_001 #1'
   network: tcp
   password: your_password
@@ -4095,6 +3643,16 @@ proxies:
   udp: true
   ws-opts:
     path: '%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252CTurk'
+- name: '103,194|🇨🇦 CA 67 → tg@nicevpn123 #1'
+  network: ws
+  password: dGKXcHgs3P
+  port: 80
+  server: 23.227.60.186
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252CTurk'
 - name: '103,194|🇨🇦 CA 68 → tg@nicevpn123 #1'
   network: ws
   password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
@@ -4348,6 +3906,13 @@ proxies:
       Host: syndication-statutes-wanted-logo.trycloudflare.com
     path: '%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fargox-tr'
 - cipher: aes-256-gcm
+  name: '103,194|🇨🇦 CA 90 → tg@nicevpn123 #1'
+  password: faBAoD54k87UJG7
+  port: 2376
+  server: 142.202.48.43
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
   name: 107|🇨🇦CA-134.195.196.51-063_1@63
   password: pKEW8JPByTVTLtM
   port: 443
@@ -4396,6 +3961,20 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
+  name: 107|加拿大 005_2@9
+  network: ws
+  port: 2052
+  server: 104.19.201.135
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: d4a530d5-9755-4ff9-a9ed-5a058cf0038b
+  ws-opts:
+    headers:
+      Host: tw1bQiWSE4x.fzbqfrse.xyz
+    path: /video/GQ2qE5Us9g
+- alterId: 0
+  cipher: auto
   name: 107|加拿大 006_2@10
   network: ws
   port: 2082
@@ -4442,6 +4021,38 @@ proxies:
     path: /db00
 - alterId: 0
   cipher: auto
+  name: 107|加拿大 015_2@56
+  network: ws
+  port: 2083
+  server: 104.19.58.127
+  servername: cache-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 107|加拿大 016_2@57
+  network: ws
+  port: 2053
+  server: 104.19.169.7
+  servername: data-hk-1.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: data-hk-1.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
   name: 107|加拿大 018_2@60
   network: ws
   port: 8880
@@ -4481,6 +4092,32 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
+  name: 107|加拿大 021_2@63
+  network: ws
+  port: 8880
+  server: au-01.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: au-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 107|加拿大 022_2@64
+  network: ws
+  port: 8880
+  server: fr-01.snangua.com
+  skip-cert-verify: true
+  type: vmess
+  uuid: 4c7f5fba-acbf-409f-81ce-cfc3b11388d8
+  ws-opts:
+    headers:
+      Host: fr-01.snangua.com
+    path: /
+- alterId: 0
+  cipher: auto
   name: 107|加拿大 023_2@66
   network: ws
   port: 443
@@ -4494,6 +4131,22 @@ proxies:
   ws-opts:
     headers:
       Host: data-hk-3.cn-db.top
+    path: /db00
+- alterId: 0
+  cipher: auto
+  name: 107|加拿大 024_2@67
+  network: ws
+  port: 2053
+  server: 104.17.164.97
+  servername: cache-hk-2.cn-db.top
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4f574408-dfef-338a-a7d9-f7d1e70ff8d9
+  ws-opts:
+    headers:
+      Host: cache-hk-2.cn-db.top
     path: /db00
 - alterId: 0
   cipher: auto
@@ -4607,6 +4260,24 @@ proxies:
   name: '137,235|🇦CA-23.162.200.181-0647 #1'
   password: Y6R9pAtvxxzmGC
   port: 3389
+  server: 23.162.200.181
+  type: ss
+- cipher: aes-256-gcm
+  name: '137,235|🇨🇦CA-23.162.200.181-0652 #1'
+  password: zDNVedRFPQexG9v
+  port: 445
+  server: 23.162.200.181
+  type: ss
+- cipher: aes-256-gcm
+  name: '137,235|🇨🇦CA-23.162.200.181-0661 #1'
+  password: Y6R9pAtvxxzmGC
+  port: 9090
+  server: 23.162.200.181
+  type: ss
+- cipher: aes-256-gcm
+  name: '137,235|🇨🇦CA-23.162.200.181-0665 #1'
+  password: PCnnH6SQSnfoS27
+  port: 8091
   server: 23.162.200.181
   type: ss
 - cipher: aes-256-gcm
@@ -4766,6 +4437,12 @@ proxies:
   password: G!yBwPWH3Vao
   port: 803
   server: 196.247.59.154
+  type: ss
+- cipher: aes-256-gcm
+  name: '137,235|🇦CA-134.195.196.230-6506 #1'
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 134.195.196.230
   type: ss
 - cipher: aes-256-gcm
   name: '137,235|🇦CA-38.111.114.246-6607 #1'
@@ -5130,6 +4807,22 @@ proxies:
     headers:
       Host: 1270.0.1.dl3.ˠ}QӰ.yܧ֧ݧѧѧ֧cѧߧ.ڧݧ.urkel.ˠԮ.wonkacapitano.buzz.
     path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 159,203,262,267|sws-1085-2024-07-22_132525
+  network: ws
+  port: 2052
+  server: 104.19.38.8
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: d6b6d982-d52f-465a-b988-85670b23f64a
+  ws-opts:
+    headers:
+      Host: cdn1.freegradely.xyz
+    path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: '159,262|CA??SSRSUB_288811909 #1'
@@ -5576,7 +5269,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '233|🇨🇦 加拿大 111 #1'
+  name: 233|🇨🇦 加拿大 111
   network: ws
   port: '443'
   server: 23.227.38.82
@@ -5747,12 +5440,6 @@ proxies:
     headers:
       host: usca.ludou.us.kg
     path: /?ed=2048
-- cipher: aes-256-gcm
-  name: 275|SS-加拿大-NF解锁加拿大自制剧-ChatGPT-TikT...
-  password: e4FCWrgpkji3QY
-  port: 9102
-  server: 23.162.200.133
-  type: ss
 - alterId: 2
   cipher: auto
   name: 276|github.com/freefq - 加拿大  36

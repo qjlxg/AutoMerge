@@ -396,42 +396,42 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: 48,50|🇼 台湾02|直连线X0.5
+  name: 48|🇹🇼 台湾02|直连路线X0.5
   network: ws
   port: 2052
   server: cfnatji2.x2tanzhen.top
   tls: false
   type: vmess
   udp: true
-  uuid: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  uuid: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   ws-opts:
     headers:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇼 台湾 1-1G
-  password: b1062953-87ec-4432-aa41-7b8c2b8f385f
+  name: 48|🇹🇼 台湾 1-1B
+  password: 499389df-78bd-4821-9b69-1493a2df2c40
   port: 20032
   server: gy.666666222.shop
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 48,50|🇼 台湾03|直连线X0.5
+  name: 48|🇹🇼 台湾03|直连路线X0.5
   network: ws
   port: 2052
   server: cfnatji3.x2tanzhen.top
   tls: false
   type: vmess
   udp: true
-  uuid: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  uuid: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   ws-opts:
     headers:
       Host: twnat2.dackcf1.top
     path: /x2cloud?ed=2048
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇼 台湾01-1O
-  password: 9e0ccbc0-7fd1-4d25-8395-5013a21e5129
+  name: 48|🇹🇼 台湾01-1P
+  password: 97a10a27-219e-4ac4-976d-44e8ab064ac1
   port: 15632
   server: gdcub.yunnode.win
   type: ss
@@ -444,15 +444,15 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇼 DX台湾|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇹🇼 DX台湾|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 17791
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇼 台湾01-1N
-  password: e2bd3b14-e547-4336-880b-06268a7a4556
+  name: 48|🇹🇼 台湾01-1J
+  password: 45519392-1294-4ae2-9e3d-f45feeaf9d72
   port: 47564
   server: gd.xueyejiasu.com
   type: ss
@@ -473,14 +473,14 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 48,50|🇼 台湾01|直连路线X0.5
+  name: 48|🇹🇼 台湾01|直连路线X0.5
   network: ws
   port: 8080
   server: cfnatji1.x2tanzhen.top
   tls: false
   type: vmess
   udp: true
-  uuid: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  uuid: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   ws-opts:
     headers:
       Host: twnat2.dackcf1.top
@@ -493,15 +493,15 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇼 LS台湾|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇹🇼 LS台湾|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 29637
   server: szyd.ewenhot.top
   type: ss
   udp: true
-- auth: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
-  name: 48,50|🇼 HY2台湾-0.8x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+- auth: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
+  name: 48|🇹🇼 HY2台湾-0.8x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 30158
   server: twnat2.dackcf1.top
   skip-cert-verify: true
@@ -554,74 +554,17 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '49,65,108,110,203,204,206|PP|@Zyw_Channel #42'
+  name: '49,108,110,203,204,206|PP|@Zyw_Channel #42'
   network: ws
   port: 31945
   server: 103.159.206.35
   servername: null
-  skip-cert-verify: true
   tls: false
   type: vmess
   uuid: e2e511b0-7def-4e1b-d238-6cb5391b2e3f
   ws-opts:
     headers:
       Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 64|🇨 > TW|Ns|0720|TG@FProxies| 5
-  network: ws
-  port: 8080
-  server: 104.19.47.191
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    path: /?ed=2048&Telegram🇨🇳 @WangCai2
-- client-fingerprint: chrome
-  name: '65,111,172,211,242,287,293|TW_speednode_0276 #2'
-  network: ws
-  password: CMLiu
-  port: 443
-  server: 35.201.203.106
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- cipher: aes-256-gcm
-  name: 65|🇨 Relay_ TW-🇹🇼TW_724
-  password: 30b5e6b4-4841-4d80-b16d-4623253733da
-  port: 81
-  server: tw.huy.ovh
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 65|🇳 > TW|Ns|0720|TG@FProxies| 2
-  network: ws
-  port: 8080
-  server: 172.67.172.235
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 66|🇳 > TW|Ms|0720|TG@FProxies| 5
-  network: ws
-  port: 8080
-  server: 172.67.172.246
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
-  ws-opts:
     path: /
 - alterId: 0
   cipher: auto
@@ -804,6 +747,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 077f1ef4-b2bd-37cb-900d-728cd84493b0
+- client-fingerprint: chrome
+  name: '111,172,211,242,287|TW_speednode_0276 #1'
+  network: ws
+  password: CMLiu
+  port: 443
+  server: 35.201.203.106
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
 - alterId: 0
   cipher: auto
   name: '116,215|github.com/freefq-台湾省公司2222 #1'

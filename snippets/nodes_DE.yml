@@ -56,14 +56,14 @@ proxies:
       Host: mikasa.yaemiko.cloudns.org
     path: /ivideos.sbs/linkws
 - cipher: aes-256-cfb
-  name: '21,33,130,136,137,235|🇷FR-13.39.43.18-2315 #1'
+  name: '21,33,130,136,137,138,235|SE-13.50.58.67-2314 #1'
   obfs: http_simple
   obfs-param: ''
   password: YpX2opBbrfqJzzMs
   port: 42833
   protocol: origin
   protocol-param: ''
-  server: z0111.security-cloudfront-cdn.com
+  server: z0117.security-cloudfront-cdn.com
   type: ssr
 - alterId: 0
   cipher: aes-256-gcm
@@ -788,7 +788,7 @@ proxies:
     path: /zBLPou
 - alterId: 0
   cipher: auto
-  name: '30,33,64,78,87,91,97,98,108,115,130,136,137,178,185,188,201,203,204,214,235|🇩🇪DE-130.162.47.123-9023
+  name: '30,33,78,87,91,97,98,108,115,130,136,137,178,185,188,201,203,204,214,235|🇩🇪DE-130.162.47.123-9023
     #1'
   network: ws
   port: 6854
@@ -1503,7 +1503,7 @@ proxies:
     path: /QvtvPdDXXIlSdZMqnuxG
 - alterId: 0
   cipher: auto
-  name: 33,64,130,136,137,195,235,288|德国_0808005
+  name: 33,130,136,137,195,235,288|德国_0808005
   network: ws
   port: '6854'
   server: 130.162.47.123
@@ -1559,7 +1559,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '33,64,91,130,136,137,185,235|🇪DE-3.64.163.50-1111 #1'
+  name: '33,91,130,136,137,185,235|🇪DE-3.64.163.50-1111 #1'
   network: ws
   port: 80
   server: cfhk.oppo.quest
@@ -1754,7 +1754,7 @@ proxies:
     path: /graphql
 - alterId: 0
   cipher: auto
-  name: '33,66,91,130,136,137,185,195,235,288|德国_0808010 #1'
+  name: '33,91,130,136,137,185,195,235,288|德国_0808010 #1'
   network: ws
   port: '80'
   server: 162.55.174.135
@@ -1769,7 +1769,7 @@ proxies:
     path: /graphql
 - alterId: 0
   cipher: auto
-  name: '33,65,91,130,136,137,185,195,235,288|德国_0808011 #1'
+  name: '33,91,130,136,137,185,195,235,288|德国_0808011 #1'
   network: ws
   port: '80'
   server: 162.55.62.193
@@ -1797,7 +1797,7 @@ proxies:
     path: /telegram-id-@privatevpns
 - alterId: 0
   cipher: auto
-  name: '33,65,91,130,136,137,185,235|🇪DE-78.46.129.226-3984 #1'
+  name: '33,91,130,136,137,185,235|🇪DE-78.46.129.226-3984 #1'
   network: ws
   port: 80
   server: 78.46.129.226
@@ -2253,16 +2253,15 @@ proxies:
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
-  name: 37,65|ChatGPT 🇪 DE_191
+  name: 37|TG频道@mfbpn-1192-DE
   password: BNmAXXxAHYpTRdzu
   port: 9020
   server: 80.92.204.106
   type: ss
-  udp: true
 - alterId: -1
   cipher: aes-256-cfb
   country: 🏁 ZZ
-  name: 37,66,196|DE😈github.com/Ruk1ng001_-20590...
+  name: 37,196|DE😈github.com/Ruk1ng001_-20590...
   password: 4R3hUfZ2FHhDmNcP
   port: 9061
   server: 80.92.204.106
@@ -2270,13 +2269,13 @@ proxies:
 - cipher: aes-256-cfb
   country: 🇩🇪DE
   delay: 2450
-  name: '37,66,129|德国 - 法兰克福 - Stark Industries S... #2'
+  name: '37,129|德国 - 法兰克福 - Stark Industries S... #2'
   password: Sn5B7jTqr76aCJT8
   port: 9097
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
-  name: 37,64|ChatGPT 🇪 DE_198
+  name: 37|TG频道@mfbpn-1195-DE
   password: aLpQtfEZe445QyHk
   port: 9098
   server: 80.92.204.106
@@ -2290,13 +2289,13 @@ proxies:
 - alterId: -1
   cipher: aes-256-cfb
   delay: 2926
-  name: 37,64,129,196|DE😈github.com/Ruk1ng001_677993...
+  name: 37,129,196|DE😈github.com/Ruk1ng001_677993...
   password: VP8ZPxQpJtZRCjfZ
   port: 9080
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
-  name: 37,64|ChatGPT  ZZ_642
+  name: 37|TG频道@mfbpn-1199-DE
   password: ZET59LF6DvCC8KVt
   port: 9005
   server: 80.92.204.106
@@ -2316,7 +2315,7 @@ proxies:
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
-  name: 37,64,65|ChatGPT  DE_184
+  name: 37|TG频道@mfbpn-1202-DE
   password: FAdUvMJUq5vDgKEq
   port: 9006
   server: 80.92.204.106
@@ -2344,7 +2343,7 @@ proxies:
 - alterId: -1
   cipher: aes-256-cfb
   country: 🏁 ZZ
-  name: 37,66,196|DE😈github.com/Ruk1ng001_185379...
+  name: 37,196|DE😈github.com/Ruk1ng001_185379...
   password: BejrQvtu9sqUeNuZ
   port: 9024
   server: 80.92.204.106
@@ -2352,7 +2351,7 @@ proxies:
 - alterId: -1
   cipher: aes-256-cfb
   country: 🏁 ZZ
-  name: 37,64,196|DE😈github.com/Ruk1ng001_820586...
+  name: 37,196|DE😈github.com/Ruk1ng001_820586...
   password: GA9KzeEgvfxNrgmM
   port: 9019
   server: 80.92.204.106
@@ -2360,7 +2359,7 @@ proxies:
   udp: true
 - alterId: -1
   cipher: aes-256-cfb
-  name: '37,66,137,196,235|🇪DE-80.92.204.106-3100 #1'
+  name: '37,137,196,235|🇪DE-80.92.204.106-3100 #1'
   password: M3t2ZEQcMGRWBjRa
   port: 9011
   server: 80.92.204.106
@@ -2373,12 +2372,11 @@ proxies:
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-cfb
-  name: 37,65|_447🇩🇪
+  name: 37|TG频道@mfbpn-1210-DE
   password: f63gg8EruDnUrmz4
   port: 9010
   server: 80.92.204.106
   type: ss
-  udp: true
 - cipher: aes-256-cfb
   name: '43,92,186|5aKo6KW/5ZOlXzA4MDkxODAwMQ #1'
   obfs: plain
@@ -2397,8 +2395,8 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇪 DX德国-SS|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇩🇪 DX德国-SS|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 44281
   server: hzgg.ewenhot.top
   type: ss
@@ -2599,24 +2597,6 @@ proxies:
     headers:
       Host: m3hdi.servehttp.com
     path: /💘 @v2ray_configs_pool 💘
-- auth: 986393bd-4f26-41a6-a096-00fb3db1e830
-  name: 50|🇪 德国-HY2-中妮妮-1A
-  password: 986393bd-4f26-41a6-a096-00fb3db1e830
-  port: 50022
-  server: de.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 7c1f0f82-3515-4660-8979-14cfac15846d
-  name: 50|🇪 德国-HY2-大妮妮-1B
-  password: 7c1f0f82-3515-4660-8979-14cfac15846d
-  port: 50033
-  server: de.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
 - alterId: 0
   cipher: auto
   name: '62,95,278|🇩🇪 德国_121320049 #1'
@@ -2631,117 +2611,6 @@ proxies:
     headers:
       Host: ee1-vmess.sshmax.xyz
     path: /vmess
-- alterId: 64
-  cipher: auto
-  country: 🇩🇪DE
-  h2-opts: {}
-  http-opts: {}
-  name: 64,196|DE😈github.com/Ruk1ng001_-25108...
-  network: ws
-  port: 30003
-  server: 89.163.129.6
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    path: /path/181721272114
-- cipher: aes-256-gcm
-  name: 64,66|FR_606🇩🇪
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-cfb
-  name: 64|ChatGPT 🏁 ZZ_1216
-  password: BwcAUZk8hUFAkDGN
-  port: 9031
-  server: 80.92.204.106
-  type: ss
-- alterId: -1
-  cipher: chacha20-ietf-poly1305
-  name: '64,65,137,159,235,262|DE??SSRSUB_284669740 #1'
-  password: I53uJsZc6dzTBYDEqg1a30Bh1hAd4HQzgpwCVdpzKwfF2ZUh
-  port: 51348
-  server: 168.119.57.171
-  type: ss
-- cipher: aes-256-cfb
-  name: 64|DE_43🇩🇪
-  password: rpgbNnU9rDDU4aWZ
-  port: 9094
-  server: 80.92.204.106
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: '64,103,194|🇩🇪 DE 42 → tg@nicevpn123 #1'
-  network: ws
-  port: 443
-  server: 185.135.9.208
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      Host: worker-noisy-paper-fa00.hetoj18200.workers.dev
-    path: /nina.bond/linkvws
-- alterId: -1
-  cipher: aes-256-cfb
-  name: 64,196|DE😈github.com/Ruk1ng001_-13229...
-  password: NvS8N4Vf8qAGPSCL
-  port: 9046
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  name: 64,66|ChatGPT  ZZ_1222
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 80.92.204.106
-  type: ss
-- grpc-opts:
-    grpc-service-name: trojangrpc
-  name: '66,97,98,137,188,235|🇪DE-108.61.171.167-9057 #1'
-  network: grpc
-  password: mainssh-niwrhf87
-  port: 443
-  server: 108.61.171.167
-  skip-cert-verify: false
-  sni: getgrpc.mainssh.xyz
-  tls: true
-  type: trojan
-  udp: true
-- cipher: aes-256-gcm
-  name: '66,78,178|🇺🇸US(AzadNet.t.me)_286 #1'
-  password: kDWvXYZoTBcGkC4
-  port: 8882
-  server: 23.158.56.196
-  type: ss
-- cipher: aes-256-gcm
-  name: 66|ChatGPT 🏁 ZZ_238
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 217.182.198.219
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '66,137,235|DE-161.97.68.139-7268 #1'
-  password: 94dvoW0TdKRq
-  port: 443
-  server: 161.97.68.139
-  type: ss
-- cipher: aes-256-gcm
-  name: 66|ChatGPT 🇩🇪 DE_158
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  name: '66,78,103,178,194|🇩🇪 DE 9 → tg@nicevpn123 #1'
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 217.182.198.219
-  type: ss
-  udp: true
 - name: '78,178|🇪DE(AzadNet.t.me)_001 #1'
   network: tcp
   password: your_password
@@ -2794,12 +2663,32 @@ proxies:
   type: trojan
   udp: true
 - cipher: aes-256-cfb
+  name: '78,103,178,194|LT 4 → tg@nicevpn123 #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 46.183.184.62
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
   name: '78,97,98,103,137,178,188,194,235|🇭🇷HR-46.183.184.61-8417 #1'
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 46.183.184.61
   type: ss
   udp: true
+- cipher: aes-256-cfb
+  name: '78,103,178,194|LT 3 → tg@nicevpn123 #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 46.183.184.60
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '78,97,98,137,178,188,235|MK-46.183.185.37-8415 #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 46.183.185.37
+  type: ss
 - cipher: aes-256-cfb
   name: '78,137,178,235|🇰MK-46.183.185.15-5357 #1'
   password: f8f7aCzcPKbsF8p3
@@ -3616,6 +3505,18 @@ proxies:
   uuid: 408438b0-fe40-44de-af19-0e5e6bb750ce
 - grpc-opts:
     grpc-service-name: trojangrpc
+  name: '97,98,137,188,235|🇪DE-108.61.171.167-9057 #1'
+  network: grpc
+  password: mainssh-niwrhf87
+  port: 443
+  server: 108.61.171.167
+  skip-cert-verify: false
+  sni: getgrpc.mainssh.xyz
+  tls: true
+  type: trojan
+  udp: true
+- grpc-opts:
+    grpc-service-name: trojangrpc
   name: '97,98,137,188,235|🇪DE-108.61.170.104-9059 #1'
   network: grpc
   password: mainssh-ddoejfv14
@@ -3918,6 +3819,21 @@ proxies:
     path: /vmess/
 - alterId: 0
   cipher: auto
+  name: '103,194|🇩🇪 DE 42 → tg@nicevpn123 #1'
+  network: ws
+  port: 443
+  server: 185.135.9.208
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: worker-noisy-paper-fa00.hetoj18200.workers.dev
+    path: /nina.bond/linkvws
+- alterId: 0
+  cipher: auto
   name: '103,194|🇩🇪 DE 6 → tg@nicevpn123 #1'
   network: ws
   port: 443
@@ -4119,6 +4035,13 @@ proxies:
   sni: de8.jindoucn.life
   type: hysteria2
   up: 1000
+- alterId: -1
+  cipher: chacha20-ietf-poly1305
+  name: '137,159,235,262|DE??SSRSUB_284669740 #1'
+  password: I53uJsZc6dzTBYDEqg1a30Bh1hAd4HQzgpwCVdpzKwfF2ZUh
+  port: 51348
+  server: 168.119.57.171
+  type: ss
 - alterId: -1
   cipher: chacha20-ietf-poly1305
   name: '137,159,235,262|DE??SSRSUB_1222851506 #1'
@@ -4337,6 +4260,12 @@ proxies:
   password: TEzjfAYq2IjtuoS
   port: 6697
   server: 145.239.1.100
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '137,235|DE-161.97.68.139-7268 #1'
+  password: 94dvoW0TdKRq
+  port: 443
+  server: 161.97.68.139
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '137,168,235,274|[02-24]-🇸-美国-023-161.97.66.81 #1'
@@ -4617,6 +4546,28 @@ proxies:
     headers:
       Host: de02.thomasina.buzz
     path: /
+- alterId: -1
+  cipher: aes-256-cfb
+  name: 196|DE😈github.com/Ruk1ng001_-13229...
+  password: NvS8N4Vf8qAGPSCL
+  port: 9046
+  server: 80.92.204.106
+  type: ss
+- alterId: 64
+  cipher: auto
+  country: 🇩🇪DE
+  h2-opts: {}
+  http-opts: {}
+  name: 196|DE😈github.com/Ruk1ng001_-25108...
+  network: ws
+  port: 30003
+  server: 89.163.129.6
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    path: /path/181721272114
 - alterId: 0
   cipher: chacha20-poly1305
   name: 203|🇩🇪 Germany

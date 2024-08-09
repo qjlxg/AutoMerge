@@ -20,7 +20,7 @@ proxies:
     path: /path/011410073331
 - alterId: 0
   cipher: auto
-  name: '16,33,48,50,64,91,113,130,136,137,185,212,235|🇭🇰HK-103.165.85.122-1246 #1'
+  name: '16,33,48,91,113,130,136,137,185,212,235|🇭🇰HK-103.165.85.122-1246 #1'
   network: ws
   port: 443
   server: hk01.xfxnode.top
@@ -468,7 +468,7 @@ proxies:
   uuid: bb73d6fe-9700-4607-8dc1-eb9f15253e9d
 - alterId: 0
   cipher: auto
-  name: 33,66,91,130,136,137,185,235,288|香港_0808007
+  name: 33,91,130,136,137,185,235,288|香港_0808007
   network: ws
   port: '443'
   server: fullaccesstohongkongnet.azurewebsites.net
@@ -704,7 +704,7 @@ proxies:
     path: /aries
 - alterId: 0
   cipher: auto
-  name: '33,64,91,130,136,137,185,235|🇰HK-188.116.22.171-3825 #1'
+  name: '33,91,130,136,137,185,235|🇰HK-188.116.22.171-3825 #1'
   network: ws
   port: 443
   server: 188.116.22.171
@@ -717,7 +717,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '33,64,91,130,136,137,185,235|🇰HK-188.116.22.171-4831 #1'
+  name: '33,91,130,136,137,185,235|🇰HK-188.116.22.171-4831 #1'
   network: ws
   port: 80
   server: 188.116.22.171
@@ -730,7 +730,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '33,64,130,136,137,195,235,288|美国_0808304 #1'
+  name: '33,130,136,137,195,235,288|美国_0808304 #1'
   network: ws
   port: '8300'
   server: hk3.grpc.stream
@@ -1286,57 +1286,57 @@ proxies:
       Host: m2-hk1.go-relay.top
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 香港07-备用-1D #1'
-  password: 269917ec-db94-49bb-8dcc-90f8a1253f76
+  name: 48|🇭🇰 香港07-备用-1A
+  password: 81695c85-768d-44f3-8d05-03f7a7aba5fd
   port: 15641
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 香港05-备用-1C #1'
-  password: faaae20f-006b-4f7a-b414-2e6cec56edac
+  name: 48|🇭🇰 香港05-备用-1H
+  password: 97a10a27-219e-4ac4-976d-44e8ab064ac1
   port: 15639
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 香港04-备用-1H #1'
-  password: 0ce60165-f3ff-421a-a7c0-0860c08c0d41
+  name: 48|🇭🇰 香港04-备用-1C
+  password: b2b384cd-9b21-4a02-a34e-836e004816d5
   port: 15638
   server: 140.249.160.81
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 香港02-1E
-  password: 60137361-d0e1-4f42-a784-00b056c5a81d
+  name: 48|🇭🇰 香港02-1H
+  password: c9ce4dff-1c07-40a9-aa3c-8ff42e9fbdd3
   port: 20035
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 香港01-1F #1'
-  password: f0841e46-9ad3-421f-827c-0eaf6d1d60f9
+  name: 48|🇭🇰 香港01-1K
+  password: b87fae16-d753-44eb-b9f2-6f367e11e735
   port: 34338
   server: gd.xueyejiasu.com
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 香港03-1K #1'
-  password: 7a4c1c82-471d-4810-bfbf-2d61ab3453bf
+  name: 48|🇭🇰 香港03-1E
+  password: 118593c6-7ce5-4260-b411-d5afe99baf4d
   port: 20052
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇭🇰 1|香港L|X1|DF1-1D
-  password: 0705a35a-c653-4ee1-981b-1522152c3909
+  name: 48|🇭🇰 1|香港L|X1|DF1-1C
+  password: 286a17e6-069b-4275-ae56-678ca9179313
   port: 59993
   server: df-01.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 DX香港00|优化|1x #1'
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇭🇰 DX香港00|优化|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 16072
   server: hzgg.ewenhot.top
   type: ss
@@ -1356,29 +1356,29 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 香港01-1J
-  password: 7d2bcd7e-0d01-4fc6-b309-f1aacb8cb772
+  name: 48|🇭🇰 香港01-1P
+  password: 97a10a27-219e-4ac4-976d-44e8ab064ac1
   port: 19630
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 香港02-1G #1'
-  password: faaae20f-006b-4f7a-b414-2e6cec56edac
+  name: 48|🇭🇰 香港02-1D
+  password: 58afa817-100e-49b0-b5f6-493b1382fdb2
   port: 15931
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇭🇰 1|香港01|X1|XD中港HKT-1D
-  password: 0705a35a-c653-4ee1-981b-1522152c3909
+  name: 48|🇭🇰 1|香港01|X1|XD中港HKT-1A
+  password: b818489e-a245-4a7c-a48a-924976e5508e
   port: 60003
   server: xd-zg-hkt1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 香港03-1O
-  password: 9e0ccbc0-7fd1-4d25-8395-5013a21e5129
+  name: 48|🇭🇰 香港03-1N
+  password: 9f0db696-32a3-475e-ae50-9098e17e5089
   port: 15635
   server: gdcub.yunnode.win
   type: ss
@@ -1391,57 +1391,57 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 2|香港07|X1|XD中港2-1A #1'
-  password: 269b00b8-c0b1-430f-8fe8-892c0a2bac2b
+  name: 48|🇭🇰 2|香港07|X1|XD中港2-1A
+  password: b818489e-a245-4a7c-a48a-924976e5508e
   port: 24039
   server: xd-zg2.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 DX香港01|三网|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇭🇰 DX香港01|三网|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 13490
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇭🇰 LS香港00|优化|1x #1'
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇭🇰 LS香港00|优化|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 13648
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 1|香港02|X1|XD中港2-1D
-  password: 0705a35a-c653-4ee1-981b-1522152c3909
+  name: 48|🇭🇰 1|香港02|X1|XD中港2-1B
+  password: 9f1b6651-9bb8-42d7-810b-efa80762fe19
   port: 26015
   server: xd-zg2.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 1|香港01|X1|XD中港2-1A
-  password: 269b00b8-c0b1-430f-8fe8-892c0a2bac2b
+  name: 48|🇭🇰 1|香港01|X1|XD中港2-1B
+  password: 9f1b6651-9bb8-42d7-810b-efa80762fe19
   port: 26011
   server: xd-zg2.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇭🇰 DX香港02|港|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇭🇰 DX香港02|苏港|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 18596
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 1|香港02|X1|XD中港HKT-1B
-  password: 8984e787-50be-4001-8352-a8e08b239144
+  name: 48|🇭🇰 1|香港02|X1|XD中港HKT-1B
+  password: 9f1b6651-9bb8-42d7-810b-efa80762fe19
   port: 41015
   server: xd-zg-hkt1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇰 LS香港02|港|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇭🇰 LS香港02|苏港|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 27669
   server: szyd.ewenhot.top
   type: ss
@@ -1487,33 +1487,6 @@ proxies:
     headers:
       Host: 19.lwdh.us
     path: ''
-- auth: 986393bd-4f26-41a6-a096-00fb3db1e830
-  name: 50|🇭🇰 香港-HY2-中妮妮-1A
-  password: 986393bd-4f26-41a6-a096-00fb3db1e830
-  port: 50022
-  server: hk.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 986393bd-4f26-41a6-a096-00fb3db1e830
-  name: 50|🇰 香港-HY2-妮妮-1A
-  password: 986393bd-4f26-41a6-a096-00fb3db1e830
-  port: 50011
-  server: hk.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 986393bd-4f26-41a6-a096-00fb3db1e830
-  name: 50|🇰 香港-HY2-大妮妮-1A
-  password: 986393bd-4f26-41a6-a096-00fb3db1e830
-  port: 50033
-  server: hk.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
 - alterId: 0
   cipher: auto
   name: '62,95,278|🇭🇰 香港_121320012 #1'
@@ -1524,101 +1497,6 @@ proxies:
   tls: false
   type: vmess
   uuid: f17d1a99-5b3a-43da-e59a-ad55cba85c27
-  ws-opts:
-    path: /
-- cipher: aes-128-gcm
-  country: 🇭🇰HK
-  delay: 1119
-  name: '64,78,129,178|🇨🇳CN(AzadNet.t.me)_006 #1'
-  password: a-wym4ovY4Yw
-  port: 81
-  server: 218.250.217.111
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '64,137,235|🇭🇰HK-141.11.148.195-2425 #1'
-  password: 3e836edc-e738-4e63-964d-ad61d9e3f27b
-  port: 61002
-  server: api-a-asia-4.mcqqn.com
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '65,103,137,194,235|🇰HK-141.11.148.195-0678 #1'
-  password: edf4caf7-6788-31a8-9893-93c053f7bbc2
-  port: 61001
-  server: 4.forlive.live
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: 65|🇰 香港✈数据中心[3](协议二)
-  password: 254831d6-b1b9-470b-9931-e739397e3927
-  port: 39403
-  server: MI.HUY.OVH
-  type: ss
-- client-fingerprint: chrome
-  delay: 390
-  name: '66,111,129,172,211,242,287,293|HK_speednode_0159 #2'
-  network: ws
-  password: CMLiu
-  port: 2087
-  server: 47.76.227.128
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- alterId: 64
-  cipher: auto
-  name: 66|HK_24 | 8.52Mb🇰
-  network: ws
-  port: 443
-  server: 103.212.98.234
-  servername: www.59795160.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    path: /path/011410073331
-- name: 66|🇰 HK😈github.com/Ruk1ng001_-110...
-  network: ws
-  password: CMLiu
-  port: 8443
-  server: 47.76.26.26
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: ''
-- alterId: 2
-  cipher: auto
-  name: 66|🇰 >🇰 HK|Ls|0720|TG@FProxies| 1...
-  network: ws
-  port: 23619
-  server: 19.v2-ray.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: cbd378ac-85f3-366e-a41e-90993c749e5e
-  ws-opts:
-    headers:
-      Host: 19.v2-ray.cyou
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '66,103,194|🇭🇰 HK 4 → tg@nicevpn123 #1'
-  network: ws
-  port: 55576
-  server: 202.81.231.30
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 32daf1ff-4b08-4c22-b997-1c24ff34c43a
   ws-opts:
     path: /
 - alterId: 0
@@ -9999,6 +9877,19 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
+  name: '103,194|🇭🇰 HK 4 → tg@nicevpn123 #1'
+  network: ws
+  port: 55576
+  server: 202.81.231.30
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 32daf1ff-4b08-4c22-b997-1c24ff34c43a
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
   name: 103,194,203|(S2) - E•A 88
   network: ws
   port: '80'
@@ -10204,7 +10095,7 @@ proxies:
     path: /name
 - client-fingerprint: chrome
   delay: 1855
-  name: '111,129,172,211,242,287,293|HK_speednode_0156 #2'
+  name: '111,129,172,211,242,287|HK_speednode_0156 #1'
   network: ws
   password: CMLiu
   port: 38050
@@ -10218,7 +10109,7 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|HK_speednode_0157 #2'
+  name: '111,172,211,242,287|HK_speednode_0157 #1'
   network: ws
   password: CMLiu
   port: 443
@@ -10232,7 +10123,22 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|HK_speednode_0160 #2'
+  delay: 390
+  name: '111,129,172,211,242,287|HK_speednode_0159 #1'
+  network: ws
+  password: CMLiu
+  port: 2087
+  server: 47.76.227.128
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
+  name: '111,172,211,242,287|HK_speednode_0160 #1'
   network: ws
   password: CMLiu
   port: 8443
@@ -10246,7 +10152,7 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|HK_speednode_0163 #2'
+  name: '111,172,211,242,287|HK_speednode_0163 #1'
   network: ws
   password: CMLiu
   port: 55330
@@ -10260,7 +10166,7 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|HK_speednode_0164 #2'
+  name: '111,172,211,242,287|HK_speednode_0164 #1'
   network: ws
   password: CMLiu
   port: 44689
@@ -10274,7 +10180,7 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|HK_speednode_0165 #2'
+  name: '111,172,211,242,287|HK_speednode_0165 #1'
   network: ws
   password: CMLiu
   port: 37578
@@ -10288,7 +10194,7 @@ proxies:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|HK_speednode_0168 #2'
+  name: '111,172,211,242,287|HK_speednode_0168 #1'
   network: ws
   password: CMLiu
   port: 15957
@@ -10443,6 +10349,12 @@ proxies:
   password: 3e836edc-e738-4e63-964d-ad61d9e3f27b
   port: 61007
   server: api-a-asia-1.mcqqn.com
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '137,235|🇭🇰HK-141.11.148.195-2425 #1'
+  password: 3e836edc-e738-4e63-964d-ad61d9e3f27b
+  port: 61002
+  server: api-a-asia-4.mcqqn.com
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '137,235|🇰HK-148.66.56.99-3539 #1'

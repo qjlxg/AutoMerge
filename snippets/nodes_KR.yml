@@ -1,6 +1,6 @@
 proxies:
 - client-fingerprint: chrome
-  name: '16,111,113,137,172,211,212,235,242,287,293|KR_speednode_0195 #2'
+  name: '16,111,113,137,172,211,212,235,242,287|KR_speednode_0195 #1'
   network: ws
   password: moist
   port: 34237
@@ -15,7 +15,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 16,33,66,91,113,130,136,137,185,195,212,235,288|韩国_0808006
+  name: 16,33,91,113,130,136,137,185,195,212,235,288|韩国_0808006
   network: ws
   port: '30056'
   server: usd6.uuuuu.fn-node.shop
@@ -30,7 +30,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,64,66,91,113,130,136,137,185,212,235|🇷KR-14.35.59.67-1228 #1'
+  name: '16,33,91,113,130,136,137,185,212,235|🇷KR-14.35.59.67-1228 #1'
   network: ws
   port: 30071
   server: jpd7.jjjjj.fn-node.shop
@@ -126,7 +126,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,66,91,113,130,136,137,185,212,235|🇰🇷KR-211.51.106.178-1234 #1'
+  name: '16,33,91,113,130,136,137,185,212,235|🇰🇷KR-211.51.106.178-1234 #1'
   network: ws
   port: 30070
   server: hkdnf.hhhhh.fn-node.site
@@ -142,7 +142,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 16,33,65,91,113,130,136,137,185,195,212,235,288|韩国_0808007
+  name: 16,33,91,113,130,136,137,185,195,212,235,288|韩国_0808007
   network: ws
   port: '30002'
   server: hkd2.hhhhh.fn-node.site
@@ -174,7 +174,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '16,33,65,66,91,113,130,136,137,185,212,235|🇰🇷KR-218.146.196.178-1237 #1'
+  name: '16,33,91,113,130,136,137,185,212,235|🇰🇷KR-218.146.196.178-1237 #1'
   network: ws
   port: 30061
   server: hkd8.hhhhh.fn-node.shop
@@ -341,7 +341,7 @@ proxies:
   client-fingerprint: chrome
   country: 🇰🇷KR
   delay: 486
-  name: '22,37,65,67,111,118,129,147,196,211,237,248|🇸🇬 狮城特殊|@ripaojiedian #1'
+  name: '22,37,67,111,118,129,147,196,211,237,248|🇸🇬 狮城特殊|@ripaojiedian #1'
   password: amazonskr05
   port: 443
   server: 43.201.254.74
@@ -702,7 +702,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: '33,64,91,130,136,137,185,195,235,288|韩国_0808013 #1'
+  name: '33,91,130,136,137,185,195,235,288|韩国_0808013 #1'
   network: ws
   port: '443'
   server: 27.124.8.141
@@ -743,7 +743,7 @@ proxies:
     path: /reffs7y26g0ua
 - alterId: 0
   cipher: auto
-  name: '33,66,91,130,136,137,185,195,235,288|韩国_0808014 #1'
+  name: '33,91,130,136,137,185,195,235,288|韩国_0808014 #1'
   network: ws
   port: '443'
   server: fullaccesstokoreannetsubnode1.azurewebsites.net
@@ -771,7 +771,7 @@ proxies:
     path: /a0b1fb66-ed41-4077-86a9-a61c143d3777
 - alterId: 0
   cipher: auto
-  name: '33,66,91,130,136,137,185,195,235,288|韩国_0808015 #1'
+  name: '33,91,130,136,137,185,195,235,288|韩国_0808015 #1'
   network: ws
   port: '443'
   server: kr-arm2.018999.xyz
@@ -1015,7 +1015,7 @@ proxies:
   server: kr2.lvuy.xyz
   type: ss
 - cipher: aes-256-cfb
-  name: 37,64,66|ChatGPT 🇷 KR_411
+  name: 37|TG频道@mfbpn-1348-KR
   password: amazonskr05
   port: 443
   server: 43.201.254.211
@@ -1046,9 +1046,9 @@ proxies:
   sni: kr-03.worldfirst.eu.org
   type: hysteria2
   udp: true
-- auth: e1531b22-4390-4321-ac21-880c19b30a89
-  name: 48,50|🇷 韩国-2
-  password: e1531b22-4390-4321-ac21-880c19b30a89
+- auth: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
+  name: 48|🇰🇷 韩国-2
+  password: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
   port: 30001
   server: oracle-arm-chuncheon2.lanmaoyun.icu
   skip-cert-verify: false
@@ -1062,9 +1062,9 @@ proxies:
   server: kr1.iepl.cooc.icu
   type: ss
   udp: true
-- auth: e1531b22-4390-4321-ac21-880c19b30a89
-  name: '48,50|🇰🇷 韩国-1 #1'
-  password: e1531b22-4390-4321-ac21-880c19b30a89
+- auth: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
+  name: 48|🇰🇷 韩国-1
+  password: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
   port: 30001
   server: oracle-arm-chuncheon1.lanmaoyun.icu
   skip-cert-verify: false
@@ -1078,9 +1078,9 @@ proxies:
   server: kr2.iepl.cooc.icu
   type: ss
   udp: true
-- auth: e1531b22-4390-4321-ac21-880c19b30a89
-  name: 48,50|🇷 韩国-
-  password: e1531b22-4390-4321-ac21-880c19b30a89
+- auth: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
+  name: 48|🇰🇷 韩国-首尔
+  password: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
   port: 30001
   server: oracle-arm-seoul1.lanmaoyun.icu
   skip-cert-verify: false
@@ -1088,8 +1088,8 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇷 DX国|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇰🇷 DX韩国|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 13666
   server: hzgg.ewenhot.top
   type: ss
@@ -1102,8 +1102,8 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇷 LS韩国|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇰🇷 LS韩国|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 48296
   server: szyd.ewenhot.top
   type: ss
@@ -1191,84 +1191,6 @@ proxies:
     headers:
       Host: muran-kr.qrfly.me
     path: /
-- cipher: aes-256-cfb
-  name: 64|KR_857🇰🇷
-  password: amazonskr05
-  port: 443
-  server: 52.78.200.155
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: '64,87,115,158,214,261|🔒 VM-WS-TLS 🇰🇷 KR-175.214.157.... #4'
-  network: ws
-  port: 30048
-  server: 175.214.157.85
-  servername: hkd6.hhhhh.fn-node.shop
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
-  ws-opts:
-    headers:
-      Host: hka6.fnnoda.shop
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 64|KR_youtube@_1🇷
-  network: ws
-  port: 80
-  server: kr03.victorialouisa.online
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 25ea21e2-8455-4fca-85bf-4bfbc62646fc
-  ws-opts:
-    headers:
-      Host: kr03.victorialouisa.online
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 64|KR_youtube@资源分享师_4🇷
-  network: ws
-  port: 80
-  server: kr01.victorialouisa.online
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 25ea21e2-8455-4fca-85bf-4bfbc62646fc
-  ws-opts:
-    headers:
-      Host: kr01.victorialouisa.online
-    path: /
-- client-fingerprint: chrome
-  delay: 758
-  name: '64,111,129,172,211,242,287,293|KR_speednode_0184 #2'
-  network: ws
-  password: CMLiu
-  port: 12245
-  server: 125.129.129.66
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- client-fingerprint: chrome
-  name: '66,111,113,137,172,211,212,235,242,287,293|KR_speednode_0185 #2'
-  network: ws
-  password: CMLiu
-  port: 15443
-  server: 14.56.54.62
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
 - name: '78,178|KR(AzadNet.t.me)_001 #1'
   network: tcp
   password: your_password
@@ -1329,20 +1251,6 @@ proxies:
     path: /tg@herhero6
 - alterId: 0
   cipher: auto
-  name: '87,115,158,201,214,261|🔒 VM-WS-NA 🇰🇷 KR-129.154.49.24... #4'
-  network: ws
-  port: '30006'
-  server: 129.154.49.247
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: bfc552e8-2607-4386-9c90-81437ac5ba23
-  ws-opts:
-    headers:
-      Host: www.python.org
-    path: /nishidashabi
-- alterId: 0
-  cipher: auto
   name: '87,115,158,214,261|🔒 VM-WS-TLS 🇰🇷 KR-175.194.206.... #4'
   network: ws
   port: 30070
@@ -1355,6 +1263,34 @@ proxies:
     headers:
       Host: tw01.fnnode.shop
     path: /
+- alterId: 0
+  cipher: auto
+  name: '87,115,158,214,261|🔒 VM-WS-TLS 🇰🇷 KR-175.214.157.... #4'
+  network: ws
+  port: 30048
+  server: 175.214.157.85
+  servername: hkd6.hhhhh.fn-node.shop
+  tls: true
+  type: vmess
+  uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
+  ws-opts:
+    headers:
+      Host: hka6.fnnoda.shop
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '87,115,158,201,214,261|🔒 VM-WS-NA 🇰🇷 KR-129.154.49.24... #4'
+  network: ws
+  port: '30006'
+  server: 129.154.49.247
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bfc552e8-2607-4386-9c90-81437ac5ba23
+  ws-opts:
+    headers:
+      Host: www.python.org
+    path: /nishidashabi
 - alterId: 0
   cipher: auto
   name: '90,183|3.06|韩国youtube阿伟科技 #1'
@@ -1903,7 +1839,7 @@ proxies:
       Host: free-hk.clientsconnect.live
     path: /
 - client-fingerprint: chrome
-  name: '111,172,211,242,287,293|KR_speednode_0182 #2'
+  name: '111,172,211,242,287|KR_speednode_0182 #1'
   network: ws
   password: CMLiu
   port: 20202
@@ -1918,11 +1854,40 @@ proxies:
     path: /?ed=2048
 - client-fingerprint: chrome
   delay: 878
-  name: '111,129,172,211,242,287,293|KR_speednode_0183 #2'
+  name: '111,129,172,211,242,287|KR_speednode_0183 #1'
   network: ws
   password: CMLiu
   port: 11423
   server: 218.158.87.155
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
+  delay: 758
+  name: '111,129,172,211,242,287|KR_speednode_0184 #1'
+  network: ws
+  password: CMLiu
+  port: 12245
+  server: 125.129.129.66
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
+  name: '111,113,137,172,211,212,235,242,287|KR_speednode_0185 #1'
+  network: ws
+  password: CMLiu
+  port: 15443
+  server: 14.56.54.62
   skip-cert-verify: true
   sni: aliorg.filegear-sg.me
   type: trojan

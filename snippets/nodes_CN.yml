@@ -284,7 +284,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: '33,34,87,115,130,171,191,201,214,283|رایگان | VMESS | @yaney_01 | U... #23'
+  name: '33,34,87,115,130,171,191,201,214,283|رایگان | VMESS | @yaney_01 | R... #23'
   network: ws
   port: '80'
   server: ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub
@@ -332,8 +332,8 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '33,38,62,91,111,112,115,118,119,130,136,137,141,147,172,185,211,214,235,242,248,278,287,293|CN_speednode_0035
-    #2'
+  name: '33,38,62,91,111,112,115,118,119,130,136,137,141,147,172,185,211,214,235,242,248,278,287|CN_speednode_0035
+    #1'
   network: ws
   port: 46011
   server: mmjp11.micloud.buzz
@@ -3527,7 +3527,7 @@ proxies:
 - alterId: -1
   cipher: chacha20-ietf-poly1305
   delay: 2647
-  name: '35,36,129,172,196,287,293|CN_speednode_0024 #2'
+  name: '35,36,129,172,196,287|CN_speednode_0024 #1'
   password: 70747514-fb14-4f31-8390-e1f0453eff6d
   port: 20001
   server: hk1.mhw7e2.online
@@ -5144,6 +5144,14 @@ proxies:
     headers:
       host: trojan.freenods.sbs
     path: /
+- cipher: aes-128-gcm
+  country: 🇭🇰HK
+  delay: 1119
+  name: '78,129,178|🇨🇳CN(AzadNet.t.me)_006 #1'
+  password: a-wym4ovY4Yw
+  port: 81
+  server: 218.250.217.111
+  type: ss
 - alterId: 0
   cipher: auto
   name: '80|中国_深圳 #1'

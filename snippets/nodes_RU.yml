@@ -176,7 +176,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '33,49,66,85,87,91,92,115,130,136,137,176,185,186,195,201,203,214,235,288|俄罗斯联邦_0808004
+  name: '33,49,85,87,91,92,115,130,136,137,176,185,186,195,201,203,214,235,288|俄罗斯联邦_0808004
     #1'
   network: ws
   port: '12910'
@@ -218,12 +218,11 @@ proxies:
     path: /6e9EtZ2dL
 - alterId: 0
   cipher: auto
-  name: '33,66,130,136|🇷🇺RU-46.17.44.80-1075 #2'
+  name: '33,130,136|🇷🇺RU-46.17.44.80-1075 #2'
   network: ws
   port: 54321
   server: eedp257bubu2wefy1.lovebaipiao.net
   servername: ''
-  skip-cert-verify: true
   tls: false
   type: vmess
   uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
@@ -394,14 +393,14 @@ proxies:
       host: rus5.hologate22.com
     path: None
 - cipher: chacha20-ietf-poly1305
-  name: 37,64,65|ZZ_542🇷🇺
+  name: 37|TG频道@mfbpn-1342-RU
   password: lTV4fQ2JkTnXD8GoYzwOSg
   port: 22195
   server: 147.45.50.104
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇺 DX-SS|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇷🇺 DX俄罗斯-SS|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
@@ -456,170 +455,6 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 64|RU_863🇷🇺
-  network: ws
-  port: 80
-  server: 185.174.138.60
-  servername: dl2.127.0.0.1.p..kaке.kl3ksacad3my.克克.wonkacapitano.buzz.
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    path: /vmess
-- cipher: aes-256-cfb
-  name: '64,78,178|🇳🇱NL(AzadNet.t.me)_012 #1'
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
-  server: 45.89.52.66
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '64,137,235|NO-46.29.238.83-0610 #1'
-  password: DkK3bmkKh2rdK9k6EXSOQv
-  port: 44908
-  server: 46.29.238.83
-  type: ss
-- cipher: aes-256-cfb
-  name: '64,65,78,97,98,103,137,178,188,194,235|🇪🇸ES-5.188.181.201-8385 #1'
-  password: GeregetR8cvQHzYr
-  port: 9030
-  server: 5.188.181.201
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  grpc-opts:
-    grpc-service-name: /
-  name: 64|RU_speednode_0208
-  network: grpc
-  port: 2096
-  server: 147.45.76.116
-  servername: fragment.mzolfaghari.homes
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: c0e2761e-9648-413a-b111-ceff5856be2d
-- cipher: aes-256-cfb
-  name: '64,65,78,97,98,103,137,178,188,194,235|🇸ES-5.188.181.201-8381 #1'
-  password: U6qnYRhfyDmn8sgn
-  port: 9041
-  server: 5.188.181.201
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '64,103,194|🇷🇺 RU 6 → tg@nicevpn123 #2'
-  password: CkMpBwWZ0Cr1RhVVNSXXMp
-  port: 64930
-  server: 5.44.42.60
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '65,103,194|🇷🇺 RU 81 → tg@nicevpn123 #1'
-  password: zErfOQDf3lOXZ24DK9EcAL
-  port: 16991
-  server: 5.42.86.33
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: '65,103,194|🇷🇺 RU 85 → tg@nicevpn123 #1'
-  network: ws
-  port: 8001
-  server: mdlzz.vbdf.lol
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 94e070a5-fc29-49bf-a1c3-11f3ef2df33d
-  ws-opts:
-    headers:
-      Host: mdlzz.vbdf.lol
-    path: /?ed=512
-- cipher: aes-256-cfb
-  name: '65,78,103,178,194|🇷🇺 RU 38 → tg@nicevpn123 #1'
-  password: UkXRsXvR6buDMG2Y
-  port: 9001
-  server: 45.89.52.66
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '65,103,194|🇷🇺 RU 77 → tg@nicevpn123 #1'
-  password: NdipHbnILjBtQgQx0Iww5q
-  port: 59393
-  server: 83.217.9.199
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: '65,103,194|🇷🇺 RU 31 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: is3-vmess.sshmax.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: a8d33442-de64-4980-a779-540c1eedbc25
-  ws-opts:
-    headers:
-      Host: is3-vmess.sshmax.xyz
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 65|🇷🇺 >🇷🇺 RU|Ms|0720|TG@FProxies|...
-  network: ws
-  port: 80
-  server: 45.8.211.5
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 41b8933e-f8f9-4162-b93f-c7867cfc69e7
-  ws-opts:
-    path: /vmess
-- cipher: chacha20-ietf-poly1305
-  name: '65,103,194|🇷🇺 RU 26 → tg@nicevpn123 #1'
-  password: ygSXLTCrL8zeKb2n6mghK8J26GVHWmZA4pyy84Pyg6E=
-  port: 13896
-  server: 45.67.32.147
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: '66,103,194|🇷🇺 RU 80 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 77.91.103.47
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 09e35fe0-2efd-44c1-96fb-46b7b3cc28eb
-  ws-opts:
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 66|🇺 >🇷🇺 RU|Ms|0720|TG@FProxies| ...
-  network: ws
-  port: 54321
-  server: eedp257bubu2wefy2.lovebaipiao.net
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: a361d210-35fd-4ea7-95fa-11f15c893d93
-  ws-opts:
-    headers:
-      Host: eedp257bubu2wefy2.lovebaipiao.net
-    path: /iphone
-- cipher: chacha20-ietf-poly1305
-  name: '66,103,107,194|🇷🇺 RU 11 → tg@nicevpn123 #1'
-  password: Zu5sVdhPITkII1Rf9bUTjt0ws1nks4vgBoHhe7QxwEk0j3Ai
-  port: 51348
-  server: 146.185.198.44
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
   grpc-opts:
     grpc-service-name: /
   name: '78,91,178,185|👉🆔 @v2ray_configs_pool #150'
@@ -631,6 +466,12 @@ proxies:
   tls: true
   type: vmess
   uuid: afe57557-df24-43e5-9cea-5d2acc2cad08
+- cipher: aes-256-cfb
+  name: '78,97,98,137,178,188,235|PL-217.30.10.70-0787 #1'
+  password: KBGjZYcy4SyRShmA
+  port: 9044
+  server: 217.30.10.70
+  type: ss
 - cipher: chacha20-ietf-poly1305
   name: '78,103,178,194|🇷🇺 RU 78 → tg@nicevpn123 #1'
   password: qgpdyzHj8rZW9fDxxkUHRI
@@ -638,9 +479,15 @@ proxies:
   server: 217.196.103.206
   type: ss
   udp: true
+- cipher: aes-256-cfb
+  name: '78,178|🇺RU(AzadNet.t.me)_007 #1'
+  password: gYCYXfkUQEs2TaJQ
+  port: 9038
+  server: 194.116.173.21
+  type: ss
 - alterId: 0
   cipher: auto
-  name: '78,172,178,203,287,293|DE_speednode_0047 #2'
+  name: '78,172,178,203,287|DE_speednode_0047 #1'
   network: ws
   port: 80
   server: 80.92.204.207
@@ -674,6 +521,20 @@ proxies:
     headers:
       Host: 195.133.53.253
     path: /
+- alterId: 0
+  cipher: auto
+  name: '87,115,158,214,261|🔒 VM-WS-TLS 🇷🇺 RU-45.67.32.147... #4'
+  network: ws
+  port: '28841'
+  server: 45.67.32.147
+  servername: tbg9tvjd211uy821.robinhud.com
+  tls: true
+  type: vmess
+  uuid: 8f9b7a64-2120-4152-a217-fd8d13937fa9
+  ws-opts:
+    headers:
+      Host: tbg9tvjd211uy821.robinhud.com
+    path: /nevergonnagive
 - alterId: 0
   cipher: auto
   name: '87,115,158,201,214,261|🔒 VM-TCP-NA 🇷🇺 RU-185.22.155.8... #4'
@@ -828,6 +689,13 @@ proxies:
   port: 444
   server: 146.185.198.44
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '103,107,194|🇷🇺 RU 11 → tg@nicevpn123 #1'
+  password: Zu5sVdhPITkII1Rf9bUTjt0ws1nks4vgBoHhe7QxwEk0j3Ai
+  port: 51348
+  server: 146.185.198.44
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: '103,194|🇷🇺 RU 14 → tg@nicevpn123 #1'
@@ -914,6 +782,13 @@ proxies:
   ws-opts:
     path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY
 - cipher: chacha20-ietf-poly1305
+  name: '103,194|🇷🇺 RU 26 → tg@nicevpn123 #1'
+  password: ygSXLTCrL8zeKb2n6mghK8J26GVHWmZA4pyy84Pyg6E=
+  port: 13896
+  server: 45.67.32.147
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: '103,194|🇷🇺 RU 27 → tg@nicevpn123 #1'
   password: DmMQUmI7pgQDnrWqLXC00L
   port: 15214
@@ -934,6 +809,21 @@ proxies:
   server: 185.174.137.72
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: '103,194|🇷🇺 RU 31 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: is3-vmess.sshmax.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a8d33442-de64-4980-a779-540c1eedbc25
+  ws-opts:
+    headers:
+      Host: is3-vmess.sshmax.xyz
+    path: /vmess
 - alterId: 0
   cipher: auto
   name: '103,194|🇷🇺 RU 32 → tg@nicevpn123 #1'
@@ -1077,10 +967,24 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: '103,194|🇷🇺 RU 6 → tg@nicevpn123 #1'
+  password: CkMpBwWZ0Cr1RhVVNSXXMp
+  port: 64930
+  server: 5.44.42.60
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: '103,194|🇷🇺 RU 62 → tg@nicevpn123 #1'
   password: XZMPTXYRC2XB8jet5UiHOn
   port: 50211
   server: 46.19.69.244
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '103,194|🇷🇺 RU 63 → tg@nicevpn123 #1'
+  password: uSFiNtjwzC1y2QMPNhrXAT5gknE1mgHggsqL6gPkUFPvWqrHC63U5p5VCNZBktT7BNoykGd1gxPZy9zoSsj6Hrw5YV3XvoPh
+  port: 40928
+  server: 194.87.179.169
   type: ss
   udp: true
 - name: '103,194|🇷🇺 RU 64 → tg@nicevpn123 #1'
@@ -1183,6 +1087,13 @@ proxies:
   udp: true
   ws-opts:
     path: '%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '103,194|🇷🇺 RU 77 → tg@nicevpn123 #1'
+  password: NdipHbnILjBtQgQx0Iww5q
+  port: 59393
+  server: 83.217.9.199
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: '103,194|🇷🇺 RU 79 → tg@nicevpn123 #1'
@@ -1205,6 +1116,48 @@ proxies:
   server: 109.107.172.30
   type: ss
   udp: true
+- alterId: 0
+  cipher: auto
+  name: '103,194|🇷🇺 RU 80 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 77.91.103.47
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 09e35fe0-2efd-44c1-96fb-46b7b3cc28eb
+  ws-opts:
+    path: /vmess
+- cipher: chacha20-ietf-poly1305
+  name: '103,194|🇷🇺 RU 81 → tg@nicevpn123 #1'
+  password: zErfOQDf3lOXZ24DK9EcAL
+  port: 16991
+  server: 5.42.86.33
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '103,194|🇷🇺 RU 84 → tg@nicevpn123 #1'
+  password: GeregetR8cvQHzYr
+  port: 9030
+  server: 45.89.52.66
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '103,194|🇷🇺 RU 85 → tg@nicevpn123 #1'
+  network: ws
+  port: 8001
+  server: mdlzz.vbdf.lol
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 94e070a5-fc29-49bf-a1c3-11f3ef2df33d
+  ws-opts:
+    headers:
+      Host: mdlzz.vbdf.lol
+    path: /?ed=512
 - cipher: chacha20-ietf-poly1305
   name: '103,194|🇷🇺 RU 87 → tg@nicevpn123 #1'
   password: tEO1As10EffDW5svXAwgvb
@@ -1307,6 +1260,17 @@ proxies:
   tls: false
   type: vmess
   uuid: d572d74e-427b-4525-9d0d-88608d1a4f19
+- alterId: 0
+  cipher: auto
+  name: '108,204|Russia #11'
+  network: ws
+  port: 2024
+  server: 45.14.244.133
+  tls: false
+  type: vmess
+  uuid: 39d755be-0123-418b-9638-a383957a28d2
+  ws-opts:
+    path: /
 - alterId: 0
   cipher: auto
   grpc-opts:
@@ -1516,20 +1480,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '158,261|🔒 VM-WS-TLS 🇷🇺 RU-45.67.32.147... #1'
-  network: ws
-  port: '28841'
-  server: 45.67.32.147
-  servername: tbg9tvjd211uy821.robinhud.com
-  tls: true
-  type: vmess
-  uuid: 8f9b7a64-2120-4152-a217-fd8d13937fa9
-  ws-opts:
-    headers:
-      Host: tbg9tvjd211uy821.robinhud.com
-    path: /nevergonnagive
-- alterId: 0
-  cipher: auto
   name: '160,263|俄罗斯 V2CROSS.COM #3'
   network: tcp
   port: '41353'
@@ -1566,7 +1516,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '172,287,293|RU_speednode_0208 #3'
+  name: '172,287|RU_speednode_0208 #1'
   network: grpc
   port: 2096
   server: 147.45.76.116

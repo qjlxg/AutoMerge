@@ -16,12 +16,11 @@ proxies:
     path: /stream
 - alterId: 0
   cipher: auto
-  name: '16,65,113,212|新加坡 003 #2'
+  name: '16,113,212|新加坡 003 #2'
   network: ws
   port: 443
   server: jpcft01.xqc.best
   servername: dd7xps5fj6dfo.cloudfront.net
-  skip-cert-verify: true
   tls: true
   type: vmess
   udp: true
@@ -91,7 +90,7 @@ proxies:
   cipher: aes-256-cfb
   client-fingerprint: chrome
   country: 🇸🇬 SG
-  name: '22,64,65,67,111,118,147,196,211,237,248|🇯🇵 日本特殊|@ripaojiedian #1'
+  name: '22,67,111,118,147,196,211,237,248|🇯🇵 日本特殊|@ripaojiedian #1'
   password: amazonskr05
   port: 443
   server: 13.229.87.253
@@ -165,7 +164,7 @@ proxies:
     path: /04198516-1acb-429e-f222-d344ed1cd9da
 - alterId: 0
   cipher: none
-  name: '30,49,92,172,186,287,293|SG_speednode_0270 #2'
+  name: '30,49,92,172,186,287|SG_speednode_0270 #1'
   network: ws
   port: 443
   server: djzze.makhluk.my.id
@@ -235,7 +234,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: '33,49,66,91,92,130,136,137,160,185,186,195,203,235,263,288|新加坡_0808002 #1'
+  name: '33,49,91,92,130,136,137,160,185,186,195,203,235,263,288|新加坡_0808002 #1'
   network: ws
   port: '2082'
   server: 8.222.167.147
@@ -250,7 +249,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 33,66,91,92,130,136,137,160,185,186,195,203,235,263,288|新加坡_0808001
+  name: 33,91,92,130,136,137,160,185,186,195,203,235,263,288|新加坡_0808001
   network: ws
   port: '2082'
   server: 8.222.174.108
@@ -394,12 +393,11 @@ proxies:
     path: /hkaa0
 - alterId: 64
   cipher: auto
-  name: '33,65,91,130,136,185|🇸🇬SG-134.122.139.79-0869 #1'
+  name: '33,91,130,136,185|🇸🇬SG-134.122.139.79-0869 #1'
   network: ws
   port: '443'
   server: 134.122.139.79
   servername: www.48907900.xyz
-  skip-cert-verify: true
   tls: true
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
@@ -519,7 +517,7 @@ proxies:
     path: /path/220128071100
 - alterId: 0
   cipher: auto
-  name: '33,64,91,130,136,137,185,195,235,288|新加坡_0808008 #1'
+  name: '33,91,130,136,137,185,195,235,288|新加坡_0808008 #1'
   network: ws
   port: '80'
   server: 143.198.219.182
@@ -534,7 +532,7 @@ proxies:
     path: /v2ray
 - alterId: 0
   cipher: auto
-  name: '33,66,91,130,136,137,185,235|🇸🇬SG-146.190.82.241-2365 #1'
+  name: '33,91,130,136,137,185,235|🇸🇬SG-146.190.82.241-2365 #1'
   network: ws
   port: 80
   server: 146.190.82.241
@@ -633,7 +631,7 @@ proxies:
   uuid: ca984457-b017-46e5-d973-42a3c3fdc292
 - alterId: 0
   cipher: auto
-  name: '33,65,91,130,136,137,185,235|🇸🇬SG-146.190.82.241-2778 #1'
+  name: '33,91,130,136,137,185,235|🇸🇬SG-146.190.82.241-2778 #1'
   network: ws
   port: 443
   server: 146.190.82.241
@@ -1231,36 +1229,36 @@ proxies:
       Host: m2-sg2.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇬 新加坡03-1E
-  password: 7d2bcd7e-0d01-4fc6-b309-f1aacb8cb772
+  name: 48|🇸🇬 新加坡03-1C
+  password: b2b384cd-9b21-4a02-a34e-836e004816d5
   port: 15627
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '48,50|🇸🇬 LS新加坡01|优化|1x #1'
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇸🇬 LS新加坡01|优化|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 21508
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇬 新加坡01-1E
-  password: 7d2bcd7e-0d01-4fc6-b309-f1aacb8cb772
+  name: 48|🇸🇬 新加坡01-1C
+  password: b2b384cd-9b21-4a02-a34e-836e004816d5
   port: 15636
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇬 新加坡02-1F
-  password: ba97576c-a915-4a85-9094-ac16339d7d89
+  name: 48|🇸🇬 新加坡02-1E
+  password: 76e42808-2bc3-4fb8-a95b-4adfb9ec6fe1
   port: 15637
   server: gdcub.yunnode.win
   type: ss
   udp: true
-- auth: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
-  name: 48,50|🇬 HY2新加坡-0.8x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+- auth: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
+  name: 48|🇸🇬 HY2新加坡-0.8x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 20082
   server: xjpnat2.dackcf1.top
   skip-cert-verify: true
@@ -1281,9 +1279,9 @@ proxies:
   server: sg1.iepl.cooc.icu
   type: ss
   udp: true
-- auth: e1531b22-4390-4321-ac21-880c19b30a89
-  name: 48,50|🇬 新加坡-1
-  password: e1531b22-4390-4321-ac21-880c19b30a89
+- auth: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
+  name: 48|🇸🇬 新加坡-1
+  password: bf3b5b0b-922e-4dc3-90b2-165d58e28d25
   port: 30001
   server: oracle-amd-singapore1.lanmaoyun.icu
   skip-cert-verify: false
@@ -1298,15 +1296,15 @@ proxies:
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 48,50|🇬 DX新加坡01|化|1x
-  password: 30c69cb3-cd58-4d6b-87d7-4ff0a610fb97
+  name: 48|🇸🇬 DX新加坡01|优化|1x
+  password: 1d1d77cd-493c-4bcb-8122-6f734a25b2f2
   port: 45769
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: none
-  name: '49,91,92,172,185,186,287,293|SG_speednode_0263 #2'
+  name: '49,91,92,172,185,186,287|SG_speednode_0263 #1'
   network: ws
   port: 80
   server: djzze.makhluk.my.id
@@ -1469,33 +1467,6 @@ proxies:
     headers:
       Host: s1c.v2.v001sss.xyz
     path: /
-- auth: 986393bd-4f26-41a6-a096-00fb3db1e830
-  name: 50|🇬 新加坡-HY2-妮妮-1A
-  password: 986393bd-4f26-41a6-a096-00fb3db1e830
-  port: 50011
-  server: sg.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 7c1f0f82-3515-4660-8979-14cfac15846d
-  name: 50|🇸🇬 新加坡-HY2-中妮妮-1B
-  password: 7c1f0f82-3515-4660-8979-14cfac15846d
-  port: 50022
-  server: sg.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 7c1f0f82-3515-4660-8979-14cfac15846d
-  name: 50|🇸🇬 新加坡-HY2-大妮妮-1B
-  password: 7c1f0f82-3515-4660-8979-14cfac15846d
-  port: 50033
-  server: sg.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
 - alterId: 0
   cipher: auto
   name: '62,95,278|🇸🇬 新加坡_121320037 #1'
@@ -1546,150 +1517,6 @@ proxies:
   port: 3127
   server: 206.189.155.159
   type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🇺🇸 US
-  name: 64,196|SG😈github.com/Ruk1ng001_-34807...
-  password: amazonskr05
-  port: 443
-  server: 13.212.82.167
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: '64,103,194|🇸🇬 SG 22 → tg@nicevpn123 #1'
-  password: df30da54-317f-4726-98bd-8bc8ec8140c9
-  port: 20181
-  server: 139.59.119.251
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '64,103,194|🇸🇬 SG 19 → tg@nicevpn123 #1'
-  password: df30da54-317f-4726-98bd-8bc8ec8140c9
-  port: 20175
-  server: 139.59.119.251
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 64|SG_869🇸
-  password: w5nnXBsq
-  port: 8388
-  server: 194.233.73.79
-  type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🇸🇬SG
-  name: 64,196|SG😈github.com/Ruk1ng001_127752...
-  password: amazonskr05
-  port: 443
-  server: 13.228.79.13
-  type: ss
-- client-fingerprint: chrome
-  delay: 1150
-  name: '65,111,129,172,211,242,287,293|SG_speednode_0253 #2'
-  network: ws
-  password: CMLiu
-  port: 2087
-  server: 47.236.117.48
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- cipher: chacha20-ietf-poly1305
-  name: '65,66,78,178|🇸🇬SG(AzadNet.t.me)_004 #1'
-  password: ZdWZ9QvFlbOOGreMoE3Bq8
-  port: 18814
-  server: 159.65.129.128
-  type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🇸🇬 SG
-  name: 65,196|SG😈github.com/Ruk1ng001_-12769...
-  password: amazonskr05
-  port: 443
-  server: 54.255.211.19
-  type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🇸🇬SG
-  name: 65,196|SG😈github.com/Ruk1ng001_206303...
-  password: amazonskr05
-  port: 443
-  server: 13.229.243.64
-  type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🇸🇬SG
-  name: 65,196|SG😈github.com/Ruk1ng001_146472...
-  password: amazonskr05
-  port: 443
-  server: 13.212.34.140
-  type: ss
-- alterId: -1
-  cipher: chacha20-ietf-poly1305
-  country: 🇨🇳CN
-  name: '65,196|CH😈github.com/Ruk1ng001_-19003... #1'
-  password: 3eb2f289-790c-401f-b991-07031de3e7a1
-  port: 35501
-  server: gw.liangyuandianwan.com
-  type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: ???? SG
-  name: '66,159,196,262|SG??SSRSUB_-369711251 #1'
-  password: amazonskr05
-  port: 443
-  server: 54.179.241.46
-  type: ss
-- cipher: aes-256-cfb
-  name: '66,137,235|🇬SG-18.142.183.235-4915 #1'
-  password: amazonskr05
-  port: 443
-  server: 18.142.183.235
-  type: ss
-- client-fingerprint: chrome
-  name: '66,111,172,211,242,287,293|SG_speednode_0259 #2'
-  network: ws
-  password: CMLiu
-  port: 2083
-  server: 47.236.75.152
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 66|🇬 SG 38 → tg@nicevpn123
-  network: ws
-  port: 80
-  server: 8.210.9.129
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 89d4fac6-0ef2-4855-92ce-f454b7154202
-  ws-opts:
-    path: /TG@dns68节点
-- client-fingerprint: chrome
-  name: '66,111,172,211,242,287,293|SG_speednode_0261 #2'
-  network: ws
-  password: CMLiu
-  port: 2083
-  server: 47.236.237.90
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
 - name: '78,178|🇸SG(AzadNet.t.me)_001 #1'
   network: tcp
   password: your_password
@@ -1717,6 +1544,12 @@ proxies:
   sni: sg3-trojan.bonds.id
   type: trojan
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '78,178|🇸🇬SG(AzadNet.t.me)_004 #1'
+  password: ZdWZ9QvFlbOOGreMoE3Bq8
+  port: 18814
+  server: 159.65.129.128
+  type: ss
 - alterId: 0
   cipher: auto
   name: '86,179|🇸🇬SG-139.162.33.74-0140 #1'
@@ -3989,6 +3822,12 @@ proxies:
   type: trojan
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: '97,98,137,188,235|🇸US-172.234.222.143-8278 #1'
+  password: 4Hub2f9JyhECyAq2Opm0NS
+  port: 443
+  server: ak1803.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou
+  type: ss
+- cipher: chacha20-ietf-poly1305
   name: '97,98,137,188,235|🇺🇸US-172.234.222.138-8279 #1'
   password: G!yBwPWH3Vao
   port: 805
@@ -4280,6 +4119,13 @@ proxies:
     headers:
       Host: sg5g.xn--vhq70hxyat50h6wk.com
     path: /
+- cipher: chacha20-ietf-poly1305
+  name: '103,194|🇸🇬 SG 19 → tg@nicevpn123 #1'
+  password: df30da54-317f-4726-98bd-8bc8ec8140c9
+  port: 20175
+  server: 139.59.119.251
+  type: ss
+  udp: true
 - name: '103,194|🇸🇬 SG 2 → tg@nicevpn123 #1'
   network: ws
   password: 57460446-1a16-4ac4-bc7d-99b99a9ecc18
@@ -4305,6 +4151,13 @@ proxies:
   password: amazonskr05
   port: 443
   server: 52.221.183.250
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '103,194|🇸🇬 SG 22 → tg@nicevpn123 #1'
+  password: df30da54-317f-4726-98bd-8bc8ec8140c9
+  port: 20181
+  server: 139.59.119.251
   type: ss
   udp: true
 - alterId: 0
@@ -4648,8 +4501,23 @@ proxies:
       Host: xjp2.wangjiaxin.xyz
     path: /23423
 - client-fingerprint: chrome
+  delay: 1150
+  name: '111,129,172,211,242,287|SG_speednode_0253 #1'
+  network: ws
+  password: CMLiu
+  port: 2087
+  server: 47.236.117.48
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
   delay: 1161
-  name: '111,129,172,211,242,287,293|SG_speednode_0255 #2'
+  name: '111,129,172,211,242,287|SG_speednode_0255 #1'
   network: ws
   password: CMLiu
   port: 2096
@@ -4664,11 +4532,39 @@ proxies:
     path: /?ed=2048
 - client-fingerprint: chrome
   delay: 1183
-  name: '111,129,172,211,242,287,293|SG_speednode_0256 #2'
+  name: '111,129,172,211,242,287|SG_speednode_0256 #1'
   network: ws
   password: CMLiu
   port: 8443
   server: 47.236.80.110
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
+  name: '111,172,211,242,287|SG_speednode_0259 #1'
+  network: ws
+  password: CMLiu
+  port: 2083
+  server: 47.236.75.152
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
+  name: '111,172,211,242,287|SG_speednode_0261 #1'
+  network: ws
+  password: CMLiu
+  port: 2083
+  server: 47.236.237.90
   skip-cert-verify: true
   sni: aliorg.filegear-sg.me
   type: trojan
@@ -4701,6 +4597,15 @@ proxies:
   sni: sg2.jindoucn.life
   type: hysteria2
   up: 1000
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇸🇬SG
+  delay: 259
+  name: 129,196|SG😈github.com/Ruk1ng001_-11940...
+  password: amazonskr05
+  port: 443
+  server: 47.128.150.72
+  type: ss
 - cipher: chacha20-ietf-poly1305
   name: '137,235|🇬SG-217.197.161.138-0191 #1'
   password: G!yBwPWH3Vao
@@ -5026,6 +4931,12 @@ proxies:
   server: 13.215.200.86
   type: ss
 - cipher: aes-256-cfb
+  name: '137,235|🇬SG-18.142.183.235-4915 #1'
+  password: amazonskr05
+  port: 443
+  server: 18.142.183.235
+  type: ss
+- cipher: aes-256-cfb
   name: '137,235|🇸🇬SG-139.162.5.19-6240 #1'
   password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
   port: 8099
@@ -5202,6 +5113,14 @@ proxies:
   password: amazonskr05
   port: 443
   server: 52.77.254.168
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: ???? SG
+  name: '159,196,262|SG??SSRSUB_-369711251 #1'
+  password: amazonskr05
+  port: 443
+  server: 54.179.241.46
   type: ss
 - alterId: -1
   cipher: aes-256-cfb
@@ -5652,10 +5571,42 @@ proxies:
 - alterId: -1
   cipher: aes-256-cfb
   country: 🇸🇬SG
+  name: 196|SG😈github.com/Ruk1ng001_127752...
+  password: amazonskr05
+  port: 443
+  server: 13.228.79.13
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇸🇬SG
+  name: 196|SG😈github.com/Ruk1ng001_206303...
+  password: amazonskr05
+  port: 443
+  server: 13.229.243.64
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇸🇬 SG
+  name: 196|SG😈github.com/Ruk1ng001_-12769...
+  password: amazonskr05
+  port: 443
+  server: 54.255.211.19
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇸🇬SG
   name: 196|SG😈github.com/Ruk1ng001_-11551...
   password: amazonskr05
   port: 443
   server: 13.214.209.23
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇸🇬SG
+  name: 196|SG😈github.com/Ruk1ng001_146472...
+  password: amazonskr05
+  port: 443
+  server: 13.212.34.140
   type: ss
 - alterId: -1
   cipher: aes-256-cfb
@@ -5680,6 +5631,14 @@ proxies:
   password: amazonskr05
   port: 443
   server: 18.142.246.19
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇺🇸 US
+  name: 196|SG😈github.com/Ruk1ng001_-34807...
+  password: amazonskr05
+  port: 443
+  server: 13.212.82.167
   type: ss
 - alterId: 0
   cipher: auto

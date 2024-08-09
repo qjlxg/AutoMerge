@@ -15,18 +15,52 @@ proxies:
   uuid: 3827a5c8-c031-46cf-848d-e890d0ead803
   ws-path: /
 - cipher: chacha20-ietf
-  country: CN
-  name: 1|Relay_CN-CN_732
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_28
   obfs: plain
-  password: mblank1port
-  port: 561
-  protocol: auth_aes128_md5
-  protocol-param: 48530:LLLiuiuiu787878
-  server: 3layer03.initcloud.pro
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 6706
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_32
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 6702
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_33
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 7701
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_39
+  obfs: plain
+  obfs-param: TG@wangcai_1
+  password: jFa4F1
+  port: 7708
+  protocol: auth_aes128_sha1
+  protocol-param: 84263:3gj7aB
+  server: cm01.newcome.xyz
   type: ssr
 - cipher: rc4-md5
   country: CN
-  name: 1|Relay_CN-CN_691
+  name: 1|Relay_CN-CN_692
   obfs: http_simple
   obfs-param: ajax.microsoft.com
   password: miejump.com
@@ -37,128 +71,28 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇳CN_18
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 7706
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_33
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 3709
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_15
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_36
   obfs: plain
   obfs-param: cf48250916.microsoft.com
   password: jFa4F1
-  port: 7708
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_12
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 7706
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_23
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 7703
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_13
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 3708
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨CN
-  name: 1,9,11,127|Relay_🇨CN-🇨🇳CN_09
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 2408
+  port: 2409
   protocol: auth_aes128_sha1
   protocol-param: 50916:0104-W259_71
   server: zx02.endhigh.xyz
   type: ssr
 - cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_21
+  country: CN
+  name: 1|Relay_CN-CN_706
   obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 2401
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: zx01.endhigh.xyz
+  password: mblank1port
+  port: 562
+  protocol: auth_aes128_md5
+  protocol-param: 38086:qwe123qwe
+  server: initest08.initcloud.pro
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_35
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 2400
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: zx01.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_17
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 2404
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: zx01.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_37
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 2408
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: zx02.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_34
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_16
   obfs: plain
   obfs-param: 511df45641.microsoft.com
   password: jFa4F1
@@ -179,138 +113,8 @@ proxies:
   server: layercm05.initcloud.pro
   type: ssr
 - cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_28
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 2409
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: zx02.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_42
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 2409
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: zx02.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
   country: CN
-  name: 1|Relay_CN-CN_740
-  obfs: plain
-  password: mblank1port
-  port: 562
-  protocol: auth_aes128_md5
-  protocol-param: 38086:qwe123qwe
-  server: initest08.initcloud.pro
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_43
-  obfs: plain
-  obfs-param: c75be84263.microsoft.com
-  password: jFa4F1
-  port: 3705
-  protocol: auth_aes128_sha1
-  protocol-param: 84263:3gj7aB
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_39
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 5702
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_36
-  obfs: plain
-  obfs-param: TG@wangcai_1
-  password: jFa4F1
-  port: 7708
-  protocol: auth_aes128_sha1
-  protocol-param: 84263:3gj7aB
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_10
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 7701
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_20
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 5700
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_41
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 3702
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_16
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 3703
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_32
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 3703
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 1|Relay_CN-CN_716
-  obfs: plain
-  password: mblank1port
-  port: 560
-  protocol: auth_aes128_md5
-  protocol-param: 25443:Jsnzkpg888
-  server: 2cnrelay2.initcloud.pro
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 1|Relay_CN-CN_717
+  name: 1|Relay_CN-CN_697
   obfs: plain
   password: mblank1port
   port: 563
@@ -319,19 +123,8 @@ proxies:
   server: cmres.standpro.co
   type: ssr
 - cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_31
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 7700
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
   country: CN
-  name: 1|Relay_CN-CN_729
+  name: 1|Relay_CN-CN_728
   obfs: plain
   password: mblank1port
   port: 560
@@ -341,103 +134,50 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_38
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_29
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 6708
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_18
   obfs: plain
   obfs-param: cf48250916.microsoft.com
   password: jFa4F1
-  port: 2405
+  port: 2408
   protocol: auth_aes128_sha1
   protocol-param: 50916:0104-W259_71
   server: zx02.endhigh.xyz
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_27
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 6706
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_25
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_19
   obfs: plain
   obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
-  port: 6709
+  port: 2404
   protocol: auth_aes128_sha1
   protocol-param: 46961:1210-Tha
-  server: cm03.newcome.xyz
+  server: zx01.endhigh.xyz
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 1|Relay_CN-CN_738
+  name: 1|Relay_CN-CN_702
   obfs: plain
   password: mblank1port
-  port: 561
-  protocol: auth_aes128_md5
-  protocol-param: 48465:LLLiuiuiu787878
-  server: cnhkall.debugex.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_14
-  obfs: plain
-  obfs-param: cf48250916.microsoft.com
-  password: jFa4F1
-  port: 6707
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:0104-W259_71
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: rc4-md5
-  country: CN
-  name: 1|Relay_CN-CN_726
-  obfs: http_simple
-  obfs-param: ajax.microsoft.com
-  password: miejump.com
-  port: 667
-  protocol: auth_aes128_md5
-  protocol-param: 105860:2020931d-1126-3ea1-b931-b750f3ca563d
-  server: iplc-ji.mielink-dns2.com
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇳CN_22
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 6703
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 1|Relay_CN-CN_730
-  obfs: plain
-  password: mblank1port
-  port: 561
-  protocol: auth_aes128_md5
-  protocol-param: 48530:LLLiuiuiu787878
-  server: layercm05.initcloud.pro
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 1|Relay_CN-CN_731
-  obfs: plain
-  password: mblank1port
-  port: 561
+  port: 560
   protocol: auth_aes128_md5
   protocol-param: 25443:Jsnzkpg888
-  server: initest08.initcloud.pro
+  server: 2cnrelay2.initcloud.pro
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_29
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_30
   obfs: plain
   obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
@@ -448,18 +188,103 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_30
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_27
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 6707
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_23
   obfs: plain
   obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
-  port: 6702
+  port: 2408
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: zx02.endhigh.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 1|Relay_CN-CN_707
+  obfs: plain
+  password: mblank1port
+  port: 561
+  protocol: auth_aes128_md5
+  protocol-param: 25443:Jsnzkpg888
+  server: initest08.initcloud.pro
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_15
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 6709
   protocol: auth_aes128_sha1
   protocol-param: 46961:1210-Tha
   server: cm03.newcome.xyz
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
-  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_24
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_25
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 3709
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 1|Relay_CN-CN_725
+  obfs: plain
+  password: mblank1port
+  port: 561
+  protocol: auth_aes128_md5
+  protocol-param: 38086:qwe123qwe
+  server: cnhkall.debugex.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 1|Relay_CN-CN_713
+  obfs: plain
+  password: mblank1port
+  port: 560
+  protocol: auth_aes128_md5
+  protocol-param: 25443:Jsnzkpg888
+  server: inlayer7.standurls.co
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_38
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 3702
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_41
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 2405
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: zx02.endhigh.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_34
   obfs: plain
   obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
@@ -470,13 +295,79 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 1|Relay_CN-CN_736
+  name: 1|Relay_CN-CN_722
   obfs: plain
   password: mblank1port
-  port: 560
+  port: 561
   protocol: auth_aes128_md5
-  protocol-param: 25443:Jsnzkpg888
-  server: inlayer7.standurls.co
+  protocol-param: 39052:Lwjz965516244
+  server: 3layer03.initcloud.pro
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_11
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 3708
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_20
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 7700
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_35
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 3703
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_37
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 5702
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: rc4-md5
+  country: CN
+  name: 1|Relay_CN-CN_724
+  obfs: http_simple
+  obfs-param: ajax.microsoft.com
+  password: miejump.com
+  port: 667
+  protocol: auth_aes128_md5
+  protocol-param: 105860:2020931d-1126-3ea1-b931-b750f3ca563d
+  server: iplc-ji.mielink-dns2.com
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_24
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 6703
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm03.newcome.xyz
   type: ssr
 - cipher: chacha20-ietf
   country: 🇨🇳CN
@@ -484,42 +375,120 @@ proxies:
   obfs: plain
   obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
-  port: 6708
+  port: 2409
   protocol: auth_aes128_sha1
   protocol-param: 46961:1210-Tha
-  server: cm03.newcome.xyz
+  server: zx02.endhigh.xyz
   type: ssr
-- alterId: 64
-  cipher: auto
-  country: ???? CN
-  h2-opts: {}
-  http-opts: {}
-  name: '1,6,252,298,376|CN??SSRSUB_-720627691 #1'
-  network: tcp
-  port: 50002
-  server: 47.92.152.169
-  skip-cert-verify: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 64
-  cipher: auto
-  country: ???? CN
-  h2-opts: {}
-  http-opts: {}
-  name: '1,6,13,70,124,252,298,376|CN??SSRSUB_-1509473673 #1'
-  network: tcp
-  port: 50002
-  server: 114.55.132.202
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      host: 114.55.132.202
-    path: None
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_21
+  obfs: plain
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 7706
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_13
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 7703
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_40
+  obfs: plain
+  obfs-param: c75be84263.microsoft.com
+  password: jFa4F1
+  port: 3705
+  protocol: auth_aes128_sha1
+  protocol-param: 84263:3gj7aB
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 1|Relay_CN-CN_732
+  obfs: plain
+  password: mblank1port
+  port: 561
+  protocol: auth_aes128_md5
+  protocol-param: 48530:LLLiuiuiu787878
+  server: layercm05.initcloud.pro
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_10
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 2400
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: zx01.endhigh.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_22
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 3703
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_17
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 2401
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: zx01.endhigh.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨CN
+  name: 1,9,11,127|Relay_🇨CN-🇨🇳CN_09
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 7706
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_31
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 5700
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: 🇨🇳CN
+  name: 1,9,11,127|Relay_🇨🇳CN-🇨🇳CN_12
+  obfs: plain
+  obfs-param: cf48250916.microsoft.com
+  password: jFa4F1
+  port: 7708
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:0104-W259_71
+  server: cm01.newcome.xyz
+  type: ssr
 - alterId: 64
   cipher: auto
   country: 🇨🇳CN
@@ -544,7 +513,7 @@ proxies:
   country: ???? CN
   h2-opts: {}
   http-opts: {}
-  name: '1,6,13,70,152,189,251,252,298,305,319,375,376|CN??SSRSUB_-195404888 #1'
+  name: '1,6,13,70,124,152,189,251,252,298,305,319,375,376|CN??SSRSUB_-195404888 #1'
   network: tcp
   port: 50004
   server: 112.132.212.19
@@ -581,10 +550,62 @@ proxies:
     path: None
 - alterId: 64
   cipher: auto
+  country: ???? CN
+  h2-opts: {}
+  http-opts: {}
+  name: '1,6,252,298,376|CN??SSRSUB_-720627691 #1'
+  network: tcp
+  port: 50002
+  server: 47.92.152.169
+  skip-cert-verify: true
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 64
+  cipher: auto
+  country: ???? CN
+  h2-opts: {}
+  http-opts: {}
+  name: '6,13,70,252,298,376|CN??SSRSUB_-1509473673 #1'
+  network: tcp
+  port: 50002
+  server: 114.55.132.202
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      host: 114.55.132.202
+    path: None
+- alterId: 64
+  cipher: auto
   country: ????CN
   h2-opts: {}
   http-opts: {}
-  name: '6,70,252,298,376|CN??SSRSUB_-1850491645 #1'
+  name: '6,70,71,124,152,158,189,251,252,284,298,305,319,375,376|CN??SSRSUB_-2125474256
+    #1'
+  network: tcp
+  port: 50002
+  server: 120.210.205.82
+  servername: mpvideo.qpic.cn
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-opts:
+    headers:
+      host: mpvideo.qpic.cn
+    path: None
+- alterId: 64
+  cipher: auto
+  country: ????CN
+  h2-opts: {}
+  http-opts: {}
+  name: '6,13,70,124,252,298,376|CN??SSRSUB_-1850491645 #1'
   network: tcp
   port: 59003
   server: 183.236.51.36
@@ -604,7 +625,7 @@ proxies:
   obfs: plain
   obfs-param: 511df45641.microsoft.com
   password: jFa4F1
-  port: 2404
+  port: 2403
   protocol: auth_aes128_sha1
   protocol-param: 45641:1119_jE165t
   server: zx01.endhigh.xyz
@@ -612,71 +633,6 @@ proxies:
 - cipher: chacha20-ietf
   country: CN
   name: 9|Relay_CN-CN_08
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 6705
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_11
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 2402
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: zx01.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_13
-  obfs: plain
-  password: mblank1port
-  port: 560
-  protocol: auth_aes128_md5
-  protocol-param: 2338:9tQfxMX(0S;40f
-  server: cmlayer6.standurls.co
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_14
-  obfs: plain
-  obfs-param: TG@ripaojiedian
-  password: jFa4F1
-  port: 6702
-  protocol: auth_aes128_sha1
-  protocol-param: 84263:3gj7aB
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_15
-  obfs: plain
-  obfs-param: ffc9c50916.microsoft.com
-  password: jFa4F1
-  port: 7709
-  protocol: auth_aes128_sha1
-  protocol-param: 50916:1129K_n259
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_16
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 6701
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_17
   obfs: plain
   obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
@@ -687,106 +643,18 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 9|Relay_CN-CN_21
+  name: 9|Relay_CN-CN_11
   obfs: plain
   obfs-param: 511df45641.microsoft.com
   password: jFa4F1
-  port: 3702
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_23
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 2403
+  port: 2404
   protocol: auth_aes128_sha1
   protocol-param: 45641:1119_jE165t
   server: zx01.endhigh.xyz
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 9|Relay_CN-CN_26
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 6707
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 9,11,127|Relay_🇨🇳CN-🇨🇳CN_40
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 3701
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: 🇨🇳CN
-  name: 9,11,127|Relay_🇨🇳CN-🇨🇳CN_19
-  obfs: plain
-  obfs-param: 5d3ee46961.microsoft.com
-  password: jFa4F1
-  port: 3700
-  protocol: auth_aes128_sha1
-  protocol-param: 46961:1210-Tha
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_33
-  obfs: plain
-  obfs-param: c75be84263.microsoft.com
-  password: jFa4F1
-  port: 6707
-  protocol: auth_aes128_sha1
-  protocol-param: 84263:3gj7aB
-  server: cm03.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_36
-  obfs: plain
-  obfs-param: c75be84263.microsoft.com
-  password: jFa4F1
-  port: 7706
-  protocol: auth_aes128_sha1
-  protocol-param: 84263:3gj7aB
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_37
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 7703
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: cm01.newcome.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_47
-  obfs: plain
-  obfs-param: 511df45641.microsoft.com
-  password: jFa4F1
-  port: 2400
-  protocol: auth_aes128_sha1
-  protocol-param: 45641:1119_jE165t
-  server: zx01.endhigh.xyz
-  type: ssr
-- cipher: chacha20-ietf
-  country: CN
-  name: 9|Relay_CN-CN_50
+  name: 9|Relay_CN-CN_13
   obfs: plain
   obfs-param: c75be84263.microsoft.com
   password: jFa4F1
@@ -797,7 +665,73 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 9|Relay_CN-CN_51
+  name: 9|Relay_CN-CN_15
+  obfs: plain
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 2402
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: zx01.endhigh.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_16
+  obfs: plain
+  obfs-param: c75be84263.microsoft.com
+  password: jFa4F1
+  port: 6707
+  protocol: auth_aes128_sha1
+  protocol-param: 84263:3gj7aB
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_19
+  obfs: plain
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 2400
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: zx01.endhigh.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_27
+  obfs: plain
+  obfs-param: ffc9c50916.microsoft.com
+  password: jFa4F1
+  port: 7705
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:1129K_n259
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_28
+  obfs: plain
+  obfs-param: c75be84263.microsoft.com
+  password: jFa4F1
+  port: 7706
+  protocol: auth_aes128_sha1
+  protocol-param: 84263:3gj7aB
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_29
+  obfs: plain
+  obfs-param: ffc9c50916.microsoft.com
+  password: jFa4F1
+  port: 7709
+  protocol: auth_aes128_sha1
+  protocol-param: 50916:1129K_n259
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_35
   obfs: plain
   obfs-param: ffc9c50916.microsoft.com
   password: jFa4F1
@@ -805,6 +739,71 @@ proxies:
   protocol: auth_aes128_sha1
   protocol-param: 50916:1129K_n259
   server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_37
+  obfs: plain
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 3702
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_40
+  obfs: plain
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 7703
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: cm01.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_43
+  obfs: plain
+  password: mblank1port
+  port: 560
+  protocol: auth_aes128_md5
+  protocol-param: 2338:9tQfxMX(0S;40f
+  server: cmlayer6.standurls.co
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_48
+  obfs: plain
+  obfs-param: 511df45641.microsoft.com
+  password: jFa4F1
+  port: 6705
+  protocol: auth_aes128_sha1
+  protocol-param: 45641:1119_jE165t
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_52
+  obfs: plain
+  obfs-param: 5d3ee46961.microsoft.com
+  password: jFa4F1
+  port: 6701
+  protocol: auth_aes128_sha1
+  protocol-param: 46961:1210-Tha
+  server: cm03.newcome.xyz
+  type: ssr
+- cipher: chacha20-ietf
+  country: CN
+  name: 9|Relay_CN-CN_54
+  obfs: plain
+  obfs-param: TG@ripaojiedian
+  password: jFa4F1
+  port: 6702
+  protocol: auth_aes128_sha1
+  protocol-param: 84263:3gj7aB
+  server: cm03.newcome.xyz
   type: ssr
 - cipher: chacha20-ietf
   country: CN
@@ -819,7 +818,7 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 9|Relay_CN-CN_59
+  name: 9|Relay_CN-CN_57
   obfs: plain
   obfs-param: c75be84263.microsoft.com
   password: jFa4F1
@@ -830,29 +829,18 @@ proxies:
   type: ssr
 - cipher: chacha20-ietf
   country: CN
-  name: 9|Relay_CN-CN_60
+  name: 9|Relay_CN-CN_59
   obfs: plain
-  obfs-param: ffc9c50916.microsoft.com
+  obfs-param: 5d3ee46961.microsoft.com
   password: jFa4F1
-  port: 7705
+  port: 6707
   protocol: auth_aes128_sha1
-  protocol-param: 50916:1129K_n259
-  server: cm01.newcome.xyz
+  protocol-param: 46961:1210-Tha
+  server: cm03.newcome.xyz
   type: ssr
 - cipher: aes-256-cfb
   country: CN
-  name: 11|Relay_CN-CN_92 |238.00Mb
-  obfs: http_simple
-  obfs-param: d300c11275.microsoft.com
-  password: dajkdkjda&dj23gsa
-  port: 19970
-  protocol: auth_aes128_md5
-  protocol-param: 11275:KWQHheqWo8
-  server: 231103.level3.sdl-sz.com
-  type: ssr
-- cipher: aes-256-cfb
-  country: CN
-  name: 11|Relay_CN-CN_64 |147.20Mb
+  name: 11|Relay_CN-CN_58 |147.20Mb
   obfs: http_simple
   obfs-param: d300c11275.microsoft.com
   password: dajkdkjd2a&dj23gsa
@@ -861,10 +849,58 @@ proxies:
   protocol-param: 11275:KWQHheqWo8
   server: 231103levelx.unclemanco.com
   type: ssr
+- cipher: aes-256-cfb
+  country: CN
+  name: 11|Relay_CN-CN_88 |238.00Mb
+  obfs: http_simple
+  obfs-param: d300c11275.microsoft.com
+  password: dajkdkjda&dj23gsa
+  port: 19970
+  protocol: auth_aes128_md5
+  protocol-param: 11275:KWQHheqWo8
+  server: 231103.level3.sdl-sz.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  country: 🇨🇳CN
+  delay: 2498
+  h2-opts: {}
+  http-opts: {}
+  name: '11,158,204,284,298,423|美国(yudou66.com 玉豆免费节点) #11'
+  network: ws
+  port: '46082'
+  server: mmhu82.micloud.buzz
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: '45,62,70,71,74,158,173,186,189,192,193,228,284,296,319,334,353,423|美国(yudou66.com
+    玉豆免费节点) #20'
+  network: ws
+  port: '46011'
+  server: mmjp11.micloud.buzz
+  servername: ''
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '45,62,68,75,158,173,185,186,189,192,193,205,218,219,228,236,284,296,316,319,344,353,360,423|美国(yudou66.com
+  name: '45,60,62,68,75,154,158,173,184,185,186,189,192,193,205,218,219,228,236,278,284,296,311,316,319,344,353,360,423|美国(yudou66.com
     玉豆免费节点) #12'
   network: ws
   port: '46001'
@@ -874,6 +910,7 @@ proxies:
   tfo: false
   tls: false
   type: vmess
+  udp: true
   uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
   ws-opts:
     headers:
@@ -899,7 +936,7 @@ proxies:
     Host: aweikeji-YouTube
   ws-path: /hls/cctv5phd.m3u8
 - cipher: chacha20-ietf-poly1305
-  name: '48,74,172,180,219,295,344,346|🇨🇳CN-120.238.122.159-189 #1'
+  name: '48,60,74,154,172,180,219,278,295,311,344,346|🇨🇳CN-120.238.122.159-189 #1'
   password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2
   port: 20003
   server: service.ouluyun9803.com
@@ -1021,6 +1058,14 @@ proxies:
   ws-headers:
     Host: 36.139.183.164
   ws-path: /name
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: '48,71,185,192,236,316,346,360|🇹🇼 台湾|@ripaojiedian #1'
+  password: 305ee3f1-b224-40e8-8a1c-b5f66c4ef40f
+  port: 40018
+  server: gg01.6bnw.top
+  tfo: false
+  type: ss
 - alterId: 0
   cipher: auto
   name: '48,346|🇨🇳CN-14.29.224.190-354 #1'
@@ -1061,6 +1106,24 @@ proxies:
   ws-headers:
     Host: 42.236.73.72
   ws-path: /
+- alterId: 0
+  cipher: auto
+  delay: 2195
+  name: '68,69,70,71,74,152,158,186,189,192,193,204,205,228,284,298,305,319,353,423|美国(yudou66.com
+    玉豆免费节点) #13'
+  network: ws
+  port: '46001'
+  server: mmhk01.micloud.buzz
+  servername: ''
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
+  ws-opts:
+    headers:
+      Host: ''
+    path: /zh-cn
 - alterId: 64
   cipher: auto
   country: 🇨🇳CN
@@ -1128,7 +1191,7 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: '68,75,104,158,185,186,189,192,193,205,218,219,228,236,269,284,316,319,344,353,360,397,406,423|美国(yudou66.com
+  name: '68,75,158,185,186,189,192,193,205,218,219,228,236,269,284,316,319,344,353,360,406,423|美国(yudou66.com
     玉豆免费节点) #18'
   network: ws
   port: '46011'
@@ -1210,7 +1273,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 68,158,205,218,219,297,344,408|中国_0808018
+  name: 68,158,205,218,219,284,297,344,408|中国_0808018
   network: ws
   port: '30023'
   server: v01.gutingting.com
@@ -1225,7 +1288,7 @@ proxies:
     path: /aceamedv
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,297,344,408|中国_0808019 #1'
+  name: '68,158,205,218,219,284,297,344,408|中国_0808019 #1'
   network: ws
   port: '30015'
   server: v02.gutingting.com
@@ -1253,7 +1316,7 @@ proxies:
     path: /qwe123321ewq
 - alterId: 0
   cipher: auto
-  name: 68,158,205,218,219,297,344,408|中国_0808026
+  name: 68,158,205,218,219,284,297,344,408|中国_0808026
   network: ws
   port: '30041'
   server: v02.gutingting.com
@@ -1283,7 +1346,7 @@ proxies:
     path: /iso
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,344|🇨🇳CN-122.188.71.224-2575 #1'
+  name: '68,158,205,218,219,284,344|🇨🇳CN-122.188.71.224-2575 #1'
   network: ws
   port: 9111
   server: st-1.dnspro.icu
@@ -1313,7 +1376,7 @@ proxies:
     path: /iso
 - alterId: 0
   cipher: auto
-  name: 68,158,205,218,219,297,344,408|中国_0808029
+  name: 68,158,205,218,219,284,297,344,408|中国_0808029
   network: ws
   port: '20025'
   server: sh-cn-1.dnspro.icu
@@ -1453,7 +1516,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,205,218,219,344,345|二爷翻墙 https://1808.free.hr Node... #180'
+  name: '68,205,218,219,344,345|二爷翻墙 https://1808.free.hr Node... #200'
   network: ws
   port: 16928
   server: 120.232.240.56
@@ -1525,7 +1588,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808045 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808045 #1'
   network: ws
   port: '443'
   server: 103.184.45.57
@@ -1540,7 +1603,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808046 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808046 #1'
   network: ws
   port: '443'
   server: 103.184.45.43
@@ -1555,7 +1618,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808047 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808047 #1'
   network: ws
   port: '80'
   server: 103.184.45.40
@@ -1570,7 +1633,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808048 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808048 #1'
   network: ws
   port: '80'
   server: 103.184.45.253
@@ -1600,7 +1663,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808050 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808050 #1'
   network: ws
   port: '80'
   server: 103.184.45.188
@@ -1630,7 +1693,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808052 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808052 #1'
   network: ws
   port: '443'
   server: 103.184.45.177
@@ -1735,7 +1798,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,289,297,344,408|中国_0808059 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|中国_0808059 #1'
   network: ws
   port: '80'
   server: 103.184.44.221
@@ -1780,7 +1843,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: 68,158,166,167,205,218,219,289,297,344,408|中国_0808062
+  name: 68,158,166,167,205,218,219,284,289,297,344,408|中国_0808062
   network: ws
   port: '443'
   server: 103.184.44.190
@@ -1810,7 +1873,7 @@ proxies:
     path: /blue
 - alterId: 0
   cipher: auto
-  name: 68,158,166,167,205,218,219,289,297,344,408|中国_0808064
+  name: 68,158,166,167,205,218,219,284,289,297,344,408|中国_0808064
   network: ws
   port: '80'
   server: 103.184.44.164
@@ -2176,26 +2239,6 @@ proxies:
   ws-opts:
     headers:
       host: 120.232.153.40
-    path: None
-- alterId: 64
-  cipher: auto
-  country: 🇨🇳CN
-  h2-opts: {}
-  http-opts: {}
-  name: '70,253,298,377|广东省 移动 #17'
-  network: tcp
-  port: '54565'
-  server: 183.238.202.173
-  servername: ''
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      host: 183.238.202.173
     path: None
 - alterId: 64
   cipher: auto
@@ -3774,24 +3817,6 @@ proxies:
     headers:
       host: us2.kfcvme50.life
     path: /
-- alterId: 0
-  cipher: auto
-  name: '70,71,74,158,186,189,192,193,228,284,319,334,353,423|美国(yudou66.com 玉豆免费节点)
-    #20'
-  network: ws
-  port: '46011'
-  server: mmjp11.micloud.buzz
-  servername: ''
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 638501f6-0ba0-47cb-bcfe-200cc1169e81
-  ws-opts:
-    headers:
-      Host: ''
-    path: /zh-cn
 - cipher: aes-256-gcm
   name: 70,74|TG频道@mfbpn-1112-CN
   password: abb3f361-9aca-40d8-ac4b-18cf29feca67
@@ -4184,6 +4209,14 @@ proxies:
   password: 70747514-fb14-4f31-8390-e1f0453eff6d
   port: 20019
   server: kr1.mhw7e2.online
+  type: ss
+- alterId: -1
+  cipher: chacha20-ietf-poly1305
+  delay: 2647
+  name: '70,71,204,269,298,406|CN_speednode_0024 #1'
+  password: 70747514-fb14-4f31-8390-e1f0453eff6d
+  port: 20001
+  server: hk1.mhw7e2.online
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: '70,71,219,344|🇨CN-14.215.169.69-0622 #1'
@@ -12408,18 +12441,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 82f2a51f-488c-47b0-b223-d17f49d8660d
-- alterId: 64
-  cipher: auto
-  country: 🇨🇳CN
-  h2-opts: {}
-  http-opts: {}
-  name: 298|CN😈github.com/Ruk1ng001_165779...
-  network: tcp
-  port: 54002
-  server: 183.236.48.163
-  skip-cert-verify: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
   h2-opts: {}

@@ -3,25 +3,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: '1,45,62,99,158,173,284,296,307|United States #145'
-  network: ws
-  port: '2082'
-  server: 104.16.60.8
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
-  ws-opts:
-    headers:
-      Host: worker-noisy-paper-fa00.hetoj18200.workers.dev
-    path: /afrhms16v.bestxray.buzz/linkws
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_-DE_538
+  name: 1|Relay_-DE_396
   network: ws
   port: 443
   server: xiao.xiao8867785.US.KG
@@ -36,44 +18,25 @@ proxies:
     path: /afrhms16v.bestxray.buzz:443/linkws
 - alterId: 0
   cipher: auto
-  country: BG
   h2-opts: {}
   http-opts: {}
-  name: 1,141|🇧🇬BG(AzadNet.t.me)_023
+  name: '1,124,172,295|🇩🇰 DK 15 → tg@nicevpn123 #1'
   network: ws
   port: 443
-  server: 147.78.140.68
-  servername: 6c47-butterfly-6c47.yexoji3749.workers.dev
+  server: 195.85.59.170
   skip-cert-verify: true
   tls: true
   type: vmess
-  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  udp: true
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
   ws-opts:
     headers:
-      host: 6c47-butterfly-6c47.yexoji3749.workers.dev
-    path: /afrhms16v.bestxray.buzz/linkws
-- alterId: 0
-  cipher: auto
-  country: CY
-  h2-opts: {}
-  http-opts: {}
-  name: 1,124|CY_768
-  network: ws
-  port: 443
-  server: 195.85.59.22
-  servername: 8shhebsj78wjisnbhsjvess-pond-6cc6.cerog91216.workers.dev
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
-  ws-opts:
-    headers:
-      HOST: 8shhebsj78wjisnbhsjvess-pond-6cc6.cerog91216.workers.dev
-    path: /afrhms16v.bestxray.buzz/linkws
+      Host: 1c11-muddy-rice-1c11.vetanex501.workers.dev
+    path: /glweidf.sbs/linkws
 - alterId: 0
   cipher: chacha20-ietf-poly1305
   country: 🇩🇪DE
-  name: '1,4,5,9,10,35,55,102,109,126,127,130,133,219,252,260,344,376,385|未知22 15.9MB/s
+  name: '1,4,5,9,10,35,55,102,109,127,130,133,219,252,260,344,376,385|未知22 15.9MB/s
     #3'
   password: I53uJsZc6dzTBYDEqg1a30Bh1hAd4HQzgpwCVdpzKwfF2ZUh
   port: 51348
@@ -83,32 +46,162 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   country: 🇷🇺RU
-  name: 1,4,124,130|🇷🇺RU_725
-  password: CIZAAhQMKlkmW60Isq82PG
+  name: 1,4,130|🇷🇺RU_703
+  password: CFwkuvD9DO6QgCwC23KRzZ
   port: 52873
   server: 81.19.141.45
   type: ss
-- cipher: chacha20-ietf-poly1305
-  country: DE
-  name: '1,124|DE_772 #1'
-  password: ZUL8OpleFRk1PleQtbr8tF
-  port: 29682
-  server: 146.19.233.101
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,109,113,124,130|🇫🇷FR_612
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 217.182.198.219
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 1,4,74,130|🇩🇪DE_576
+  password: XPtzA9sCug3SPR4c
+  port: 9025
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 1,109,113,130|🇩🇪DE_577
+  password: S7KwUu7yBy58S3Ga
+  port: 9042
+  server: 80.92.204.106
   type: ss
 - alterId: -1
   cipher: aes-256-cfb
   country: 🏁 ZZ
-  name: 1,4,6,74,109,124,130,298|DE😈github.com/Ruk1ng001_162168...
+  name: 1,4,74,130,298|DE😈github.com/Ruk1ng001_-20590...
+  password: 4R3hUfZ2FHhDmNcP
+  port: 9061
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,109,130|🇫🇷FR_615
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 217.182.198.219
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,109,130|🇫🇷FR_614
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 217.182.198.219
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 1,4,74,109,130|🇩🇪DE_578
+  password: FAdUvMJUq5vDgKEq
+  port: 9006
+  server: 80.92.204.106
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: ' ZZ'
+  name: 1,5,109,130,141,382|sws-1037-2024-07-24_125245
+  password: WM5adrXijpwApm1wLsEB3WFSCrG9aQ6QAJjVc2btj73FvBnw
+  port: 51348
+  server: 89.107.10.65
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,124,130|🇷FR_613
+  password: Y6R9pAtvxxzmGC
+  port: 5001
+  server: 217.182.198.219
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,130|🇫🇷FR_604
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 217.182.198.219
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: DE
+  name: 1,124|DE_662
+  password: zptQIG1TX4EtwBDnaloGB7
+  port: 36981
+  server: 193.233.80.34
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  delay: 2450
+  name: '1,74,113,130,204|德国 - 法兰克福 - Stark Industries S... #2'
+  password: Sn5B7jTqr76aCJT8
+  port: 9097
+  server: 80.92.204.106
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇪DE
+  name: 1,4,109,130,298|DE😈github.com/Ruk1ng001_-13229...
+  password: NvS8N4Vf8qAGPSCL
+  port: 9046
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,113,130|🇷FR_605
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 217.182.198.219
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,109,130|🇫🇷FR_586
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 217.182.198.219
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: DE
+  name: 1,109|🇪 DE-167.235.139.105-3012 | 27...
+  password: P0VmjYa00wNNEDBoDuWKfIdWKIxycJQuq1eIwXMCRi2T650R
+  port: 51348
+  server: 167.235.139.105
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇩🇪DE
+  name: 1,4,74,130|🇩🇪DE_575
+  password: aLpQtfEZe445QyHk
+  port: 9098
+  server: 80.92.204.106
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 1,4,130|🇫🇷FR_608
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 217.182.198.219
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🏁 ZZ
+  name: 1,74,109,130,298|DE😈github.com/Ruk1ng001_162168...
   password: cp8pRSUAyLhTfVWH
   port: 9064
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-gcm
   country: 🇫🇷FR
-  name: 1,4,113,124,130|🇷FR_613
+  name: 1,4,113,130|🇷FR_587
   password: PCnnH6SQSnfoS27
   port: 8091
   server: 217.182.198.219
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: ' ZZ'
+  name: 1,4|ChatGPT  ZZ_1025
+  password: LXWbFNINrtmm1T0QNuInNZlZTimv6crLcAKtmFDUGxB55Tp0
+  port: 51348
+  server: 81.28.6.186
   type: ss
 - cipher: aes-256-gcm
   country: ' ZZ'
@@ -120,180 +213,28 @@ proxies:
   udp: true
 - cipher: aes-256-gcm
   country: 🇫🇷FR
-  name: 1,4,109,124,130|🇷FR_604
+  name: 1,4,109,130|🇷FR_590
   password: e4FCWrgpkji3QY
   port: 9101
   server: 217.182.198.219
   type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,124,130|🇫🇷FR_621
-  password: XKFKl2rULjIp74
-  port: 8008
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 1,4,74,124,130|🇩🇪DE_588
-  password: aLpQtfEZe445QyHk
-  port: 9098
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-128-gcm
-  country: DE
-  name: 1|DE_774
-  password: telegram--ZEDMODEON--joinin--ZEDMODEON--bia--ZEDMODEON--kanal--ZEDMODEON
-  port: 25367
-  server: 45.145.42.70
-  type: ss
 - cipher: aes-256-cfb
   country: DE
-  name: 1,6,13,74|TG频道@mfbpn-1204-DE
+  name: 1,74|TG频道@mfbpn-1204-DE
   password: wjTugX3ZtHMB9c3Z
   port: 9057
   server: 80.92.204.106
   type: ss
 - cipher: aes-256-gcm
   country: 🇫🇷FR
-  name: 1,4,113,130|🇷FR_620
-  password: XKFKl2rULjIp74
-  port: 8009
-  server: 217.182.198.219
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: DE
-  name: '1,124|DE_780 #1'
-  password: zptQIG1TX4EtwBDnaloGB7
-  port: 36981
-  server: 193.233.80.34
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  delay: 2450
-  name: '1,4,6,74,113,124,130,204|德国 - 法兰克福 - Stark Industries S... #2'
-  password: Sn5B7jTqr76aCJT8
-  port: 9097
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,109,124,130|🇫🇷FR_626
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,124,130|🇷FR_625
-  password: Y6R9pAtvxxzmGC
-  port: 5001
-  server: 217.182.198.219
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: ' ZZ'
-  name: 1,4,5,109,130,141,382|sws-1037-2024-07-24_125245
-  password: WM5adrXijpwApm1wLsEB3WFSCrG9aQ6QAJjVc2btj73FvBnw
-  port: 51348
-  server: 89.107.10.65
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,109,130|🇷FR_641
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,109,124,130|🇷FR_615
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 217.182.198.219
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: DE
-  name: '1,172,295|🇩🇪 DE 7 → tg@nicevpn123 #1'
-  password: jhblmJdHApr5afBcB1rtSt
-  port: 20888
-  server: 136.244.81.170
-  type: ss
-  udp: true
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 1,4,6,13,109,124,130,298|DE😈github.com/Ruk1ng001_-13229...
-  password: NvS8N4Vf8qAGPSCL
-  port: 9046
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,109,113,124,130|🇷FR_624
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,130|🇷FR_619
-  password: TEzjfAYq2IjtuoS
-  port: 6697
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 1,4,74,109,130|🇪DE_587
-  password: FAdUvMJUq5vDgKEq
-  port: 9006
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,130|🇷FR_637
+  name: 1,4,130|🇷FR_588
   password: pKEW8JPByTVTLtM
   port: 4444
   server: 217.182.198.219
   type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  country: 🏁 ZZ
-  name: 1,4,6,74,130,298|DE😈github.com/Ruk1ng001_-20590...
-  password: 4R3hUfZ2FHhDmNcP
-  port: 9061
-  server: 80.92.204.106
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 1,4,109,113,130|🇩🇪DE_594
-  password: S7KwUu7yBy58S3Ga
-  port: 9042
-  server: 80.92.204.106
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: ' ZZ'
-  name: 1,4|ChatGPT  ZZ_1291
-  password: LXWbFNINrtmm1T0QNuInNZlZTimv6crLcAKtmFDUGxB55Tp0
-  port: 51348
-  server: 81.28.6.186
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇩🇪DE
-  name: 1,4,6,74,124,130|🇩🇪DE_590
-  password: XPtzA9sCug3SPR4c
-  port: 9025
-  server: 80.92.204.106
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  country: DE
-  name: '1,109,124|DE_778 #1'
-  password: P0VmjYa00wNNEDBoDuWKfIdWKIxycJQuq1eIwXMCRi2T650R
-  port: 51348
-  server: 167.235.139.105
-  type: ss
 - cipher: aes-256-cfb
   country: DE
-  name: 1|Pool_DE_805
+  name: 1|Pool_DE_789
   obfs: tls1.2_ticket_auth
   password: gjds
   port: 80
@@ -305,45 +246,7 @@ proxies:
   country: DE
   h2-opts: {}
   http-opts: {}
-  name: 1,66,88|[mianfeifq/share]德国_0809175
-  network: ws
-  port: '80'
-  server: 4ge1.09vpn.com
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: b0500f4a-972d-4d2f-b788-4ac4d6d74ce1
-  ws-opts:
-    headers:
-      Host: ''
-    path: /vmess/
-- alterId: 0
-  cipher: auto
-  country: 🏁ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 1,6,11,13,71,124,126|🏁ZZ_155 |27.51Mb
-  network: ws
-  port: 80
-  server: 188.244.122.72
-  servername: dl2.127.0.0.1.p..kaка.kl3ksacad3my..wonkacapitano.buzz.
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      HOST: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  country: DE
-  h2-opts: {}
-  http-opts: {}
-  name: '1,65,66,68,109,141,152,158,166,167,181,189,205,218,219,289,305,307,308,319,344|🇩🇪DE-130.162.47.123-9082
+  name: '1,65,66,68,109,141,152,158,166,167,181,189,205,218,219,284,289,305,307,308,319,344|🇩🇪DE-130.162.47.123-9082
     #1'
   network: ws
   port: 6854
@@ -357,64 +260,30 @@ proxies:
     path: /zBLPou
 - alterId: 0
   cipher: auto
-  country: NL
+  country: ZZ
   h2-opts: {}
   http-opts: {}
-  name: 1|Relay_NL-US_1129
+  name: '1,6,11,13,71|03-156-RELAY #1'
   network: ws
-  port: 443
-  server: 188.114.96.1
-  servername: linde06.indiavideo.sbs
+  port: 80
+  server: 188.244.122.72
+  servername: dl2.127.0.0.1.p..ka.kl3ksacad3my..wonkacapitano.buzz.
   skip-cert-verify: true
-  tls: true
+  skip-cert-vertify: true
+  tls: false
   type: vmess
-  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  udp: true
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
   ws-opts:
     headers:
-      HOST: linde06.indiavideo.sbs
-    path: /linkws
+      host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
 - alterId: 0
   cipher: auto
   country: NL
   h2-opts: {}
   http-opts: {}
-  name: 1|Relay_NL-US_1111
-  network: ws
-  port: 443
-  server: 188.114.97.1
-  servername: linde06.indiavideo.sbs
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
-  ws-opts:
-    headers:
-      HOST: linde06.indiavideo.sbs
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  country: NL
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_NL-US_1134
-  network: ws
-  port: 443
-  server: 188.114.96.3
-  servername: linde06.indiavideo.sbs
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
-  ws-opts:
-    headers:
-      HOST: linde06.indiavideo.sbs
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  country: NL
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_NL-DE_1121
+  name: 1|Relay_NL-DE_1069
   network: ws
   port: 443
   server: 188.114.97.8
@@ -429,21 +298,39 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  country: CO
+  country: NL
   h2-opts: {}
   http-opts: {}
-  name: 1,11,113,141|🇷BR(AzadNet.t.me)_011
+  name: 1|Relay_NL-US_1108
   network: ws
   port: 443
-  server: 188.114.97.21
-  servername: afrhms16v.bestxray.buzz
+  server: 188.114.97.2
+  servername: jahfkjha.cfd
   skip-cert-verify: true
   tls: true
   type: vmess
-  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
   ws-opts:
     headers:
-      host: afrhms16v.bestxray.buzz
+      HOST: jahfkjha.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  country: NL
+  h2-opts: {}
+  http-opts: {}
+  name: 1|Relay_NL-US_1107
+  network: ws
+  port: 443
+  server: 188.114.97.1
+  servername: linde06.indiavideo.sbs
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  ws-opts:
+    headers:
+      HOST: linde06.indiavideo.sbs
     path: /linkws
 - alterId: 0
   cipher: auto
@@ -467,28 +354,63 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  country: ZZ
+  country: CO
   h2-opts: {}
   http-opts: {}
-  name: 1|Relay_ZZ-DE_2371
+  name: 1,11,113,141|🇷BR(AzadNet.t.me)_011
   network: ws
   port: 443
-  server: 104.21.42.39
-  servername: nezuko.raidenshogun.cloudns.org
+  server: 188.114.97.21
+  servername: afrhms16v.bestxray.buzz
   skip-cert-verify: true
   tls: true
   type: vmess
   uuid: f584de15-2034-4170-a723-f48c2bae5e0f
   ws-opts:
     headers:
-      HOST: nezuko.raidenshogun.cloudns.org
-    path: /linkws/afrhms16v.bestxray.buzz
+      host: afrhms16v.bestxray.buzz
+    path: /linkws
 - alterId: 0
   cipher: auto
   country: ZZ
   h2-opts: {}
   http-opts: {}
-  name: 1,124|Relay_ZZ-DE_1383
+  name: 1|Relay_ZZ-DE_2270
+  network: ws
+  port: 443
+  server: laravel.com
+  servername: cool-darkness-e663.mehdipost667.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: bc864078-dcf3-4bf4-8dbf-ca9f200b56be
+  ws-opts:
+    headers:
+      HOST: cool-darkness-e663.mehdipost667.workers.dev
+    path: /gwdef.sbs:443/linkws
+- alterId: 0
+  cipher: auto
+  country: 🏁ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 1,11,13,124,298,392|VMESS-未知>国-NF解锁德国自制剧-ChatGPT-T...
+  network: ws
+  port: 8880
+  server: www.speedtest.net
+  servername: 2.store.debian.8.8.8.8.fxp.debian.org.speedtest.net.noshabe.cyou.
+  skip-cert-verify: true
+  type: vmess
+  uuid: f816c971-c3b6-4eb2-9d1a-0bfa7aec4f26
+  ws-opts:
+    headers:
+      HOST: 2.store.debian.8.8.8.8.fxp.debian.org.speedtest.net.noshabe.cyou.
+    path: /@irvpnn?ed=2560
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 1|Relay_ZZ-DE_2319
   network: ws
   port: 443
   server: 104.21.9.236
@@ -506,24 +428,7 @@ proxies:
   country: ZZ
   h2-opts: {}
   http-opts: {}
-  name: 1|Relay_ZZ-DE_2380
-  network: ws
-  port: 2086
-  server: 104.16.68.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_ZZ-DE_2388
+  name: 1,124|Relay_ZZ-DE_1219
   network: ws
   port: 443
   server: 104.21.13.125
@@ -538,122 +443,34 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  country: ZZ
+  country: ' US'
   h2-opts: {}
   http-opts: {}
-  name: 1|Relay_ZZ-DE_2403
+  name: 1,124|Relay_ US-DE_789
   network: ws
-  port: 2096
-  server: 104.16.68.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_ZZ-DE_2418
-  network: ws
-  port: 2082
-  server: 104.16.68.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
-- alterId: 0
-  cipher: auto
-  country: 🏁ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: '1,6,11,124,298,392|VMESS-未知>德国-NF解锁德国自制剧-ChatGPT-... #1'
-  network: ws
-  port: 8880
-  server: www.speedtest.net
-  servername: 2.store.debian.8.8.8.8.fxp.debian.org.speedtest.net.noshabe.cyou.
-  skip-cert-verify: true
-  type: vmess
-  uuid: f816c971-c3b6-4eb2-9d1a-0bfa7aec4f26
-  ws-opts:
-    headers:
-      HOST: 2.store.debian.8.8.8.8.fxp.debian.org.speedtest.net.noshabe.cyou.
-    path: /@irvpnn?ed=2560
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 1,124|Relay_ZZ-DE_1375
-  network: ws
-  port: 8880
-  server: 104.16.68.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
-- client-fingerprint: chrome
-  delay: 1150
-  name: '6,109,124,185,204,269,316,353,406|SG_speednode_0253 #1'
-  network: ws
-  password: CMLiu
-  port: 2087
-  server: 47.236.117.48
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: '6,13,109,172,295|🇺🇸 US 872 → tg@nicevpn123 #1'
-  network: ws
-  port: 2082
+  port: 2086
   server: 104.16.60.8
-  servername: worker-noisy-paper-fa00.hetoj18200.workers.dev
+  servername: vpnsupportfast.vpnsuortfast.workers.dev
   skip-cert-verify: true
+  type: vmess
+  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
+  ws-opts:
+    headers:
+      HOST: vpnsupportfast.vpnsuortfast.workers.dev
+    path: /afrhms07.xfixedfloat.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 8|Germany01
+  network: ws
+  port: 8880
+  server: haxeu4.seeworld.pro
   tls: false
   type: vmess
-  udp: true
-  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
-  ws-opts:
-    path: /afrhms16v.bestxray.buzz/linkws
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 13,124|Relay_ZZ-DE_1362
-  network: ws
-  port: 2052
-  server: 104.16.67.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
+  uuid: a6dfb50f-75bb-48e0-b56a-1edeb62b5a49
   ws-opts:
     headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
+      Host: ''
+    path: /eu4hax
 - alterId: 0
   cipher: auto
   name: 35,68,205,218,219,297,344,408|德国_0808005
@@ -670,17 +487,35 @@ proxies:
       Host: ''
     path: /
 - country: DE
-  name: 36|netflix_DE
+  name: 36,124|DE_666
   network: tcp
   password: telegram-id-privatevpns
   port: 22222
-  server: 18.159.245.204
+  server: 3.67.208.40
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- country: DE
+  name: 36|DE_02
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 52.57.208.90
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- country: DE
+  name: 36|DE_03
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 52.57.197.82
   sni: trojan.burgerip.co.uk
   type: trojan
   udp: true
 - alterId: 0
   cipher: auto
-  name: 47|DE🇩🇪 | De2.vmess.site.-80 | 11...
+  name: 47|DE🇩🇪 | De2.vmess.site.-80 | 13...
   network: ws
   port: '80'
   server: www.speedtest.net
@@ -748,13 +583,6 @@ proxies:
   port: 800
   server: 93.186.201.158
   type: ss
-- cipher: aes-128-gcm
-  name: 63,87|🇩🇪 德国 DE | BIZ-1B
-  password: 935730d8-e6e5-443f-bb59-6899af931148
-  port: 35607
-  server: 120.241.118.161
-  type: ss
-  udp: true
 - alterId: 1
   cipher: auto
   name: 65,66,88|[mianfeifq/share]德国_0809193
@@ -2047,6 +1875,21 @@ proxies:
     headers:
       Host: xiao.xiao8867785.us.kg
     path: /aveiror.com:443/linkvws
+- alterId: 0
+  cipher: auto
+  country: 🏁 ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 65,66,298|DE😈github.com/Ruk1ng001_899830...
+  network: tcp
+  port: 18701
+  server: 162.19.250.255
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 6371a73c-d2e5-42b8-9102-53e1b7ebc971
+  ws-path: /
 - alterId: 0
   cipher: auto
   name: '65,66|🇩🇪 DE 95.164.68.6 ◈ ws:80 ◈ St... #4'
@@ -5945,6 +5788,20 @@ proxies:
     path: /IVApi/DE/7
 - alterId: 0
   cipher: auto
+  name: 66,88|[mianfeifq/share]德国_0809175
+  network: ws
+  port: '80'
+  server: 4ge1.09vpn.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: b0500f4a-972d-4d2f-b788-4ac4d6d74ce1
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess/
+- alterId: 0
+  cipher: auto
   name: 66|🇩🇪 DE 57.129.24.124 ◈ ws:2052 ...
   network: ws
   port: 2052
@@ -6518,7 +6375,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,109,158,205,218,219,344|🇪DE-3.64.163.50-1098 #1'
+  name: '68,109,158,205,218,219,284,344|🇪DE-3.64.163.50-1098 #1'
   network: ws
   port: 80
   server: ee.oppo.quest
@@ -6533,7 +6390,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: '68,113,158,205,218,219,344|🇪DE-89.163.157.147-1104 #1'
+  name: '68,113,158,205,218,219,284,344|🇪DE-89.163.157.147-1104 #1'
   network: ws
   port: 443
   server: 89.163.157.147
@@ -6546,7 +6403,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,344|🇪DE-3.64.163.50-1106 #1'
+  name: '68,158,205,218,219,284,344|🇪DE-3.64.163.50-1106 #1'
   network: ws
   port: 80
   server: cfhk.oppo.quest
@@ -6576,11 +6433,11 @@ proxies:
     path: /4ba99a39b90faa/
 - alterId: 0
   cipher: auto
-  name: 68,109,158,205,218,219,344,348|2.13|UShttpsawkjcfky 注册体验流媒体机场...
+  name: 68,109,158,205,218,219,284,344,348|2.13|UShttpsawkjcfky 注册体验流媒体机场...
   network: ws
   port: 443
   server: v2ray.online
-  servername: ''
+  servername: Kansas.v2ray.online
   skip-cert-verify: true
   tls: true
   type: vmess
@@ -6672,7 +6529,7 @@ proxies:
     path: /@hashmakvpn 🇩🇪
 - alterId: 0
   cipher: auto
-  name: '68,205,218,219,344,345|二爷翻墙 https://1808.free.hr Node... #164'
+  name: '68,205,218,219,344,345|二爷翻墙 https://1808.free.hr Node... #184'
   network: ws
   port: 45103
   server: de-frankfurt-oracle-b26cf5.ip1.shop
@@ -6728,7 +6585,7 @@ proxies:
     path: /graphql
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,344|🇪DE-94.130.184.57-3927 #1'
+  name: '68,158,205,218,219,284,344|🇪DE-94.130.184.57-3927 #1'
   network: ws
   port: 80
   server: 94.130.184.57
@@ -6784,7 +6641,7 @@ proxies:
     path: /telegram-id-@privatevpns
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,344|🇪DE-78.46.129.226-4043 #1'
+  name: '68,158,205,218,219,284,344|🇪DE-78.46.129.226-4043 #1'
   network: ws
   port: 80
   server: 78.46.129.226
@@ -7036,7 +6893,7 @@ proxies:
     path: /vpnv2rayspeed
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,297,344,408|德国_0808013 #1'
+  name: '68,158,205,218,219,284,297,344,408|德国_0808013 #1'
   network: ws
   port: '443'
   server: 51.75.70.34
@@ -7066,7 +6923,7 @@ proxies:
     path: /ray
 - alterId: 0
   cipher: auto
-  name: 68,158,205,218,219,297,344,408|德国_0808015
+  name: 68,158,205,218,219,284,297,344,408|德国_0808015
   network: ws
   port: '443'
   server: 170.187.185.37
@@ -7234,9 +7091,9 @@ proxies:
   server: ed.lvuy.xyz
   type: ss
 - cipher: aes-256-cfb
-  name: '74,109,130|_28 #1'
-  password: EXN3S3eQpjE7EJu8
-  port: 9027
+  name: '74,199,219,326,344|🇪DE-80.92.204.106-1072 #1'
+  password: c3NtHJ5ujV2tGDfj
+  port: 9084
   server: 80.92.204.106
   type: ss
 - alterId: -1
@@ -7292,6 +7149,20 @@ proxies:
   protocol-param: ''
   server: 184.170.241.194
   type: ssr
+- cipher: aes-128-gcm
+  name: 87|🇩🇪 德国 DE | BIZ-1B
+  password: 935730d8-e6e5-443f-bb59-6899af931148
+  port: 35607
+  server: 120.241.118.161
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇩🇪 DX德国-SS|1x #1'
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 44281
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 88|[mianfeifq/share]德国_0809190
@@ -7341,40 +7212,14 @@ proxies:
   port: 23166
   server: 37.1.192.68
   type: ss
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 124|Relay_ZZ-DE_1406
-  network: ws
-  port: 8880
-  server: 104.16.67.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 124|Relay_ZZ-DE_1414
-  network: ws
-  port: 2052
-  server: 104.16.68.38
-  servername: 7hss-butterfly-d4c3.fijetem432.workers.dev
-  skip-cert-verify: true
-  type: vmess
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      HOST: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
+- cipher: chacha20-ietf-poly1305
+  country: DE
+  name: '124,172,295|🇩🇪 DE 7 → tg@nicevpn123 #1'
+  password: jhblmJdHApr5afBcB1rtSt
+  port: 20888
+  server: 136.244.81.170
+  type: ss
+  udp: true
 - name: 141|🇪DE(AzadNet.t.me)_001
   network: tcp
   password: your_password
@@ -7642,7 +7487,7 @@ proxies:
   uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147
 - alterId: 0
   cipher: auto
-  name: 158|🇩🇪DE-94.130.25.155-4401
+  name: '158,284|🇩🇪DE-94.130.25.155-4401 #1'
   network: tcp
   port: '443'
   server: 94.130.25.155
@@ -7652,7 +7497,7 @@ proxies:
   uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147
 - alterId: 0
   cipher: auto
-  name: '158,292|(@VmessProtocol)برای خرید و ات... #24'
+  name: '158,284,292|(@VmessProtocol)برای خرید و ات... #37'
   network: tcp
   port: '8081'
   server: turjinsonscejf3f.aramislegend.com
@@ -7662,7 +7507,7 @@ proxies:
   uuid: 0ab90124-9a6b-4a21-afe9-cc778b5b5ab9
 - alterId: 0
   cipher: auto
-  name: '158,292,307|United States #345'
+  name: '158,284,292,307|United States #343'
   network: ws
   port: '80'
   server: 104.17.147.22
@@ -7676,7 +7521,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '158,275,292,307|United States #438'
+  name: '158,284,292,307|United States #436'
   network: ws
   port: '443'
   server: 172.67.198.187
@@ -7690,7 +7535,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: '158,292|(@VmessProtocol)برای خرید و ات... #17'
+  name: '158,284,292|(@VmessProtocol)برای خرید و ات... #30'
   network: ws
   port: '2052'
   server: 185.146.173.91
@@ -7704,7 +7549,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: none
-  name: '158,292|(@VmessProtocol)برای خرید و ات... #16'
+  name: '158,284,292|(@VmessProtocol)برای خرید و ات... #29'
   network: ws
   port: '443'
   server: 185.146.173.91
@@ -9576,6 +9421,22 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 392|VMESS-未知>德国-NF解锁德国自制剧-ChatGPT-...
+  network: ws
+  port: 8880
+  server: 104.17.147.22
+  servername: 2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列事列.abkon.cyou.
+  skip-cert-verify: true
+  type: vmess
+  uuid: dc9e5e87-6fe9-4361-ac45-42fb6c948dd2
+  ws-opts:
+    headers:
+      HOST: 2d.irvn.debian.6.6.1b1.8.fxp.debian.org.speedtest.net.列列男事的事列上赛.abkon.cyou.
+    path: /
 - alterId: 0
   cipher: auto
   grpc-opts:

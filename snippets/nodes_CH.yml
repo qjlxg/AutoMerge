@@ -1,10 +1,17 @@
 proxies:
 - cipher: aes-256-cfb
   country: ' ZZ'
-  name: 1,4|ChatGPT  ZZ_465
+  name: 1,4|ChatGPT  ZZ_1087
   password: f8f7aCzcPKbsF8p3
   port: 989
   server: 84.17.53.160
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 60,74,154,278,311,327|🇨_CH_
+  password: asdKkaskJKfnsa
+  port: 80
+  server: 84.17.53.163
   type: ss
   udp: true
 - alterId: 0
@@ -1355,12 +1362,6 @@ proxies:
     headers:
       Host: ch2.vmess.site.
     path: /vmess
-- cipher: aes-256-cfb
-  name: 74,327|🇨_CH_
-  password: asdKkaskJKfnsa
-  port: 80
-  server: 84.17.53.163
-  type: ss
 - alterId: 0
   cipher: auto
   name: 88|[mianfeifq/share]瑞士_0809048

@@ -1,10 +1,10 @@
 proxies:
 - alterId: 0
   cipher: auto
-  country: CO
+  country: ' US'
   h2-opts: {}
   http-opts: {}
-  name: 1,71,159,285,334|TG:@hkaa0|美国_16
+  name: 1,6,13,71,124,159,285,334|TG:@hkaa0|美国_16
   network: ws
   port: 2052
   server: kt01.898965.xyz
@@ -21,82 +21,34 @@ proxies:
     path: /
 - alterId: -1
   cipher: aes-256-cfb
-  country: ' KR'
+  country: ' ZZ'
   delay: 794
-  name: '1,4,11,74,113,204,219,298,344|🇰🇷KR-43.201.253.180-3094 #1'
+  name: '1,4,13,74,113,124,204,219,298,344|🇰🇷KR-43.201.253.180-3094 #1'
   password: amazonskr05
   port: 443
   server: 43.201.253.180
   type: ss
 - cipher: aes-256-cfb
-  country: 🇺🇸US
-  name: 1,6,11,13,74,130|🇺🇸US_1135
+  country: US
+  name: 1,6,11,13,74,124|US_802
   password: amazonskr05
   port: 443
   server: 43.201.254.211
   type: ss
 - cipher: aes-256-gcm
   country: US
-  name: 1,124|Relay_US-KR_956
+  name: 1,124|Relay_US-KR_812
   password: 328c867b-a9bb-41f2-be42-c7bff2b5f12d
   port: 50000
   server: a007.standard-nodes-chickenfarms.com
   type: ss
 - cipher: aes-256-cfb
   country: KR
-  name: 1,6,13,124|KR_856
+  name: 1,6,13,124|KR_714
   password: amazonskr05
   port: 443
   server: 52.78.200.155
   type: ss
-- alterId: -1
-  cipher: aes-256-cfb
-  client-fingerprint: chrome
-  country: 🇰🇷KR
-  delay: 486
-  name: '1,5,6,48,74,113,124,185,192,204,236,298,316,346,360|🇸🇬 狮城特殊|@ripaojiedian
-    #1'
-  password: amazonskr05
-  port: 443
-  server: 43.201.254.74
-  tfo: false
-  type: ss
-- cipher: aes-256-gcm
-  country: KR
-  name: 1,4,124|KR_854
-  password: 328c867b-a9bb-41f2-be42-c7bff2b5f12d
-  port: 50000
-  server: a008.standard-nodes-chickenfarms.com
-  type: ss
-- client-fingerprint: chrome
-  name: '6,185,187,219,269,316,317,344,353,406|KR_speednode_0195 #1'
-  network: ws
-  password: moist
-  port: 34237
-  server: 152.70.239.134
-  skip-cert-verify: true
-  sni: trojan.freenods.sbs
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: trojan.freenods.sbs
-    path: /
-- client-fingerprint: chrome
-  country: KR
-  name: '6,185,187,269,316,317,353,406|KR_speednode_0185 #1'
-  network: ws
-  password: CMLiu
-  port: 15443
-  server: 14.56.54.62
-  skip-cert-verify: true
-  sni: aliorg.filegear-sg.me
-  type: trojan
-  udp: false
-  ws-opts:
-    headers:
-      Host: aliorg.filegear-sg.me
-    path: /?ed=2048
 - alterId: -1
   cipher: aes-256-cfb
   name: '48,192,219,252,344,346,376|UM??SSRSUB_1845185486 #1'
@@ -245,86 +197,32 @@ proxies:
       host: 152.70.235.207
     path: hy
   ws-path: hy
-- auth: 5f548cd4-912d-4d98-a7b7-be5898876107
-  name: '63,87|🇰🇷 韩国 01-3A #1'
-  password: 5f548cd4-912d-4d98-a7b7-be5898876107
-  port: 44301
-  server: kr-01.worldfirst.eu.org
+- alterId: -1
+  cipher: aes-256-cfb
+  client-fingerprint: chrome
+  country: 🇰🇷KR
+  delay: 486
+  name: '48,74,113,185,192,204,236,298,316,346,360|🇸🇬 狮城特殊|@ripaojiedian #1'
+  password: amazonskr05
+  port: 443
+  server: 43.201.254.74
+  tfo: false
+  type: ss
+- client-fingerprint: chrome
+  delay: 878
+  name: '60,154,185,204,269,278,311,316,353,406|KR_speednode_0183 #1'
+  network: ws
+  password: CMLiu
+  port: 11423
+  server: 218.158.87.155
   skip-cert-verify: true
-  sni: kr-01.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- auth: dc690412-c786-4131-b0d1-3c071cedc024
-  name: '63,87|🇰🇷 韩国 02-2C #1'
-  password: dc690412-c786-4131-b0d1-3c071cedc024
-  port: 44300
-  server: kr-04.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: kr-03.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '63,87,89|🇰🇷 DX韩国|1x #1'
-  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
-  port: 13666
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
-- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: 63,87,89|🇷 韩国-2
-  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  port: 30001
-  server: oracle-arm-chuncheon2.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: 63,87,89|🇷 韩国-
-  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  port: 30001
-  server: oracle-arm-seoul1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 63,87|🇰🇷 韩国 B KR-1B
-  password: 935730d8-e6e5-443f-bb59-6899af931148
-  port: 35102
-  server: kr2.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 63,87|🇰🇷 韩国 C KR-1B
-  password: 935730d8-e6e5-443f-bb59-6899af931148
-  port: 35609
-  server: kr3.iepl.cooc.icu
-  type: ss
-  udp: true
-- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: '63,87,89|🇰🇷 韩国-1 #2'
-  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  port: 30001
-  server: oracle-arm-chuncheon1.lanmaoyun.icu
-  skip-cert-verify: false
-  sni: korea.nodes.lanmaoyun.icu
-  type: hysteria2
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 63,87|🇰🇷 韩国 A KR-1A
-  password: 28c041c1-f21b-4771-afee-ffae26b191e1
-  port: 35101
-  server: kr1.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '63,87,89|🇷 LS韩国|1x #1'
-  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
-  port: 48296
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
 - alterId: 0
   cipher: auto
   name: '65,66|💰🇰🇷 KR 193.122.97.28 ◈ ws:8080... #8'
@@ -678,7 +576,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 68,157,158,172,205,218,219,281,295,307,344,404|🇰🇷 韩国_102620002
+  name: 68,157,158,172,205,218,219,281,284,295,307,344,404|🇰🇷 韩国_102620002
   network: ws
   port: 443
   server: 152.67.218.38
@@ -692,7 +590,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,109,158,187,205,218,219,297,317,344,408|韩国_0808008 #1'
+  name: '68,109,158,187,205,218,219,284,297,317,344,408|韩国_0808008 #1'
   network: ws
   port: '30058'
   server: usd8.uuuuu.fn-node.shop
@@ -707,7 +605,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 68,158,187,205,218,219,297,317,344,408|韩国_0808006
+  name: 68,158,187,205,218,219,284,297,317,344,408|韩国_0808006
   network: ws
   port: '30056'
   server: usd6.uuuuu.fn-node.shop
@@ -722,7 +620,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,297,344,408|韩国_0808009 #1'
+  name: '68,158,205,218,219,284,297,344,408|韩国_0808009 #1'
   network: ws
   port: '30059'
   server: usd9.uuuuu.fn-node.shop
@@ -765,11 +663,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇷KR-14.35.59.67-1224 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇷KR-14.35.59.67-1224 #1'
   network: ws
   port: 30071
   server: jpd7.jjjjj.fn-node.shop
-  servername: ''
+  servername: jpa7.fnnoda.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -781,11 +679,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇷KR-59.29.207.11-1225 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇷KR-59.29.207.11-1225 #1'
   network: ws
   port: 30066
   server: jpd1.jjjjj.fn-node.site
-  servername: ''
+  servername: jpa1.fnnode.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -797,11 +695,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇰🇷KR-119.205.6.124-1226 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇰🇷KR-119.205.6.124-1226 #1'
   network: ws
   port: 30062
   server: hkd5.hhhhh.fn-node.shop
-  servername: ''
+  servername: hka5.fnnoda.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -813,11 +711,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇰🇷KR-59.9.48.174-1227 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇰🇷KR-59.9.48.174-1227 #1'
   network: ws
   port: 30080
   server: sg01.zzzzz.fn-node.site
-  servername: ''
+  servername: sg01.fnnode.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -829,11 +727,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇰🇷KR-210.178.107.198-1228 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇰🇷KR-210.178.107.198-1228 #1'
   network: ws
   port: 30066
   server: sgd1.zzzzz.fn-node.site
-  servername: ''
+  servername: sga1.fnnode.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -845,11 +743,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,109,158,187,205,218,219,317,344|🇰🇷KR-59.29.207.11-1229 #1'
+  name: '68,109,158,187,205,218,219,284,317,344|🇰🇷KR-59.29.207.11-1229 #1'
   network: ws
   port: 30066
   server: hkd1.hhhhh.fn-node.site
-  servername: ''
+  servername: hka1.fnnode.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -861,11 +759,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇰🇷KR-175.194.206.158-1230 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇰🇷KR-175.194.206.158-1230 #1'
   network: ws
   port: 30070
   server: hkdnf.hhhhh.fn-node.site
-  servername: ''
+  servername: hknf.fnnode.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -877,7 +775,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 68,158,187,205,218,219,297,317,344,408|韩国_0808007
+  name: 68,158,187,205,218,219,284,297,317,344,408|韩国_0808007
   network: ws
   port: '30002'
   server: hkd2.hhhhh.fn-node.site
@@ -893,11 +791,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇰🇷KR-182.161.160.232-1232 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇰🇷KR-182.161.160.232-1232 #1'
   network: ws
   port: 30011
   server: hkd3.hhhhh.fn-node.site
-  servername: ''
+  servername: hka3.fnnode.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -909,11 +807,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,187,205,218,219,317,344|🇰🇷KR-49.172.26.191-1233 #1'
+  name: '68,158,187,205,218,219,284,317,344|🇰🇷KR-49.172.26.191-1233 #1'
   network: ws
   port: 30061
   server: hkd8.hhhhh.fn-node.shop
-  servername: ''
+  servername: hka8.fnnoda.shop
   skip-cert-verify: false
   tls: true
   type: vmess
@@ -925,7 +823,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,219,297,344,408|韩国_0808011 #1'
+  name: '68,158,205,218,219,284,297,344,408|韩国_0808011 #1'
   network: ws
   port: '443'
   server: 146.56.162.25
@@ -953,11 +851,11 @@ proxies:
     path: /reffs7y26g0ua
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218|🇰🇷KR-14.32.142.250-1914 #3'
+  name: '68,158,205,218,284|🇰🇷KR-14.32.142.250-1914 #4'
   network: ws
-  port: 30077
+  port: '30077'
   server: aub.aaaaa.fn-node.site
-  servername: ''
+  servername: aua.fnnode.shop
   tls: true
   type: vmess
   uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
@@ -967,11 +865,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218|🇰🇷KR-59.8.76.12-1915 #3'
+  name: '68,158,205,218,284|🇰🇷KR-59.8.76.12-1915 #4'
   network: ws
-  port: 30052
+  port: '30052'
   server: usd2.uuuuu.fn-node.site
-  servername: ''
+  servername: us02.fnnode.shop
   tls: true
   type: vmess
   uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
@@ -981,11 +879,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218|🇰🇷KR-125.132.168.97-1947 #3'
+  name: '68,158,205,218,284|🇰🇷KR-125.132.168.97-1947 #4'
   network: ws
-  port: 30062
+  port: '30062'
   server: jpd5.jjjjj.fn-node.shop
-  servername: ''
+  servername: jpa5.fnnoda.shop
   tls: true
   type: vmess
   uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
@@ -995,11 +893,11 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218|🇰🇷KR-121.145.210.115-1966 #3'
+  name: '68,158,205,218,284|🇰🇷KR-121.145.210.115-1966 #4'
   network: ws
-  port: 30062
+  port: '30062'
   server: sgd5.zzzzz.fn-node.shop
-  servername: ''
+  servername: sga5.fnnoda.shop
   tls: true
   type: vmess
   uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
@@ -1009,7 +907,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '68,158,205,218,297,408|韩国_0808010 #1'
+  name: '68,158,205,218,284,297,408|韩国_0808010 #1'
   network: ws
   port: '30061'
   server: jpd8.jjjjj.fn-node.shop
@@ -1351,6 +1249,86 @@ proxies:
   port: 10048
   server: kr2.lvuy.xyz
   type: ss
+- auth: dc690412-c786-4131-b0d1-3c071cedc024
+  name: 87|🇰🇷 韩国 02-2C
+  password: dc690412-c786-4131-b0d1-3c071cedc024
+  port: 44300
+  server: kr-04.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-03.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- auth: 5f548cd4-912d-4d98-a7b7-be5898876107
+  name: 87|🇰🇷 韩国 01-3A
+  password: 5f548cd4-912d-4d98-a7b7-be5898876107
+  port: 44301
+  server: kr-01.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: kr-01.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  name: '87,89|🇰🇷 韩国-1 #1'
+  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  port: 30001
+  server: oracle-arm-chuncheon1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87|🇰🇷 韩国 B KR-1B
+  password: 935730d8-e6e5-443f-bb59-6899af931148
+  port: 35102
+  server: kr2.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇷 LS韩国|1x
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 48296
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87|🇰🇷 韩国 C KR-1B
+  password: 935730d8-e6e5-443f-bb59-6899af931148
+  port: 35609
+  server: kr3.iepl.cooc.icu
+  type: ss
+  udp: true
+- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  name: 87,89|🇷 韩国-2
+  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  port: 30001
+  server: oracle-arm-chuncheon2.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  name: 87,89|🇷 韩国-
+  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  port: 30001
+  server: oracle-arm-seoul1.lanmaoyun.icu
+  skip-cert-verify: false
+  sni: korea.nodes.lanmaoyun.icu
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇰🇷 DX韩国|1x #1'
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 13666
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87|🇰🇷 韩国 A KR-1A
+  password: 28c041c1-f21b-4771-afee-ffae26b191e1
+  port: 35101
+  server: kr1.iepl.cooc.icu
+  type: ss
+  udp: true
 - alterId: 16
   cipher: auto
   name: 88|[mianfeifq/share]韩国_0809065
@@ -1388,16 +1366,7 @@ proxies:
     headers:
       Host: muran-kr.qrfly.me
     path: /
-- name: 124|Relay_-KR_677
-  network: ws
-  password: moist
-  port: 443
-  server: 154.197.121.253
-  skip-cert-verify: true
-  sni: trojan.freenods.sbs
-  type: trojan
-  udp: true
-- name: 124|Relay_-KR_682
+- name: 124|Relay_-KR_556
   network: ws
   password: Watashi_VPN
   port: 2053
@@ -1406,8 +1375,26 @@ proxies:
   sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
   type: trojan
   udp: true
+- name: 124|Relay_-KR_564
+  network: ws
+  password: moist
+  port: 443
+  server: 154.197.121.253
+  skip-cert-verify: true
+  sni: trojan.freenods.sbs
+  type: trojan
+  udp: true
 - country: KR
-  name: 124|Relay_KR-KR_857
+  name: 124|Relay_KR-KR_713
+  password: 8225986b-4c13-4deb-9cde-321405dc8a97
+  port: 15062
+  server: kr01.pochan.868891.xyz
+  skip-cert-verify: true
+  sni: kr01.pochan.868891.xyz
+  type: hysteria2
+  udp: true
+- country: KR
+  name: 124|Relay_KR-KR_715
   network: ws
   password: moist
   port: 55555
@@ -1419,36 +1406,9 @@ proxies:
     headers:
       Host: trojan.freenods.sbs
     path: /
-- country: US
-  name: '124|disney_KR #13'
-  network: ws
-  password: auto
-  port: 443
-  server: 172.64.153.235
-  sni: e9464f45.trauma-2r4.pages.dev
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: e9464f45.trauma-2r4.pages.dev
-    path: /
-- country: ZZ
-  fingerprint: chrome
-  name: 124|Relay_ZZ-KR_1430
-  network: ws
-  password: Watashi_VPN
-  port: 443
-  server: 104.17.148.22
-  sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: t-watashi-r-jacket-o-people-jan.watashi-java.ir
-    path: /
 - country: ZZ
   fingerprint: random
-  name: 124|Relay_ZZ-KR_1442
+  name: 124|Relay_ZZ-KR_1286
   network: ws
   password: trojan
   port: 8443
@@ -1461,12 +1421,47 @@ proxies:
       Host: mav2flyng.pages.dev
     path: /Telegram/Msv2flyNG/?ed=2560
 - country: ZZ
+  name: 124|Relay_ZZ-KR_1289
+  network: ws
+  password: auto
+  port: 8443
+  server: 104.18.15.166
+  sni: e9464f45.trauma-2r4.pages.dev
+  type: trojan
+  udp: true
+- country: ZZ
+  name: 124|Relay_ZZ-KR_1291
+  network: ws
+  password: auto
+  port: 8443
+  server: 162.159.138.232
+  sni: e9464f45.trauma-2r4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: e9464f45.trauma-2r4.pages.dev
+    path: /
+- country: ZZ
+  name: 124|Relay_ZZ-KR_1295
+  network: ws
+  password: auto
+  port: 8443
+  server: 104.18.14.166
+  sni: e9464f45.trauma-2r4.pages.dev
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: e9464f45.trauma-2r4.pages.dev
+    path: /
+- country: ZZ
   fingerprint: chrome
-  name: 124|Relay_ZZ-KR_1443
+  name: 124|Relay_ZZ-KR_1296
   network: ws
   password: Watashi_VPN
   port: 8443
-  server: 104.18.12.229
+  server: 104.18.26.94
   sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
   type: trojan
   udp: true
@@ -1475,22 +1470,21 @@ proxies:
       Host: t-watashi-r-jacket-o-people-jan.watashi-java.ir
     path: /
 - country: ZZ
-  fingerprint: chrome
-  name: 124|Relay_ZZ-KR_1444
+  name: 124|Relay_ZZ-KR_1298
   network: ws
-  password: Watashi_VPN
+  password: auto
   port: 8443
-  server: 104.18.27.94
-  sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
+  server: 162.159.136.232
+  sni: e9464f45.trauma-2r4.pages.dev
   type: trojan
   udp: true
   ws-opts:
     headers:
-      Host: t-watashi-r-jacket-o-people-jan.watashi-java.ir
+      Host: e9464f45.trauma-2r4.pages.dev
     path: /
 - country: ZZ
   fingerprint: chrome
-  name: 124|Relay_ZZ-KR_1446
+  name: 124|Relay_ZZ-KR_1301
   network: ws
   password: Watashi_VPN
   port: 443
@@ -1504,11 +1498,11 @@ proxies:
     path: /
 - country: ZZ
   fingerprint: chrome
-  name: 124|Relay_ZZ-KR_1447
+  name: 124|Relay_ZZ-KR_1302
   network: ws
   password: Watashi_VPN
   port: 8443
-  server: 104.18.26.94
+  server: 104.18.27.94
   sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
   type: trojan
   udp: true
@@ -1517,11 +1511,11 @@ proxies:
       Host: t-watashi-r-jacket-o-people-jan.watashi-java.ir
     path: /
 - country: ZZ
-  name: 124|Relay_ZZ-KR_1452
+  name: 124|Relay_ZZ-KR_1303
   network: ws
   password: auto
-  port: 443
-  server: 104.18.34.21
+  port: 8443
+  server: 162.159.137.232
   sni: e9464f45.trauma-2r4.pages.dev
   type: trojan
   udp: true
@@ -1529,6 +1523,27 @@ proxies:
     headers:
       Host: e9464f45.trauma-2r4.pages.dev
     path: /
+- country: ZZ
+  fingerprint: chrome
+  name: 124|Relay_ZZ-KR_1304
+  network: ws
+  password: Watashi_VPN
+  port: 443
+  server: 104.17.148.22
+  sni: t-watashi-r-jacket-o-people-jan.watashi-java.ir
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: t-watashi-r-jacket-o-people-jan.watashi-java.ir
+    path: /
+- cipher: chacha20-ietf-poly1305
+  country: 🇷KR
+  name: 130|🇰🇷KR_655
+  password: 2155145a-b1b5-443a-8977-670f6bd10f02
+  port: 50001
+  server: bgroup.node2.s.nodelist-airport.com
+  type: ss
 - name: 141|KR(AzadNet.t.me)_001
   network: tcp
   password: your_password
@@ -1589,34 +1604,6 @@ proxies:
     path: /tg@herhero6
 - alterId: 0
   cipher: auto
-  name: '152,189,251,319,375|🔒 VM-WS-TLS 🇰🇷 KR-175.194.206.... #4'
-  network: ws
-  port: 30070
-  server: 175.194.206.158
-  servername: twdnf.ttttt.fn-node.site
-  tls: true
-  type: vmess
-  uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
-  ws-opts:
-    headers:
-      Host: tw01.fnnode.shop
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '152,189,251,305,319,375|🔒 VM-WS-NA 🇰🇷 KR-129.154.49.24... #4'
-  network: ws
-  port: '30006'
-  server: 129.154.49.247
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: bfc552e8-2607-4386-9c90-81437ac5ba23
-  ws-opts:
-    headers:
-      Host: www.python.org
-    path: /nishidashabi
-- alterId: 0
-  cipher: auto
   name: '152,189,251,319,375|🔒 VM-WS-TLS 🇰🇷 KR-175.214.157.... #4'
   network: ws
   port: 30048
@@ -1628,6 +1615,20 @@ proxies:
   ws-opts:
     headers:
       Host: hka6.fnnoda.shop
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '152,189,251,319,375|🔒 VM-WS-TLS 🇰🇷 KR-175.194.206.... #4'
+  network: ws
+  port: 30070
+  server: 175.194.206.158
+  servername: twdnf.ttttt.fn-node.site
+  tls: true
+  type: vmess
+  uuid: 87a3ec4e-9000-4ab1-b2a4-aa28f25db530
+  ws-opts:
+    headers:
+      Host: tw01.fnnode.shop
     path: /
 - alterId: 0
   cipher: auto
@@ -1645,7 +1646,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '158,408|未知_0808096 #1'
+  name: '158,284,408|未知_0808096 #1'
   network: ws
   port: '8443'
   server: 162.159.136.75
@@ -2135,6 +2136,34 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
+- client-fingerprint: chrome
+  name: '185,187,269,316,317,353,406|KR_speednode_0185 #1'
+  network: ws
+  password: CMLiu
+  port: 15443
+  server: 14.56.54.62
+  skip-cert-verify: true
+  sni: aliorg.filegear-sg.me
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: aliorg.filegear-sg.me
+    path: /?ed=2048
+- client-fingerprint: chrome
+  name: '185,187,219,269,316,317,344,353,406|KR_speednode_0195 #1'
+  network: ws
+  password: moist
+  port: 34237
+  server: 152.70.239.134
+  skip-cert-verify: true
+  sni: trojan.freenods.sbs
+  type: trojan
+  udp: false
+  ws-opts:
+    headers:
+      Host: trojan.freenods.sbs
+    path: /
 - alterId: 0
   cipher: auto
   name: '190,320|_KR_国11 #1'

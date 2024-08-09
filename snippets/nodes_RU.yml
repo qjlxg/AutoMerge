@@ -8,7 +8,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809027
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809023
   network: tcp
   port: '47555'
   server: 46.29.166.237
@@ -16,6 +16,36 @@ proxies:
   tls: false
   type: vmess
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809129
+  network: tcp
+  port: '2098'
+  server: 185.247.184.115
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809069
+  network: ''
+  port: '47555'
+  server: 46.29.166.237
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809128
+  network: tcp
+  port: '2098'
+  server: f41.maryam1500.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
 - alterId: 0
   cipher: auto
   name: 3|[freefq]🇷🇺RU-194.87.69.102-254
@@ -32,31 +62,43 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809084
-  network: ''
-  port: '47555'
-  server: 46.29.166.237
+  name: 3|[1808.ga]TG频道@mfbpn-1200-RU
+  network: ws
+  port: 80
+  server: eedp257bubu2wefy3.lovebaipiao.net
   servername: ''
   tls: false
   type: vmess
-  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
+  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
+  ws-opts:
+    headers:
+      Host: www.apple.com
+    path: /iphone
 - alterId: 0
-  cipher: auto
+  cipher: none
   name: 3|[mianfeifq/share]俄罗斯联邦_0809127
-  network: tcp
-  port: '2098'
-  server: 185.247.184.115
+  network: ws
+  port: '80'
+  server: 185.174.138.60
   servername: ''
   tls: false
   type: vmess
-  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809126
-  network: tcp
-  port: '2098'
-  server: f41.maryam1500.top
+  name: 3|[1808.ga]TG频道@mfbpn-1201-RU
+  network: ws
+  port: 54321
+  server: eedp257bubu2wefy1.lovebaipiao.net
   servername: ''
   tls: false
   type: vmess
-  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
+  ws-opts:
+    headers:
+      Host: www.apple.com
+    path: /iphone

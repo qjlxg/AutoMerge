@@ -15,7 +15,63 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]04-375-CN
+  name: 3|[1808.ga]TG频道@mfbpn-0470-CN
+  network: ws
+  port: 23618
+  server: 18.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3ca53f4c-c453-3c55-88b9-439ab6592c2c
+  ws-opts:
+    headers:
+      Host: 18.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0261-CN
+  network: ws
+  port: 23619
+  server: 19.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5c92047a-fa14-35eb-9351-6f59986d7ee4
+  ws-opts:
+    headers:
+      Host: 19.v2-ray.cyou
+    path: /
+- alterId: 0
+  cipher: none
+  name: 3|[mianfeifq/share]中国_0809207
+  network: ws
+  port: '80'
+  server: 103.184.45.10
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0476-CN
+  network: ws
+  port: 23613
+  server: 13.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3ca53f4c-c453-3c55-88b9-439ab6592c2c
+  ws-opts:
+    headers:
+      Host: 13.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0474-CN
   network: ws
   port: 23615
   server: 15.v2-ray.cyou
@@ -29,18 +85,56 @@ proxies:
     path: /
 - alterId: 2
   cipher: auto
-  name: 3|[xiyaowong/freeFQ]04-371-CN
+  name: 3|[xiyaowong/freeFQ]04-374-CN
   network: ws
-  port: 23618
-  server: 18.v2-ray.cyou
+  port: 23614
+  server: 14.v2-ray.cyou
   servername: ''
   tls: false
   type: vmess
   uuid: 3ca53f4c-c453-3c55-88b9-439ab6592c2c
   ws-opts:
     headers:
-      Host: 18.v2-ray.cyou
+      Host: 14.v2-ray.cyou
     path: /
+- alterId: 0
+  cipher: none
+  name: 3|[mianfeifq/share]中国_0809211
+  network: ws
+  port: '80'
+  server: 103.184.44.74
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0258-CN
+  network: ws
+  port: 23605
+  server: 5.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5c92047a-fa14-35eb-9351-6f59986d7ee4
+  ws-opts:
+    headers:
+      Host: 5.v2-ray.cyou
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]中国_0809209
+  network: tcp
+  port: '55218'
+  server: 103.85.25.134
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 3827a5c8-c031-46cf-848d-e890d0ead803
 - alterId: 2
   cipher: auto
   name: 3|[1808.ga]TG频道@mfbpn-0477-CN
@@ -69,31 +163,13 @@ proxies:
     headers:
       Host: 17.v2-ray.cyou
     path: /
-- alterId: 0
+- alterId: 64
   cipher: auto
-  name: 3|[mianfeifq/share]中国_0809060
-  network: ws
-  port: '80'
-  server: 103.184.45.10
+  name: 3|[xiyaowong/freeFQ]03-176-CN
+  network: tcp
+  port: 54002
+  server: 183.236.48.163
   servername: ''
   tls: false
   type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]中国_0809211
-  network: ws
-  port: '80'
-  server: 103.184.44.74
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24

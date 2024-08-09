@@ -1,169 +1,169 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '87,89|🇹🇼 台湾中转 05 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  name: '58,60|🇹🇼 台湾中转 05 #1'
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
   port: 35846
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '87,89|🇭🇰 香港中转 02 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 36858
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇼 台湾中 02
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 17010
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇬 新加坡中转 03
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 11599
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 01
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 13706
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇯🇵 日本中转 03 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 38225
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇧 英国中转 02
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 34013
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇺🇸 美国中转 01 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 26858
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇧 英国中转 03
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 13708
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 05
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 21743
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇼 台湾中转 04
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 25149
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 04
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 38649
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇸 美国中转 03
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 23631
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇼 台湾中转 03
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 14232
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇼 台湾中转 01
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 27110
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 02
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 40005
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇬 新加坡中转 02
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 26198
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇬🇧 英国中转 01 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 29172
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇭🇰 香港中转 01 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 43641
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇰 香港中转 05
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 20901
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇭🇰 香港中转 04 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  name: '58,60|🇭🇰 香港中转 04 #1'
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
   port: 11618
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 87,89|🇬 新加坡中转 01
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
-  port: 11155
+  name: 58,60|🇼 台湾中转 04
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 25149
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 87,89|🇰 香港中转 03
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  name: 58,60|🇰 香港中转 01
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 43641
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '58,60|🇹🇼 台湾中转 02 #1'
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 17010
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇸 美国中转 03
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 23631
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇧 英国中转 02
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 34013
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇸 美国中转 01
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 26858
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇰 香港中转 03
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
   port: 43042
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '87,89|🇺🇸 美国中转 02 #1'
-  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  name: '58,60|🇺🇸 美国中转 02 #1'
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
   port: 15070
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇵 日本中转 03
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 38225
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇬 新加坡中转 02
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 26198
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '58,60|🇭🇰 香港中转 05 #1'
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 20901
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇼 台湾中转 01
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 27110
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇵 日本中转 01
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 13706
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|中 03
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 14232
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇬 新加坡中转 03
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 11599
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇵 日本中转 04
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 38649
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇬 新加坡中转 01
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 11155
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇵 日本中转 02
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 40005
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇧 英国中转 01
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 29172
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇧 英国中转 03
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 13708
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '58,60|🇭🇰 香港中转 02 #1'
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 36858
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 58,60|🇵 日本中转 05
+  password: b9e3b3db-611d-4651-b080-8fb5304c29ae
+  port: 21743
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
@@ -171,7 +171,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 109,172,295,392|VMESS-未知>美国-NF解锁自制剧-YouTube-10...
+  name: 75,115,205,286|VMESS-未知>美国-NF解锁自制剧-YouTube-10...
   network: ws
   port: 2095
   server: 104.19.45.75
@@ -187,7 +187,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 109|🇨 VMESS->美国-NF加拿大-ChatGPT-TikT...
+  name: 75|🇨 VMESS->美国-NF加拿大-ChatGPT-TikT...
   network: ws
   port: 2086
   server: icook.tw
@@ -204,7 +204,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: '109,172,295,392|VMESS-未知>美国-NF解锁自制剧-ChatGPT-Ti... #4'
+  name: '75,115,205,286|VMESS-未知>美国-NF解锁自制剧-ChatGPT-Ti... #4'
   network: ws
   port: 2095
   server: 104.19.45.166
@@ -220,7 +220,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '151,227,276,351|台湾【YouTube @Play实验室】 #1'
+  name: '98,152,190,252|台湾【YouTube @Play实验室】 #1'
   network: ws
   port: 443
   server: rochinet.fullaccesstointernet.cn.eu.org
@@ -236,7 +236,7 @@ proxies:
     path: /freedom
 - alterId: 0
   cipher: auto
-  name: '151,276|mahdibland-🏁RELAY-172.67.172.7... #1'
+  name: '98,190|mahdibland-🏁RELAY-172.67.172.7... #1'
   network: ws
   port: '2095'
   server: hzdsesa.66666654.xyz
@@ -250,7 +250,7 @@ proxies:
     path: /hgcefomn
 - alterId: 0
   cipher: auto
-  name: '151,276|peasoft--1|🇺🇸_US_美国->🇸🇬_SG_新加坡... #1'
+  name: '98,190|peasoft--1|🇺🇸_US_美国->🇸🇬_SG_新加坡... #1'
   network: ws
   port: '2096'
   server: 104.18.127.153
@@ -262,22 +262,9 @@ proxies:
     headers:
       Host: x1.ylks01.eu.org
     path: /blue01
-- alterId: 0
-  cipher: auto
-  name: '155,279|[ermaozi/get_subscribe]🇷🇺_RU_俄... #1'
-  network: ws
-  port: 54321
-  server: eedp257bubu2wefy1.lovebaipiao.net
-  tls: false
-  type: vmess
-  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
-  ws-opts:
-    headers:
-      Host: www.apple.com
-    path: /iphone
 - grpc-opts:
     grpc-service-name: 443trojan
-  name: '180,219,344|RELAY-172.67.204.84-3137 #1'
+  name: '119,149,246|RELAY-172.67.204.84-3078 #1'
   network: grpc
   password: qj1Dz1CJmFQRhWr1SP80aA
   port: 443
@@ -289,7 +276,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 180|🇨🇳_CN_中国->🇫🇷_FR_法国_0@33
+  name: 119|🇨🇳_CN_中国->🇫🇷_FR_法国_0@33
   network: ws
   port: 16645
   server: yes.cnmjcn.net
@@ -301,7 +288,7 @@ proxies:
     headers:
       host: fe5be62428b65a2ce7a22d9997b4c9d0.mobgslb.tbcache.com
     path: /
-- name: 180|🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+- name: 119|🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
   network: ws
   password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
   port: 443
@@ -314,7 +301,7 @@ proxies:
     path: /argox-tr
 - alterId: 0
   cipher: auto
-  name: 180|🇺🇸_US_美国->🇬🇧_GB_英国_1_5@5
+  name: 119|🇺🇸_US_美国->🇬🇧_GB_英国_1_5@5
   network: ws
   port: 8880
   server: cdn.vds-server.ir
@@ -328,22 +315,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '180,307|United States #194'
-  network: ws
-  port: '2095'
-  server: onea.flha.ru
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 180|🇨🇳_CN_中国->🇩🇪_DE_德国_5@23
+  name: 119|🇨🇳_CN_中国->🇩🇪_DE_德国_5@23
   network: ws
   port: 46038
   server: mf838f.micloud.buzz
@@ -357,7 +329,7 @@ proxies:
     path: /zh-cn
 - alterId: 0
   cipher: auto
-  name: 180|🇺🇸_US_美国->🇬🇧_GB_英国_2_5@26
+  name: 119|🇺🇸_US_美国->🇬🇧_GB_英国_2_5@26
   network: ws
   port: 2086
   server: mizban.arzonhost.ir
@@ -371,7 +343,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '182,309|🇨🇳 CF > 中国China Telecom #156'
+  name: '121,216|🇨🇳 CF > 中国China Telecom #156'
   network: ws
   port: '443'
   server: cf-lt.sharecentre.online
@@ -384,7 +356,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: '182,309|🇺🇸 中国 -> 美国CF #28'
+  name: '121,216|🇺🇸 中国 -> 美国CF #28'
   network: ws
   port: '443'
   server: cf-lt.sharecentre.online
@@ -397,7 +369,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: '182,309|🇨🇳 CF > 中国China Telecom #138'
+  name: '121,216|🇨🇳 CF > 中国China Telecom #138'
   network: ws
   port: '443'
   server: cf-lt.sharecentre.online
@@ -410,7 +382,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: 182,309,405|RELAY-162.159.129.138-160
+  name: 121,216,297|RELAY-162.159.129.138-160
   network: ws
   port: 443
   server: zfc.windowsupdate1.com
@@ -425,7 +397,7 @@ proxies:
     path: /yfjc/us1?ed=2048
 - alterId: 0
   cipher: auto
-  name: '182,309|🇺🇸 中国 -> 美国CF #35'
+  name: '121,216|🇺🇸 中国 -> 美国CF #35'
   network: ws
   port: '443'
   server: cf-lt.sharecentre.online
@@ -438,7 +410,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: '182,309|🇺🇸 中国 -> 美国CF #26'
+  name: '121,216|🇺🇸 中国 -> 美国CF #26'
   network: ws
   port: '443'
   server: v2ray.online
@@ -451,7 +423,7 @@ proxies:
     path: /speedtest
 - alterId: 0
   cipher: auto
-  name: '182,309|🇺🇸 中国 -> 美国CF #27'
+  name: '121,216|🇺🇸 中国 -> 美国CF #27'
   network: ws
   port: '443'
   server: v2ray.online
@@ -464,7 +436,7 @@ proxies:
     path: /speedtest
 - alterId: 0
   cipher: auto
-  name: '190,320|🇵_US_美国->🇵_JP_日本13 #1'
+  name: '128,226|🇵_US_美国->🇵_JP_日本13 #1'
   network: ws
   port: 443
   server: cf-yd-hkg-dns.sharecentre.online
@@ -477,7 +449,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: '190,320|🇬_US_美国->🇬_SG_新加坡17 #1'
+  name: '128,226|🇬_US_美国->🇬_SG_新加坡17 #1'
   network: ws
   port: 8880
   server: 172.64.163.172
@@ -489,7 +461,7 @@ proxies:
     path: /hkaa0
 - alterId: 0
   cipher: auto
-  name: '190,320|🇺🇸_AM_美亚->🇫🇷_FR_法国25 #1'
+  name: '128,226|🇺🇸_AM_美亚->🇫🇷_FR_法国25 #1'
   network: ws
   port: 443
   server: 185.162.228.229
@@ -502,7 +474,7 @@ proxies:
     path: /IYKLD53M
 - alterId: 0
   cipher: auto
-  name: '190,320|🇷_BZ_伯利兹->🇷_FR_法国26 #1'
+  name: '128,226|🇷_BZ_伯利兹->🇷_FR_法国26 #1'
   network: ws
   port: 443
   server: 203.30.191.193
@@ -515,7 +487,7 @@ proxies:
     path: /A2DJOPFT
 - alterId: 0
   cipher: auto
-  name: '190,320|🇸_US_美国->_KZ_斯30 #1'
+  name: '128,226|🇸_US_美国->_KZ_斯30 #1'
   network: ws
   port: 2086
   server: www.dynadot.com
@@ -527,7 +499,7 @@ proxies:
     path: /aries
 - alterId: 0
   cipher: auto
-  name: '190,320|🇸_US_美国->🇫🇷_FR_法国35 #1'
+  name: '128,226|🇸_US_美国->🇫🇷_FR_法国35 #1'
   network: ws
   port: 443
   server: 162.159.135.42
@@ -540,7 +512,7 @@ proxies:
     path: /IYKLD53M
 - alterId: 0
   cipher: auto
-  name: '190,320|🇵_US_美国->🇯🇵_JP_日本37 #1'
+  name: '128,226|🇵_US_美国->🇯🇵_JP_日本37 #1'
   network: ws
   port: 443
   server: dnss.sylu.cyou
@@ -553,7 +525,7 @@ proxies:
     path: /Falling42awsjpyanode
 - alterId: 0
   cipher: auto
-  name: '190,320|🇸_US_美国->🇺_LU_38 #1'
+  name: '128,226|🇸_US_美国->🇺_LU_38 #1'
   network: ws
   port: 443
   server: hohm.microsoft.com
@@ -566,7 +538,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: '190,320|🇺🇸_US_美国->🇱🇺_LU_卢森堡40 #1'
+  name: '128,226|🇺🇸_US_美国->🇱🇺_LU_卢森堡40 #1'
   network: ws
   port: 443
   server: 104.19.48.92
@@ -579,7 +551,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: '190,320|🇺🇸_US_美国->🇫🇷_FR_法国43 #1'
+  name: '128,226|🇺🇸_US_美国->🇫🇷_FR_法国43 #1'
   network: ws
   port: 443
   server: powerservice.com
@@ -590,9 +562,105 @@ proxies:
     headers:
       host: uk2.v2rayserv.com
     path: /sshocean
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 389
+
+    '
+  network: ws
+  port: 16928
+  server: vip3.niuniupremium.xyz
+  tls: false
+  type: vmess
+  uuid: 2ab54438-8af9-3711-bf1a-676fcc144586
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 322
+
+    '
+  network: ws
+  port: 2052
+  server: 104.18.37.248
+  tls: false
+  type: vmess
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 344
+
+    '
+  network: ws
+  port: 8080
+  server: 104.19.47.16
+  tls: false
+  type: vmess
+  uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 348
+
+    '
+  network: ws
+  port: 2086
+  server: 104.19.47.65
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 362
+
+    '
+  network: ws
+  port: 16928
+  server: 120.232.240.56
+  tls: false
+  type: vmess
+  uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973
+  ws-opts: {}
+- alterId: 64
+  cipher: auto
+  name: '130,131,172,274,295|@Vip_Security join us - 378
+
+    '
+  network: tcp
+  port: 54002
+  server: 183.240.235.162
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 398
+
+    '
+  network: ws
+  port: 2052
+  server: p3.v2raybrasil.cloud
+  tls: false
+  type: vmess
+  uuid: 60bcbd52-0c88-4da3-aee2-cc1f9d5ca224
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: '130,131,295|@Vip_Security join us - 367
+
+    '
+  network: ws
+  port: 2086
+  server: 172.64.175.213
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts: {}
 - alterId: 1
   cipher: auto
-  name: 197|🇨🇳 A+中转|台湾原生01 |2.0x
+  name: 135|🇨🇳 A+中转|台湾原生01 |2.0x
   network: ws
   port: 10007
   server: gzyd.qiutan.pw
@@ -604,7 +672,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇨🇳 A+中转|台湾原生02|2.0x
+  name: 135|🇨🇳 A+中转|台湾原生02|2.0x
   network: ws
   port: 60004
   server: fsyd.qiutan.pw
@@ -616,7 +684,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇨🇳 A+中转|台湾原生03|2.0x
+  name: 135|🇨🇳 A+中转|台湾原生03|2.0x
   network: ws
   port: 60002
   server: fsyd.qiutan.pw
@@ -628,7 +696,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇨🇳 A+中转|台湾原生04|2.0x
+  name: 135|🇨🇳 A+中转|台湾原生04|2.0x
   network: ws
   port: 59993
   server: shantouyd.2288.org
@@ -640,7 +708,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇸🇬 A+中转|新加坡01 |2.0x
+  name: 135|🇸🇬 A+中转|新加坡01 |2.0x
   network: ws
   port: 10000
   server: gzyd.qiutan.pw
@@ -652,7 +720,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇸🇬 A+中转|新加坡02 |2.0x
+  name: 135|🇸🇬 A+中转|新加坡02 |2.0x
   network: ws
   port: 60003
   server: fsyd.qiutan.pw
@@ -664,7 +732,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇸🇬 A+中转|新加坡03 |2.0x
+  name: 135|🇸🇬 A+中转|新加坡03 |2.0x
   network: ws
   port: 60005
   server: fsyd.qiutan.pw
@@ -676,7 +744,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇯🇵 A+中转|日本01 |1.5x
+  name: 135|🇯🇵 A+中转|日本01 |1.5x
   network: ws
   port: 60004
   server: ltzz.qiutan.pw
@@ -688,7 +756,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇯🇵 A+中转|日本02 |1.5x
+  name: 135|🇯🇵 A+中转|日本02 |1.5x
   network: ws
   port: 10014
   server: gzyd.qiutan.pw
@@ -700,7 +768,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇯🇵 A+中转|日本03 |1.5x
+  name: 135|🇯🇵 A+中转|日本03 |1.5x
   network: ws
   port: 60005
   server: ltzz.qiutan.pw
@@ -712,7 +780,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇰🇷 A+中转|韩国01 |1.5x
+  name: 135|🇰🇷 A+中转|韩国01 |1.5x
   network: ws
   port: 60007
   server: ltzz.qiutan.pw
@@ -724,7 +792,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇰🇷 A+中转|韩国02 |1.5x
+  name: 135|🇰🇷 A+中转|韩国02 |1.5x
   network: ws
   port: 60008
   server: ltzz.qiutan.pw
@@ -736,7 +804,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇰🇷 A+中转|韩国03 |1.5x
+  name: 135|🇰🇷 A+中转|韩国03 |1.5x
   network: ws
   port: 60009
   server: ltzz.qiutan.pw
@@ -748,7 +816,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港01 |2.0x
+  name: 135|🇭🇰 A+中转|香港01 |2.0x
   network: ws
   port: 60000
   server: fsyd.qiutan.pw
@@ -760,7 +828,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港02 |2.0x
+  name: 135|🇭🇰 A+中转|香港02 |2.0x
   network: ws
   port: 59994
   server: shantouyd.2288.org
@@ -772,7 +840,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港03 |2.0x
+  name: 135|🇭🇰 A+中转|香港03 |2.0x
   network: ws
   port: 10013
   server: gzyd.qiutan.pw
@@ -784,7 +852,7 @@ proxies:
   ws-path: /v2ray
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港04 |2.0x
+  name: 135|🇭🇰 A+中转|香港04 |2.0x
   network: ws
   port: 60001
   server: fsyd.qiutan.pw
@@ -796,7 +864,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港原生06|2.0x
+  name: 135|🇭🇰 A+中转|香港原生06|2.0x
   network: ws
   port: 60008
   server: fsyd.qiutan.pw
@@ -808,7 +876,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港原生07|2.0x
+  name: 135|🇭🇰 A+中转|香港原生07|2.0x
   network: ws
   port: 60009
   server: fsyd.qiutan.pw
@@ -820,7 +888,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇭🇰 A+中转|香港原生08|2.0x
+  name: 135|🇭🇰 A+中转|香港原生08|2.0x
   network: ws
   port: 60010
   server: fsyd.qiutan.pw
@@ -832,7 +900,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇷🇺 B+中转|俄罗斯01|1.0x
+  name: 135|🇷🇺 B+中转|俄罗斯01|1.0x
   network: ws
   port: 60011
   server: ltzz.qiutan.pw
@@ -844,7 +912,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇷🇺 B+中转|俄罗斯02|1.0x
+  name: 135|🇷🇺 B+中转|俄罗斯02|1.0x
   network: ws
   port: 60012
   server: ltzz.qiutan.pw
@@ -856,7 +924,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇺🇸 B+中转|美国原生01 |1.0x
+  name: 135|🇺🇸 B+中转|美国原生01 |1.0x
   network: ws
   port: 60012
   server: fsyd.qiutan.pw
@@ -868,7 +936,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇺🇸 B+中转|美国原生02 |1.0x
+  name: 135|🇺🇸 B+中转|美国原生02 |1.0x
   network: ws
   port: 60011
   server: fsyd.qiutan.pw
@@ -880,7 +948,7 @@ proxies:
   ws-path: /videos
 - alterId: 1
   cipher: auto
-  name: 197|🇺🇸 B+中转|美国原生03|1.0x
+  name: 135|🇺🇸 B+中转|美国原生03|1.0x
   network: ws
   port: 60013
   server: fsyd.qiutan.pw
@@ -893,7 +961,7 @@ proxies:
 - alterId: 0
   cipher: auto
   country: mattkaydiary.com|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别(可能是中转节点)_3
-  name: '237,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #12'
+  name: '160,247,261|mattkaydiary.com|中国香港/中国台湾(CN)... #12'
   network: ws
   port: 26104
   server: V104.bgpnet.top
@@ -908,7 +976,7 @@ proxies:
 - alterId: 0
   cipher: auto
   country: mattkaydiary.com|中国香港/中国台湾(CN)China/Beijing/小东的程序未能精准识别(可能是中转节点)_17
-  name: '237,342,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #14'
+  name: '160,244,247,261|mattkaydiary.com|中国香港/中国台湾(CN)... #14'
   network: tcp
   port: 47389
   server: shcu.forgebukkit.com
@@ -923,7 +991,7 @@ proxies:
 - alterId: 0
   cipher: auto
   country: mattkaydiary.com|中国香港/中国台湾(CN)China/Beijing/小东的程序未能精准识别(可能是中转节点)_20
-  name: '237,342,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #15'
+  name: '160,244,247,261|mattkaydiary.com|中国香港/中国台湾(CN)... #15'
   network: tcp
   port: 26309
   server: V309.bgpnet.top
@@ -938,7 +1006,7 @@ proxies:
 - alterId: 0
   cipher: auto
   country: mattkaydiary.com|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别(可能是中转节点)_30
-  name: '237,342,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #17'
+  name: '160,244,247,261|mattkaydiary.com|中国香港/中国台湾(CN)... #17'
   network: tcp
   port: 26203
   server: V203.bgpnet.top
@@ -950,7 +1018,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 301|🇺🇸_US_美国->🇿🇦_ZA_南非_0@21
+  name: 209|🇺🇸_US_美国->🇿🇦_ZA_南非_0@21
   network: ws
   port: 80
   server: yhnsb3.shabijichang.com
@@ -964,7 +1032,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 312|法国(yudou66.com 玉豆免费节点)
+  name: 218|法国(yudou66.com 玉豆免费节点)
   network: tcp
   port: '58812'
   server: 51.195.35.149
@@ -974,7 +1042,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 64
   cipher: auto
-  name: 342|中转 7
+  name: 244|中转 7
   network: tcp
   port: '53300'
   server: 112.29.94.22
@@ -983,7 +1051,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 342|中转 264
+  name: 244|中转 264
   network: ws
   port: '443'
   server: 103.184.45.209
@@ -996,7 +1064,7 @@ proxies:
     path: /sdffsfdf
 - alterId: 0
   cipher: auto
-  name: 342|中转 621
+  name: 244|中转 621
   network: ws
   port: '40041'
   server: 223.111.183.122
@@ -1009,7 +1077,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 342|中转 635
+  name: 244|中转 635
   network: tcp
   port: '50002'
   server: 47.104.237.32
@@ -1018,7 +1086,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 345|🇨🇳_CN_中国->🇺🇸_US_美国_1
+  name: 247|🇨🇳_CN_中国->🇺🇸_US_美国_1
   network: ws
   port: 16928
   server: vip3.niuniupremium.xyz
@@ -1031,7 +1099,7 @@ proxies:
     path: /v2ray
 - alterId: 0
   cipher: auto
-  name: 350|_SG_->🇺🇸_US_美国
+  name: 251|_SG_->🇺🇸_US_美国
   network: ws
   port: 80
   server: 8.222.198.105
@@ -1043,7 +1111,7 @@ proxies:
     headers:
       host: warp.chigua.tk
     path: /
-- name: 350|_CN_国->🇺_UA_
+- name: 251|_CN_国->🇺_UA_
   network: tcp
   password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
   port: 10845
@@ -1052,7 +1120,7 @@ proxies:
   sni: alibaba-node.cn
   type: trojan
   udp: true
-- name: 350|🇳_CN_中国->🇺_US_美国_1
+- name: 251|🇳_CN_中国->🇺_US_美国_1
   network: tcp
   password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
   port: 10837
@@ -1061,7 +1129,7 @@ proxies:
   sni: alibaba-node.cn
   type: trojan
   udp: true
-- name: 350|🇳_CN_中国->🇺🇸_US_美国_2
+- name: 251|🇳_CN_中国->🇺🇸_US_美国_2
   network: tcp
   password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
   port: 10838
@@ -1070,7 +1138,7 @@ proxies:
   sni: alibaba-node.cn
   type: trojan
   udp: true
-- name: 350|🇨🇳_CN_中国->🇺_US_美国_3
+- name: 251|🇨🇳_CN_中国->🇺_US_美国_3
   network: tcp
   password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
   port: 10850
@@ -1081,7 +1149,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 396|🇺🇸_US_美国->🇬🇧_GB_英国_34
+  name: 288|🇺🇸_US_美国->🇬🇧_GB_英国_34
   network: ws
   port: '443'
   server: 172.67.51.152
@@ -1095,7 +1163,7 @@ proxies:
     path: /ikun
 - alterId: 0
   cipher: auto
-  name: 396|🇺🇸_US_美国->🇻🇳_VN_越南_2由快嘴科技提供：kk...
+  name: 288|🇺🇸_US_美国->🇻🇳_VN_越南_2由快嘴科技提供：kk...
   network: ws
   port: '2052'
   server: Tokyo.mfa.ee
@@ -1109,7 +1177,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 396|🇺🇸_US_美国->🇨🇱_CL_智利_由快嘴科技提供：kkz...
+  name: 288|🇺🇸_US_美国->🇨🇱_CL_智利_由快嘴科技提供：kkz...
   network: ws
   port: '80'
   server: 172.67.149.81
@@ -1123,7 +1191,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 396|🇺🇸_US_美国->🇮🇹_IT_意大利_39
+  name: 288|🇺🇸_US_美国->🇮🇹_IT_意大利_39
   network: ws
   port: '80'
   server: 172.67.91.164
@@ -1137,7 +1205,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: 396|🇨🇳_CN_中国->🇺🇸_US_美国_2_36
+  name: 288|🇨🇳_CN_中国->🇺🇸_US_美国_2_36
   network: tcp
   port: '54073'
   server: 36.141.40.34
@@ -1147,7 +1215,7 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
-  name: 396|🇺🇸_US_美国->🇨🇳_CN_中国_2_23
+  name: 288|🇺🇸_US_美国->🇨🇳_CN_中国_2_23
   network: ws
   port: '80'
   server: 172.67.211.253
@@ -1161,7 +1229,7 @@ proxies:
     path: /shirker
 - alterId: 0
   cipher: auto
-  name: 396|🇺🇸_US_美国->🇨🇳_CN_中国_由快嘴科技提供：kkz...
+  name: 288|🇺🇸_US_美国->🇨🇳_CN_中国_由快嘴科技提供：kkz...
   network: ws
   port: '80'
   server: 172.67.149.100
@@ -1175,7 +1243,7 @@ proxies:
     path: /shirker
 - alterId: 4
   cipher: auto
-  name: 404|🇯🇵 美国-vmess-jparm.fineyoo.cf44...
+  name: 296|🇯🇵 美国-vmess-jparm.fineyoo.cf44...
   network: ws
   port: 443
   server: jparm.fineyoo.cf
@@ -1188,7 +1256,7 @@ proxies:
     path: /123
 - alterId: 4
   cipher: auto
-  name: 404|🇯🇵 美国-vmess-jparm.fineyoo.ml44...
+  name: 296|🇯🇵 美国-vmess-jparm.fineyoo.ml44...
   network: ws
   port: 443
   server: jparm.fineyoo.ml
@@ -1201,7 +1269,7 @@ proxies:
     path: /123
 - alterId: 4
   cipher: auto
-  name: 404|🇯🇵 美国-vmess-jpamd.fineyoo.ml44...
+  name: 296|🇯🇵 美国-vmess-jpamd.fineyoo.ml44...
   network: ws
   port: 443
   server: jpamd.fineyoo.ml
@@ -1214,7 +1282,7 @@ proxies:
     path: /123
 - alterId: 4
   cipher: auto
-  name: '404|🇰🇷 美国-vmess-amdkr.ptuu.ga443-被... #1'
+  name: '296|🇰🇷 美国-vmess-amdkr.ptuu.ga443-被... #1'
   network: ws
   port: 443
   server: amdkr.ptuu.ga
@@ -1227,7 +1295,7 @@ proxies:
     path: /408
 - alterId: 4
   cipher: auto
-  name: '404|🇰🇷 美国-vmess-amdkr.ptuu.ml443-被... #1'
+  name: '296|🇰🇷 美国-vmess-amdkr.ptuu.ml443-被... #1'
   network: ws
   port: 443
   server: amdkr.ptuu.ml
@@ -1239,20 +1307,20 @@ proxies:
       Host: amdkr.ptuu.ml
     path: /987
 - cipher: chacha20-ietf-poly1305
-  name: 404|🇯🇵 日本-ss-193.38.139.203807-被墙-...
+  name: 296|🇯🇵 日本-ss-193.38.139.203807-被墙-...
   password: G!yBwPWH3Vao
   port: 807
   server: 193.38.139.203
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 404|🇺🇸 美国-ss-mf01.xmss.vip18888-被墙...
+  name: 296|🇺🇸 美国-ss-mf01.xmss.vip18888-被墙...
   password: 35b0f578-8961-4a2b-99a1-db9555e522e4
   port: 18888
   server: mf01.xmss.vip
   type: ss
 - alterId: 0
   cipher: auto
-  name: 405|_US_美国->🇳🇱_NL_荷兰
+  name: 297|_US_美国->🇳🇱_NL_荷兰
   network: ws
   port: 443
   server: zfc.windowsupdate1.com
@@ -1266,7 +1334,7 @@ proxies:
       Host: nl2.yfjc.sbs
     path: /yfjc/nl2?ed=2048
 - cipher: chacha20-ietf-poly1305
-  name: 405|_CN_中国->🇸🇬_SG_新加坡
+  name: 297|_CN_中国->🇸🇬_SG_新加坡
   password: 72f0fd15-fbb7-411f-8b33-e59a742300db
   port: 24962
   server: free.node.kk-proxy.pro
@@ -1274,7 +1342,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 405|_US_美国->🇸🇬_SG_新加坡
+  name: 297|_US_美国->🇸🇬_SG_新加坡
   network: ws
   port: 80
   server: cfyd.starsea.vip
@@ -1289,7 +1357,7 @@ proxies:
     path: /sshkit/1736960111/64ee26041efcc/
 - alterId: 0
   cipher: auto
-  name: 405|18|🇺🇸_US_美国->🇮🇳_IN_印度_2_42
+  name: 297|18|🇺🇸_US_美国->🇮🇳_IN_印度_2_42
   network: ws
   port: 80
   server: 172.67.146.22
@@ -1304,7 +1372,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 405|_FR_法国->🇨🇳_CN_中国
+  name: 297|_FR_法国->🇨🇳_CN_中国
   network: ws
   port: 80
   server: 173.245.49.236

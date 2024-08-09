@@ -1,24 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: 2,4|🇺 DX-SS|1x
-  password: bd9bbcfc-bf36-4f25-a4f4-93f1f137f0b7
+  password: 38200bd2-b804-4258-ac20-0bf1f095ddaa
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808011
-  network: ''
-  port: '47555'
-  server: 46.29.166.237
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808030
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809027
   network: tcp
   port: '47555'
   server: 46.29.166.237
@@ -42,7 +32,17 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808128
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809084
+  network: ''
+  port: '47555'
+  server: 46.29.166.237
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809127
   network: tcp
   port: '2098'
   server: 185.247.184.115
@@ -52,21 +52,7 @@ proxies:
   uuid: 83876222-64a4-4912-aa18-b7d9d34959de
 - alterId: 0
   cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-1219-RELAY
-  network: ws
-  port: 80
-  server: 185.174.138.60
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0808126
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809126
   network: tcp
   port: '2098'
   server: f41.maryam1500.top

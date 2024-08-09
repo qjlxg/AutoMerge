@@ -1,35 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808003
-  network: ws
-  port: '443'
-  server: 185.146.173.59
-  servername: obdii.cfd
-  tls: true
-  type: vmess
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
-  ws-opts:
-    headers:
-      Host: obdii.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808050
-  network: ws
-  port: '443'
-  server: Back.MsV2ray.online
-  servername: jahfkjha.cfd
-  tls: true
-  type: vmess
-  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
-  ws-opts:
-    headers:
-      Host: jahfkjha.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]瑞典_0808030
+  name: 3|[mianfeifq/share]瑞典_0809032
   network: ws
   port: '2095'
   server: 185.146.173.185
@@ -42,8 +14,22 @@ proxies:
       Host: wWW.speEDTesT.Net.fTP.deBIAN.Org.DAsH.cLoUdFlare.COmwwW.DIGIkaLa.Ir.ZEDpIng7.ShOP
     path: /Ftp.Debian.Org?ed=2560
 - alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]瑞典_0809026
+  network: ws
+  port: '443'
+  server: 185.146.173.158
+  servername: jahfkjha.cfd
+  tls: true
+  type: vmess
+  uuid: 950db6aa-4926-4616-816e-ec0312dcb87b
+  ws-opts:
+    headers:
+      Host: jahfkjha.cfd
+    path: /linkws
+- alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]瑞典_0808055
+  name: 3|[mianfeifq/share]瑞典_0809054
   network: ws
   port: '443'
   server: 185.146.173.94
@@ -56,30 +42,16 @@ proxies:
       Host: no2.vmess.site
     path: /vmess
 - alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]瑞典_0808001
+  cipher: auto
+  name: '3|[freefq]🏁RELAY-185.146.173.92-... #1'
   network: ws
-  port: '80'
+  port: 2052
   server: 185.146.173.92
   servername: ''
   tls: false
   type: vmess
-  uuid: 8639e52b-a0ce-5d68-b465-b594881feb78
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
   ws-opts:
     headers:
-      Host: De1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]瑞典_0808049
-  network: ws
-  port: '80'
-  server: 185.146.173.49
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: Ch1.vmess.site.
+      Host: Ch2.vmess.site.
     path: /vmess

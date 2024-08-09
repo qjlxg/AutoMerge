@@ -1,68 +1,7 @@
 proxies:
-- cipher: aes-256-cfb
-  country: TW
-  name: 1,79|TW_780
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 223.165.4.173
-  type: ss
-- cipher: aes-256-gcm
-  country: ' TW'
-  name: 1,2,3,8,75|🇨 Relay_ TW-🇹🇼TW_724
-  password: 30b5e6b4-4841-4d80-b16d-4623253733da
-  port: 81
-  server: tw.huy.ovh
-  type: ss
-- cipher: rc4-md5
-  country: TW
-  name: 1|Relay_TW-TW_1193
-  obfs: tls1.2_ticket_auth
-  obfs-param: 11.au.download.windowsupdate.com
-  password: GKSLCJRw163W
-  port: 995
-  protocol: auth_aes128_md5
-  protocol-param: 20030:xBnnSWhmpbzT
-  server: tw1.mydarkcloud.info
-  type: ssr
-- alterId: 64
-  cipher: auto
-  country: TW
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Pool_TW_1194
-  network: ws
-  port: 30001
-  server: 61.220.129.190
-  servername: www.60548529.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      HOST: www.60548529.xyz
-    path: /path/003500111307
 - alterId: 0
   cipher: auto
-  country: ' ZZ'
-  h2-opts: {}
-  http-opts: {}
-  name: '1,79,103,120,196,214,215|Taiwan #8'
-  network: ws
-  port: '12945'
-  server: 154.40.60.172
-  servername: 55.lwdh.us
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    headers:
-      Host: ''
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '33,248|🇹TW-61.222.202.140-045 #1'
+  name: '32,78,258|🇹TW-61.222.202.140-045 #1'
   network: ws
   port: 33792
   server: 61.222.202.140
@@ -92,7 +31,7 @@ proxies:
   http-opts:
     path:
     - /
-  name: 43,142,148,149,195,246,249|1.47|TWyoutube资源分享师156
+  name: 43,149,155,156,205,256,259|1.47|TWyoutube资源分享师156
   network: http
   port: '20715'
   server: 45.121.51.103
@@ -106,7 +45,7 @@ proxies:
   ws-path: /
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,181,246,290|这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使... #165'
+  name: '43,149,155,156,188,256,301|这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使... #165'
   network: ws
   port: '80'
   server: 165.154.246.71
@@ -121,7 +60,7 @@ proxies:
     path: ?ed=2048
 - alterId: 1
   cipher: auto
-  name: '43,142,148,149,246|TW-1.161.186.146-2469 #1'
+  name: '43,149,155,156,256|TW-1.161.186.146-2469 #1'
   network: ws
   port: 64443
   server: 1.161.186.146
@@ -134,7 +73,7 @@ proxies:
     path: /clientarea
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,246|🇼TW-114.42.198.166-2545 #1'
+  name: '43,149,155,156,256|🇼TW-114.42.198.166-2545 #1'
   network: ws
   port: 80
   server: tw1g.jeidian.xyz
@@ -149,7 +88,7 @@ proxies:
     path: /mugua
 - alterId: 0
   cipher: auto
-  name: '43,121,142,148,149,216,246|🇼TW-114.43.163.209-2675 #1'
+  name: '43,128,149,155,156,226,256|🇼TW-114.43.163.209-2675 #1'
   network: ws
   port: 45215
   server: 012.AP.POP.node-for-smallairport.win
@@ -164,7 +103,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,246|🇹🇼TW-36.227.192.33-2833 #1'
+  name: '43,149,155,156,256|🇹🇼TW-36.227.192.33-2833 #1'
   network: ws
   port: 2053
   server: emea-ru-mow-01-edgecast.qdns.live
@@ -180,7 +119,7 @@ proxies:
 - alterId: 0
   cipher: auto
   country: mattkaydiary.com|中国台湾(TW)Taiwan/CityOffice_22
-  name: '43,142,148,149,160,244,246,247,261|mattkaydiary.com|中国台湾(TW)Taiwa... #5'
+  name: '43,149,155,156,167,254,256,257,271|mattkaydiary.com|中国台湾(TW)Taiwa... #5'
   network: ws
   port: 33792
   server: 61.222.202.140
@@ -195,7 +134,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '43,103,142,148,149,196,246|🇼TW-211.72.35.110-5315 #1'
+  name: '43,110,149,155,156,206,256|🇼TW-211.72.35.110-5315 #1'
   network: ws
   port: 443
   server: 211.72.35.110
@@ -210,7 +149,7 @@ proxies:
     path: /nishikata
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,246|🇹🇼TW-211.72.35.110-5316 #1'
+  name: '43,149,155,156,256|🇹🇼TW-211.72.35.110-5316 #1'
   network: ws
   port: 443
   server: 211.72.35.110
@@ -225,7 +164,7 @@ proxies:
     path: /nishikata
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,246|🇹🇼TW-211.72.35.110-5317 #1'
+  name: '43,149,155,156,256|🇹🇼TW-211.72.35.110-5317 #1'
   network: ws
   port: 443
   server: 211.72.35.110
@@ -240,7 +179,7 @@ proxies:
     path: /nishikata
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,246|🇹🇼TW-211.72.35.110-5318 #1'
+  name: '43,149,155,156,256|🇹🇼TW-211.72.35.110-5318 #1'
   network: ws
   port: 443
   server: 211.72.35.110
@@ -255,7 +194,7 @@ proxies:
     path: /nishikata3
 - alterId: 0
   cipher: auto
-  name: '43,142,148,149,246|🇹🇼TW-211.72.35.110-5319 #1'
+  name: '43,149,155,156,256|🇹🇼TW-211.72.35.110-5319 #1'
   network: ws
   port: 443
   server: 211.72.35.110
@@ -270,7 +209,7 @@ proxies:
     path: /nishikata3
 - alterId: 0
   cipher: auto
-  name: '43,102,103,142,148,149,194,196,246|🇼TW-220.130.80.179-5658 #1'
+  name: '43,109,110,149,155,156,204,206,256|🇼TW-220.130.80.179-5658 #1'
   network: ws
   port: 443
   server: 220.130.80.179
@@ -285,7 +224,7 @@ proxies:
     path: /howdy
 - alterId: 0
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇼TW-165.154.226.45-5660 #1'
+  name: '43,109,149,155,156,204,256|🇼TW-165.154.226.45-5660 #1'
   network: ws
   port: 80
   server: 165.154.226.45
@@ -298,7 +237,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇹🇼TW-211.72.35.110-5661 #1'
+  name: '43,109,149,155,156,204,256|🇹🇼TW-211.72.35.110-5661 #1'
   network: ws
   port: 443
   server: 211.72.35.110
@@ -313,7 +252,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇹🇼TW-165.154.253.35-5663 #1'
+  name: '43,109,149,155,156,204,256|🇹🇼TW-165.154.253.35-5663 #1'
   network: ws
   port: 443
   server: tw-1.qwqjsq.top
@@ -328,7 +267,7 @@ proxies:
     path: /
 - alterId: 64
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇹🇼TW-61.216.85.68-5668 #1'
+  name: '43,109,149,155,156,204,256|🇹🇼TW-61.216.85.68-5668 #1'
   network: ws
   port: 443
   server: 61.216.85.68
@@ -343,7 +282,7 @@ proxies:
     path: /path/243535322906
 - alterId: 2
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇼TW-114.37.209.177-5669 #1'
+  name: '43,109,149,155,156,204,256|🇼TW-114.37.209.177-5669 #1'
   network: ws
   port: 10001
   server: ddns2.airtcp.vip
@@ -358,7 +297,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇹🇼TW-165.154.246.107-5671 #1'
+  name: '43,109,149,155,156,204,256|🇹🇼TW-165.154.246.107-5671 #1'
   network: ws
   port: 80
   server: 165.154.246.107
@@ -373,7 +312,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇹🇼TW-61.224.103.67-5678 #1'
+  name: '43,109,149,155,156,204,256|🇹🇼TW-61.224.103.67-5678 #1'
   network: ws
   port: 11463
   server: tw4.594888.xyz
@@ -388,7 +327,7 @@ proxies:
     path: /v2ray
 - alterId: 0
   cipher: auto
-  name: '43,102,142,148,149,194,246|🇹🇼TW-61.224.68.128-5679 #1'
+  name: '43,109,149,155,156,204,256|🇹🇼TW-61.224.68.128-5679 #1'
   network: ws
   port: 25551
   server: tw3.594888.xyz
@@ -556,7 +495,7 @@ proxies:
   udp: true
 - alterId: 64
   cipher: auto
-  name: 59,104,197,214|%f0%9f%87%b9%f0%9f%87%bc%20TW%...
+  name: 59,111,207,224|%f0%9f%87%b9%f0%9f%87%bc%20TW%...
   network: ws
   port: 30001
   server: 61.220.129.190
@@ -595,7 +534,7 @@ proxies:
   ws-opts:
     path: /?ed=2048&Telegram🇨🇳 @WangCai2
 - client-fingerprint: chrome
-  name: '75,79,123,184,222,253,298,302|TW_speednode_0276 #2'
+  name: '75,130,191,232,263,310,323|TW_speednode_0276 #2'
   network: ws
   password: CMLiu
   port: 443
@@ -608,6 +547,12 @@ proxies:
     headers:
       Host: aliorg.filegear-sg.me
     path: /?ed=2048
+- cipher: aes-256-gcm
+  name: 75|🇨 Relay_ TW-🇹🇼TW_724
+  password: 30b5e6b4-4841-4d80-b16d-4623253733da
+  port: 81
+  server: tw.huy.ovh
+  type: ss
 - alterId: 0
   cipher: auto
   name: 75|🇳 > TW|Ns|0720|TG@FProxies| 2
@@ -632,18 +577,9 @@ proxies:
   uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d
   ws-opts:
     path: /
-- country: TW
-  name: 79|Relay_TW-TW_781
-  network: ws
-  password: auto
-  port: 443
-  server: 35.201.203.106
-  sni: vip.123789.pp.ua
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
-  name: '98,190|peasoft-9,13,15|🇹🇼_TW_台湾 #1'
+  name: '105,200|peasoft-9,13,15|🇹🇼_TW_台湾 #1'
   network: tcp
   port: '445'
   server: tw99-hinet.mynodes001.one
@@ -653,7 +589,7 @@ proxies:
   uuid: 5f04de84-6b7e-3564-82c2-d2a998002629
 - alterId: 0
   cipher: auto
-  name: '99,127,170,225,272|🔒 VM-TCP-NA 🇹🇼 TW-61.224.96.21... #4'
+  name: '106,134,177,235,282|🔒 VM-TCP-NA 🇹🇼 TW-61.224.96.21... #4'
   network: tcp
   port: '63097'
   server: 61.224.96.218
@@ -663,7 +599,7 @@ proxies:
   uuid: e8e6f618-842c-33d4-9a9f-7827614a6bf9
 - alterId: 64
   cipher: auto
-  name: '103,196|🇹🇼TW-103.177.33.22-1304 #1'
+  name: '110,206|🇹🇼TW-103.177.33.22-1304 #1'
   network: ws
   port: '30001'
   server: 103.177.33.22
@@ -677,7 +613,7 @@ proxies:
     path: /path/191019072927
 - alterId: 0
   cipher: auto
-  name: '103,196|v1-台湾02|1x|v #1'
+  name: '110,206|v1-台湾02|1x|v #1'
   network: ws
   port: '6628'
   server: v1.cdn.ddnsjifeng.xyz
@@ -691,7 +627,7 @@ proxies:
     path: /8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8
 - alterId: 0
   cipher: auto
-  name: 107|台湾_121320002
+  name: 114|台湾_121320002
   network: ''
   port: '10001'
   server: 45.121.48.196
@@ -701,7 +637,7 @@ proxies:
   uuid: 0ed35629-919a-4891-ba0f-13cd198f863b
 - alterId: 0
   cipher: auto
-  name: '107,122,217|PP|@Zyw_Channel #24'
+  name: '114,129,227|PP|@Zyw_Channel #24'
   network: ws
   port: 443
   server: 123.58.197.70
@@ -715,7 +651,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 107|台湾_121320007
+  name: 114|台湾_121320007
   network: tcp
   port: '19588'
   server: 152.32.167.166
@@ -725,7 +661,7 @@ proxies:
   uuid: e160d0ba-5b1a-448c-fcfb-35bfc5c2b1b5
 - alterId: 0
   cipher: auto
-  name: '107,122,217|PP|@Zyw_Channel #27'
+  name: '114,129,227|PP|@Zyw_Channel #27'
   network: tcp
   port: 10001
   server: 45.121.48.196
@@ -735,7 +671,7 @@ proxies:
   uuid: 0ed35629-919a-4891-ba0f-13cd198f863b
 - alterId: 0
   cipher: auto
-  name: 107|台湾_121320011
+  name: 114|台湾_121320011
   network: ''
   port: '19588'
   server: 152.32.167.166
@@ -745,7 +681,7 @@ proxies:
   uuid: e160d0ba-5b1a-448c-fcfb-35bfc5c2b1b5
 - alterId: 0
   cipher: auto
-  name: '109,110,199|🆔@LuxyNet💎❖❖TW❖311 #2'
+  name: '116,117,209|🆔@LuxyNet💎❖❖TW❖311 #2'
   network: tcp
   port: 11872
   server: gamespeed-gateway-1.numastergame.com
@@ -754,14 +690,14 @@ proxies:
   type: vmess
   uuid: 0913b1ac-1f6c-436b-99b4-a5d6e343d025
 - cipher: aes-256-cfb
-  name: '109,110,149,199,246|TW-61.220.130.70-8345 #1'
+  name: '116,117,156,209,256|TW-61.220.130.70-8345 #1'
   password: qwerREWQ@@
   port: 50701
   server: 61.220.130.70
   type: ss
 - alterId: 0
   cipher: auto
-  name: '120,215|Taiwan #6'
+  name: '127,225|Taiwan #6'
   network: ws
   port: 80
   server: tw1g.forlive.live
@@ -775,7 +711,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '121,216|🇹🇼 v2rayfree.eu.org - 台湾省台北市中华... #1'
+  name: '128,226|🇹🇼 v2rayfree.eu.org - 台湾省台北市中华... #1'
   network: tcp
   port: '224'
   server: hinet1261.gfwisbest.xyz
@@ -784,7 +720,7 @@ proxies:
   uuid: 2285133e-b9ba-3fb5-a246-9c7ddcc2cd7a
 - alterId: 0
   cipher: auto
-  name: '121,216|🇹🇼 Relay 🇹🇼 Taiwan 01 TG:@nodp... #1'
+  name: '128,226|🇹🇼 Relay 🇹🇼 Taiwan 01 TG:@nodp... #1'
   network: tcp
   port: '18005'
   server: p8wrw4sqhg7f.ulce4m0o.xyz
@@ -793,7 +729,7 @@ proxies:
   uuid: 077f1ef4-b2bd-37cb-900d-728cd84493b0
 - alterId: 0
   cipher: auto
-  name: '121,216|🇹🇼 Taiwan 02 TG:@nodpai #1'
+  name: '128,226|🇹🇼 Taiwan 02 TG:@nodpai #1'
   network: ws
   port: '45215'
   server: 013.AP.POP.node-for-smallairport.win
@@ -806,7 +742,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '121,216|🇹🇼 Relay 🇹🇼 Taiwan 03 TG:@nodp... #1'
+  name: '128,226|🇹🇼 Relay 🇹🇼 Taiwan 03 TG:@nodp... #1'
   network: tcp
   port: '18004'
   server: p8wrw4sqhg7f.ulce4m0o.xyz
@@ -815,7 +751,7 @@ proxies:
   uuid: 077f1ef4-b2bd-37cb-900d-728cd84493b0
 - alterId: 0
   cipher: auto
-  name: '121,216|🇹🇼 Relay 🇹🇼 Taiwan 05 TG:@nodp... #1'
+  name: '128,226|🇹🇼 Relay 🇹🇼 Taiwan 05 TG:@nodp... #1'
   network: tcp
   port: '13103'
   server: fmtgw8mdc68x.b4s02m25.xyz
@@ -824,7 +760,7 @@ proxies:
   uuid: 077f1ef4-b2bd-37cb-900d-728cd84493b0
 - alterId: 0
   cipher: auto
-  name: '128,226|github.com/freefq-台湾省公司2222 #1'
+  name: '135,236|github.com/freefq-台湾省公司2222 #1'
   network: ws
   port: 80
   server: 103.118.29.229
@@ -834,7 +770,7 @@ proxies:
     headers:
       host: 103.118.29.229
     path: /5gtocdocao.com
-- name: '139,233|台湾_【YouTube-VV科技】_2 #1'
+- name: '146,243|台湾_【YouTube-VV科技】_2 #1'
   network: tcp
   password: 1e772fe7-b0dd-47d7-81d9-d4798ff6677c
   port: 443
@@ -845,7 +781,7 @@ proxies:
   udp: true
 - alterId: -1
   client-fingerprint: chrome
-  name: '171,273|TW??SSRSUB_888302506 #1'
+  name: '178,283|TW??SSRSUB_888302506 #1'
   network: ws
   password: moist
   port: 23555
@@ -862,7 +798,7 @@ proxies:
   country: ??ZZ
   h2-opts: {}
   http-opts: {}
-  name: '171,273|TW??SSRSUB_-1732463904 #1'
+  name: '178,283|TW??SSRSUB_-1732463904 #1'
   network: ws
   port: 8080
   server: 104.19.47.142
@@ -875,7 +811,7 @@ proxies:
       HOST: oiictw.yydsii.com
     path: /?ed=2048
 - cipher: aes-256-cfb
-  name: '177,280|TG频道@mfbpn-台湾3 #1'
+  name: '184,290|TG频道@mfbpn-台湾3 #1'
   obfs: tls1.2_ticket_auth
   obfs-param: 3922d27932.microsoft.com
   password: k3U8z2ZGi78D
@@ -886,7 +822,7 @@ proxies:
   type: ssr
 - alterId: 0
   cipher: auto
-  name: '177,280|TG频道@mfbpn|台湾01 #1'
+  name: '184,290|TG频道@mfbpn|台湾01 #1'
   network: ''
   port: 26059
   server: tg_mfbpn_p2.52vpn.eu.org
@@ -896,7 +832,7 @@ proxies:
   uuid: 49933ab7-7ec2-3024-9f6e-b7ad9da24c8f
 - alterId: 0
   cipher: auto
-  name: '177,280|TG频道@mfbpn|台湾02 #1'
+  name: '184,290|TG频道@mfbpn|台湾02 #1'
   network: ''
   port: 26060
   server: tg_mfbpn_p2.52vpn.eu.org
@@ -906,7 +842,7 @@ proxies:
   uuid: 49933ab7-7ec2-3024-9f6e-b7ad9da24c8f
 - alterId: 0
   cipher: auto
-  name: '177,280|TG频道@mfbpn|台湾03 #1'
+  name: '184,290|TG频道@mfbpn|台湾03 #1'
   network: ''
   port: 26061
   server: tg_mfbpn_p2.52vpn.eu.org
@@ -916,7 +852,7 @@ proxies:
   uuid: 49933ab7-7ec2-3024-9f6e-b7ad9da24c8f
 - alterId: 0
   cipher: auto
-  name: '177,280|TG频道@mfbpn|台湾04 #1'
+  name: '184,290|TG频道@mfbpn|台湾04 #1'
   network: ''
   port: 26062
   server: tg_mfbpn_p2.52vpn.eu.org
@@ -926,7 +862,7 @@ proxies:
   uuid: 49933ab7-7ec2-3024-9f6e-b7ad9da24c8f
 - alterId: '0'
   cipher: auto
-  name: 195|400_台湾-2.65MB
+  name: 205|400_台湾-2.65MB
   network: ws
   port: '443'
   server: t3.bestcloud.tk
@@ -938,7 +874,7 @@ proxies:
   ws-path: /2
 - alterId: '0'
   cipher: auto
-  name: 195|460_台湾-855.3KB
+  name: 205|460_台湾-855.3KB
   network: tcp
   port: '56568'
   server: polotw1.applebench.tech
@@ -950,7 +886,7 @@ proxies:
   ws-path: /
 - alterId: 64
   cipher: auto
-  name: 206,299|台湾_0808001
+  name: 216,311|台湾_0808001
   network: ws
   port: '30000'
   server: 211.23.160.242
@@ -964,7 +900,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '214|🇹🇼 Taiwan - Taipei 🌏 VM-WS-TLS... #1'
+  name: '224|🇹🇼 Taiwan - Taipei 🌏 VM-WS-TLS... #1'
   network: ws
   port: '12945'
   server: 154.40.60.172
@@ -978,7 +914,7 @@ proxies:
     path: ''
 - alterId: 0
   cipher: auto
-  name: '214|Taiwan #3'
+  name: '224|Taiwan #3'
   network: ws
   port: '443'
   server: tw1g.forlive.live
@@ -992,7 +928,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 262|v2cross.com - 台湾省花莲县中华电信 4
+  name: 272|v2cross.com - 台湾省花莲县中华电信 4
   network: tcp
   port: '39999'
   server: 36.227.229.227
@@ -1002,7 +938,7 @@ proxies:
   uuid: 67c50f6a-816d-3555-89b4-19dd29608f8b
 - alterId: 64
   cipher: auto
-  name: 297|台湾|@ripaojiedian
+  name: 309|台湾|@ripaojiedian
   network: ws
   port: 443
   server: 103.177.33.21

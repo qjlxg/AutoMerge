@@ -1,12 +1,4 @@
 proxies:
-- cipher: aes-256-cfb
-  country: ' ZZ'
-  name: 1,2,75|ChatGPT 🏁 ZZ_465
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 84.17.53.160
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
   grpc-opts:
@@ -226,7 +218,7 @@ proxies:
       Host: ''
     path: /vmess
 - cipher: aes-256-cfb
-  name: 47,232|🇨_CH_
+  name: 47,242|🇨_CH_
   password: asdKkaskJKfnsa
   port: 80
   server: 84.17.53.163
@@ -1129,7 +1121,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 107|瑞士_121320001
+  name: 114|瑞士_121320001
   network: ws
   port: '15139'
   server: 136.0.9.8
@@ -1143,7 +1135,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '109,110,199|🆔@LuxyNet💎❖❖CH❖19 #2'
+  name: '116,117,209|🆔@LuxyNet💎❖❖CH❖19 #2'
   network: tcp
   port: 85
   server: w8w.jelicc-ray.shop
@@ -1153,7 +1145,7 @@ proxies:
   uuid: c03b6565-fd0c-43fc-89d8-f3e7ab7f3d5e
 - alterId: 0
   cipher: auto
-  name: '109,110,199|🆔@LuxyNet💎❖🇭❖CH❖57 #1'
+  name: '116,117,209|🆔@LuxyNet💎❖🇭❖CH❖57 #1'
   network: ws
   port: 443
   server: v2node8.bipbupvpn.com
@@ -1166,14 +1158,14 @@ proxies:
       host: v2node8.bipbupvpn.com
     path: /AAA
 - cipher: aes-256-cfb
-  name: '149,246|🇨CH-185.126.116.125-0152 #1'
+  name: '156,256|🇨CH-185.126.116.125-0152 #1'
   password: aLpQtfEZe445QyHk
   port: 9098
   server: 185.126.116.125
   type: ss
 - alterId: -1
   cipher: aes-256-ctr
-  name: '171,273|CH??SSRSUB_1969128776 #1'
+  name: '178,283|CH??SSRSUB_1969128776 #1'
   password: JHe7ay97yuw8ue
   plugin: obfs
   plugin-opts:

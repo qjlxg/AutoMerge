@@ -1,68 +1,14 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇺 DX-SS|1x
-  password: 38200bd2-b804-4258-ac20-0bf1f095ddaa
+  name: 2|🇷🇺 DX俄罗斯-SS|1x
+  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
   port: 10871
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809023
-  network: tcp
-  port: '47555'
-  server: 46.29.166.237
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809129
-  network: tcp
-  port: '2098'
-  server: 185.247.184.115
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809069
-  network: ''
-  port: '47555'
-  server: 46.29.166.237
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809128
-  network: tcp
-  port: '2098'
-  server: f41.maryam1500.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
-- alterId: 0
-  cipher: auto
-  name: 3|[freefq]🇷🇺RU-194.87.69.102-254
-  network: ws
-  port: 12910
-  server: 22.lwdh.us
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    headers:
-      Host: 22.lwdh.us
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-1200-RU
+  name: 3|[1808.ga]TG频道@mfbpn-1252-RU
   network: ws
   port: 80
   server: eedp257bubu2wefy3.lovebaipiao.net
@@ -75,8 +21,52 @@ proxies:
       Host: www.apple.com
     path: /iphone
 - alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809136
+  network: tcp
+  port: '2098'
+  server: f41.maryam1500.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809132
+  network: tcp
+  port: '2098'
+  server: 185.247.184.115
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809048
+  network: ws
+  port: '12910'
+  server: 194.87.69.102
+  servername: 22.lwdh.us
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: 22.lwdh.us
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809059
+  network: ''
+  port: '47555'
+  server: 46.29.166.237
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
+- alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]俄罗斯联邦_0809127
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809071
   network: ws
   port: '80'
   server: 185.174.138.60
@@ -90,7 +80,17 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[1808.ga]TG频道@mfbpn-1201-RU
+  name: 3|[mianfeifq/share]俄罗斯联邦_0809036
+  network: tcp
+  port: '47555'
+  server: 46.29.166.237
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
+- alterId: 0
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-1253-RU
   network: ws
   port: 54321
   server: eedp257bubu2wefy1.lovebaipiao.net

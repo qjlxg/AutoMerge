@@ -1,63 +1,21 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇩🇪 DX德国-SS|1x
+  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
+  port: 44281
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
 - cipher: aes-128-gcm
-  name: 2|🇩🇪 德国 DE | BIZ-1B
+  name: 2|🇩🇪 德国 DE | BIZ-1A
   password: f2f3e666-7d4b-4dd3-a9f6-1d90353a2715
   port: 35607
   server: 120.241.118.161
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇪 DX德国-SS|1x
-  password: 38200bd2-b804-4258-ac20-0bf1f095ddaa
-  port: 44281
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0809176
-  network: ws
-  port: '443'
-  server: 139.162.163.11
-  servername: hms19.best-tizi.top
-  tls: true
-  type: vmess
-  uuid: 62aa5f80-0328-4004-a375-7f5a59df4022
-  ws-opts:
-    headers:
-      Host: hms19.best-tizi.top
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]德国_0809159
-  network: ws
-  port: '80'
-  server: 199.247.18.211
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /QvtvPdDXXIlSdZMqnuxG
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]德国_0809189
-  network: ws
-  port: '80'
-  server: 188.244.122.72
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
-  ws-opts:
-    headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]德国_0809179
+  name: 3|[mianfeifq/share]德国_0809191
   network: ws
   port: '2052'
   server: 83.147.42.144
@@ -71,21 +29,119 @@ proxies:
     path: /user-content/images
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0809170
+  name: 3|[mianfeifq/share]德国_0809168
   network: ws
-  port: '8880'
-  server: 157.90.173.82
+  port: '80'
+  server: 199.247.18.211
   servername: ''
   tls: false
   type: vmess
-  uuid: f816c971-c3b6-4eb2-9d1a-0bfa7aec4f26
+  uuid: 6b880b07-e952-4c0b-b4a3-6c9ac4cf9d3f
   ws-opts:
     headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /@irvpnn?ed=2560
+      Host: hdfy1c3.iraniancpi.uk
+    path: /QvtvPdDXXIlSdZMqnuxG
+- alterId: 0
+  cipher: none
+  name: 3|[mianfeifq/share]德国_0809060
+  network: ws
+  port: '80'
+  server: 188.244.122.72
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809213
+  network: ws
+  port: '443'
+  server: 192.46.237.63
+  servername: glweidf.cfd
+  tls: true
+  type: vmess
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
+  ws-opts:
+    headers:
+      Host: glweidf.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809182
+  network: ws
+  port: '443'
+  server: 139.162.163.11
+  servername: hms19.best-tizi.top
+  tls: true
+  type: vmess
+  uuid: 62aa5f80-0328-4004-a375-7f5a59df4022
+  ws-opts:
+    headers:
+      Host: hms19.best-tizi.top
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809208
+  network: ws
+  port: '80'
+  server: 92.223.124.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809200
+  network: ws
+  port: '80'
+  server: 92.223.124.30
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809204
+  network: ws
+  port: '80'
+  server: 92.223.124.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809203
+  network: ws
+  port: '80'
+  server: 92.223.124.48
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
 - alterId: 1
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0809188
+  name: 3|[mianfeifq/share]德国_0809192
   network: ws
   port: '443'
   server: 139.162.176.50
@@ -99,33 +155,29 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]德国_0809186
+  name: 3|[mianfeifq/share]德国_0809189
   network: ws
   port: '80'
-  server: 4ge1.09vpn.com
+  server: 51.195.44.19
   servername: ''
   tls: false
   type: vmess
   uuid: b0500f4a-972d-4d2f-b788-4ac4d6d74ce1
   ws-opts:
     headers:
-      Host: ''
+      Host: 4ge1.09vpn.com
     path: /vmess/
-- auth: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  name: 4|🇩🇪 德国-HY2-妮妮
-  password: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  port: 50033
-  server: de.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  name: 4|🇪 德国-HY2-小妮妮
-  password: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  port: 50011
-  server: de.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]德国_0809169
+  network: ws
+  port: '8880'
+  server: 157.90.173.82
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f816c971-c3b6-4eb2-9d1a-0bfa7aec4f26
+  ws-opts:
+    headers:
+      Host: 2.store.debian.8.8.8.8.fxp.debian.org.speedtest.net.noshabe.cyou.
+    path: /@irvpnn?ed=2560

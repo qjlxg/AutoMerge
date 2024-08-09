@@ -1,16 +1,7 @@
 proxies:
-- auth: f2da3f27-a3b4-4c80-80ef-681156667d0d
-  name: 2|🇸🇬 新加坡-1Y
-  password: f2da3f27-a3b4-4c80-80ef-681156667d0d
-  port: 46606
-  server: zz.worldfirst.eu.org
-  skip-cert-verify: true
-  sni: sg-01.worldfirst.eu.org
-  type: hysteria2
-  udp: true
-- auth: 08c2b46e-64af-4191-b17a-bc8144b9f59a
-  name: 2|🇸🇬 新加坡 02-6A
-  password: 08c2b46e-64af-4191-b17a-bc8144b9f59a
+- auth: e47bb463-fb03-46c8-978f-3e4eb2343590
+  name: 2|🇸🇬 新加坡 02-2J
+  password: e47bb463-fb03-46c8-978f-3e4eb2343590
   port: 44300
   server: sg-02.worldfirst.eu.org
   skip-cert-verify: true
@@ -19,22 +10,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2,3|[mianfeifq/share]未知_08094213
-  network: ws
-  port: '80'
-  server: m2-sg1.m2network.icu
-  servername: ''
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 4299f66c-1540-4556-8695-08ddd30d8c81
-  ws-opts:
-    headers:
-      Host: m2-sg1.m2network.icu
-    path: /ws?ed=2560
-- alterId: 0
-  cipher: auto
-  name: 2,3|[mianfeifq/share]美国_08091744
+  name: 2,3|[mianfeifq/share]美国_08093041
   network: ws
   port: '80'
   server: m2-sg3.m2network.icu
@@ -42,23 +18,75 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 719c19d4-4126-4c00-bcce-0ac5b6bfdb2e
+  uuid: b0ecfede-702f-491f-a259-860a6e4a50af
   ws-opts:
     headers:
       Host: m2-sg3.m2network.icu
     path: /ws?ed=2560
-- auth: cf9d440a-b89e-4063-8971-32e8f13d2ac5
-  name: '2,4|🇸🇬 新加坡-1 #1'
-  password: cf9d440a-b89e-4063-8971-32e8f13d2ac5
+- auth: e47bb463-fb03-46c8-978f-3e4eb2343590
+  name: 2|🇸🇬 新加坡-2J
+  password: e47bb463-fb03-46c8-978f-3e4eb2343590
+  port: 46606
+  server: zz.worldfirst.eu.org
+  skip-cert-verify: true
+  sni: sg-01.worldfirst.eu.org
+  type: hysteria2
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡 A SG-1B
+  password: 28c041c1-f21b-4771-afee-ffae26b191e1
+  port: 35105
+  server: sg1.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 DX新加坡01|优化|1x
+  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
+  port: 45769
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- auth: 085db3f0-014d-4498-a688-ea94c5aec70f
+  name: 2|🇸🇬 新加坡-1-1B
+  password: 085db3f0-014d-4498-a688-ea94c5aec70f
   port: 30001
   server: oracle-amd-singapore1.lanmaoyun.icu
   skip-cert-verify: false
   sni: main.nodes.lanmaoyun.icu
   type: hysteria2
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡03-1C
+  password: 81695c85-768d-44f3-8d05-03f7a7aba5fd
+  port: 15627
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 2,3|[mianfeifq/share]未知_08096200
+  name: 2,3|[mianfeifq/share]未知_08095643
+  network: ws
+  port: '80'
+  server: m2-sg1.m2network.icu
+  servername: ''
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 969505b5-48a3-49e7-a2da-9a9212c6f646
+  ws-opts:
+    headers:
+      Host: m2-sg1.m2network.icu
+    path: /ws?ed=2560
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡01-1D
+  password: 9f0db696-32a3-475e-ae50-9098e17e5089
+  port: 15636
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 2,3|[mianfeifq/share]美国_08093068
   network: ws
   port: '80'
   server: m2-sg2.m2network.icu
@@ -66,79 +94,51 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 7231f012-3239-40b7-b994-0bfd19442b00
+  uuid: c2e5cf2b-0375-4a08-bfff-f688d9441fab
   ws-opts:
     headers:
       Host: m2-sg2.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 A SG-1B
-  password: f2f3e666-7d4b-4dd3-a9f6-1d90353a2715
-  port: 35105
-  server: sg1.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡03-1B
-  password: 7d2bcd7e-0d01-4fc6-b309-f1aacb8cb772
-  port: 15627
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 B SG-1A
-  password: ddec12c9-0d17-4afb-a30a-45d37e5bc79a
-  port: 35106
-  server: sg2.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡01-1D
-  password: 9e0ccbc0-7fd1-4d25-8395-5013a21e5129
-  port: 15636
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '2,4|🇸🇬 新加坡02-1C #1'
-  password: 269917ec-db94-49bb-8dcc-90f8a1253f76
+  name: 2|🇸🇬 新加坡02-1D
+  password: 9f0db696-32a3-475e-ae50-9098e17e5089
   port: 15637
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 2|🇸🇬 新加坡 B SG-1B
+  password: 28c041c1-f21b-4771-afee-ffae26b191e1
+  port: 35106
+  server: sg2.iepl.cooc.icu
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 2|🇸🇬 新加坡 C SG-1A
-  password: ddec12c9-0d17-4afb-a30a-45d37e5bc79a
+  password: f2f3e666-7d4b-4dd3-a9f6-1d90353a2715
   port: 35107
   server: sg3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇸🇬 LS新加坡01|优化|1x #1'
-  password: 38200bd2-b804-4258-ac20-0bf1f095ddaa
+  name: 2|🇸🇬 LS新加坡01|优化|1x
+  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
   port: 21508
   server: szyd.ewenhot.top
   type: ss
   udp: true
-- auth: 38200bd2-b804-4258-ac20-0bf1f095ddaa
-  name: 2,4|🇬 HY2新加坡-0.8x
-  password: 38200bd2-b804-4258-ac20-0bf1f095ddaa
+- auth: 5edc8ce4-80ce-493b-931e-d09c1902db7b
+  name: 2|🇸🇬 HY2新加坡-0.8x
+  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
   port: 20082
   server: xjpnat2.dackcf1.top
   skip-cert-verify: true
   sni: xjpnat2.dackcf1.top
   type: hysteria2
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 DX新加坡01|优化|1x
-  password: 38200bd2-b804-4258-ac20-0bf1f095ddaa
-  port: 45769
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809136
+  name: 3|[mianfeifq/share]新加坡_0809220
   network: ws
   port: '80'
   server: 165.232.169.81
@@ -151,13 +151,27 @@ proxies:
       Host: dl.kgvn.garenanow.com
     path: /ht4gvpn.com
 - alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]新加坡_0809124
+  cipher: auto
+  name: 3|[mianfeifq/share]新加坡_0809225
   network: ws
-  port: '80'
+  port: '443'
+  server: 138.2.91.40
+  servername: osg4.dean52.top
+  tls: true
+  type: vmess
+  uuid: 04198516-1acb-429e-f222-d344ed1cd9da
+  ws-opts:
+    headers:
+      Host: osg4.dean52.top
+    path: /04198516-1acb-429e-f222-d344ed1cd9da
+- alterId: 0
+  cipher: none
+  name: 3|[mianfeifq/share]新加坡_0809136
+  network: ws
+  port: '443'
   server: djzze.makhluk.my.id
   servername: djzze.makhluk.my.id
-  tls: false
+  tls: true
   type: vmess
   uuid: bde8c800-48b6-4c60-a379-e64f75065701
   ws-opts:
@@ -165,24 +179,10 @@ proxies:
       Host: djzze.makhluk.my.id
     path: /vmess
 - alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809221
+  cipher: none
+  name: 3|[xiyaowong/freeFQ]17-772-SG
   network: ws
-  port: '443'
-  server: osg4.dean52.top
-  servername: osg4.dean52.top
-  tls: true
-  type: vmess
-  uuid: 04198516-1acb-429e-f222-d344ed1cd9da
-  ws-opts:
-    headers:
-      Host: ''
-    path: /04198516-1acb-429e-f222-d344ed1cd9da
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809215
-  network: ws
-  port: '80'
+  port: 80
   server: djzze.makhluk.my.id
   servername: ''
   tls: false
@@ -190,25 +190,45 @@ proxies:
   uuid: bde8c800-48b6-4c60-a379-e64f75065701
   ws-opts:
     headers:
-      Host: ''
+      Host: djzze.makhluk.my.id
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809218
+  name: 3|[mianfeifq/share]新加坡_0809195
+  network: ''
+  port: '57614'
+  server: 5.34.176.111
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]新加坡_0809116
+  network: tcp
+  port: '57614'
+  server: 5.34.176.111
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]新加坡_0809138
   network: ws
   port: '443'
-  server: 94.237.66.170
-  servername: djzze.makhluk.my.id
+  server: djzze.makhluk.my.id
+  servername: ''
   tls: true
   type: vmess
   uuid: bde8c800-48b6-4c60-a379-e64f75065701
   ws-opts:
     headers:
-      Host: djzze.makhluk.my.id
+      Host: ''
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809217
+  name: 3|[mianfeifq/share]新加坡_0809224
   network: ws
   port: '80'
   server: 94.237.66.170
@@ -222,65 +242,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809219
-  network: ws
-  port: '443'
-  server: 138.2.91.40
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: 04198516-1acb-429e-f222-d344ed1cd9da
-  ws-opts:
-    headers:
-      Host: osg4.dean52.top
-    path: /04198516-1acb-429e-f222-d344ed1cd9da
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809166
-  network: ''
-  port: '57614'
-  server: 5.34.176.111
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]新加坡_0809123
-  network: ws
-  port: '443'
-  server: djzze.makhluk.my.id
-  servername: djzze.makhluk.my.id
-  tls: true
-  type: vmess
-  uuid: bde8c800-48b6-4c60-a379-e64f75065701
-  ws-opts:
-    headers:
-      Host: djzze.makhluk.my.id
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809110
-  network: tcp
-  port: '57614'
-  server: 5.34.176.111
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809216
-  network: tcp
-  port: '12954'
-  server: 64.lwdh.us
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809135
+  name: 3|[mianfeifq/share]新加坡_0809107
   network: ws
   port: '2082'
   server: 8.222.167.147
@@ -294,52 +256,39 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809138
-  network: tcp
-  port: '60001'
-  server: bgroup.node3.v.nodelist-airport.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 2155145a-b1b5-443a-8977-670f6bd10f02
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809094
+  name: 3|[mianfeifq/share]新加坡_0809227
   network: ws
-  port: '2082'
-  server: 8.222.174.108
-  servername: ''
-  tls: false
+  port: '443'
+  server: 94.237.66.170
+  servername: djzze.makhluk.my.id
+  tls: true
   type: vmess
-  uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a
+  uuid: bde8c800-48b6-4c60-a379-e64f75065701
   ws-opts:
     headers:
-      Host: s1c.v2.v001sss.xyz
-    path: /
-- auth: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  name: 4|🇬 新加坡-HY2-中妮妮
-  password: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  port: 50022
-  server: sg.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  name: 4|🇸🇬 新加坡-HY2-小妮妮
-  password: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  port: 50011
-  server: sg.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
-- auth: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  name: 4|🇬 新加坡-HY2-妮妮
-  password: 7e8524b1-76fc-4f8f-b44e-4cf3963c58d4
-  port: 50033
-  server: sg.5188666.xyz
-  skip-cert-verify: true
-  sni: ovo.1234567890spcloud.com
-  type: hysteria2
-  udp: true
+      Host: djzze.makhluk.my.id
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]新加坡_0809216
+  network: ws
+  port: '443'
+  server: osg4.dean52.top
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 04198516-1acb-429e-f222-d344ed1cd9da
+  ws-opts:
+    headers:
+      Host: ''
+    path: /04198516-1acb-429e-f222-d344ed1cd9da
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]新加坡_0809229
+  network: tcp
+  port: '12954'
+  server: 64.lwdh.us
+  servername: 31.192.234.7
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525

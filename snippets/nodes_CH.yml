@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809048
+  name: 9|[mianfeifq/share]瑞士_0809048
   network: ws
   port: '2096'
   server: ch1.vmess.site.
@@ -15,7 +15,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809031
+  name: 9|[mianfeifq/share]瑞士_0809031
   network: ws
   port: '2086'
   server: ch1.vmess.site.
@@ -29,7 +29,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809022
+  name: 9|[mianfeifq/share]瑞士_0809022
   network: ws
   port: '2096'
   server: ch1.vmess.site
@@ -43,7 +43,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809024
+  name: 9|[mianfeifq/share]瑞士_0809024
   network: ws
   port: '2083'
   server: 94.131.3.34
@@ -57,7 +57,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809017
+  name: 9|[mianfeifq/share]瑞士_0809017
   network: ws
   port: '2083'
   server: ch1.vmess.site
@@ -71,7 +71,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809040
+  name: 9|[mianfeifq/share]瑞士_0809040
   network: ws
   port: '2053'
   server: 94.131.3.34
@@ -85,7 +85,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809021
+  name: 9|[mianfeifq/share]瑞士_0809021
   network: ws
   port: '2087'
   server: 94.131.3.34
@@ -99,7 +99,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809035
+  name: 9|[mianfeifq/share]瑞士_0809035
   network: ws
   port: '443'
   server: ch1.vmess.site
@@ -113,7 +113,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809026
+  name: 9|[mianfeifq/share]瑞士_0809026
   network: ws
   port: '2095'
   server: ch1.vmess.site
@@ -127,7 +127,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809055
+  name: 9|[mianfeifq/share]瑞士_0809055
   network: ws
   port: '8080'
   server: 94.131.3.34
@@ -141,7 +141,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809006
+  name: 9|[mianfeifq/share]瑞士_0809006
   network: ws
   port: '8443'
   server: ch1.vmess.site
@@ -155,7 +155,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809019
+  name: 9|[mianfeifq/share]瑞士_0809019
   network: ws
   port: '80'
   server: ch1.vmess.site
@@ -169,7 +169,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809007
+  name: 9|[mianfeifq/share]瑞士_0809007
   network: ws
   port: '2052'
   server: ch1.vmess.site
@@ -183,7 +183,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809025
+  name: 9|[mianfeifq/share]瑞士_0809025
   network: ws
   port: '8080'
   server: ch1.vmess.site
@@ -197,7 +197,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809016
+  name: 9|[mianfeifq/share]瑞士_0809016
   network: ws
   port: '2087'
   server: ch1.vmess.site.
@@ -211,7 +211,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809013
+  name: 9|[mianfeifq/share]瑞士_0809013
   network: ws
   port: '2096'
   server: 94.131.3.34
@@ -225,7 +225,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809038
+  name: 9|[mianfeifq/share]瑞士_0809038
   network: ws
   port: '2083'
   server: ch1.vmess.site.
@@ -239,7 +239,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809053
+  name: 9|[mianfeifq/share]瑞士_0809053
   network: ws
   port: '443'
   server: 94.131.3.34
@@ -253,7 +253,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809027
+  name: 9|[mianfeifq/share]瑞士_0809027
   network: ws
   port: '2082'
   server: 94.131.3.34
@@ -267,7 +267,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809020
+  name: 9|[mianfeifq/share]瑞士_0809020
   network: ws
   port: '8443'
   server: 94.131.3.34
@@ -281,7 +281,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809039
+  name: 9|[mianfeifq/share]瑞士_0809039
   network: ws
   port: '8880'
   server: ch1.vmess.site.
@@ -295,7 +295,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809012
+  name: 9|[mianfeifq/share]瑞士_0809012
   network: ws
   port: '2087'
   server: ch1.vmess.site
@@ -309,7 +309,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809008
+  name: 9|[mianfeifq/share]瑞士_0809008
   network: ws
   port: '2053'
   server: ch1.vmess.site.
@@ -323,7 +323,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809014
+  name: 9|[mianfeifq/share]瑞士_0809014
   network: ws
   port: '2052'
   server: 94.131.3.34
@@ -337,7 +337,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809052
+  name: 9|[mianfeifq/share]瑞士_0809052
   network: ws
   port: '2082'
   server: ch1.vmess.site
@@ -351,7 +351,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809033
+  name: 9|[mianfeifq/share]瑞士_0809033
   network: ws
   port: '2086'
   server: 94.131.3.34
@@ -365,7 +365,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809030
+  name: 9|[mianfeifq/share]瑞士_0809030
   network: ws
   port: '2086'
   server: ch1.vmess.site
@@ -379,7 +379,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809018
+  name: 9|[mianfeifq/share]瑞士_0809018
   network: ws
   port: '2053'
   server: ch1.vmess.site
@@ -393,7 +393,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809051
+  name: 9|[mianfeifq/share]瑞士_0809051
   network: ws
   port: '8443'
   server: ch1.vmess.site.
@@ -407,7 +407,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809036
+  name: 9|[mianfeifq/share]瑞士_0809036
   network: ws
   port: '443'
   server: ch1.vmess.site.
@@ -421,7 +421,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809011
+  name: 9|[mianfeifq/share]瑞士_0809011
   network: ws
   port: '8080'
   server: ch1.vmess.site.
@@ -435,7 +435,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809054
+  name: 9|[mianfeifq/share]瑞士_0809054
   network: ws
   port: '2082'
   server: ch1.vmess.site.
@@ -449,7 +449,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809044
+  name: 9|[mianfeifq/share]瑞士_0809044
   network: ws
   port: '2095'
   server: 94.131.3.34
@@ -463,7 +463,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809034
+  name: 9|[mianfeifq/share]瑞士_0809034
   network: ws
   port: '2095'
   server: ch1.vmess.site.
@@ -477,7 +477,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809032
+  name: 9|[mianfeifq/share]瑞士_0809032
   network: ws
   port: '8880'
   server: 94.131.3.34
@@ -491,7 +491,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809041
+  name: 9|[mianfeifq/share]瑞士_0809041
   network: ws
   port: '8880'
   server: ch1.vmess.site
@@ -505,7 +505,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]瑞士_0809045
+  name: 9|[mianfeifq/share]瑞士_0809045
   network: ws
   port: '2052'
   server: ch1.vmess.site.

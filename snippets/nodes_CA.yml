@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809162
+  name: 9|[mianfeifq/share]加拿大_0809162
   network: tcp
   port: '3389'
   server: prxm-142.93.144.99.nip.io
@@ -11,7 +11,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809058
+  name: 9|[mianfeifq/share]加拿大_0809058
   network: tcp
   port: '3389'
   server: 178.128.237.6
@@ -21,7 +21,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809206
+  name: 9|[mianfeifq/share]加拿大_0809206
   network: ws
   port: '443'
   server: 140.238.147.128
@@ -35,7 +35,7 @@ proxies:
     path: /gmvfvws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809207
+  name: 9|[mianfeifq/share]加拿大_0809207
   network: tcp
   port: '3389'
   server: antm-142.93.144.99.nip.io
@@ -45,7 +45,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809163
+  name: 9|[mianfeifq/share]加拿大_0809163
   network: tcp
   port: '3389'
   server: shn-142.93.144.99.sslip.io
@@ -55,7 +55,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809198
+  name: 9|[mianfeifq/share]加拿大_0809198
   network: tcp
   port: '3389'
   server: gd-142.93.144.99.nip.io
@@ -65,7 +65,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809210
+  name: 9|[mianfeifq/share]加拿大_0809210
   network: ws
   port: '443'
   server: 140.238.157.13
@@ -79,7 +79,7 @@ proxies:
     path: /pttnvws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809197
+  name: 9|[mianfeifq/share]加拿大_0809197
   network: tcp
   port: '3389'
   server: ho-142.93.144.99.nip.io
@@ -89,7 +89,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809164
+  name: 9|[mianfeifq/share]加拿大_0809164
   network: tcp
   port: '3389'
   server: 142.93.144.99
@@ -99,7 +99,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809199
+  name: 9|[mianfeifq/share]加拿大_0809199
   network: ws
   port: '443'
   server: 142.724064.xyz
@@ -113,7 +113,7 @@ proxies:
     path: /pttnvws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809211
+  name: 9|[mianfeifq/share]加拿大_0809211
   network: ws
   port: '443'
   server: 168.138.70.157
@@ -127,7 +127,7 @@ proxies:
     path: /zrqrvws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809220
+  name: 9|[mianfeifq/share]加拿大_0809220
   network: ws
   port: '80'
   server: 5.101.222.5
@@ -141,7 +141,7 @@ proxies:
     path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809221
+  name: 9|[mianfeifq/share]加拿大_0809221
   network: ws
   port: '80'
   server: 5.101.222.4
@@ -155,7 +155,7 @@ proxies:
     path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809087
+  name: 9|[mianfeifq/share]加拿大_0809087
   network: tcp
   port: '3389'
   server: 167.99.179.27
@@ -165,7 +165,7 @@ proxies:
   uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809088
+  name: 9|[mianfeifq/share]加拿大_0809088
   network: ws
   port: '2095'
   server: 23.227.38.8
@@ -179,7 +179,7 @@ proxies:
     path: /WNh8bXQv/
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809208
+  name: 9|[mianfeifq/share]加拿大_0809208
   network: ws
   port: '2086'
   server: 108.181.5.19
@@ -193,7 +193,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809107
+  name: 9|[mianfeifq/share]加拿大_0809107
   network: ws
   port: '8080'
   server: 23.227.38.3
@@ -207,7 +207,7 @@ proxies:
     path: /9aqOiXD2/
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809178
+  name: 9|[mianfeifq/share]加拿大_0809178
   network: ws
   port: '2086'
   server: ip001.dtku47.xyz
@@ -221,7 +221,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809201
+  name: 9|[mianfeifq/share]加拿大_0809201
   network: ws
   port: '2086'
   server: 108.181.22.55
@@ -235,7 +235,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809209
+  name: 9|[mianfeifq/share]加拿大_0809209
   network: ws
   port: '8080'
   server: ip001.dtku47.xyz
@@ -249,7 +249,7 @@ proxies:
     path: /9aqOiXD2/
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809195
+  name: 9|[mianfeifq/share]加拿大_0809195
   network: ws
   port: '2095'
   server: 108.181.5.19
@@ -263,7 +263,7 @@ proxies:
     path: /WNh8bXQv/
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809128
+  name: 9|[mianfeifq/share]加拿大_0809128
   network: ws
   port: '2086'
   server: 108.181.23.41
@@ -277,7 +277,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[1808.ga]TG频道@mfbpn-1126-RELAY
+  name: 9|[1808.ga]TG频道@mfbpn-1126-RELAY
   network: ws
   port: 2086
   server: 23.227.38.8
@@ -291,7 +291,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809202
+  name: 9|[mianfeifq/share]加拿大_0809202
   network: ws
   port: '2086'
   server: 108.181.5.131
@@ -305,7 +305,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[1808.ga]TG频道@mfbpn-0777-RELAY
+  name: 9|[1808.ga]TG频道@mfbpn-0777-RELAY
   network: ws
   port: 2086
   server: 23.227.38.3
@@ -319,7 +319,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809174
+  name: 9|[mianfeifq/share]加拿大_0809174
   network: ws
   port: '2086'
   server: ip002.dtku47.xyz
@@ -333,7 +333,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]加拿大_0809169
+  name: 9|[mianfeifq/share]加拿大_0809169
   network: ws
   port: '2086'
   server: shopify.com

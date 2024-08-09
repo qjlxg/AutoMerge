@@ -1,6 +1,6 @@
 proxies:
 - cipher: aes-128-gcm
-  name: 3|🇫🇷 法国 FR BIZ-1A
+  name: 8|🇫🇷 法国 FR BIZ-1A
   password: 28c041c1-f21b-4771-afee-ffae26b191e1
   port: 35611
   server: 120.241.118.161
@@ -8,7 +8,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809160
+  name: 9|[mianfeifq/share]法国_0809160
   network: ''
   port: '44513'
   server: 162.19.25.207
@@ -18,7 +18,7 @@ proxies:
   uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809248
+  name: 9|[mianfeifq/share]法国_0809248
   network: tcp
   port: '44513'
   server: 162.19.25.207
@@ -28,7 +28,7 @@ proxies:
   uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809259
+  name: 9|[mianfeifq/share]法国_0809259
   network: ws
   port: '443'
   server: 129.151.232.16
@@ -42,7 +42,7 @@ proxies:
     path: /qqsvvws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809168
+  name: 9|[mianfeifq/share]法国_0809168
   network: ws
   port: '80'
   server: 195.154.102.210
@@ -56,7 +56,7 @@ proxies:
     path: /v133PDXkklxLEcOvD
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809105
+  name: 9|[mianfeifq/share]法国_0809105
   network: ws
   port: '443'
   server: beyonddsz.cfd
@@ -70,7 +70,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809253
+  name: 9|[mianfeifq/share]法国_0809253
   network: ws
   port: '443'
   server: 193.160.130.247
@@ -84,7 +84,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809114
+  name: 9|[mianfeifq/share]法国_0809114
   network: ws
   port: '443'
   server: az05.beyondy.cfd
@@ -98,7 +98,7 @@ proxies:
     path: /link
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809262
+  name: 9|[mianfeifq/share]法国_0809262
   network: ws
   port: '80'
   server: 94.176.183.11
@@ -112,7 +112,7 @@ proxies:
     path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809232
+  name: 9|[mianfeifq/share]法国_0809232
   network: ws
   port: '443'
   server: irvideo.cfd
@@ -126,7 +126,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809244
+  name: 9|[mianfeifq/share]法国_0809244
   network: ws
   port: '443'
   server: 163.5.159.231
@@ -140,7 +140,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809249
+  name: 9|[mianfeifq/share]法国_0809249
   network: ws
   port: '443'
   server: 193.160.130.201
@@ -154,7 +154,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809263
+  name: 9|[mianfeifq/share]法国_0809263
   network: ws
   port: '80'
   server: 92.223.55.6
@@ -168,7 +168,7 @@ proxies:
     path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809265
+  name: 9|[mianfeifq/share]法国_0809265
   network: ws
   port: '443'
   server: 45.145.166.133
@@ -182,7 +182,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809241
+  name: 9|[mianfeifq/share]法国_0809241
   network: ws
   port: '443'
   server: 129.151.225.197
@@ -196,7 +196,7 @@ proxies:
     path: /nlpivws
 - alterId: 0
   cipher: aes-128-gcm
-  name: 4|[mianfeifq/share]法国_0809264
+  name: 9|[mianfeifq/share]法国_0809264
   network: ws
   port: '443'
   server: 45.145.164.92
@@ -210,7 +210,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809169
+  name: 9|[mianfeifq/share]法国_0809169
   network: ws
   port: '443'
   server: 109.724064.xyz
@@ -224,7 +224,7 @@ proxies:
     path: /qqsvvws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809239
+  name: 9|[mianfeifq/share]法国_0809239
   network: ws
   port: '443'
   server: 110.724064.xyz
@@ -238,7 +238,7 @@ proxies:
     path: /nlpivws
 - alterId: 0
   cipher: auto
-  name: 4|[mianfeifq/share]法国_0809255
+  name: 9|[mianfeifq/share]法国_0809255
   network: ws
   port: '443'
   server: 193.160.130.245
@@ -252,7 +252,7 @@ proxies:
     path: /linkws
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 4|[mianfeifq/share]法国_0809238
+  name: 9|[mianfeifq/share]法国_0809238
   network: ws
   port: '80'
   server: hdfy6d3.freelines.net
@@ -266,7 +266,7 @@ proxies:
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 4|[mianfeifq/share]法国_0809230
+  name: 9|[mianfeifq/share]法国_0809230
   network: ws
   port: '80'
   server: 217.69.1.123
@@ -280,7 +280,7 @@ proxies:
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 4|[mianfeifq/share]法国_0809234
+  name: 9|[mianfeifq/share]法国_0809234
   network: ws
   port: '80'
   server: hdfy6d3.cpi1.eu.org
@@ -294,7 +294,7 @@ proxies:
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 4|[mianfeifq/share]法国_0809240
+  name: 9|[mianfeifq/share]法国_0809240
   network: ws
   port: '80'
   server: hdfy6d5.cpi2hidd.eu.org
@@ -308,7 +308,7 @@ proxies:
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
   cipher: chacha20-poly1305
-  name: 4|[mianfeifq/share]法国_0809256
+  name: 9|[mianfeifq/share]法国_0809256
   network: ws
   port: '80'
   server: hdfy6d6.jahangirkh.eu.org

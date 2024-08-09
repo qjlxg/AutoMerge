@@ -1,169 +1,1449 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: '8,10|🇸🇬 新加坡中转 01 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 11155
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '8,10|🇭🇰 香港中转 04 #1'
+  name: '63,87,89|🇭🇰 香港中转 04 #1'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
   port: 11618
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇵 日本中转 04
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 38649
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇵 日本中转 05
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 21743
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇬 新加坡中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 26198
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇰 香港中转 05
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 20901
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇼 台湾中转 04
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 25149
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇸 美国中转 01
+  name: 63,87,89|🇸 美国中转 01
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
   port: 26858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇧 英国中 01
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 29172
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇬 新加坡中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 11599
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇵 日本中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 40005
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇰 香港中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 43042
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '8,10|🇯🇵 日本中转 01 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 13706
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇧 英国中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 34013
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 8,10|🇼 台湾中转 05
+  name: '63,87,89|🇼 台湾中转 05 #1'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
   port: 35846
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇸 美国中转 03
+  name: '63,87,89|🇰 香港中转 05 #1'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 23631
+  port: 20901
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇧 英国中转 03
+  name: 63,87,89|🇧 英国中转 02
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 13708
+  port: 34013
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '8,10|🇯🇵 日本中转 03 #1'
+  name: 63,87,89|🇵 日本中转 04
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 38225
+  port: 38649
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇸 美国中转 02
+  name: '63,87,89|🇬 新加坡中转 02 #1'
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 26198
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 63,87,89|🇬 新加坡中转 03
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 11599
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '63,87,89|🇸 美国中转 02 #1'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
   port: 15070
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '8,10|🇹🇼 台湾中转 02 #1'
+  name: '63,87,89|🇰 香港中转 03 #1'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 17010
+  port: 43042
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '8,10|🇭🇰 香港中转 02 #1'
+  name: '63,87,89|🇯🇵 日本中转 01 #1'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 36858
+  port: 13706
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇰 香港中转 01
+  name: '63,87,89|🇯🇵 日本中转 03 #2'
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 43641
+  port: 38225
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇹 台湾中转 03
+  name: '63,87,89|🇸 美国中转 03 #1'
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 23631
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '63,87,89|🇼 台湾中转 01 #1'
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 27110
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 63,87,89|🇹 台湾中转 03
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
   port: 14232
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇼 台湾中转 01
+  name: 63,87,89|🇵 日本中转 05
   password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 27110
+  port: 21743
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 63,87,89|🇵 日本中转 02
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 40005
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '63,87,89|🇭🇰 香港中转 02 #1'
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 36858
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '63,87,89|🇹🇼 台湾中转 02 #1'
+  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  port: 17010
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 109,172,295,392|VMESS-未知>美国-NF解锁自制剧-ChatGPT-10...
+  network: ws
+  port: 2095
+  server: 104.19.45.66
+  servername: onea.flha.ru
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      HOST: onea.flha.ru
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '109,113,172,180,295|🇺🇸 US 1484 → tg@nicevpn123 #2'
+  network: ws
+  port: 80
+  server: 104.21.237.85
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '109,172,180,295|🇺🇸 US 302 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.229.46
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '109,172,180,295|🇺🇸 US 964 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.237.68
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '109,172,180,295|🇺🇸 US 1462 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.225.126
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '109,172,180,295|🇺🇸 US 364 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.225.2
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /
+- name: 109|🇺🇸 _CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 23.227.38.11
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: syndication-statutes-wanted-logo.trycloudflare.com
+    path: /argox-tr
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 109,392|VMESS->美国-NF解锁自制剧-ChatGPT-YouT...
+  network: ws
+  port: 80
+  server: 104.21.71.88
+  servername: us3e-mmnnfr9dop0.v2freevpn.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
+  ws-opts:
+    headers:
+      HOST: us3e-mmnnfr9dop0.v2freevpn.com
+    path: /v118-fccxmxm35
+- alterId: 0
+  cipher: auto
+  name: '109,113,172,180,295|🇺🇸 US 219 → tg@nicevpn123 #2'
+  network: ws
+  port: 80
+  server: 104.21.225.96
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '109,172,180,295|🇺🇸 US 759 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.232.61
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '113,172,180,295|🇺🇸 US 1503 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.225.157
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '113,172,180,295|🇺🇸 US 1749 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.225.187
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 113,124,180,392|VMESS-未知>美国-ChatGPT-TikTok-You...
+  network: ws
+  port: 8880
+  server: 104.21.1.28
+  servername: us-ccs.yuji2022.eu.org
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4b5e4565-322f-4223-a891-78a84f189726
+  ws-opts:
+    headers:
+      host: us-ccs.yuji2022.eu.org
+    path: /XSjeg73o6ZdsheahCb5JG
+- alterId: 0
+  cipher: auto
+  name: 113|🇳 VMESS->美国-NF-ChatGPT-TikTok-...
+  network: ws
+  port: 2086
+  server: icook.tw
+  servername: ip1.1789034.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  ws-opts:
+    headers:
+      Host: icook.tw
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: '113,172,180,295|🇺🇸 US 639 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 104.21.225.193
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '151,227,276,351|台湾【YouTube @Play实验室】 #1'
+  network: ws
+  port: 443
+  server: rochinet.fullaccesstointernet.cn.eu.org
+  servername: ''
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 65864938-ab50-4efa-bc6a-084f42a8de63
+  ws-opts:
+    headers:
+      Host: rochinet.fullaccesstointernet.cn.eu.org
+    path: /freedom
+- alterId: 0
+  cipher: auto
+  name: '151,276|mahdibland-🏁RELAY-172.67.172.7... #1'
+  network: ws
+  port: '2095'
+  server: hzdsesa.66666654.xyz
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a031d87d-ea68-3511-bc8a-8ab98ac734e9
+  ws-opts:
+    headers:
+      Host: hzdses.66666654.xyz
+    path: /hgcefomn
+- alterId: 0
+  cipher: auto
+  name: '151,276|peasoft--1|🇺🇸_US_美国->🇸🇬_SG_新加坡... #1'
+  network: ws
+  port: '2096'
+  server: 104.18.127.153
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: f387a0af-4b70-4a40-e2c3-2f22472df0cb
+  ws-opts:
+    headers:
+      Host: x1.ylks01.eu.org
+    path: /blue01
+- grpc-opts:
+    grpc-service-name: 443trojan
+  name: '180,219,344|RELAY-172.67.204.84-3137 #1'
+  network: grpc
+  password: qj1Dz1CJmFQRhWr1SP80aA
+  port: 443
+  server: 172.67.204.84
+  skip-cert-verify: false
+  sni: cdn-21.gsmxreality.com
+  tls: true
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 180|🇨🇳_CN_中国->🇫🇷_FR_法国_0@33
+  network: ws
+  port: 16645
+  server: yes.cnmjcn.net
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c99074bd-bacd-48b5-9561-da069c481602
+  ws-opts:
+    headers:
+      host: fe5be62428b65a2ce7a22d9997b4c9d0.mobgslb.tbcache.com
+    path: /
+- name: 180|🇨🇦_CA_加拿大->🇺🇸_US_美国_0@38
+  network: ws
+  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
+  port: 443
+  server: 23.227.38.11
+  skip-cert-verify: true
+  sni: syndication-statutes-wanted-logo.trycloudflare.com
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /argox-tr
+- alterId: 0
+  cipher: auto
+  name: 180|🇺🇸_US_美国->🇬🇧_GB_英国_1_5@5
+  network: ws
+  port: 8880
+  server: cdn.vds-server.ir
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334
+  ws-opts:
+    headers:
+      host: cdn.vds-server.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '180,307|United States #196'
+  network: ws
+  port: '2095'
+  server: onea.flha.ru
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 180|🇨🇳_CN_中国->🇩🇪_DE_德国_5@23
+  network: ws
+  port: 46038
+  server: mf838f.micloud.buzz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4a7929d8-f59e-4f37-9708-22027f210a07
+  ws-opts:
+    headers:
+      host: mf838f.micloud.buzz
+    path: /zh-cn
+- alterId: 0
+  cipher: auto
+  name: 180|🇺🇸_US_美国->🇬🇧_GB_英国_2_5@26
+  network: ws
+  port: 2086
+  server: mizban.arzonhost.ir
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: e690ff9e-1676-4be3-d136-dcae586cb1e7
+  ws-opts:
+    headers:
+      host: mizban.arzonhost.ir
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇨🇳 CF > 中国China Telecom #156'
+  network: ws
+  port: '443'
+  server: cf-lt.sharecentre.online
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      Host: us-st-1.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇺🇸 中国 -> 美国CF #28'
+  network: ws
+  port: '443'
+  server: cf-lt.sharecentre.online
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      Host: opc-jp.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇨🇳 CF > 中国China Telecom #138'
+  network: ws
+  port: '443'
+  server: cf-lt.sharecentre.online
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      Host: us-dp2.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: 182,309,405|RELAY-162.159.129.138-160
+  network: ws
+  port: 443
+  server: zfc.windowsupdate1.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4c2e7f40-3011-4c77-a066-eda17440e985
+  ws-opts:
+    headers:
+      Host: us1.yfjc.sbs
+    path: /yfjc/us1?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇺🇸 中国 -> 美国CF #35'
+  network: ws
+  port: '443'
+  server: cf-lt.sharecentre.online
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      Host: de-2.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇺🇸 中国 -> 美国CF #26'
+  network: ws
+  port: '443'
+  server: v2ray.online
+  tls: true
+  type: vmess
+  uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF
+  ws-opts:
+    headers:
+      Host: Seattle.v2ray.online
+    path: /speedtest
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇺🇸 中国 -> 美国CF #27'
+  network: ws
+  port: '443'
+  server: v2ray.online
+  tls: true
+  type: vmess
+  uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF
+  ws-opts:
+    headers:
+      Host: Tokyo.v2ray.online
+    path: /speedtest
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇵_US_美国->🇵_JP_日本13 #1'
+  network: ws
+  port: 443
+  server: cf-yd-hkg-dns.sharecentre.online
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      host: jp-ntt.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇬_US_美国->🇬_SG_新加坡17 #1'
+  network: ws
+  port: 8880
+  server: 172.64.163.172
+  type: vmess
+  uuid: a5c804aa-8a4d-4fd2-97a1-4f0cc1384953
+  ws-opts:
+    headers:
+      host: sg1021.hkaa0.tk
+    path: /hkaa0
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇺🇸_AM_美亚->🇫🇷_FR_法国25 #1'
+  network: ws
+  port: 443
+  server: 185.162.228.229
+  tls: true
+  type: vmess
+  uuid: 4612618c-24cd-4379-9924-cfdf3d61fa5a
+  ws-opts:
+    headers:
+      host: opfr1.v2rayfree1.xyz
+    path: /IYKLD53M
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇷_BZ_伯利兹->🇷_FR_法国26 #1'
+  network: ws
+  port: 443
+  server: 203.30.191.193
+  tls: true
+  type: vmess
+  uuid: 17b2a313-37a0-4945-a8e4-e63375506b4a
+  ws-opts:
+    headers:
+      host: lg10.cfcdn1.xyz
+    path: /A2DJOPFT
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇸_US_美国->_KZ_斯30 #1'
+  network: ws
+  port: 2086
+  server: www.dynadot.com
+  type: vmess
+  uuid: 078b436e-de58-42d9-cfe9-ffdcf72e1ab8
+  ws-opts:
+    headers:
+      host: kz.cloudflare.quest
+    path: /aries
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇸_US_美国->🇫🇷_FR_法国35 #1'
+  network: ws
+  port: 443
+  server: 162.159.135.42
+  tls: true
+  type: vmess
+  uuid: 4612618c-24cd-4379-9924-cfdf3d61fa5a
+  ws-opts:
+    headers:
+      host: opfr1.v2rayfree1.xyz
+    path: /IYKLD53M
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇵_US_美国->🇯🇵_JP_日本37 #1'
+  network: ws
+  port: 443
+  server: dnss.sylu.cyou
+  tls: true
+  type: vmess
+  uuid: 12e08256-da5d-4b1c-aeca-8c973ccceef8
+  ws-opts:
+    headers:
+      host: awsjpya.sylu.cyou
+    path: /Falling42awsjpyanode
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇸_US_美国->🇺_LU_38 #1'
+  network: ws
+  port: 443
+  server: hohm.microsoft.com
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      host: hk.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇺🇸_US_美国->🇱🇺_LU_卢森堡40 #1'
+  network: ws
+  port: 443
+  server: 104.19.48.92
+  tls: true
+  type: vmess
+  uuid: 20e92881-5fb4-4b05-bc77-57929476dc69
+  ws-opts:
+    headers:
+      host: hk.sharecentre.online
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: '190,320|🇺🇸_US_美国->🇫🇷_FR_法国43 #1'
+  network: ws
+  port: 443
+  server: powerservice.com
+  tls: true
+  type: vmess
+  uuid: 0764a598-82c4-4b41-ba10-551a625beed5
+  ws-opts:
+    headers:
+      host: uk2.v2rayserv.com
+    path: /sshocean
+- alterId: 1
+  cipher: auto
+  name: 197|🇨🇳 A+中转|台湾原生01 |2.0x
+  network: ws
+  port: 10007
+  server: gzyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hinet.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇨🇳 A+中转|台湾原生02|2.0x
+  network: ws
+  port: 60004
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hinet.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇨🇳 A+中转|台湾原生03|2.0x
+  network: ws
+  port: 60002
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hinet.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇨🇳 A+中转|台湾原生04|2.0x
+  network: ws
+  port: 59993
+  server: shantouyd.2288.org
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hinet.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇸🇬 A+中转|新加坡01 |2.0x
+  network: ws
+  port: 10000
+  server: gzyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: xinjiapo.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇸🇬 A+中转|新加坡02 |2.0x
+  network: ws
+  port: 60003
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: xinjiapob.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇸🇬 A+中转|新加坡03 |2.0x
+  network: ws
+  port: 60005
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: xinjiapoc.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇯🇵 A+中转|日本01 |1.5x
+  network: ws
+  port: 60004
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: japan01.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇯🇵 A+中转|日本02 |1.5x
+  network: ws
+  port: 10014
+  server: gzyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: azjp01.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇯🇵 A+中转|日本03 |1.5x
+  network: ws
+  port: 60005
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: japan03.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇰🇷 A+中转|韩国01 |1.5x
+  network: ws
+  port: 60007
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: vuhg.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇰🇷 A+中转|韩国02 |1.5x
+  network: ws
+  port: 60008
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: vuhgb.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇰🇷 A+中转|韩国03 |1.5x
+  network: ws
+  port: 60009
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: vuhgc.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港01 |2.0x
+  network: ws
+  port: 60000
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: azhk.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港02 |2.0x
+  network: ws
+  port: 59994
+  server: shantouyd.2288.org
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: azhkb.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港03 |2.0x
+  network: ws
+  port: 10013
+  server: gzyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: azhkc.qiutan.pw
+  ws-path: /v2ray
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港04 |2.0x
+  network: ws
+  port: 60001
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: azhkd.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港原生06|2.0x
+  network: ws
+  port: 60008
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hkt.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港原生07|2.0x
+  network: ws
+  port: 60009
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hkt.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇭🇰 A+中转|香港原生08|2.0x
+  network: ws
+  port: 60010
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: hkt.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇷🇺 B+中转|俄罗斯01|1.0x
+  network: ws
+  port: 60011
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: ru.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇷🇺 B+中转|俄罗斯02|1.0x
+  network: ws
+  port: 60012
+  server: ltzz.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: ru.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇺🇸 B+中转|美国原生01 |1.0x
+  network: ws
+  port: 60012
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: usys.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇺🇸 B+中转|美国原生02 |1.0x
+  network: ws
+  port: 60011
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: usys.qiutan.pw
+  ws-path: /videos
+- alterId: 1
+  cipher: auto
+  name: 197|🇺🇸 B+中转|美国原生03|1.0x
+  network: ws
+  port: 60013
+  server: fsyd.qiutan.pw
+  tls: false
+  type: vmess
+  uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7
+  ws-headers:
+    Host: usys.qiutan.pw
+  ws-path: /videos
+- alterId: 0
+  cipher: auto
+  country: 🇺🇸US
+  delay: 612
+  h2-opts: {}
+  http-opts: {}
+  name: '199,204,219,326,344|🇸US-104.194.85.92-1057 #1'
+  network: ws
+  port: 51552
+  server: 104.194.85.92
+  servername: 104.194.85.92
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: vmess
+  uuid: a8dee04e-e58d-49f3-9618-b393ac0067e2
+  ws-opts:
+    path: /a8dee04e
+- alterId: 0
+  cipher: auto
+  country: mattkaydiary.com|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别(可能是中转节点)_3
+  name: '237,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #12'
+  network: ws
+  port: 26104
+  server: V104.bgpnet.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  ws-opts:
+    headers:
+      host: V104.bgpnet.top
+    path: /admin
+- alterId: 0
+  cipher: auto
+  country: mattkaydiary.com|中国香港/中国台湾(CN)China/Beijing/小东的程序未能精准识别(可能是中转节点)_17
+  name: '237,342,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #14'
+  network: tcp
+  port: 47389
+  server: shcu.forgebukkit.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: f680dfd8-3b59-48af-aea8-1d4bc09a1705
+  ws-opts:
+    headers:
+      host: shcu.forgebukkit.com
+    path: /564dfa20/
+- alterId: 0
+  cipher: auto
+  country: mattkaydiary.com|中国香港/中国台湾(CN)China/Beijing/小东的程序未能精准识别(可能是中转节点)_20
+  name: '237,342,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #15'
+  network: tcp
+  port: 26309
+  server: V309.bgpnet.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  ws-opts:
+    headers:
+      host: download.windowsupdate.com
+    path: /admin
+- alterId: 0
+  cipher: auto
+  country: mattkaydiary.com|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别(可能是中转节点)_30
+  name: '237,342,345,362|mattkaydiary.com|中国香港/中国台湾(CN)... #17'
+  network: tcp
+  port: 26203
+  server: V203.bgpnet.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ef361c83-8b89-3950-9c9b-6ccc177e6285
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 301|🇺🇸_US_美国->🇿🇦_ZA_南非_0@21
+  network: ws
+  port: 80
+  server: yhnsb3.shabijichang.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c458695d-6908-45c3-9512-e0c46418454c
+  ws-opts:
+    headers:
+      host: yhnsb3.shabijichang.com
+    path: /
+- alterId: 64
+  cipher: auto
+  name: 312|法国(yudou66.com 玉豆免费节点)
+  network: tcp
+  port: '58812'
+  server: 51.195.35.149
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 64
+  cipher: auto
+  name: 342|中转 7
+  network: tcp
+  port: '53300'
+  server: 112.29.94.22
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 342|中转 264
+  network: ws
+  port: '443'
+  server: 103.184.45.209
+  tls: true
+  type: vmess
+  uuid: ee5d4ca4-cb15-4201-ba4f-4709b5a833d4
+  ws-opts:
+    headers:
+      Host: v2341.jsvpn.xyz
+    path: /sdffsfdf
+- alterId: 0
+  cipher: auto
+  name: 342|中转 621
+  network: ws
+  port: '40041'
+  server: 223.111.183.122
+  tls: false
+  type: vmess
+  uuid: 1cd9d48e-4547-4ac9-8280-dddcb06f3892
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 64
+  cipher: auto
+  name: 342|中转 635
+  network: tcp
+  port: '50002'
+  server: 47.104.237.32
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 345|🇨🇳_CN_中国->🇺🇸_US_美国_1
+  network: ws
+  port: 16928
+  server: vip3.niuniupremium.xyz
+  servername: vip3.niuniupremium.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 2ab54438-8af9-3711-bf1a-676fcc144586
+  ws-opts:
+    path: /v2ray
+- alterId: 0
+  cipher: auto
+  name: 350|_SG_->🇺🇸_US_美国
+  network: ws
+  port: 80
+  server: 8.222.198.105
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ffffffff-ffff-ffff-ffff-ffffffffffff
+  ws-opts:
+    headers:
+      host: warp.chigua.tk
+    path: /
+- name: 350|_CN_国->🇺_UA_
+  network: tcp
+  password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
+  port: 10845
+  server: other.kunlun-ppg.com
+  skip-cert-verify: true
+  sni: alibaba-node.cn
+  type: trojan
+  udp: true
+- name: 350|🇳_CN_中国->🇺_US_美国_1
+  network: tcp
+  password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
+  port: 10837
+  server: other.kunlun-ppg.com
+  skip-cert-verify: true
+  sni: alibaba-node.cn
+  type: trojan
+  udp: true
+- name: 350|🇳_CN_中国->🇺🇸_US_美国_2
+  network: tcp
+  password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
+  port: 10838
+  server: other.kunlun-ppg.com
+  skip-cert-verify: true
+  sni: alibaba-node.cn
+  type: trojan
+  udp: true
+- name: 350|🇨🇳_CN_中国->🇺_US_美国_3
+  network: tcp
+  password: cb9c8687-b85d-4f43-88a3-4829e3ec27eb
+  port: 10850
+  server: other.kunlun-ppg.com
+  skip-cert-verify: true
+  sni: alibaba-node.cn
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 396|🇺🇸_US_美国->🇬🇧_GB_英国_34
+  network: ws
+  port: '443'
+  server: 172.67.51.152
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 8d2ba456-2f0d-4c13-b8a0-bff99c679709
+  ws-opts:
+    headers:
+      Host: lo.twittei.me
+    path: /ikun
+- alterId: 0
+  cipher: auto
+  name: 396|🇺🇸_US_美国->🇻🇳_VN_越南_2由快嘴科技提供：kk...
+  network: ws
+  port: '2052'
+  server: Tokyo.mfa.ee
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 992889a7-296e-4a44-98c2-0eb89af4411d
+  ws-opts:
+    headers:
+      Host: vnpt.iiio.wiki
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 396|🇺🇸_US_美国->🇨🇱_CL_智利_由快嘴科技提供：kkz...
+  network: ws
+  port: '80'
+  server: 172.67.149.81
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f31c0b34-977b-4c2b-acfa-becfdfc1f267
+  ws-opts:
+    headers:
+      Host: sdygarm.e5outllok.me
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 396|🇺🇸_US_美国->🇮🇹_IT_意大利_39
+  network: ws
+  port: '80'
+  server: 172.67.91.164
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 1db82775-c1fe-4305-94ff-eee83174528e
+  ws-opts:
+    headers:
+      Host: ml4.shabijichang.com
+    path: /
+- alterId: 64
+  cipher: auto
+  name: 396|🇨🇳_CN_中国->🇺🇸_US_美国_2_36
+  network: tcp
+  port: '54073'
+  server: 36.141.40.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 396|🇺🇸_US_美国->🇨🇳_CN_中国_2_23
+  network: ws
+  port: '80'
+  server: 172.67.211.253
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce
+  ws-opts:
+    headers:
+      Host: ca.ilovescp.com
+    path: /shirker
+- alterId: 0
+  cipher: auto
+  name: 396|🇺🇸_US_美国->🇨🇳_CN_中国_由快嘴科技提供：kkz...
+  network: ws
+  port: '80'
+  server: 172.67.149.100
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce
+  ws-opts:
+    headers:
+      Host: ca.ilovescp.com
+    path: /shirker
+- alterId: 4
+  cipher: auto
+  name: 404|🇯🇵 美国-vmess-jparm.fineyoo.cf44...
+  network: ws
+  port: 443
+  server: jparm.fineyoo.cf
+  tls: true
+  type: vmess
+  uuid: bd5ee249-fe7b-4669-a6d9-b3f5eecb98e6
+  ws-opts:
+    headers:
+      Host: jparm.fineyoo.cf
+    path: /123
+- alterId: 4
+  cipher: auto
+  name: 404|🇯🇵 美国-vmess-jparm.fineyoo.ml44...
+  network: ws
+  port: 443
+  server: jparm.fineyoo.ml
+  tls: true
+  type: vmess
+  uuid: 10ba478e-9de1-4aa9-c09e-7707025334d3
+  ws-opts:
+    headers:
+      Host: jparm.fineyoo.ml
+    path: /123
+- alterId: 4
+  cipher: auto
+  name: 404|🇯🇵 美国-vmess-jpamd.fineyoo.ml44...
+  network: ws
+  port: 443
+  server: jpamd.fineyoo.ml
+  tls: true
+  type: vmess
+  uuid: 35e5e2ea-1372-4745-dff8-fb2bd11016c4
+  ws-opts:
+    headers:
+      Host: jpamd.fineyoo.ml
+    path: /123
+- alterId: 4
+  cipher: auto
+  name: '404|🇰🇷 美国-vmess-amdkr.ptuu.ga443-被... #1'
+  network: ws
+  port: 443
+  server: amdkr.ptuu.ga
+  tls: true
+  type: vmess
+  uuid: a612b67f-a79b-4a71-a82b-a46906752023
+  ws-opts:
+    headers:
+      Host: amdkr.ptuu.ga
+    path: /408
+- alterId: 4
+  cipher: auto
+  name: '404|🇰🇷 美国-vmess-amdkr.ptuu.ml443-被... #1'
+  network: ws
+  port: 443
+  server: amdkr.ptuu.ml
+  tls: true
+  type: vmess
+  uuid: e2cdc305-dda7-465e-b675-ba0468d2a8b3
+  ws-opts:
+    headers:
+      Host: amdkr.ptuu.ml
+    path: /987
+- cipher: chacha20-ietf-poly1305
+  name: 404|🇯🇵 日本-ss-193.38.139.203807-被墙-...
+  password: G!yBwPWH3Vao
+  port: 807
+  server: 193.38.139.203
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 404|🇺🇸 美国-ss-mf01.xmss.vip18888-被墙...
+  password: 35b0f578-8961-4a2b-99a1-db9555e522e4
+  port: 18888
+  server: mf01.xmss.vip
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 405|_US_美国->🇳🇱_NL_荷兰
+  network: ws
+  port: 443
+  server: zfc.windowsupdate1.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 4c2e7f40-3011-4c77-a066-eda17440e985
+  ws-opts:
+    headers:
+      Host: nl2.yfjc.sbs
+    path: /yfjc/nl2?ed=2048
+- cipher: chacha20-ietf-poly1305
+  name: 405|_CN_中国->🇸🇬_SG_新加坡
+  password: 72f0fd15-fbb7-411f-8b33-e59a742300db
+  port: 24962
+  server: free.node.kk-proxy.pro
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 405|_US_美国->🇸🇬_SG_新加坡
+  network: ws
+  port: 80
+  server: cfyd.starsea.vip
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3
+  ws-opts:
+    headers:
+      Host: sg1-v2ray.sshkit.org
+    path: /sshkit/1736960111/64ee26041efcc/
+- alterId: 0
+  cipher: auto
+  name: 405|18|🇺🇸_US_美国->🇮🇳_IN_印度_2_42
+  network: ws
+  port: 80
+  server: 172.67.146.22
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 545e2bdb-ac6d-428f-82c7-7966be8d9ebc
+  ws-opts:
+    headers:
+      Host: mm.shabijichang.com
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 405|_FR_法国->🇨🇳_CN_中国
+  network: ws
+  port: 80
+  server: 173.245.49.236
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce
+  ws-opts:
+    headers:
+      Host: ca.ilovescp.com
+    path: /shirker

@@ -1,105 +1,27 @@
 proxies:
+- cipher: aes-256-cfb
+  country: ' ZZ'
+  name: 1,4|ChatGPT  ZZ_465
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 84.17.53.160
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809048
-  network: ws
-  port: '2096'
-  server: ch1.vmess.site.
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ''
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809031
-  network: ws
-  port: '2086'
-  server: ch1.vmess.site.
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: '65,66|🔒🇨🇭 CH 94.131.3.34 ◈ grpc:443 ... #2'
+  network: grpc
+  port: 443
+  server: ch1.vmess.site
   servername: ''
-  tls: false
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ''
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809022
-  network: ws
-  port: '2096'
-  server: ch1.vmess.site
-  servername: ch1.vmess.site.
   tls: true
   type: vmess
   uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809024
-  network: ws
-  port: '2083'
-  server: 94.131.3.34
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809017
-  network: ws
-  port: '2083'
-  server: ch1.vmess.site
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809040
-  network: ws
-  port: '2053'
-  server: 94.131.3.34
-  servername: ch1.vmess.site.
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809021
-  network: ws
-  port: '2087'
-  server: 94.131.3.34
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809035
+  name: 65,66,88|[mianfeifq/share]瑞士_0809035
   network: ws
   port: '443'
   server: ch1.vmess.site
@@ -113,38 +35,36 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809026
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: '65,66|🔒🇺🇸 US 88.218.93.4 ◈ grpc:443 ... #3'
+  network: grpc
+  port: 443
+  server: speed.cloudflare.com
+  servername: nl2.vmess.site
+  tls: true
+  type: vmess
+  uuid: 8f9106d9-1d72-5757-bc92-6e832933c810
+- alterId: 0
+  cipher: auto
+  name: '65,66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:443 ◈ ... #5'
   network: ws
-  port: '2095'
-  server: ch1.vmess.site
-  servername: ''
-  tls: false
+  port: 443
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site
+  tls: true
   type: vmess
   uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
   ws-opts:
     headers:
-      Host: ''
+      Host: ch1.vmess.site
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809055
+  name: '65,66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:443 ◈ ... #6'
   network: ws
-  port: '8080'
-  server: 94.131.3.34
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809006
-  network: ws
-  port: '8443'
-  server: ch1.vmess.site
+  port: 443
+  server: speed.cloudflare.com
   servername: ch1.vmess.site.
   tls: true
   type: vmess
@@ -155,7 +75,75 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809019
+  name: '65,66|🔒🇨🇭 CH 94.131.12.203 ◈ ws:443 ... #1'
+  network: ws
+  port: 443
+  server: speed.cloudflare.com
+  servername: ch2.vmess.site.
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: 65,66|💰💥🇨🇭 CH 94.131.3.34 ◈ grpc:205...
+  network: grpc
+  port: 2053
+  server: ch1.vmess.site
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+- alterId: 0
+  cipher: auto
+  name: 65,66,88|[mianfeifq/share]美国_08093279
+  network: ws
+  port: '2053'
+  server: ch2.vmess.site.
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 65,66|💰💥🇨🇭 CH 94.131.12.203 ◈ ws:208...
+  network: ws
+  port: 2083
+  server: ch2.vmess.site.
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🔒🇨🇭 CH 94.131.12.203 ◈ ws:8443... #1'
+  network: ws
+  port: 8443
+  server: ch2.vmess.site.
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 65,66,88|[mianfeifq/share]瑞士_0809019
   network: ws
   port: '80'
   server: ch1.vmess.site
@@ -169,7 +157,591 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809007
+  name: '65,66|💰🇨🇭 CH 94.131.12.203 ◈ ws:80 ◈... #1'
+  network: ws
+  port: 80
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇨🇭 CH 94.131.3.34 ◈ ws:80 ◈ St... #4'
+  network: ws
+  port: '80'
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇨🇭 CH 94.131.3.34 ◈ ws:80 ◈ St... #5'
+  network: ws
+  port: 80
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇨🇭 CH 94.131.12.203 ◈ ws:80 ◈ ... #1'
+  network: ws
+  port: 80
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇨🇭 CH 94.131.12.203 ◈ ws:8080 ... #1'
+  network: ws
+  port: 8080
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:443 ◈ ... #3'
+  network: ws
+  port: 443
+  server: ch1.vmess.site
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809018
+  network: ws
+  port: '2053'
+  server: ch1.vmess.site
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2053 ◈...
+  network: ws
+  port: 2053
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: '66|🔒🇺🇸 US 88.218.93.4 ◈ grpc:2053... #1'
+  network: grpc
+  port: 2053
+  server: speed.cloudflare.com
+  servername: nl2.vmess.site
+  tls: true
+  type: vmess
+  uuid: 8f9106d9-1d72-5757-bc92-6e832933c810
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2053 ◈... #2'
+  network: ws
+  port: 2053
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2053 ◈... #3'
+  network: ws
+  port: 2053
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.12.203 ◈ ws:2053... #1'
+  network: ws
+  port: 2053
+  server: speed.cloudflare.com
+  servername: ch2.vmess.site.
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ grpc:2083...
+  network: grpc
+  port: 2083
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809017
+  network: ws
+  port: '2083'
+  server: ch1.vmess.site
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2083 ◈...
+  network: ws
+  port: 2083
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: '66|🔒🇺🇸 US 88.218.93.4 ◈ grpc:2083... #1'
+  network: grpc
+  port: 2083
+  server: speed.cloudflare.com
+  servername: nl2.vmess.site
+  tls: true
+  type: vmess
+  uuid: 8f9106d9-1d72-5757-bc92-6e832933c810
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2083 ◈... #2'
+  network: ws
+  port: 2083
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2083 ◈... #3'
+  network: ws
+  port: 2083
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🔒🇨🇭 CH 94.131.12.203 ◈ ws:2083...
+  network: ws
+  port: 2083
+  server: speed.cloudflare.com
+  servername: ch2.vmess.site.
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ grpc:2087...
+  network: grpc
+  port: 2087
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+- alterId: 0
+  cipher: auto
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2087 ◈...
+  network: ws
+  port: 2087
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809012
+  network: ws
+  port: '2087'
+  server: ch1.vmess.site
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|💰💥🇨🇭 CH 94.131.12.203 ◈ ws:208... #1'
+  network: ws
+  port: 2087
+  server: ch2.vmess.site.
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: '66|🔒🇺🇸 US 88.218.93.4 ◈ grpc:2087... #1'
+  network: grpc
+  port: 2087
+  server: speed.cloudflare.com
+  servername: nl2.vmess.site
+  tls: true
+  type: vmess
+  uuid: 8f9106d9-1d72-5757-bc92-6e832933c810
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2087 ◈... #2'
+  network: ws
+  port: 2087
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2087 ◈... #3'
+  network: ws
+  port: 2087
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ grpc:2096...
+  network: grpc
+  port: 2096
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2096 ◈... #1'
+  network: ws
+  port: 2096
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809022
+  network: ws
+  port: '2096'
+  server: ch1.vmess.site
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]美国_08093502
+  network: ws
+  port: '2096'
+  server: ch2.vmess.site.
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: '66|🔒🇺🇸 US 88.218.93.4 ◈ grpc:2096... #1'
+  network: grpc
+  port: 2096
+  server: speed.cloudflare.com
+  servername: nl2.vmess.site
+  tls: true
+  type: vmess
+  uuid: 8f9106d9-1d72-5757-bc92-6e832933c810
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2096 ◈... #2'
+  network: ws
+  port: 2096
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:2096 ◈... #3'
+  network: ws
+  port: 2096
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.12.203 ◈ ws:2096... #1'
+  network: ws
+  port: 2096
+  server: speed.cloudflare.com
+  servername: ch2.vmess.site.
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: 66|🔒🇨🇭 CH 94.131.3.34 ◈ grpc:8443...
+  network: grpc
+  port: 8443
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:8443 ◈... #1'
+  network: ws
+  port: 8443
+  server: ch1.vmess.site
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809006
+  network: ws
+  port: '8443'
+  server: ch1.vmess.site
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: vmess-grpc
+  name: 66|🔒🇺🇸 US 88.218.93.4 ◈ grpc:8443...
+  network: grpc
+  port: 8443
+  server: speed.cloudflare.com
+  servername: nl2.vmess.site
+  tls: true
+  type: vmess
+  uuid: 8f9106d9-1d72-5757-bc92-6e832933c810
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:8443 ◈... #2'
+  network: ws
+  port: 8443
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.3.34 ◈ ws:8443 ◈... #3'
+  network: ws
+  port: 8443
+  server: speed.cloudflare.com
+  servername: ch1.vmess.site
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇨🇭 CH 94.131.12.203 ◈ ws:8443... #2'
+  network: ws
+  port: 8443
+  server: speed.cloudflare.com
+  servername: ch2.vmess.site.
+  tls: true
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:80 ◈ St... #2'
+  network: ws
+  port: 80
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:80 ◈ St... #3'
+  network: ws
+  port: 80
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809007
   network: ws
   port: '2052'
   server: ch1.vmess.site
@@ -183,7 +755,413 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809025
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2052 ◈ ... #1'
+  network: ws
+  port: 2052
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.3.34 ◈ ws:2052 ◈...
+  network: ws
+  port: 2052
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.12.203 ◈ ws:2052 ...
+  network: ws
+  port: 2052
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.12.203 ◈ ws:2052...
+  network: ws
+  port: 2052
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2052 ◈ ... #2'
+  network: ws
+  port: 2052
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2052 ◈ ... #3'
+  network: ws
+  port: 2052
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.12.203 ◈ ws:2052 ... #1'
+  network: ws
+  port: 2052
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.3.34 ◈ ws:2082 ◈ ...
+  network: ws
+  port: 2082
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2082 ◈ ... #1'
+  network: ws
+  port: 2082
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809052
+  network: ws
+  port: '2082'
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.12.203 ◈ ws:2082 ...
+  network: ws
+  port: 2082
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2082 ◈ ... #2'
+  network: ws
+  port: 2082
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2082 ◈ ... #3'
+  network: ws
+  port: 2082
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.12.203 ◈ ws:2082 ... #1'
+  network: ws
+  port: 2082
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.3.34 ◈ ws:2086 ◈ ...
+  network: ws
+  port: 2086
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809030
+  network: ws
+  port: '2086'
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.3.34 ◈ ws:2086 ◈...
+  network: ws
+  port: 2086
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]美国_08093214
+  network: ws
+  port: '2086'
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.12.203 ◈ ws:2086...
+  network: ws
+  port: 2086
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2086 ◈ ... #2'
+  network: ws
+  port: 2086
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2086 ◈ ... #3'
+  network: ws
+  port: 2086
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.12.203 ◈ ws:2086 ... #1'
+  network: ws
+  port: 2086
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809026
+  network: ws
+  port: '2095'
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2095 ◈ ... #1'
+  network: ws
+  port: 2095
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.3.34 ◈ ws:2095 ◈...
+  network: ws
+  port: 2095
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2095 ◈ ... #2'
+  network: ws
+  port: 2095
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:2095 ◈ ... #3'
+  network: ws
+  port: 2095
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.12.203 ◈ ws:2095 ...
+  network: ws
+  port: 2095
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.3.34 ◈ ws:8080 ◈ ...
+  network: ws
+  port: 8080
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809025
   network: ws
   port: '8080'
   server: ch1.vmess.site
@@ -197,7 +1175,279 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809016
+  name: 66|💰🇨🇭 CH 94.131.3.34 ◈ ws:8080 ◈...
+  network: ws
+  port: 8080
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.12.203 ◈ ws:8080...
+  network: ws
+  port: 8080
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:8080 ◈ ... #2'
+  network: ws
+  port: 8080
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:8080 ◈ ... #3'
+  network: ws
+  port: 8080
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.12.203 ◈ ws:8080 ... #2'
+  network: ws
+  port: 8080
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇨🇭 CH 94.131.3.34 ◈ ws:8880 ◈ ...
+  network: ws
+  port: 8880
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:8880 ◈ ... #1'
+  network: ws
+  port: 8880
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]瑞士_0809041
+  network: ws
+  port: '8880'
+  server: ch1.vmess.site
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]美国_08093487
+  network: ws
+  port: '8880'
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇨🇭 CH 94.131.12.203 ◈ ws:8880...
+  network: ws
+  port: 8880
+  server: ch2.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:8880 ◈ ... #2'
+  network: ws
+  port: 8880
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.3.34 ◈ ws:8880 ◈ ... #3'
+  network: ws
+  port: 8880
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇨🇭 CH 94.131.12.203 ◈ ws:8880 ... #1'
+  network: ws
+  port: 8880
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a6f2c15f-4ee6-5539-8cdb-abe760037afc
+  ws-opts:
+    headers:
+      Host: ch2.vmess.site.
+    path: /vmess
+- cipher: aes-256-cfb
+  name: 74,327|🇨_CH_
+  password: asdKkaskJKfnsa
+  port: 80
+  server: 84.17.53.163
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809048
+  network: ws
+  port: '2096'
+  server: ch1.vmess.site.
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809031
+  network: ws
+  port: '2086'
+  server: ch1.vmess.site.
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ''
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809024
+  network: ws
+  port: '2083'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809040
+  network: ws
+  port: '2053'
+  server: 94.131.3.34
+  servername: ch1.vmess.site.
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809021
+  network: ws
+  port: '2087'
+  server: 94.131.3.34
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809055
+  network: ws
+  port: '8080'
+  server: 94.131.3.34
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
+  ws-opts:
+    headers:
+      Host: ch1.vmess.site.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]瑞士_0809016
   network: ws
   port: '2087'
   server: ch1.vmess.site.
@@ -211,7 +1461,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809013
+  name: 88|[mianfeifq/share]瑞士_0809013
   network: ws
   port: '2096'
   server: 94.131.3.34
@@ -225,7 +1475,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809038
+  name: 88|[mianfeifq/share]瑞士_0809038
   network: ws
   port: '2083'
   server: ch1.vmess.site.
@@ -239,7 +1489,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809053
+  name: 88|[mianfeifq/share]瑞士_0809053
   network: ws
   port: '443'
   server: 94.131.3.34
@@ -253,7 +1503,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809027
+  name: 88|[mianfeifq/share]瑞士_0809027
   network: ws
   port: '2082'
   server: 94.131.3.34
@@ -267,7 +1517,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809020
+  name: 88|[mianfeifq/share]瑞士_0809020
   network: ws
   port: '8443'
   server: 94.131.3.34
@@ -281,7 +1531,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809039
+  name: 88|[mianfeifq/share]瑞士_0809039
   network: ws
   port: '8880'
   server: ch1.vmess.site.
@@ -295,21 +1545,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809012
-  network: ws
-  port: '2087'
-  server: ch1.vmess.site
-  servername: ch1.vmess.site.
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809008
+  name: 88|[mianfeifq/share]瑞士_0809008
   network: ws
   port: '2053'
   server: ch1.vmess.site.
@@ -323,7 +1559,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809014
+  name: 88|[mianfeifq/share]瑞士_0809014
   network: ws
   port: '2052'
   server: 94.131.3.34
@@ -337,21 +1573,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809052
-  network: ws
-  port: '2082'
-  server: ch1.vmess.site
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809033
+  name: 88|[mianfeifq/share]瑞士_0809033
   network: ws
   port: '2086'
   server: 94.131.3.34
@@ -365,35 +1587,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809030
-  network: ws
-  port: '2086'
-  server: ch1.vmess.site
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ''
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809018
-  network: ws
-  port: '2053'
-  server: ch1.vmess.site
-  servername: ch1.vmess.site.
-  tls: true
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: ch1.vmess.site.
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809051
+  name: 88|[mianfeifq/share]瑞士_0809051
   network: ws
   port: '8443'
   server: ch1.vmess.site.
@@ -407,7 +1601,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809036
+  name: 88|[mianfeifq/share]瑞士_0809036
   network: ws
   port: '443'
   server: ch1.vmess.site.
@@ -421,7 +1615,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809011
+  name: 88|[mianfeifq/share]瑞士_0809011
   network: ws
   port: '8080'
   server: ch1.vmess.site.
@@ -435,7 +1629,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809054
+  name: 88|[mianfeifq/share]瑞士_0809054
   network: ws
   port: '2082'
   server: ch1.vmess.site.
@@ -449,7 +1643,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809044
+  name: 88|[mianfeifq/share]瑞士_0809044
   network: ws
   port: '2095'
   server: 94.131.3.34
@@ -463,7 +1657,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809034
+  name: 88|[mianfeifq/share]瑞士_0809034
   network: ws
   port: '2095'
   server: ch1.vmess.site.
@@ -477,7 +1671,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809032
+  name: 88|[mianfeifq/share]瑞士_0809032
   network: ws
   port: '8880'
   server: 94.131.3.34
@@ -491,21 +1685,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809041
-  network: ws
-  port: '8880'
-  server: ch1.vmess.site
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: dacedfe6-a3bb-5c27-ac80-b5f22e6f2c30
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /vmess
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]瑞士_0809045
+  name: 88|[mianfeifq/share]瑞士_0809045
   network: ws
   port: '2052'
   server: ch1.vmess.site.
@@ -517,3 +1697,73 @@ proxies:
     headers:
       Host: ''
     path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 162|瑞士_121320001
+  network: ws
+  port: '15139'
+  server: 136.0.9.8
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ca13f999-6ac7-4b49-ed57-cf6abcd371e0
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '166,167,289|🆔@LuxyNet💎❖❖CH❖19 #2'
+  network: tcp
+  port: 85
+  server: w8w.jelicc-ray.shop
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c03b6565-fd0c-43fc-89d8-f3e7ab7f3d5e
+- alterId: 0
+  cipher: auto
+  name: '166,167,289|🆔@LuxyNet💎❖🇭❖CH❖57 #1'
+  network: ws
+  port: 443
+  server: v2node8.bipbupvpn.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 4e048d74-e46e-431f-a2f6-e81164e312e5
+  ws-opts:
+    headers:
+      host: v2node8.bipbupvpn.com
+    path: /AAA
+- cipher: aes-128-cfb
+  name: '166,167,172,219,289,295,344|🇨CH-156.146.62.160-5182 #1'
+  password: shadowsocks
+  port: 443
+  server: 156.146.62.160
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: '219,344|🇨CH-185.126.116.125-0152 #1'
+  password: aLpQtfEZe445QyHk
+  port: 9098
+  server: 185.126.116.125
+  type: ss
+- alterId: -1
+  cipher: aes-256-ctr
+  name: '252,376|CH??SSRSUB_1969128776 #1'
+  password: JHe7ay97yuw8ue
+  plugin: obfs
+  plugin-opts:
+    host: 607ab498e8.v4-dy.ixigua.com
+    mode: http
+  port: 37041
+  server: speedtest-rtc.xtspeeder002.xyz
+  type: ss
+- alterId: -1
+  cipher: chacha20-ietf-poly1305
+  country: 🇨🇳CN
+  name: 298|CH😈github.com/Ruk1ng001_-19003...
+  password: 3eb2f289-790c-401f-b991-07031de3e7a1
+  port: 35501
+  server: gw.liangyuandianwan.com
+  type: ss

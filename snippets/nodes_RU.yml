@@ -1,14 +1,969 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: '1,65,66,70,71,141,150,307|Russia #5'
+  network: ws
+  port: 12910
+  server: 22.lwdh.us
+  servername: ''
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- cipher: aes-256-cfb
+  country: ' RU'
+  name: '1,4,5,130,141,172,295|🇷🇺 RU 38 → tg@nicevpn123 #1'
+  password: UkXRsXvR6buDMG2Y
+  port: 9001
+  server: 45.89.52.66
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 1,4,5,130,141|🇱NL(AzadNet.t.me)_014
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 1,4,5,130,141|🇳🇱NL(AzadNet.t.me)_012
+  password: M3t2ZEQcMGRWBjRa
+  port: 9011
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 1,4,5,130,141|🇱NL(AzadNet.t.me)_011
+  password: PeHSHm5SqEjBuEXE
+  port: 9065
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: ' ZZ'
+  name: '1,4,35,109,130,166,167,172,219,289,295,344|🇷TR-45.89.52.66-0826 #1'
+  password: p9z5BVADH2YFs3MN
+  port: 9040
+  server: 45.89.52.66
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 1,4,5,113,130,141|🇱NL(AzadNet.t.me)_008
+  password: ZET59LF6DvCC8KVt
+  port: 9005
+  server: 45.89.52.66
+  type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 8,10|🇺 DX-SS|1x
-  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
-  port: 10871
-  server: hzgg.ewenhot.top
+  country: 🇺 RU
+  name: 1,4,130|🇷🇺 RU_704
+  password: yeKtZW31qXeZbAz8HsH4zFui7aseIogssEK7X9XZsLZcUjw6
+  port: 51348
+  server: 89.185.84.34
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: 1,4,5,130,141|🇱NL(AzadNet.t.me)_013
+  password: JdmRK9gMEqFgs8nP
+  port: 9003
+  server: 45.89.52.66
+  type: ss
+- cipher: aes-256-cfb
+  country: ' RU'
+  name: 1,4,5,130,141|🇱NL(AzadNet.t.me)_007
+  password: a3GFYt36Sm82Vys9
+  port: 9000
+  server: 45.89.52.66
+  type: ss
+- alterId: 0
+  cipher: chacha20-ietf-poly1305
+  country: RU
+  name: '1,5,6,11,55,102,126,141,172,219,260,295,344,385|🇺RU 5.1MB/s #3'
+  password: qgpdyzHj8rZW9fDxxkUHRI
+  port: 29312
+  server: 217.196.103.206
+  skip-cert-verify: true
+  tls: true
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: 🇺RU
+  name: '1,4,133,219,344|NO-46.29.238.83-0610 #1'
+  password: DkK3bmkKh2rdK9k6EXSOQv
+  port: 44908
+  server: 46.29.238.83
+  type: ss
+- cipher: aes-256-gcm
+  country: ' ZZ'
+  name: 1,4,124| ZZ_1221
+  password: p6QjG0ecJLavSmQCooRAA0
+  port: 47960
+  server: 176.120.73.67
+  type: ss
+- alterId: -1
+  cipher: aes-256-cfb
+  country: 🇿KZ
+  name: '1,4,5,9,10,35,74,127,130,141,172,219,295,298,344|🇰KZ-213.156.137.67-0787
+    #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 213.156.137.67
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: 🇷🇺 RU
+  name: 1,4,74,113,124,130|🇺 RU_706
+  password: lTV4fQ2JkTnXD8GoYzwOSg
+  port: 22195
+  server: 147.45.50.104
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: RU
+  name: '1,109,113,124,172,295|🇷🇺 RU 2 → tg@nicevpn123 #1'
+  password: u3vnfMkutB4brBoGSkAphE
+  port: 60422
+  server: 195.2.76.71
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: RU
+  name: 1,109|RU_730
+  password: DuflpI1WRNGoGfwLk9kWHc8MlxkFPjkdeEHy1tmKh5R7qi8v
+  port: 51348
+  server: 45.150.108.126
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇺RU
+  name: 1,4,109,130|🇺RU_723
+  password: F4fChWGojIcmxuMROuVQIQKGKRdg09vKfGp2STzSrdzrUSwZ
+  port: 51348
+  server: 45.87.219.110
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: 🇺 RU
+  name: 1,4,109,130| RU_703
+  password: 3GNhODxPaSK9z2E82pzI1b
+  port: 14249
+  server: 80.242.58.174
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: RU
+  name: 1|RU_1195
+  password: HEJzTrzfmXkIkMHr8YooKE
+  port: 21076
+  server: 80.66.64.39
+  type: ss
+- cipher: aes-256-cfb
+  country: RU
+  name: 1|Pool_RU_1196
+  obfs: plain
+  obfs-param: ab93117422.jd.hk
+  password: vyunme
+  port: 443
+  protocol: auth_aes128_sha1
+  protocol-param: 17422:TTp0SX
+  server: 45.130.146.86
+  type: ssr
+- alterId: 0
+  cipher: auto
+  country: 🇺RU
+  h2-opts: {}
+  http-opts: {}
+  name: 1,6,11,13,126|🇷🇺RU_30 |10.02Mb
+  network: ws
+  port: 80
+  server: 185.174.138.60
+  servername: dl2.127.0.0.1.p..ka.kl3ksacad3my..wonkacapitano.buzz.
+  skip-cert-verify: true
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      HOST: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  country: RU
+  h2-opts: {}
+  http-opts: {}
+  name: 1|RU_1198
+  network: ws
+  port: 12910
+  server: 194.87.69.102
+  servername: 22.lwdh.us
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      HOST: 22.lwdh.us
+    path: /
+- cipher: aes-256-cfb
+  country: ' RU'
+  name: '5,109,130,141,166,167,172,219,289,295,344|🇹🇷TR-45.89.52.66-8480 #1'
+  password: U6qnYRhfyDmn8sgn
+  port: 9041
+  server: 45.89.52.66
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: 🇷🇺 RU
+  name: '5,9,10,109,126,127,130,219,344|🇴NO-46.29.238.83-0618 #1'
+  password: B4Nokj3Yqfta6tWqum6r8k
+  port: 28768
+  server: 46.29.238.83
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: RU
+  name: 7|RU_91
+  password: GXGhsxweEyBgvyUc5Xaoae
+  port: 15708
+  server: 77.91.103.108
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: RU
+  name: '7,166,167,172,219,289,295,344|AT-212.113.106.243-6297 #1'
+  password: w5drAL7PfCIwQ2ycUuoDsV2Ls
+  port: 13022
+  server: 212.113.106.243
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: RU
+  name: '7,166,167,172,219,289,295,344|🇹AT-212.113.106.243-6298 #1'
+  password: P2zxXPewlV3BlfqqYiSthvtLc
+  port: 12949
+  server: 212.113.106.243
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]俄罗斯联邦_0809059
+  country: RU
+  h2-opts: {}
+  http-opts: {}
+  name: 11,65,66,70|09-511-FI
+  network: ws
+  port: 443
+  server: fi3.connecton.surf
+  servername: ''
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 5b38505e-c09a-483c-a60e-6a6a3f2dc152
+  ws-opts:
+    headers:
+      host: fi3.connecton.surf
+    path: vmess
+- alterId: 0
+  cipher: auto
+  name: '35,68,88,150,152,158,159,189,205,218,219,274,284,285,297,305,307,319,344,408|俄罗斯联邦_0808004
+    #1'
+  network: ws
+  port: '12910'
+  server: 22.lwdh.us
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: 22.lwdh.us
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 47|RU🇷🇺 | rus5.hologate22.com-484...
+  network: tcp
+  port: '48440'
+  server: rus5.hologate22.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 00834102-53fc-7462-7849-22a396503e11
+- alterId: 0
+  cipher: auto
+  name: 47,71|03-190-RU
+  network: tcp
+  port: 48440
+  server: rus4.hologate22.com
+  servername: ''
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 00834102-53fc-7462-7849-22a396503e11
+  ws-opts:
+    headers:
+      host: rus4.hologate22.com
+    path: None
+- alterId: 0
+  cipher: auto
+  name: '48,346|🇺RU-195.133.53.192-061 #1'
+  network: ws
+  port: 43688
+  server: 195.133.53.192
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: bd1c8b57-0a9e-4e9f-a261-48e90c871e41
+  ws-headers:
+    Host: 195.133.53.192
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: '48,346|🇷🇺RU-195.133.53.192-062 #1'
+  network: ws
+  port: 14369
+  server: 195.133.53.192
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 2331affa-1194-45ae-9457-3746120c4751
+  ws-headers:
+    Host: 195.133.53.192
+  ws-path: /
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: '48,113,185,192,236,316,346,360|🇷🇺 俄罗斯|@ripaojiedian #1'
+  password: d8285a86cdb003de
+  port: 62135
+  server: 46.17.44.16
+  tfo: false
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: '65,66|💰💥🇷🇺 RU 103.113.68.233 ◈ ws:44... #1'
+  network: ws
+  port: 443
+  server: 103.113.68.233
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇷🇺 RU 45.15.158.100 ◈ ws:80 ◈ ... #5'
+  network: ws
+  port: '80'
+  server: 151.101.65.57
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5366532d-8a55-4bb7-9224-09aaee6f809f
+  ws-opts:
+    headers:
+      Host: dbdjhiw72ebsu272hs519j.com
+    path: ws/?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇷🇺 RU 45.15.158.100 ◈ ws:80 ◈ ... #6'
+  network: ws
+  port: '80'
+  server: 151.101.129.57
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5366532d-8a55-4bb7-9224-09aaee6f809f
+  ws-opts:
+    headers:
+      Host: dbdjhiw72ebsu272hs519j.com
+    path: ws/?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇷🇺 RU 45.15.158.100 ◈ ws:80 ◈ ... #7'
+  network: ws
+  port: '80'
+  server: 151.101.193.57
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5366532d-8a55-4bb7-9224-09aaee6f809f
+  ws-opts:
+    headers:
+      Host: dbdjhiw72ebsu272hs519j.com
+    path: ws/?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 65,66,88|[mianfeifq/share]美国_08093829
+  network: ws
+  port: '80'
+  server: fastly.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2b2f8032-8347-40ac-af1d-03396971e512
+  ws-opts:
+    headers:
+      Host: dbdjhiw72ebsu272hs519j.com
+    path: ws/?ed=2048
+- alterId: 0
+  cipher: auto
+  name: '65,66|💰🇷🇺 RU 103.113.68.233 ◈ ws:80 ... #1'
+  network: ws
+  port: 80
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '65,66|🇷🇺 RU 103.113.68.233 ◈ ws:80 ◈... #2'
+  network: ws
+  port: 80
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🔒🇷🇺 RU 194.87.69.102 ◈ ws:1291... #1'
+  network: ws
+  port: '12910'
+  server: 22.lwdh.us
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    headers:
+      Host: 45.136.245.240
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 66|💰💥🇷🇺 RU 103.113.68.233 ◈ ws:20...
+  network: ws
+  port: 2053
+  server: 103.113.68.233
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|💰💥🇷🇺 RU 103.113.68.233 ◈ ws:20... #1'
+  network: ws
+  port: 2083
+  server: 103.113.68.233
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|💰💥🇷🇺 RU 103.113.68.233 ◈ ws:20... #2'
+  network: ws
+  port: 2087
+  server: 103.113.68.233
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|💰💥🇷🇺 RU 103.113.68.233 ◈ ws:20... #3'
+  network: ws
+  port: 2096
+  server: 103.113.68.233
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰💥🇷🇺 RU 103.113.68.233 ◈ ws:84...
+  network: ws
+  port: 8443
+  server: 103.113.68.233
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  tls: true
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:80 ◈... #1'
+  network: ws
+  port: 80
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]印度_0809033
+  network: ws
+  port: '2052'
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇷🇺 RU 103.113.68.233 ◈ ws:205...
+  network: ws
+  port: 2052
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:2052... #1'
+  network: ws
+  port: 2052
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]印度_0809027
+  network: ws
+  port: '2082'
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇷🇺 RU 103.113.68.233 ◈ ws:208...
+  network: ws
+  port: 2082
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:2082... #1'
+  network: ws
+  port: 2082
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]印度_0809025
+  network: ws
+  port: '2086'
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|💰🇷🇺 RU 103.113.68.233 ◈ ws:208... #1'
+  network: ws
+  port: 2086
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:2086... #1'
+  network: ws
+  port: 2086
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]印度_0809034
+  network: ws
+  port: '2095'
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇷🇺 RU 103.113.68.233 ◈ ws:209...
+  network: ws
+  port: 2095
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:2095... #1'
+  network: ws
+  port: 2095
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|🇷🇺 RU 103.113.68.233 ◈ ws:8080...
+  network: ws
+  port: 8080
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]印度_0809024
+  network: ws
+  port: '8080'
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:8080... #1'
+  network: ws
+  port: 8080
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66,88|[mianfeifq/share]印度_0809031
+  network: ws
+  port: '8880'
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 66|💰🇷🇺 RU 103.113.68.233 ◈ ws:888...
+  network: ws
+  port: 8880
+  server: 103.113.68.233
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '66|🇷🇺 RU 103.113.68.233 ◈ ws:8880... #1'
+  network: ws
+  port: 8880
+  server: speed.cloudflare.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 91a80c8a-fcc2-53e1-9184-791cafbdbbc9
+  ws-opts:
+    headers:
+      Host: 127.0.0.1.xn--mrarsha-u14kg170aoz6b.xn--k0-7kca2dgf9a.xn--7ouw81ecmeonp4if.xn--b-htbcaocryksfm1j.wonkacapitano.buzz.
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '68,205,218,219,344|🇺RU-45.136.244.181-1015 #1'
+  network: ws
+  port: 80
+  server: 45.136.244.181
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: a25881f3-967f-3265-bc7f-9e66857b016b
+  ws-opts:
+    path: /fr-unlimitxxx
+- alterId: 0
+  cipher: auto
+  name: '68,158,166,167,177,205,218,219,289,302,344|🇺RU-185.143.220.25-8743 #1'
+  network: ws
+  port: 443
+  server: 185.143.220.25
+  servername: dengxin.one
+  skip-cert-verify: false
+  tls: true
+  type: vmess
+  uuid: f28e354e-c2d1-4983-9b07-5acaf1b3b3e5
+  ws-opts:
+    path: /6e9EtZ2dL
+- alterId: 0
+  cipher: auto
+  name: '68,157,205,218,219,266,281,344,398|这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使... #189'
+  network: ws
+  port: '80'
+  server: 45.136.244.181
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: a25881f3-967f-3265-bc7f-9e66857b016b
+  ws-opts:
+    headers:
+      Host: 45.136.244.181
+    path: /fr-unlimitxxx
+- alterId: 0
+  cipher: auto
+  name: '68,205,218,219,344|🇺RU-45.129.2.237-2809 #1'
+  network: ws
+  port: 10258
+  server: 45.129.2.237
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: add194d6-192c-4ea3-a5af-eea994390831
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '68,119,181,192,193,205,218,219,237,292,308,344,345,362|🇷🇺_RU_俄罗斯联邦_1 #1'
+  network: ws
+  port: 12910
+  server: 45.136.245.240
+  servername: 22.lwdh.us
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: '68,205,218,219,344|🇺RU-194.87.248.27-3466 #1'
+  network: http
+  port: 26743
+  server: 194.87.248.27
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 59952a8e-b712-4190-d85e-f9aadd65faa0
+- alterId: 0
+  cipher: auto
+  name: '68,205,218,219,344|🇺RU-91.193.181.192-3947 #1'
+  network: ws
+  port: 8090
+  server: 91.193.181.192
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 08bc30e1-be39-4eb4-e887-e6579be15a45
+  ws-opts:
+    path: /
+- alterId: 64
+  cipher: auto
+  http-opts:
+    headers:
+      Host:
+      - apple.com
+    method: GET
+    path:
+    - /
+  name: '68,205,218,219,344|🇺RU-176.119.159.245-5305 #1'
+  network: http
+  port: 37672
+  server: 176.119.159.245
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 86b4e35c-1061-47b3-8c6c-811d1853a477
+- alterId: 0
+  cipher: auto
+  name: '68,205,218,219,344|🇺RU-195.133.53.192-5510 #1'
+  network: ws
+  port: 43688
+  server: 195.133.53.192
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: bd1c8b57-0a9e-4e9f-a261-48e90c871e41
+  ws-opts:
+    headers:
+      Host: YouTube-aweikeji
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 71|03-062-RU
+  network: ws
+  port: 48440
+  server: 185.22.155.81
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 00834102-53fc-7462-7849-22a396503e11
+  ws-opts:
+    headers:
+      host: 185.22.155.81
+    path: None
+- alterId: 0
+  cipher: auto
+  name: 71|03-204-RU
+  network: ws
+  port: 48440
+  server: rus5.hologate22.com
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 00834102-53fc-7462-7849-22a396503e11
+  ws-opts:
+    headers:
+      host: rus5.hologate22.com
+    path: None
+- alterId: 0
+  cipher: auto
+  name: '74,75,189,219,319,344|🇺RU-195.133.53.192-0022 #1'
+  network: ws
+  port: 14369
+  server: 195.133.53.192
+  skip-cert-verify: false
+  skip-cert-vertify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 2331affa-1194-45ae-9457-3746120c4751
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 88,162|俄罗斯联邦_121320002
   network: ''
   port: '47555'
   server: 46.29.166.237
@@ -18,41 +973,7 @@ proxies:
   uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
 - alterId: 0
   cipher: auto
-  name: 9|[mianfeifq/share]俄罗斯联邦_0809036
-  network: tcp
-  port: '47555'
-  server: 46.29.166.237
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 0c49cd19-2758-4d38-e6a8-11f2d6635860
-- alterId: 0
-  cipher: auto
-  name: 9|[freefq]🇷🇺RU-194.87.69.102-190
-  network: ws
-  port: 12910
-  server: 22.lwdh.us
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
-  ws-opts:
-    headers:
-      Host: 22.lwdh.us
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]俄罗斯联邦_0809136
-  network: tcp
-  port: '2098'
-  server: f41.maryam1500.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
-- alterId: 0
-  cipher: auto
-  name: 9|[mianfeifq/share]俄罗斯联邦_0809132
+  name: 88|[mianfeifq/share]俄罗斯联邦_0809132
   network: tcp
   port: '2098'
   server: 185.247.184.115
@@ -62,7 +983,7 @@ proxies:
   uuid: 83876222-64a4-4912-aa18-b7d9d34959de
 - alterId: 0
   cipher: none
-  name: 9|[mianfeifq/share]俄罗斯联邦_0809071
+  name: '88,155,159,279,285|俄罗斯联邦_080913009 #1'
   network: ws
   port: '80'
   server: 185.174.138.60
@@ -74,3 +995,1369 @@ proxies:
     headers:
       Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
     path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '109,172,295|🇷🇺 RU 80 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 77.91.103.47
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 09e35fe0-2efd-44c1-96fb-46b7b3cc28eb
+  ws-opts:
+    path: /vmess
+- cipher: chacha20-ietf-poly1305
+  name: '109,172,295|🇷🇺 RU 59 → tg@nicevpn123 #1'
+  password: 3fbeb668f48414f6
+  port: 57456
+  server: 45.139.24.63
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '109,113,172,180,295|🇷🇺 RU 11 → tg@nicevpn123 #2'
+  password: Zu5sVdhPITkII1Rf9bUTjt0ws1nks4vgBoHhe7QxwEk0j3Ai
+  port: 51348
+  server: 146.185.198.44
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '109,155,159,200,279,285|俄罗斯联邦_080913010 #1'
+  network: ws
+  port: '54321'
+  server: eedp257bubu2wefy1.lovebaipiao.net
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
+  ws-opts:
+    headers:
+      Host: www.apple.com
+    path: /iphone
+- cipher: chacha20-ietf-poly1305
+  name: '113,172,295|🇷🇺 RU 6 → tg@nicevpn123 #2'
+  password: CkMpBwWZ0Cr1RhVVNSXXMp
+  port: 64930
+  server: 5.44.42.60
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '113,172,295|🇷🇺 RU 57 → tg@nicevpn123 #2'
+  password: xCoBqYZGaMivNlzIhjpIH5
+  port: 31212
+  server: 85.192.63.92
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '113,219,344|🇺RU-46.17.44.80-1075 #1'
+  network: ws
+  port: 54321
+  server: eedp257bubu2wefy1.lovebaipiao.net
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
+  ws-opts:
+    headers:
+      Host: eedp257bubu2wefy1.lovebaipiao.net
+    path: /iphone
+- alterId: 0
+  cipher: auto
+  country: 🇺 RU
+  h2-opts: {}
+  http-opts: {}
+  name: 130|🇷🇺 RU_707
+  network: ws
+  port: 443
+  server: 185.221.160.163
+  servername: worker-mute-bar-1719.nifotok993.workers.dev
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
+  ws-headers:
+    HOST: worker-mute-bar-1719.nifotok993.workers.dev
+  ws-path: /glweidf.cfd/linkws
+- cipher: aes-256-cfb
+  country: 🇷🇺RU
+  name: '130,166,167,219,289,344|🇷TR-45.89.52.66-1705 #1'
+  password: S7KwUu7yBy58S3Ga
+  port: 9042
+  server: 45.89.52.66
+  type: ss
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: /
+  name: '141,158|👉🆔 @v2ray_configs_pool #25'
+  network: grpc
+  port: '8443'
+  server: 85.159.229.8
+  servername: ''
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: afe57557-df24-43e5-9cea-5d2acc2cad08
+- alterId: 0
+  cipher: auto
+  name: '141,269,307,406|DE_speednode_0047 #1'
+  network: ws
+  port: 80
+  server: 80.92.204.207
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 12612b4e-e426-4b7c-84bd-4a02850abb1e
+  ws-opts:
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: 143|俄罗斯联邦_莫斯科
+  network: tcp
+  port: 56508
+  server: 45.147.200.170
+  tls: false
+  type: vmess
+  uuid: 892027cd-2cb5-40ca-9dbb-80191e28239c
+- alterId: 0
+  cipher: auto
+  name: '151,276|🇷🇺RU-195.133.53.253-4324 #1'
+  network: ws
+  port: '443'
+  server: 195.133.53.253
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 04b38baf-5b78-4937-b27a-83057b08b776
+  ws-opts:
+    headers:
+      Host: 195.133.53.253
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '152,189,251,305,319,375|🔒 VM-TCP-NA 🇷🇺 RU-185.22.155.8... #4'
+  network: tcp
+  port: '48440'
+  server: 185.22.155.81
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 00834102-53fc-7462-7849-22a396503e11
+- alterId: 0
+  cipher: auto
+  name: '157,281|俄罗斯 005 #2'
+  network: ws
+  port: 48443
+  server: v3.ssrsub.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: ec3e47e9-8dd7-4302-aa1a-a5658d34e931
+  ws-opts:
+    headers:
+      Host: douyincdn.com
+    path: /api/v3/download.getFile
+- alterId: 0
+  cipher: auto
+  name: '157,281|[vmess]🇷🇺[RU]v2.tgfaka.com:484... #1'
+  network: ws
+  port: '48443'
+  server: v2.tgfaka.com
+  tls: false
+  type: vmess
+  uuid: 6f48efb9-3817-4652-832f-fd04d93ebbc1
+  ws-opts:
+    headers:
+      Host: douyincdn.com
+    path: /api/v3/download.getFile
+- alterId: 2
+  cipher: auto
+  name: '157,281|github.com/mianfeifq |🇷🇺俄罗斯联邦(... #1'
+  network: ws
+  port: 443
+  server: 625tw01.fx6688.top
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa
+  ws-opts:
+    headers:
+      Host: ''
+    path: /ray
+- alterId: 0
+  cipher: auto
+  name: '157,281|Relay_🇷🇺RU-🇷🇺RU_102 #1'
+  network: ws
+  port: 80
+  server: v001.v2dns.bar
+  tls: false
+  type: vmess
+  uuid: c97cf46e-1554-36cb-8b36-c3556b883dc4
+  ws-opts:
+    headers:
+      Host: YouTube-aweikeji
+    path: /a11-dCeBnloadPy
+- alterId: 0
+  cipher: auto
+  name: '157,266,281,398|这些节点只能备用或者防止失联，虽然质量并不是很好，也请低调使... #142'
+  network: ws
+  port: '80'
+  server: v10a.toddns.tk
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a25881f3-967f-3265-bc7f-9e66857b016b
+  ws-opts:
+    headers:
+      Host: v10a.toddns.tk
+    path: /fr-unlimitxxx
+- alterId: 0
+  cipher: auto
+  name: '159,285|俄罗斯联邦_080913085 #1'
+  network: ws
+  port: '80'
+  server: eedp257bubu2wefy3.lovebaipiao.net
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
+  ws-opts:
+    headers:
+      Host: www.apple.com
+    path: /iphone
+- cipher: chacha20-ietf-poly1305
+  name: '166,167,289|🆔@LuxyNet💎❖🇺❖RU❖360 #2'
+  password: MjU9yGcudqQlVH1y3KiA8f
+  port: 46717
+  server: djemserv.ddns.net
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '166,167,219,289,344|🇺RU-91.207.183.63-8374 #1'
+  password: mX1q8sv17wA5LGDHIHD6Jo
+  port: 15720
+  server: 91.207.183.63
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '166,167,219,289,344|PL-90.156.228.141-8377 #1'
+  password: MjU9yGcudqQlVH1y3KiA8f
+  port: 46717
+  server: 90.156.228.141
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '166,167,219,289,344|MD-45.145.0.31-8495 #1'
+  password: DM0395LVqxyl
+  port: 51348
+  server: 45.145.0.31
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: '166,167,289|🆔@LuxyNet💎❖🇺❖RU❖756 #2'
+  network: tcp
+  port: 443
+  server: 45.144.179.138
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 96cbe4a6-5728-42df-dc7a-ceb9b51a3db5
+- cipher: aes-256-cfb
+  name: '166,167,219,289,344|🇺RU-31.172.67.43-8558 #1'
+  password: asdKkaskJKfnsa
+  port: 443
+  server: 31.172.67.43
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '166,167,219,289,344|🇺RU-185.221.153.52-8736 #1'
+  password: slatpifOon
+  port: 444
+  server: 185.221.153.52
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: '166,167,219,289,344|🇺RU-146.185.198.44-9037 #1'
+  password: V7jmsA6PQsLn
+  port: 444
+  server: 146.185.198.44
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 14 → tg@nicevpn123 #1'
+  network: ws
+  port: 443
+  server: nl-full.privateip.net
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: f269033e-a955-4dee-9345-948ed5b77838
+  ws-opts:
+    headers:
+      Host: nl-full.privateip.net
+    path: /RACEVPN
+- name: '172,295|🇷🇺 RU 17 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 19 → tg@nicevpn123 #1'
+  password: 1ef9jGvAyzXLLnjssRFr8M
+  port: 25663
+  server: 94.228.169.114
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 21 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 45.87.155.70
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 88c0a1fb-fc4d-4eab-85c7-4dd84407e9a5
+  ws-opts:
+    path: /vmess
+- cipher: aes-128-gcm
+  name: '172,295|🇷🇺 RU 24 → tg@nicevpn123 #1'
+  password: Telegram-ZEDMODEON
+  port: 25365
+  server: 78.153.149.211
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 25 → tg@nicevpn123 #1'
+  network: ws
+  port: 2086
+  server: 45.133.247.249
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 617c9bc4-4116-41c6-99e0-ace49a38fcdb
+  ws-opts:
+    path: /Jnv8ViZOUVgijjOh0p5uGjHnXIiY
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 26 → tg@nicevpn123 #1'
+  password: ygSXLTCrL8zeKb2n6mghK8J26GVHWmZA4pyy84Pyg6E=
+  port: 13896
+  server: 45.67.32.147
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 27 → tg@nicevpn123 #1'
+  password: DmMQUmI7pgQDnrWqLXC00L
+  port: 15214
+  server: 94.228.165.234
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 28 → tg@nicevpn123 #1'
+  password: IKDBUJ8RH6qI10QR1MSTqR
+  port: 16006
+  server: 46.226.164.2
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 3 → tg@nicevpn123 #1'
+  password: WrszSP43UAOcFljDkb8vAL
+  port: 57262
+  server: 185.174.137.72
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 31 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: is3-vmess.sshmax.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a8d33442-de64-4980-a779-540c1eedbc25
+  ws-opts:
+    headers:
+      Host: is3-vmess.sshmax.xyz
+    path: /vmess
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 32 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: de1-vmess.greenssh.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 12612b4e-e426-4b7c-84bd-4a02850abb1e
+  ws-opts:
+    headers:
+      Host: de1-vmess.greenssh.xyz
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 33 → tg@nicevpn123 #1'
+  network: ws
+  port: 8880
+  server: 45.87.155.70
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 88c0a1fb-fc4d-4eab-85c7-4dd84407e9a5
+  ws-opts:
+    path: /vmess
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 35 → tg@nicevpn123 #1'
+  password: KTwIQM1cQJwtkrjfld6Usn
+  port: 32913
+  server: 46.226.162.112
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 36 → tg@nicevpn123 #1'
+  password: UXoGWyjwDVZIl1WMuHtxSi
+  port: 5700
+  server: 139.28.220.18
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 37 → tg@nicevpn123 #1'
+  network: ws
+  port: 443
+  server: hk-full.privateip.net
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: f2c48b2f-c581-4d7d-846e-8bd97d93bd65
+  ws-opts:
+    headers:
+      Host: hk-full.privateip.net
+    path: /RACEVPN
+- name: '172,295|🇷🇺 RU 41 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- alterId: 0
+  cipher: auto
+  name: '172,295,307|United States #305'
+  network: ws
+  port: 443
+  server: 185.148.104.118
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 6c168fcc-2231-4f3b-8c1e-f6391692df4a
+  ws-opts:
+    headers:
+      Host: ab-test-frosty-flower-e7fb.tariroc864.workers.dev
+    path: /hms02.fxiaomi.sbs/link
+- name: '172,295|🇷🇺 RU 45 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 47 → tg@nicevpn123 #1'
+  password: ndJuPjq7WbFDjB4oacljGw
+  port: 10141
+  server: 5.182.36.245
+  type: ss
+  udp: true
+- name: '172,295|🇷🇺 RU 49 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- name: '172,295|🇷🇺 RU 50 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 52 → tg@nicevpn123 #1'
+  password: NC7jORVNrruV/+3+PwOJrnnOeG7n75X1
+  port: 8388
+  server: 89.19.216.18
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 55 → tg@nicevpn123 #1'
+  password: 1q7RNKaIk2wYO8fEPmEX0vWQ7Va+QRTA
+  port: 8388
+  server: 91.192.81.21
+  type: ss
+  udp: true
+- name: '172,295|🇷🇺 RU 58 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 62 → tg@nicevpn123 #1'
+  password: XZMPTXYRC2XB8jet5UiHOn
+  port: 50211
+  server: 46.19.69.244
+  type: ss
+  udp: true
+- name: '172,295|🇷🇺 RU 64 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 65 → tg@nicevpn123 #1'
+  password: LLVD6lbENjzG1vj15Fvq7r
+  port: 15174
+  server: 62.113.110.233
+  type: ss
+  udp: true
+- name: '172,295|🇷🇺 RU 67 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- name: '172,295|🇷🇺 RU 68 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 7 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 45.144.2.113
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 88bd03e6-5ada-42da-9e77-448cd8c60e13
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 70 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: 85.117.234.167
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 1a363dc9-698c-49d2-e00d-c43005f64c40
+  ws-opts:
+    path: /TG@dns68免费节点
+- name: '172,295|🇷🇺 RU 71 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- name: '172,295|🇷🇺 RU 74 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- name: '172,295|🇷🇺 RU 76 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 77 → tg@nicevpn123 #1'
+  password: NdipHbnILjBtQgQx0Iww5q
+  port: 59393
+  server: 83.217.9.199
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 79 → tg@nicevpn123 #1'
+  network: ws
+  port: 80
+  server: elsone.vbdf.lol
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 94e070a5-fc29-49bf-a1c3-11f3ef2df33d
+  ws-opts:
+    headers:
+      Host: elsone.vbdf.lol
+    path: /
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 8 → tg@nicevpn123 #1'
+  password: 1f8jdOIKkxRWMUeOfXPeo8
+  port: 28190
+  server: 109.107.172.30
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 81 → tg@nicevpn123 #1'
+  password: zErfOQDf3lOXZ24DK9EcAL
+  port: 16991
+  server: 5.42.86.33
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 85 → tg@nicevpn123 #1'
+  network: ws
+  port: 8001
+  server: mdlzz.vbdf.lol
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 94e070a5-fc29-49bf-a1c3-11f3ef2df33d
+  ws-opts:
+    headers:
+      Host: mdlzz.vbdf.lol
+    path: /?ed=512
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 87 → tg@nicevpn123 #1'
+  password: tEO1As10EffDW5svXAwgvb
+  port: 2562
+  server: 77.105.140.135
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: /
+  name: '172,295|🇷🇺 RU 88 → tg@nicevpn123 #1'
+  network: grpc
+  port: 32740
+  server: 5.42.80.252
+  servername: ''
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 433f1111-b780-4eae-b7e7-d7823b09e701
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 89 → tg@nicevpn123 #1'
+  password: u6RYZyNId5RmoWTNTum0nz
+  port: 8234
+  server: 185.229.65.157
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 91 → tg@nicevpn123 #1'
+  password: VRKnPTULDqxaExI5yLJjoc
+  port: 32025
+  server: 92.246.136.190
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 92 → tg@nicevpn123 #1'
+  password: cg0KkMjbGdJEh
+  port: 998
+  server: 212.192.9.220
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 94 → tg@nicevpn123 #1'
+  network: ws
+  port: 8000
+  server: mdlzz.vbdf.lol
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 94e070a5-fc29-49bf-a1c3-11f3ef2df33d
+  ws-opts:
+    headers:
+      Host: mdlzz.vbdf.lol
+    path: /?ed=512
+- alterId: 0
+  cipher: auto
+  name: '172,295|🇷🇺 RU 95 → tg@nicevpn123 #1'
+  network: ws
+  port: 443
+  server: ca-full.privateip.net
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 8da41d0a-0454-4ced-a7e2-4de2a3dcc525
+  ws-opts:
+    headers:
+      Host: ca-full.privateip.net
+    path: /RACEVPN
+- cipher: chacha20-ietf-poly1305
+  name: '172,295|🇷🇺 RU 96 → tg@nicevpn123 #1'
+  password: hnRXsWFscwBEAvGnqQQoU2
+  port: 25091
+  server: 94.142.138.56
+  type: ss
+  udp: true
+- name: '172,295|🇷🇺 RU 97 → tg@nicevpn123 #1'
+  network: ws
+  password: maHanVPpN
+  port: 80
+  server: 185.176.24.84
+  skip-cert-verify: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: '%2525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fmahan'
+- client-fingerprint: chrome
+  name: 180|俄罗斯 002_2@26
+  network: tcp
+  password: 85bce006-4885-11ee-8792-f23c9164ca5d
+  port: 1007
+  server: 176.32.35.167
+  skip-cert-verify: true
+  sni: 004282c1-sbdj40-sdlngq-1n7jq.ru.z7zi.com
+  type: trojan
+  udp: false
+- alterId: 0
+  cipher: auto
+  name: '181,308|Russia #8'
+  network: tcp
+  port: '59985'
+  server: 89.169.53.36
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: d572d74e-427b-4525-9d0d-88608d1a4f19
+- alterId: 0
+  cipher: auto
+  grpc-opts:
+    grpc-service-name: ''
+  name: '181,308|Russia #12'
+  network: grpc
+  port: 443
+  server: 45.14.244.133
+  tls: true
+  type: vmess
+  uuid: a0ea5ce7-b1b0-4ca4-8607-dac55d05ca73
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇷🇺 Russia 01 TG:@nodpai #1'
+  network: ws
+  port: '443'
+  server: 185.143.220.25
+  tls: true
+  type: vmess
+  uuid: f28e354e-c2d1-4983-9b07-5acaf1b3b3e5
+  ws-opts:
+    headers:
+      Host: dengxin.one
+    path: /6e9EtZ2dL
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇷🇺 v2rayfree.eu.org - 俄罗斯  47 #1'
+  network: ws
+  port: '443'
+  server: 185.143.220.25
+  tls: true
+  type: vmess
+  uuid: f28e354e-c2d1-4983-9b07-5acaf1b3b3e5
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇷🇺 俄罗斯 V2CROSS.COM #3'
+  network: ws
+  port: '443'
+  server: 185.143.220.25
+  tls: true
+  type: vmess
+  uuid: f28e354e-c2d1-4983-9b07-5acaf1b3b3e5
+  ws-opts:
+    headers:
+      Host: dengxin.one
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '182,309|🇷🇺 _俄罗斯联邦_YouTube:VV科技_76 #1'
+  network: ws
+  port: '443'
+  server: 92.223.72.42
+  tls: true
+  type: vmess
+  uuid: ae08412f-5bb9-4be7-8560-1984976a1097
+  ws-opts:
+    headers:
+      Host: govacaxixo.watchdoctor.xyz
+    path: /ray
+- down: 3000
+  name: 194|hy2俄罗斯2
+  password: a26e2bf4-84e8-41d0-8a45-a8db0bd9362d
+  port: 9986
+  server: ru2.jindoucn.life
+  skip-cert-verify: true
+  sni: ru2.jindoucn.life
+  type: hysteria2
+  up: 3000
+- cipher: aes-256-gcm
+  name: '219,344|🇺RU-193.53.127.201-0612 #1'
+  password: 22a269d4c7c7e58e
+  port: 8916
+  server: 193.53.127.201
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇷🇺RU-185.22.155.97-0619 #1'
+  password: fb1fdede6c0f4948
+  port: 8917
+  server: 185.22.155.97
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇷🇺RU-185.22.155.124-0651 #1'
+  password: 6f44dd5d39d71323
+  port: 9612
+  server: 185.22.155.124
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇺RU-185.22.155.70-0653 #1'
+  password: afe96c75b1061b72
+  port: 8916
+  server: 185.22.155.70
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇷🇺RU-85.117.234.80-0654 #1'
+  password: a0daf0e33429fe3f
+  port: 8973
+  server: 85.117.234.80
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇺RU-46.17.43.226-0666 #1'
+  password: a1029556716953a9
+  port: 1956
+  server: 46.17.43.226
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇷🇺RU-45.130.147.132-0670 #1'
+  password: 1bcae8007680dca3
+  port: 8912
+  server: 45.130.147.132
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇺RU-46.17.43.105-0673 #1'
+  password: 82ce3b48aadda519
+  port: 8915
+  server: 46.17.43.105
+  type: ss
+- cipher: aes-256-cfb
+  name: '219,344|🇺RU-213.183.53.222-0942 #1'
+  password: KnJGad3FqTvjqbaX
+  port: 9014
+  server: 213.183.53.222
+  type: ss
+- cipher: aes-256-cfb
+  name: '219,344|🇺RU-92.223.109.126-5176 #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 92.223.109.126
+  type: ss
+- cipher: aes-256-cfb
+  name: '219,344|🇷🇺RU-213.183.53.222-5421 #1'
+  password: GA9KzeEgvfxNrgmM
+  port: 9019
+  server: 213.183.53.222
+  type: ss
+- cipher: aes-256-cfb
+  name: '219,344|🇺RU-213.183.53.208-5422 #1'
+  password: GeregetR8cvQHzYr
+  port: 9030
+  server: 213.183.53.208
+  type: ss
+- cipher: aes-256-cfb
+  name: '219,264,344,391|[02-24]-🇺--197-213.183.53.222 #1'
+  password: 9XwYyZsK8SNzQDtY
+  port: 9059
+  server: 213.183.53.222
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: '237,361,362|🇷🇺_RU_俄罗斯联邦_2 #1'
+  network: ws
+  port: 13964
+  server: 45.147.200.170
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 2cd0f258-d8cf-4c56-a5ec-5e400c1bbde8
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '253,377|俄罗斯 V2CROSS.COM #3'
+  network: tcp
+  port: '41353'
+  server: 77.221.141.134
+  servername: topmang.com
+  tls: true
+  type: vmess
+  uuid: 655f6f7a-a288-39e1-9e82-b60cd4e81529
+- alterId: 0
+  cipher: auto
+  name: '253,377|俄罗斯 鞑靼斯坦喀山justhost #1'
+  network: tcp
+  port: '21546'
+  server: 46.17.40.252
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 9c4d994c-d649-4168-8df5-865578a0c1cc
+- cipher: aes-256-cfb
+  name: '259,384|TG频道@mfbpn-俄罗斯2 #1'
+  obfs: tls1.2_ticket_auth
+  obfs-param: 3922d27932.microsoft.com
+  password: k3U8z2ZGi78D
+  port: 16836
+  protocol: auth_aes128_md5
+  protocol-param: 27932:AlGpxmXOFqNQ
+  server: tg_mfbpn_pr4.52vpn.eu.org
+  type: ssr
+- cipher: chacha20-ietf-poly1305
+  name: '264,391|[02-24]-🇷🇺-俄罗斯-028-91.206.92.1... #1'
+  password: FCx0i7b33H9G
+  port: 35030
+  server: 91.206.92.176
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: '269,406|RU_speednode_0208 #1'
+  network: grpc
+  port: 2096
+  server: 147.45.76.116
+  servername: fragment.mzolfaghari.homes
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: c0e2761e-9648-413a-b111-ceff5856be2d
+- alterId: 0
+  cipher: auto
+  name: 270|🇷🇺 俄罗斯（YouTube资源分享者）
+  network: ws
+  port: 32551
+  server: 194.135.32.208
+  tls: false
+  type: vmess
+  uuid: 9d40aefc-54d9-11ec-af2d-f2c157360b1e
+  ws-headers:
+    Host: 194.135.32.208
+  ws-path: /W9s28k1i/
+- alterId: 64
+  cipher: auto
+  name: 271|🇷🇺俄罗斯联邦【YouTube-由零開始】
+  network: tcp
+  port: '35059'
+  server: 185.133.40.192
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 8d78c2a8-acaa-467d-9234-d2606624506d
+- alterId: '0'
+  cipher: auto
+  name: 283|490_俄罗斯联邦-4.38MB
+  network: ws
+  port: '443'
+  server: insaneguo2333.top
+  tls: 1
+  type: vmess
+  uuid: 40fd551a-0bbe-460d-b0d9-4bf4ad413b0f
+  ws-headers:
+    host: insaneguo2333.top
+  ws-path: /okoovws
+- alterId: 0
+  cipher: auto
+  name: 292|🇷🇺_RU_俄罗斯联邦
+  network: tcp
+  port: 31219
+  server: 45.147.200.170
+  tls: false
+  type: vmess
+  uuid: d45f3ae9-ab2e-4d27-a9cf-0257679ec4ff
+- alterId: 0
+  cipher: auto
+  name: '292|🇷🇺_RU_俄罗斯联邦 #1'
+  network: ws
+  port: 12910
+  server: 45.136.245.240
+  tls: true
+  type: vmess
+  uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
+  ws-opts: {}
+- alterId: 233
+  cipher: auto
+  name: 314|🇷🇺 adi|0703 - RU_646
+  network: ws
+  port: 80
+  server: free-russian01-cdn.xiaohouzi.club
+  tls: false
+  type: vmess
+  uuid: 3d31728e-064d-42b8-b945-f79c008f73fc
+  ws-headers:
+    Host: free-russian01-cdn.xiaohouzi.club
+  ws-path: /
+- alterId: 0
+  cipher: auto
+  name: 363|github.com/Pawdroid - 俄罗斯  1
+  network: tcp
+  port: '23453'
+  server: 88.210.37.18
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF
+- alterId: 0
+  cipher: auto
+  name: 408|俄罗斯联邦_0808001
+  network: ws
+  port: '8880'
+  server: 185.109.21.175
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: c11dde04-3dfa-48e9-8580-7b204b325370
+  ws-opts:
+    headers:
+      Host: h4.mcinet.sbs
+    path: /
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDIt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 45.79.96.104
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDMt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 45.79.96.104
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDQt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 45.79.90.66
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDUt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 45.79.90.66
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDYt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 45.33.104.162
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDct5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 45.33.104.162
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDgt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 104.237.154.204
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMDkt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 104.237.154.204
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMTAt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.127.208
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMTEt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.127.208
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMTIt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.105.215.232
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMTMt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.105.215.232
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMTUt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.105.192.135
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMTYt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.50.102
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMTct5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.50.102
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMTgt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 139.162.38.42
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMTkt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 139.162.38.42
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMjAt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 139.162.15.45
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMjEt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 139.162.15.45
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMjIt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.161.54
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3mlrDliqDlnaFBMjMt5L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.161.54
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMjQt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.99.210
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMjUt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.104.99.210
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3ml6XmnKxBMjYt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 172.105.192.135
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMjct5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8097'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 192.240.99.182
+  type: ssr
+- cipher: aes-256-cfb
+  name: 424|QFNTUlNVQi3nvo7lm71BMjgt5LuY6L...
+  obfs: plain
+  obfs-param: 5LuY6LS5U1NS5rOo5YaMOmh0dHA6Ly90LmNuL0VHSkl5cmw
+  password: eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+  port: '8099'
+  protocol: origin
+  protocol-param: dC5tZS9TU1JTVUI
+  server: 192.240.99.182
+  type: ssr
+- alterId: 16
+  cipher: auto
+  name: '436,437|俄罗斯 #1'
+  network: kcp
+  port: '49856'
+  server: 91.203.192.131
+  tls: false
+  type: vmess
+  uuid: cf79d0ab-7c88-46cc-b5e6-1fd713b0b423

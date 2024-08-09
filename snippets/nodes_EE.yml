@@ -1,1 +1,82 @@
-proxies: []
+proxies:
+- alterId: 0
+  cipher: auto
+  name: '68,152,205|YEEY5712 #2'
+  network: tcp
+  port: '8881'
+  server: 170.187.163.89
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: db5afae4-ac23-41a6-8378-f307a9a47436
+- alterId: 0
+  cipher: auto
+  name: '68,205,218,219,344|🇪EE-176.112.146.190-1095 #1'
+  network: ws
+  port: 80
+  server: 176.112.146.190
+  servername: ''
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: f9247df4-02d5-4b31-acc5-4022652c5953
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '158,284|🇪🇪EE-95.164.8.106-0240 #1'
+  network: ws
+  port: '80'
+  server: 95.164.8.106
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: c1ebe8c7-bdd9-4aca-a2f7-01bea79279b3
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: '168,291|🇪🇪37.252.5.234 #1'
+  network: tcp
+  port: '443'
+  server: sw-37.252.5.234.nip.io
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 8989986e-2495-405b-8a46-d1720318e188
+- cipher: aes-256-cfb
+  name: '219,344|🇪EE-37.252.5.234-5172 #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 37.252.5.234
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 394|github.com/freefq - 爱沙尼亚  21
+  network: ws
+  port: 80
+  server: 176.112.146.190
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f9247df4-02d5-4b31-acc5-4022652c5953
+  ws-opts:
+    headers:
+      Host: ''
+    path: /aries
+- alterId: 0
+  cipher: auto
+  name: 394|github.com/freefq - 爱沙尼亚  24
+  network: ws
+  port: 80
+  server: ee.oppo.quest
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f9247df4-02d5-4b31-acc5-4022652c5953
+  ws-opts:
+    headers:
+      Host: ee.oppo.quest
+    path: /aries

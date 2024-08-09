@@ -1,7 +1,14 @@
 proxies:
-- auth: f774a18d-d7ec-49b3-9149-3ba558d07b85
-  name: 2|🇯🇵 日本 01-6B
-  password: f774a18d-d7ec-49b3-9149-3ba558d07b85
+- cipher: chacha20-ietf-poly1305
+  name: '2,4|🇯🇵 日本01-1E #1'
+  password: b1062953-87ec-4432-aa41-7b8c2b8f385f
+  port: 20002
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- auth: d13b0081-03c3-4bf4-b9bf-5f1ff764c96b
+  name: 2|🇯🇵 日本 01-5B
+  password: d13b0081-03c3-4bf4-b9bf-5f1ff764c96b
   port: 44300
   server: jp-01.worldfirst.eu.org
   skip-cert-verify: true
@@ -9,78 +16,106 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本 C JP-1B
-  password: 28c041c1-f21b-4771-afee-ffae26b191e1
-  port: 19881
-  server: jp3.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 1|日本02|X1|XD中日1-1E
-  password: 9f1b6651-9bb8-42d7-810b-efa80762fe19
-  port: 28916
+  name: '2,4|🇯🇵 1|日本03|X1|XD中日1-1A #1'
+  password: d6ebafb1-f354-458d-ab28-c911bf064d14
+  port: 28074
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 1|日本01|X1|DF1-1A
-  password: c0e25d32-0869-4e76-9203-36ba7a51b832
-  port: 33030
-  server: df-01.bestdong.xyz
+  name: '2,4|🇯🇵 1|日本01|X1|XD中日1-1C #1'
+  password: d2e2b7c3-7bc5-4494-83e9-4df7b99ae198
+  port: 28912
+  server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本01-1I
-  password: 118593c6-7ce5-4260-b411-d5afe99baf4d
-  port: 20002
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 1|日本L|X1|DF1-1A
-  password: c0e25d32-0869-4e76-9203-36ba7a51b832
-  port: 59995
-  server: df-01.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 JP 海外用户-1B
+  name: 2|🇯🇵 JP 海外用户-1A
   password: 28c041c1-f21b-4771-afee-ffae26b191e1
   port: 10001
   server: jp.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本02-1H
-  password: b87fae16-d753-44eb-b9f2-6f367e11e735
-  port: 20004
-  server: gy.666666222.shop
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本03-1I
-  password: 118593c6-7ce5-4260-b411-d5afe99baf4d
+  name: 2,4|🇵 日本03-1D
+  password: 60137361-d0e1-4f42-a784-00b056c5a81d
   port: 20006
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 2,4|🇬 DX日利亚2-SS|1x
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 18922
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '2,4|🇯🇵 日本04-1B #1'
+  password: a836f06f-5d76-4bef-8889-c0cd76b52682
+  port: 20008
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 2|🇯🇵 日本 A JP-1B
-  password: 28c041c1-f21b-4771-afee-ffae26b191e1
+  password: 935730d8-e6e5-443f-bb59-6899af931148
   port: 47100
   server: jp1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 1|日本01|X1|XD中日1-1B
-  password: 032276e9-d40d-407e-8075-1a99868022a0
-  port: 28912
+  name: 2,4|🇵 日本02-1G
+  password: e2bd3b14-e547-4336-880b-06268a7a4556
+  port: 20004
+  server: gy.666666222.shop
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇵 1|日本01|X1|DF1-1A
+  password: d6ebafb1-f354-458d-ab28-c911bf064d14
+  port: 33030
+  server: df-01.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇵 1|日本02|X1|XD中日1-1B
+  password: 8984e787-50be-4001-8352-a8e08b239144
+  port: 28916
   server: xd-zhongri1.bestdong.xyz
   type: ss
   udp: true
-- auth: 085db3f0-014d-4498-a688-ea94c5aec70f
-  name: 2|🇯🇵 日本-2-1B
-  password: 085db3f0-014d-4498-a688-ea94c5aec70f
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇵 LS日本|0.6x
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 24893
+  server: szyd.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2,4|🇵 1|日本L|X1|DF1-1C
+  password: d2e2b7c3-7bc5-4494-83e9-4df7b99ae198
+  port: 59995
+  server: df-01.bestdong.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '2,4|🇯🇵 DX日本|优化|1x #1'
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 54431
+  server: hzgg.ewenhot.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇯🇵 日本 B JP-1B
+  password: 935730d8-e6e5-443f-bb59-6899af931148
+  port: 47101
+  server: jp2.iepl.cooc.icu
+  type: ss
+  udp: true
+- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  name: 2,4|🇵 日本-2
+  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
   port: 30001
   server: oracle-amd-osaka1.lanmaoyun.icu
   skip-cert-verify: false
@@ -88,43 +123,15 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本04-1D
-  password: 634f63d2-6f07-4f31-81cc-e7b3df025ade
-  port: 20008
-  server: gy.666666222.shop
+  name: 2|🇯🇵 日本 C JP-1B
+  password: 935730d8-e6e5-443f-bb59-6899af931148
+  port: 19881
+  server: jp3.iepl.cooc.icu
   type: ss
   udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇳🇬 DX尼日利亚2-SS|1x
-  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
-  port: 18922
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 日本 B JP-1A
-  password: f2f3e666-7d4b-4dd3-a9f6-1d90353a2715
-  port: 47101
-  server: jp2.iepl.cooc.icu
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 1|日本03|X1|XD中日1-1B
-  password: 032276e9-d40d-407e-8075-1a99868022a0
-  port: 28074
-  server: xd-zhongri1.bestdong.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 DX日本|0.6x
-  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
-  port: 19381
-  server: hzgg.ewenhot.top
-  type: ss
-  udp: true
-- auth: 085db3f0-014d-4498-a688-ea94c5aec70f
-  name: 2|🇯🇵 日本-1-1B
-  password: 085db3f0-014d-4498-a688-ea94c5aec70f
+- auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
+  name: 2,4|🇵 日本-1
+  password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
   port: 30001
   server: oracle-amd-tokyo1.lanmaoyun.icu
   skip-cert-verify: false
@@ -132,30 +139,23 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 DX日本|优化|1x
-  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
-  port: 54431
+  name: 2,4|🇵 DX本|0.6x
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  port: 19381
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 LS日本|0.6x
-  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
-  port: 24893
-  server: szyd.ewenhot.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇯🇵 LS日本|优化|1x
-  password: 5edc8ce4-80ce-493b-931e-d09c1902db7b
+  name: 2,4|🇵 LS日本|优化|1x
+  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
   port: 19930
   server: szyd.ewenhot.top
   type: ss
   udp: true
-- alterId: 64
+- alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]日本_0809082
-  network: ''
+  name: 3|[mianfeifq/share]日本_0809147
+  network: tcp
   port: '24445'
   server: 140.83.63.38
   servername: ''
@@ -164,8 +164,8 @@ proxies:
   uuid: 94c5ef37-4d82-49f9-c624-f01259374a17
 - alterId: 64
   cipher: auto
-  name: 3|[mianfeifq/share]日本_0809076
-  network: tcp
+  name: 3|[mianfeifq/share]日本_0809081
+  network: ''
   port: '24445'
   server: 140.83.63.38
   servername: ''
@@ -174,14 +174,32 @@ proxies:
   uuid: 94c5ef37-4d82-49f9-c624-f01259374a17
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]日本_0809103
-  network: ''
-  port: '30990'
-  server: cctv.overseas01.yuntiair365.top
+  name: 3|[mianfeifq/share]日本_0809177
+  network: ws
+  port: '20277'
+  server: jp-tokyo-oracle-a5a4f1.ip1.shop
+  servername: jp-tokyo-oracle-a5a4f1.ip1.shop
+  tls: false
+  type: vmess
+  uuid: ebace182-ad9a-4044-92fd-ad48adf52779
+  ws-opts:
+    headers:
+      Host: ''
+    path: /rongseven?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]日本_0809187
+  network: ws
+  port: '80'
+  server: 31.184.207.8
   servername: ''
   tls: false
   type: vmess
-  uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
 - alterId: 0
   cipher: auto
   name: 3|[mianfeifq/share]日本_0809035
@@ -198,35 +216,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]日本_0809198
-  network: ws
-  port: '80'
-  server: 31.184.207.8
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
-  ws-opts:
-    headers:
-      Host: m3hdi.servehttp.com
-    path: /💘 @v2ray_configs_pool 💘
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]日本_0809188
-  network: ws
-  port: '20277'
-  server: jp-tokyo-oracle-a5a4f1.ip1.shop
-  servername: jp-tokyo-oracle-a5a4f1.ip1.shop
-  tls: false
-  type: vmess
-  uuid: ebace182-ad9a-4044-92fd-ad48adf52779
-  ws-opts:
-    headers:
-      Host: ''
-    path: /rongseven?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]日本_0809187
+  name: 3|[mianfeifq/share]日本_0809176
   network: tcp
   port: '12940'
   server: 50.lwdh.us
@@ -236,7 +226,17 @@ proxies:
   uuid: 8259cb1c-dd6c-4739-9c88-af550d977525
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]日本_0809129
+  name: 3|[mianfeifq/share]日本_0809119
+  network: ''
+  port: '53001'
+  server: cctv.overseas01.yuntiair365.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]日本_0809171
   network: ''
   port: '30895'
   server: cctv.overseas01.yuntiair365.top
@@ -246,44 +246,10 @@ proxies:
   uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]日本_0809183
-  network: ''
-  port: '53070'
-  server: cctv.overseas01.yuntiair365.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]日本_0809191
-  network: ''
-  port: '53001'
-  server: cctv.overseas01.yuntiair365.top
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]日本_0809193
-  network: ws
-  port: '80'
-  server: 92.223.63.29
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
-  ws-opts:
-    headers:
-      Host: m3hdi.servehttp.com
-    path: /💘 @v2ray_configs_pool 💘
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]日本_0809040
+  name: 3|[mianfeifq/share]日本_0809174
   network: tcp
   port: '53001'
-  server: 20.243.98.115
+  server: cctv.overseas01.yuntiair365.top
   servername: ''
   tls: false
   type: vmess

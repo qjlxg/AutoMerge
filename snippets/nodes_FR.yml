@@ -1,14 +1,14 @@
 proxies:
 - cipher: aes-128-gcm
   name: 2|🇫🇷 法国 FR BIZ-1A
-  password: f2f3e666-7d4b-4dd3-a9f6-1d90353a2715
+  password: 28c041c1-f21b-4771-afee-ffae26b191e1
   port: 35611
   server: 120.241.118.161
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809162
+  name: 3|[mianfeifq/share]法国_0809160
   network: ''
   port: '44513'
   server: 162.19.25.207
@@ -18,35 +18,7 @@ proxies:
   uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809107
-  network: ws
-  port: '443'
-  server: beyonddsz.cfd
-  servername: ''
-  tls: true
-  type: vmess
-  uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24
-  ws-opts:
-    headers:
-      Host: beyonddsz.cfd
-    path: /linkws
-- alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[mianfeifq/share]法国_0809241
-  network: ws
-  port: '80'
-  server: hdfy6d5.cpi2hidd.eu.org
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809249
+  name: 3|[mianfeifq/share]法国_0809248
   network: tcp
   port: '44513'
   server: 162.19.25.207
@@ -56,21 +28,21 @@ proxies:
   uuid: 4552bdb6-e008-43ac-926d-c6c6c5a6fc76
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809245
+  name: 3|[mianfeifq/share]法国_0809259
   network: ws
   port: '443'
-  server: 163.5.159.231
-  servername: irvideo.cfd
+  server: 129.151.232.16
+  servername: 109.724064.xyz
   tls: true
   type: vmess
-  uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3
+  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
   ws-opts:
     headers:
-      Host: irvideo.cfd
-    path: /linkws
+      Host: 109.724064.xyz
+    path: /qqsvvws
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809170
+  name: 3|[mianfeifq/share]法国_0809168
   network: ws
   port: '80'
   server: 195.154.102.210
@@ -83,50 +55,22 @@ proxies:
       Host: fr1e-unmetered.v2freevpn.com
     path: /v133PDXkklxLEcOvD
 - alterId: 0
-  cipher: aes-128-gcm
-  name: 3|[mianfeifq/share]法国_0809265
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809105
   network: ws
   port: '443'
-  server: 45.145.164.92
-  servername: obdii.cfd
+  server: beyonddsz.cfd
+  servername: ''
   tls: true
   type: vmess
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24
   ws-opts:
     headers:
-      Host: obdii.cfd
+      Host: beyonddsz.cfd
     path: /linkws
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809242
-  network: ws
-  port: '443'
-  server: 129.151.225.197
-  servername: 110.724064.xyz
-  tls: true
-  type: vmess
-  uuid: b11208a0-d0b1-486d-95bb-7e88ed6012b9
-  ws-opts:
-    headers:
-      Host: 110.724064.xyz
-    path: /nlpivws
-- alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[mianfeifq/share]法国_0809231
-  network: ws
-  port: '80'
-  server: 217.69.1.123
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: hdfy6d3.freelines.net
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809254
+  name: 3|[mianfeifq/share]法国_0809253
   network: ws
   port: '443'
   server: 193.160.130.247
@@ -139,120 +83,8 @@ proxies:
       Host: glweidf.sbs
     path: /linkws
 - alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[mianfeifq/share]法国_0809257
-  network: ws
-  port: '80'
-  server: hdfy6d6.jahangirkh.eu.org
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809256
-  network: ws
-  port: '443'
-  server: 193.160.130.245
-  servername: beyonddsz.cfd
-  tls: true
-  type: vmess
-  uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24
-  ws-opts:
-    headers:
-      Host: beyonddsz.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809250
-  network: ws
-  port: '443'
-  server: 193.160.130.201
-  servername: glweidf.cfd
-  tls: true
-  type: vmess
-  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
-  ws-opts:
-    headers:
-      Host: glweidf.cfd
-    path: /linkws
-- alterId: 0
-  cipher: chacha20-poly1305
-  name: 3|[mianfeifq/share]法国_0809239
-  network: ws
-  port: '80'
-  server: hdfy6d3.freelines.net
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
-  ws-opts:
-    headers:
-      Host: ''
-    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809263
-  network: ws
-  port: '80'
-  server: 94.176.183.11
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
-  ws-opts:
-    headers:
-      Host: m3hdi.servehttp.com
-    path: /💘 @v2ray_configs_pool 💘
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809266
-  network: ws
-  port: '443'
-  server: 45.145.166.133
-  servername: xmivideo.cfd
-  tls: true
-  type: vmess
-  uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e
-  ws-opts:
-    headers:
-      Host: xmivideo.cfd
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809233
-  network: ws
-  port: '443'
-  server: irvideo.cfd
-  servername: irvideo.cfd
-  tls: true
-  type: vmess
-  uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3
-  ws-opts:
-    headers:
-      Host: ''
-    path: /linkws
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809264
-  network: ws
-  port: '80'
-  server: 92.223.55.6
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
-  ws-opts:
-    headers:
-      Host: m3hdi.servehttp.com
-    path: /💘 @v2ray_configs_pool 💘
-- alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809116
+  name: 3|[mianfeifq/share]法国_0809114
   network: ws
   port: '443'
   server: az05.beyondy.cfd
@@ -266,7 +98,133 @@ proxies:
     path: /link
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]法国_0809240
+  name: 3|[mianfeifq/share]法国_0809262
+  network: ws
+  port: '80'
+  server: 94.176.183.11
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809232
+  network: ws
+  port: '443'
+  server: irvideo.cfd
+  servername: irvideo.cfd
+  tls: true
+  type: vmess
+  uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3
+  ws-opts:
+    headers:
+      Host: ''
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809244
+  network: ws
+  port: '443'
+  server: 163.5.159.231
+  servername: irvideo.cfd
+  tls: true
+  type: vmess
+  uuid: e537f2f5-2a0c-4f59-92c9-832ca6433bf3
+  ws-opts:
+    headers:
+      Host: irvideo.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809249
+  network: ws
+  port: '443'
+  server: 193.160.130.201
+  servername: glweidf.cfd
+  tls: true
+  type: vmess
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
+  ws-opts:
+    headers:
+      Host: glweidf.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809263
+  network: ws
+  port: '80'
+  server: 92.223.55.6
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: f8325249-56c4-427a-8e4a-b47e285a54ac
+  ws-opts:
+    headers:
+      Host: m3hdi.servehttp.com
+    path: /💘 @v2ray_configs_pool 💘
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809265
+  network: ws
+  port: '443'
+  server: 45.145.166.133
+  servername: xmivideo.cfd
+  tls: true
+  type: vmess
+  uuid: 93ea486a-bada-42a4-ac38-d088b320fa1e
+  ws-opts:
+    headers:
+      Host: xmivideo.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809241
+  network: ws
+  port: '443'
+  server: 129.151.225.197
+  servername: 110.724064.xyz
+  tls: true
+  type: vmess
+  uuid: b11208a0-d0b1-486d-95bb-7e88ed6012b9
+  ws-opts:
+    headers:
+      Host: 110.724064.xyz
+    path: /nlpivws
+- alterId: 0
+  cipher: aes-128-gcm
+  name: 3|[mianfeifq/share]法国_0809264
+  network: ws
+  port: '443'
+  server: 45.145.164.92
+  servername: obdii.cfd
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: obdii.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809169
+  network: ws
+  port: '443'
+  server: 109.724064.xyz
+  servername: 109.724064.xyz
+  tls: true
+  type: vmess
+  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
+  ws-opts:
+    headers:
+      Host: 109.724064.xyz
+    path: /qqsvvws
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809239
   network: ws
   port: '443'
   server: 110.724064.xyz
@@ -279,8 +237,50 @@ proxies:
       Host: ''
     path: /nlpivws
 - alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]法国_0809255
+  network: ws
+  port: '443'
+  server: 193.160.130.245
+  servername: beyonddsz.cfd
+  tls: true
+  type: vmess
+  uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24
+  ws-opts:
+    headers:
+      Host: beyonddsz.cfd
+    path: /linkws
+- alterId: 0
   cipher: chacha20-poly1305
-  name: 3|[mianfeifq/share]法国_0809235
+  name: 3|[mianfeifq/share]法国_0809238
+  network: ws
+  port: '80'
+  server: hdfy6d3.freelines.net
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: ''
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 3|[mianfeifq/share]法国_0809230
+  network: ws
+  port: '80'
+  server: 217.69.1.123
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: hdfy6d3.freelines.net
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 3|[mianfeifq/share]法国_0809234
   network: ws
   port: '80'
   server: hdfy6d3.cpi1.eu.org
@@ -293,16 +293,30 @@ proxies:
       Host: hdfy6d5.cpi2hidd.eu.org
     path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
 - alterId: 0
-  cipher: auto
-  name: 3|[mianfeifq/share]法国_0809260
+  cipher: chacha20-poly1305
+  name: 3|[mianfeifq/share]法国_0809240
   network: ws
-  port: '443'
-  server: 129.151.232.16
-  servername: 109.724064.xyz
-  tls: true
+  port: '80'
+  server: hdfy6d5.cpi2hidd.eu.org
+  servername: ''
+  tls: false
   type: vmess
-  uuid: c08e9991-27c8-4aa8-b994-b2aa87c64801
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
   ws-opts:
     headers:
-      Host: 109.724064.xyz
-    path: /qqsvvws
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL
+- alterId: 0
+  cipher: chacha20-poly1305
+  name: 3|[mianfeifq/share]法国_0809256
+  network: ws
+  port: '80'
+  server: hdfy6d6.jahangirkh.eu.org
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9
+  ws-opts:
+    headers:
+      Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+    path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL

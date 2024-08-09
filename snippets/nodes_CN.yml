@@ -1,4 +1,88 @@
 proxies:
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-375-CN
+  network: ws
+  port: 23615
+  server: 15.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bea5b624-180b-3a17-9569-b62d7f507782
+  ws-opts:
+    headers:
+      Host: 15.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-378-CN
+  network: ws
+  port: 23611
+  server: 11.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bea5b624-180b-3a17-9569-b62d7f507782
+  ws-opts:
+    headers:
+      Host: 11.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0255-CN
+  network: ws
+  port: 23617
+  server: 17.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 5c92047a-fa14-35eb-9351-6f59986d7ee4
+  ws-opts:
+    headers:
+      Host: 17.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-372-CN
+  network: ws
+  port: 23612
+  server: 12.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bea5b624-180b-3a17-9569-b62d7f507782
+  ws-opts:
+    headers:
+      Host: 12.v2-ray.cyou
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 3|[1808.ga]TG频道@mfbpn-0470-CN
+  network: ws
+  port: 23618
+  server: 18.v2-ray.cyou
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: bea5b624-180b-3a17-9569-b62d7f507782
+  ws-opts:
+    headers:
+      Host: 18.v2-ray.cyou
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 3|[mianfeifq/share]中国_0809106
+  network: ws
+  port: '80'
+  server: 103.184.44.74
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  ws-opts:
+    headers:
+      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
+    path: /vmess
 - alterId: 0
   cipher: none
   name: 3|[mianfeifq/share]中国_0809108
@@ -13,17 +97,17 @@ proxies:
     headers:
       Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
     path: /vmess
-- alterId: 0
-  cipher: none
-  name: 3|[mianfeifq/share]中国_0809107
+- alterId: 2
+  cipher: auto
+  name: 3|[xiyaowong/freeFQ]04-377-CN
   network: ws
-  port: '80'
-  server: 103.184.44.74
+  port: 23613
+  server: 13.v2-ray.cyou
   servername: ''
   tls: false
   type: vmess
-  uuid: 2568e84a-197a-5269-be28-027b55d09025
+  uuid: bea5b624-180b-3a17-9569-b62d7f507782
   ws-opts:
     headers:
-      Host: dl2.127.0.0.1.pикерл.里克.kлексaка學院демия.kl3ksacad3my.克萊克斯.wonkacapitano.buzz.
-    path: /vmess
+      Host: 13.v2-ray.cyou
+    path: /

@@ -1,328 +1,169 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 60,74,154,184,278,311,327,342|🇨🇳 台湾 69
-  network: ws
-  port: '80'
-  server: 107.167.182.230
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: efcb7d7c-c582-46f5-eeff-0e553342528d
-  ws-opts:
-    headers:
-      Host: ''
-    path: /tg@hkaa0
-- alterId: 0
-  cipher: auto
-  name: '60,154,158,184,278,284,311|[VMess] 🇩🇪 _US_美国->🇩🇪_DE_德国 #3'
-  network: ws
-  port: 80
-  server: flkf2.shabijichang.com
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: flkf2.shabijichang.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '60,154,184,278,311|[VMess] 🇬🇧 _US_美国->🇬🇧_GB_英国_1 #3'
-  network: ws
-  port: 80
-  server: mrb2.shabijichang.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: mrb2.shabijichang.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 60,68,154,158,184,205,218,219,278,284,297,311,344,408|美国_0808328
-  network: ws
-  port: '80'
-  server: ld2.shabijichang.com
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: ld2.shabijichang.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 60,74,154,184,278,311,327|🇺🇸_US_美国->🇳_IN__1
-  network: ws
-  port: 80
-  server: 104.17.18.26
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5180444a-4756-43b4-960b-49eb9052e4e8
-  ws-opts:
-    headers:
-      host: a.109420.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '60,74,154,184,278,311,327|🇺🇸_US_美国->🇮🇳_IN_印度_2 #1'
-  network: ws
-  port: 80
-  server: 104.26.8.44
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5180444a-4756-43b4-960b-49eb9052e4e8
-  ws-opts:
-    headers:
-      host: a.109420.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 60,68,154,158,184,205,218,219,278,284,297,311,344,408|美国_0808327
-  network: ws
-  port: '80'
-  server: mm2.shabijichang.com
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: mm2.shabijichang.com
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 60,68,154,158,184,205,218,219,278,284,297,311,344,408|美国_0808332
-  network: ws
-  port: '80'
-  server: mm3.shabijichang.com
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: mm3.shabijichang.com
-    path: /
-- alterId: 64
-  cipher: auto
-  name: '60,68,74,154,184,205,218,219,278,301,311,327,344|🇳🇱NL-45.199.138.191-6227
-    #1'
-  network: ws
-  port: 30000
-  server: 45.199.138.191
-  servername: ''
-  skip-cert-verify: false
-  skip-cert-vertify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    path: /path/1696251522438
-- alterId: 0
-  cipher: auto
-  name: 60,68,154,158,184,205,218,219,278,284,297,311,344,408|美国_0808331
-  network: ws
-  port: '80'
-  server: jd3.shabijichang.com
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c458695d-6908-45c3-9512-e0c46418454c
-  ws-opts:
-    headers:
-      Host: jd3.shabijichang.com
-    path: /
 - cipher: chacha20-ietf-poly1305
-  name: '87,89|🇸🇬 新加坡中转 01 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 11155
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇭🇰 香港中转 04 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 11618
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 04
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 38649
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 05
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 21743
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇬 新加坡中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 26198
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇰 香港中转 05
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 20901
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇼 台湾中转 04
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 25149
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇸 美国中转 01
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 26858
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇧 英国中 01
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 29172
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇬 新加坡中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 11599
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇵 日本中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 40005
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇰 香港中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 43042
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇯🇵 日本中转 01 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 13706
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇧 英国中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 34013
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇼 台湾中转 05
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  name: '87,89|🇹🇼 台湾中转 05 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
   port: 35846
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 87,89|🇸 美国中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 23631
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇧 英国中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 13708
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇯🇵 日本中转 03 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 38225
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 87,89|🇸 美国中转 02
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 15070
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: '87,89|🇹🇼 台湾中转 02 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 17010
-  server: gstdnb.myfczy168.top
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
   name: '87,89|🇭🇰 香港中转 02 #1'
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
   port: 36858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 87,89|🇰 香港中转 01
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
-  port: 43641
+  name: 87,89|🇼 台湾中 02
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 17010
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 87,89|🇹 台湾中转 03
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  name: 87,89|🇬 新加坡中转 03
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 11599
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇵 日本中转 01
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 13706
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇯🇵 日本中转 03 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 38225
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇧 英国中转 02
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 34013
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇺🇸 美国中转 01 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 26858
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇧 英国中转 03
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 13708
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇵 日本中转 05
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 21743
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇼 台湾中转 04
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 25149
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇵 日本中转 04
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 38649
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇸 美国中转 03
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 23631
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇼 台湾中转 03
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
   port: 14232
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 87,89|🇼 台湾中转 01
-  password: 36262a31-6739-4025-98ae-bc1a078c8ec9
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
   port: 27110
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇵 日本中转 02
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 40005
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇬 新加坡中转 02
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 26198
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇬🇧 英国中转 01 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 29172
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇭🇰 香港中转 01 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 43641
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇰 香港中转 05
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 20901
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇭🇰 香港中转 04 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 11618
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇬 新加坡中转 01
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 11155
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇰 香港中转 03
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 43042
+  server: gstdnb.myfczy168.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: '87,89|🇺🇸 美国中转 02 #1'
+  password: e4493548-5487-45fe-a1f0-d88dc0fce738
+  port: 15070
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
@@ -330,10 +171,10 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 109,172,295,392|VMESS-未知>美国-NF解锁自制剧-ChatGPT-10...
+  name: 109,172,295,392|VMESS-未知>美国-NF解锁自制剧-YouTube-10...
   network: ws
   port: 2095
-  server: 104.19.45.66
+  server: 104.19.45.75
   servername: onea.flha.ru
   skip-cert-verify: true
   tls: false
@@ -346,188 +187,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: '109,113,172,180,295|🇺🇸 US 1484 → tg@nicevpn123 #2'
-  network: ws
-  port: 80
-  server: 104.21.237.85
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  name: '109,172,180,295|🇺🇸 US 302 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.229.46
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  name: '109,172,180,295|🇺🇸 US 964 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.237.68
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  name: '109,172,180,295|🇺🇸 US 1462 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.225.126
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '109,172,180,295|🇺🇸 US 364 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.225.2
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /
-- name: 109|🇺🇸 _CA_加拿大->🇺🇸_US_美国_0@38
-  network: ws
-  password: b17fa17d-13a0-4e8a-a398-8e549ea8b208
-  port: 443
-  server: 23.227.38.11
-  skip-cert-verify: true
-  sni: syndication-statutes-wanted-logo.trycloudflare.com
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: syndication-statutes-wanted-logo.trycloudflare.com
-    path: /argox-tr
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 109,392|VMESS->美国-NF解锁自制剧-ChatGPT-YouT...
-  network: ws
-  port: 80
-  server: 104.21.71.88
-  servername: us3e-mmnnfr9dop0.v2freevpn.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f
-  ws-opts:
-    headers:
-      HOST: us3e-mmnnfr9dop0.v2freevpn.com
-    path: /v118-fccxmxm35
-- alterId: 0
-  cipher: auto
-  name: '109,113,172,180,295|🇺🇸 US 219 → tg@nicevpn123 #2'
-  network: ws
-  port: 80
-  server: 104.21.225.96
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '109,172,180,295|🇺🇸 US 759 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.232.61
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /?ed=2048
-- alterId: 0
-  cipher: auto
-  name: '113,172,180,295|🇺🇸 US 1503 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.225.157
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '113,172,180,295|🇺🇸 US 1749 → tg@nicevpn123 #1'
-  network: ws
-  port: 80
-  server: 104.21.225.187
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 113,124,180,392|VMESS-未知>美国-ChatGPT-TikTok-You...
-  network: ws
-  port: 8880
-  server: 104.21.1.28
-  servername: us-ccs.yuji2022.eu.org
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 4b5e4565-322f-4223-a891-78a84f189726
-  ws-opts:
-    headers:
-      host: us-ccs.yuji2022.eu.org
-    path: /XSjeg73o6ZdsheahCb5JG
-- alterId: 0
-  cipher: auto
-  name: 113,158,172,181,252,284,295,308,376,382|sws-1046-2024-07-24_125245
-  network: ws
-  port: 2095
-  server: onea.flha.ru
-  servername: null
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
-  ws-opts:
-    headers:
-      Host: onea.flha.ru
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 113|🇳 VMESS->美国-NF-ChatGPT-TikTok-...
+  name: 109|🇨 VMESS->美国-NF加拿大-ChatGPT-TikT...
   network: ws
   port: 2086
   server: icook.tw
@@ -542,16 +202,21 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: '113,172,180,295|🇺🇸 US 639 → tg@nicevpn123 #1'
+  h2-opts: {}
+  http-opts: {}
+  name: '109,172,295,392|VMESS-未知>美国-NF解锁自制剧-ChatGPT-Ti... #4'
   network: ws
-  port: 80
-  server: 104.21.225.193
+  port: 2095
+  server: 104.19.45.166
+  servername: onea.flha.ru
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  uuid: 7a737f41-b792-4260-94ff-3d864da67b80
   ws-opts:
+    headers:
+      HOST: onea.flha.ru
     path: /
 - alterId: 0
   cipher: auto
@@ -597,6 +262,19 @@ proxies:
     headers:
       Host: x1.ylks01.eu.org
     path: /blue01
+- alterId: 0
+  cipher: auto
+  name: '155,279|[ermaozi/get_subscribe]🇷🇺_RU_俄... #1'
+  network: ws
+  port: 54321
+  server: eedp257bubu2wefy1.lovebaipiao.net
+  tls: false
+  type: vmess
+  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
+  ws-opts:
+    headers:
+      Host: www.apple.com
+    path: /iphone
 - grpc-opts:
     grpc-service-name: 443trojan
   name: '180,219,344|RELAY-172.67.204.84-3137 #1'
@@ -1212,42 +890,6 @@ proxies:
   ws-headers:
     Host: usys.qiutan.pw
   ws-path: /videos
-- alterId: 0
-  cipher: auto
-  country: 🇺🇸US
-  delay: 612
-  h2-opts: {}
-  http-opts: {}
-  name: '199,204,219,326,344|🇸US-104.194.85.92-1057 #1'
-  network: ws
-  port: 51552
-  server: 104.194.85.92
-  servername: 104.194.85.92
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: vmess
-  uuid: a8dee04e-e58d-49f3-9618-b393ac0067e2
-  ws-opts:
-    path: /a8dee04e
-- alterId: 0
-  cipher: auto
-  country: 🇷🇺RU
-  delay: 1010
-  h2-opts: {}
-  http-opts: {}
-  name: '199,204,326|🇺_RU_俄罗斯->🇬_GB_国 #1'
-  network: ws
-  port: 54321
-  server: eedp257bubu2wefy1.lovebaipiao.net
-  servername: www.apple.com
-  skip-cert-verify: true
-  type: vmess
-  uuid: c8f92a11-9760-4574-96f4-d0c5165fef96
-  ws-opts:
-    headers:
-      host: www.apple.com
-    path: /iphone
 - alterId: 0
   cipher: auto
   country: mattkaydiary.com|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别(可能是中转节点)_3

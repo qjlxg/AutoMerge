@@ -1,4 +1,11 @@
 proxies:
+- cipher: chacha20-ietf-poly1305
+  country: 🇸 US
+  name: 0,1,4,110,124,130|🇺🇸 US_735
+  password: OTK97XEd7n2Ay0knnArV_A
+  port: 1080
+  server: 38.180.44.28
+  type: ss
 - alterId: 0
   cipher: auto
   name: '68,152,205|YEEY5712 #2'

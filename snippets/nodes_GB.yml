@@ -1,4 +1,676 @@
 proxies:
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,124,130|🇷FR_604
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,130|🇷FR_606
+  password: faBAoD54k87UJG7
+  port: 2376
+  server: 145.239.6.202
+  type: ss
+- alterId: 0
+  cipher: aes-128-gcm
+  country: 🇧GB
+  name: '0,1,4,11,35,55,102,109,110,124,130,219,260,344,385|未知104 19.9MB/s #3'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.198
+  skip-cert-verify: true
+  tls: true
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,106,109,130|🇷FR_608
+  password: XKFKl2rULjIp74
+  port: 8009
+  server: 145.239.6.202
+  type: ss
+- alterId: 0
+  cipher: aes-128-gcm
+  country: ' ZZ'
+  name: '0,1,4,11,35,55,102,106,109,130,166,167,219,260,289,344,385|未知36 23.1MB/s
+    #3'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.196
+  skip-cert-verify: true
+  tls: true
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: 0,1,4,5,130,141|🇧GB(AzadNet.t.me)_017
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-cfb
+  country: GB
+  name: 0,1|Relay_GB-GB_913
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: shadowsocks-gb.ctsubvpn.ggff.net
+  type: ss
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: 0,1,4,5,106,130,141|🇬🇧GB(AzadNet.t.me)_016
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 145.239.6.202
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  country: GB
+  name: 0,1,124|GB_832
+  password: iVqrWLfAlChUGf8HC9DwwQ
+  port: 7330
+  server: 209.97.142.145
+  type: ss
+- blackListed: false
+  cipher: aes-256-gcm
+  country: FR
+  name: '0,1,4,5,7,9,106,109,127,130,141,172,219,295,340,344|🇧GB-145.239.6.202-6266
+    #1'
+  password: pKEW8JPByTVTLtM
+  ping: 1228
+  port: 4444
+  real_ip: 145.239.6.202
+  server: 145.239.6.202
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  country: 🇬🇧GB
+  name: '0,1,4,9,11,35,109,110,127,130,219,344|🇬🇧GB-212.102.53.193-0747 #1'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.193
+  type: ss
+- cipher: aes-256-gcm
+  country: ' GB'
+  name: 0,1,4,110,124| GB_829
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 172.99.190.186
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇬🇧GB
+  name: '0,1,4,5,9,109,127,130,141,172,295|🇬🇧 GB 15 → tg@nicevpn123 #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 77.72.5.113
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  country: 🇷🇺 RU
+  name: 0,1,4,109,130|🇷🇺 RU_699
+  password: yeKtZW31qXeZbAz8HsH4zFui7aseIogssEK7X9XZsLZcUjw6
+  port: 51348
+  server: 89.185.84.34
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇬🇧GB
+  name: '0,1,4,7,9,11,35,127,130,219,344|🇧GB-212.102.53.194-0151 #1'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.194
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: 0,1,4,5,11,109,130,141|🇧GB(AzadNet.t.me)_021
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-128-gcm
+  country: ' ZZ'
+  name: '0,1,4,11,35,106,109,130,219,344|🇬🇧GB-212.102.53.81-0751 #1'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.81
+  type: ss
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: 0,1,4,5,106,110,130,141|🇧GB(AzadNet.t.me)_019
+  password: TEzjfAYq2IjtuoS
+  port: 6679
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-cfb
+  country: 🇬🇧GB
+  name: '0,1,4,5,9,35,106,109,127,130,141,166,167,172,219,289,295,344|🇧GB-77.72.5.150-0798
+    #1'
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 77.72.5.150
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  country: 🇬🇧GB
+  name: '0,1,4,9,10,11,35,106,109,110,127,130,219,344|🇬🇧GB-212.102.53.197-0753 #1'
+  password: shadowsocks
+  port: 443
+  server: uk-dc1.yangon.club
+  type: ss
+- alterId: 0
+  cipher: aes-128-gcm
+  country: 🇬🇧GB
+  name: '0,1,4,5,9,10,11,35,55,102,106,127,130,141,166,167,219,260,289,344,385|未知14
+    18.0MB/s #3'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.197
+  skip-cert-verify: true
+  tls: true
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,110,130|🇫🇷FR_596
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: 0,1,4,5,106,130,141|🇧GB(AzadNet.t.me)_015
+  password: e4FCWrgpkji3QY
+  port: 9101
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,106,130|🇷FR_611
+  password: Y6R9pAtvxxzmGC
+  port: 5000
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,110,130|🇷FR_597
+  password: Y6R9pAtvxxzmGC
+  port: 3306
+  server: 145.239.6.202
+  type: ss
+- blackListed: false
+  cipher: aes-256-gcm
+  country: GB
+  name: '0,1,4,11,106,130,166,167,172,219,289,295,340,344|🇧GB-51.68.206.229-8424 #1'
+  password: KixLvKzwjekG00rm
+  ping: 443
+  port: 8080
+  real_ip: 51.68.206.229
+  server: 51.68.206.229
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: aes-128-gcm
+  country: ' ZZ'
+  name: '0,1,4,11,35,55,102,106,109,130,219,260,344,385|未知17 20.8MB/s #3'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.79
+  skip-cert-verify: true
+  tls: true
+  type: ss
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: '0,1,4,5,106,130,141,172,295|🇬🇧 GB 44 → tg@nicevpn123 #1'
+  password: XKFKl2rULjIp74
+  port: 8008
+  server: 145.239.6.202
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: '0,1,4,9,11,35,109,110,127,130,166,167,219,289,344|🇬🇧GB-212.102.53.80-0749
+    #1'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.80
+  type: ss
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: '0,1,4,5,109,130,141,172,295|🇬🇧 GB 32 → tg@nicevpn123 #1'
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 51.68.206.229
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  country: 🇫🇷FR
+  name: 0,1,4,124,130|🇷FR_609
+  password: Y6R9pAtvxxzmGC
+  port: 3389
+  server: 145.239.6.202
+  type: ss
+- cipher: aes-256-gcm
+  country: ' FR'
+  name: '0,1,4,5,106,109,110,130,141,172,295|🇬🇧 GB 3 → tg@nicevpn123 #1'
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 145.239.6.202
+  type: ss
+  udp: true
+- alterId: 0
+  blackListed: false
+  cipher: aes-128-gcm
+  country: GB
+  name: '0,1,4,11,35,55,102,109,130,166,167,219,260,289,340,344,385|未知85 20.0MB/s
+    #3'
+  password: shadowsocks
+  ping: 506
+  port: 443
+  real_ip: 212.102.53.78
+  server: 212.102.53.78
+  skip-cert-verify: true
+  tls: true
+  type: ss
+- cipher: aes-128-gcm
+  country: 🇧GB
+  name: '0,1,4,7,11,35,109,130,219,344|🇧GB-212.102.53.195-0743 #1'
+  password: shadowsocks
+  port: 443
+  server: 212.102.53.195
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  country: GB
+  h2-opts: {}
+  http-opts: {}
+  name: 0,65,66,88|[mianfeifq/share]英国_0809135
+  network: ws
+  port: '443'
+  server: 17.724064.xyz
+  servername: 17.724064.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
+  ws-opts:
+    headers:
+      Host: ''
+    path: /hbtovws
+- alterId: 0
+  cipher: auto
+  country: ' CA'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,66,141|🇦CA(AzadNet.t.me)_013
+  network: ws
+  port: 443
+  server: 68.168.31.196
+  servername: ''
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: 68.168.31.196
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,11,109,110,141|🇺🇸US(AzadNet.t.me)_420
+  network: ws
+  port: 443
+  server: 172.99.190.209
+  servername: vip2323.cfd
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: vip2323.cfd
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: GB
+  h2-opts: {}
+  http-opts: {}
+  name: 0,66,70,71,141|🏳️UN(AzadNet.t.me)_017
+  network: ws
+  port: 443
+  server: 149.7.16.75
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: google.com
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ' CA'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,65,66,109,141|🇨🇦CA(AzadNet.t.me)_012
+  network: ws
+  port: 443
+  server: 68.168.31.242
+  servername: 68.168.31.242
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: 68.168.31.242
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,66,141,307|United Kingdom #19'
+  network: ws
+  port: 443
+  server: 149.7.16.174
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: ''
+    path: /linkvws
+- alterId: 1
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,11,65,66,106,141,307|United Kingdom #16'
+  network: ws
+  port: 443
+  server: 172.99.190.50
+  servername: ''
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: ''
+    path: linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,141|🏳️UN(AzadNet.t.me)_011
+  network: ws
+  port: 443
+  server: 149.7.16.33
+  servername: vk.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: vk.com
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,106,141|🏳️UN(AzadNet.t.me)_012
+  network: ws
+  port: 443
+  server: 149.7.16.248
+  servername: vk.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: vk.com
+    path: linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,110,141|🏳️UN(AzadNet.t.me)_015
+  network: ws
+  port: 443
+  server: 149.7.16.172
+  servername: vip2323.cfd
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: vip2323.cfd
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,70,71,141|🏳️UN(AzadNet.t.me)_016
+  network: ws
+  port: 443
+  server: 149.7.16.102
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  skip-cert-verify: true
+  skip-cert-vertify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      host: jader.fun
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,141,307|United Kingdom #11'
+  network: ws
+  port: 443
+  server: 149.7.16.188
+  servername: marien.motorcycles
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: ''
+    path: /linkvws
+- alterId: 64
+  cipher: auto
+  country: GB
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,307|United Kingdom #17'
+  network: ws
+  port: 30000
+  server: 51.89.122.175
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 9f58234c-355b-4065-ae21-d4a63099aba5
+  ws-opts:
+    headers:
+      Host: ''
+    path: /path/323127100515
+- alterId: 64
+  cipher: auto
+  country: GB
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,172,181,295,308|United Kingdom #25'
+  network: ws
+  port: 30000
+  server: 51.89.2.48
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 9f58234c-355b-4065-ae21-d4a63099aba5
+  ws-opts:
+    headers:
+      Host: ''
+    path: /path/203113182529
+- alterId: 0
+  cipher: auto
+  country: ' US'
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,11,65,66,141,307|United Kingdom #6'
+  network: ws
+  port: 443
+  server: 149.7.16.73
+  servername: ''
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: ''
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 0,88|[mianfeifq/share]美国_08093305
+  network: ws
+  port: '443'
+  server: hms26.xpengmotors.sbs
+  servername: hms26.xpengmotors.sbs
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: fb0a2de6-bf06-4ff0-97ce-c21abcdc2d55
+  ws-opts:
+    headers:
+      Host: ''
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,110|35ec0449577f4341ab77708c107c90...
+  network: ws
+  port: 443
+  server: 104.26.13.72
+  servername: cake.capellare.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: '0,1,88|[ermaozi/get_subscribe]1|Relay... #12'
+  network: ws
+  port: 443
+  server: a.baradiha.com
+  servername: a.baradiha.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,124|Relay_ZZ-FR_1436
+  network: ws
+  port: 443
+  server: 104.21.41.11
+  servername: bamparda.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      HOST: bamparda.com
+    path: /linkvws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: '0,141,172,295|🇺🇸 US 140 → tg@nicevpn123 #1'
+  network: ws
+  port: 443
+  server: 104.26.0.95
+  servername: obdii.cfd
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1|Relay_ZZ-FR_2296
+  network: ws
+  port: 443
+  server: 162.159.153.2
+  servername: obdii.cfd
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      HOST: obdii.cfd
+    path: /linkws
+- alterId: 0
+  cipher: auto
+  country: ZZ
+  h2-opts: {}
+  http-opts: {}
+  name: 0,1,124|Relay_ZZ-FR_1429
+  network: ws
+  port: 443
+  server: 104.26.12.72
+  servername: cake.capellare.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      HOST: cake.capellare.com
+    path: /linkvws
 - alterId: 64
   cipher: auto
   h2-opts: {}
@@ -20,7 +692,24 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 1,307,382|sws-959-2024-07-24_125245
+  name: '1,88,307|United Kingdom #3'
+  network: ws
+  port: 443
+  server: 17.724064.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
+  ws-opts:
+    headers:
+      Host: 17.724064.xyz
+    path: /hbtovws
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts: {}
+  name: 1,88,307,382|sws-959-2024-07-24_125245
   network: ws
   port: 443
   server: hms26.xpengmotors.sbs
@@ -34,255 +723,37 @@ proxies:
     headers:
       Host: hms26.xpengmotors.sbs
     path: /linkws
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: '1,158,284,307|United States #178'
-  network: ws
-  port: '2095'
-  server: 104.16.60.8
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
-  ws-opts:
-    headers:
-      Host: icy-tooth-3d05.plzthsmdnss-7d8ly.workers.dev
-    path: /obdii.cfd/linkws
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: '1,307|United Kingdom #3'
-  network: ws
-  port: 443
-  server: 17.724064.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
-  ws-opts:
-    headers:
-      Host: 17.724064.xyz
-    path: /hbtovws
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: '1,4,5,9,10,11,35,127,130,141,166,167,219,289,344|🇬🇧GB-212.102.53.197-0752
-    #1'
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.197
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇬🇧GB
-  name: '1,4,5,9,35,109,127,130,141,166,167,172,219,289,295,344|🇧GB-77.72.5.150-0798
-    #1'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 77.72.5.150
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: '1,4,9,11,35,127,130,166,167,219,289,344|🇬🇧GB-212.102.53.80-0749 #1'
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.80
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧GB
-  name: '1,4,9,11,35,127,130,219,344|🇬🇧GB-212.102.53.193-0747 #1'
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.193
-  type: ss
-- cipher: aes-256-cfb
-  country: 🇬🇧GB
-  name: '1,4,5,9,127,130,141,172,295|🇬🇧 GB 15 → tg@nicevpn123 #1'
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 77.72.5.113
-  type: ss
-  udp: true
-- cipher: aes-128-gcm
-  country: 🇬🇧GB
-  name: '1,4,9,10,11,35,113,127,130,219,344|🇬🇧GB-212.102.53.197-0753 #1'
-  password: shadowsocks
-  port: 443
-  server: uk-dc1.yangon.club
-  type: ss
-- blackListed: false
-  cipher: aes-128-gcm
-  country: GB
-  name: '1,4,11,35,130,166,167,219,289,340,344|🇬🇧GB-212.102.53.78-0745 #1'
-  password: shadowsocks
-  ping: 506
-  port: 443
-  real_ip: 212.102.53.78
-  server: 212.102.53.78
-  type: ss
 - cipher: chacha20-ietf-poly1305
-  country: ' GB'
-  name: '1,10,109,113,219,344|GB-89.185.84.185-0607 #1'
-  password: MdeeQzzQP9HTGvy3NKC9FR
-  port: 12575
-  server: 89.185.84.185
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,109,130|🇷FR_598
-  password: Y6R9pAtvxxzmGC
-  port: 5000
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-128-gcm
-  country: ' ZZ'
-  name: '1,4,11,35,130,219,344|🇬🇧GB-212.102.53.81-0751 #1'
-  password: shadowsocks
+  country: 🇺 US
+  name: '1,5,6,9,35,124,127,130,141,172,219,295,344|🇧GB-18.169.117.101-0762 #1'
+  password: W74XFALLLuw6m5IA
   port: 443
-  server: 212.102.53.81
-  type: ss
-- cipher: aes-256-cfb
-  country: GB
-  name: 1|Relay_GB-GB_930
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: shadowsocks-gb.ctsubvpn.ggff.net
-  type: ss
-- blackListed: false
-  cipher: aes-256-gcm
-  country: GB
-  name: '1,4,11,109,130,166,167,172,219,289,295,340,344|🇧GB-51.68.206.229-8424 #1'
-  password: KixLvKzwjekG00rm
-  ping: 443
-  port: 8080
-  real_ip: 51.68.206.229
-  server: 51.68.206.229
+  server: series-a1.samanehha.co
   type: ss
   udp: true
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,109,130|🇷FR_595
-  password: Y6R9pAtvxxzmGC
-  port: 3306
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,124,130|🇷FR_596
-  password: Y6R9pAtvxxzmGC
-  port: 3389
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-256-gcm
-  country: 🇫🇷FR
-  name: 1,4,113,130|🇷FR_593
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 145.239.6.202
-  type: ss
-- cipher: aes-128-gcm
-  country: ' ZZ'
-  name: '1,4,11,35,109,113,130,219,344|🇬🇧GB-212.102.53.79-0748 #1'
-  password: shadowsocks
-  port: 443
-  server: 212.102.53.79
-  type: ss
 - cipher: chacha20-ietf-poly1305
-  country: GB
-  name: 1,124|GB_688
-  password: iVqrWLfAlChUGf8HC9DwwQ
-  port: 7330
-  server: 209.97.142.145
-  type: ss
-- cipher: aes-128-gcm
-  country: 🇧GB
-  name: '1,4,11,35,124,130,219,344|🇧GB-212.102.53.198-0744 #1'
-  password: shadowsocks
+  country: 🇬🇧GB
+  name: '1,4,5,6,35,110,127,130,141,172,190,219,295,320,344|🇧GB-18.169.117.101-0761
+    #1'
+  password: mps3FwmDjLrWaOVg
   port: 443
-  server: 212.102.53.198
+  server: series-a2.samanehha.co
   type: ss
-- alterId: 64
-  cipher: auto
-  country: GB
-  h2-opts: {}
-  http-opts: {}
-  name: '1,109,172,181,295,308|United Kingdom #25'
-  network: ws
-  port: 30000
-  server: 51.89.2.48
-  skip-cert-verify: true
-  tls: true
-  type: vmess
   udp: true
-  uuid: 9f58234c-355b-4065-ae21-d4a63099aba5
-  ws-opts:
-    headers:
-      Host: ''
-    path: /path/203113182529
-- alterId: 64
-  cipher: auto
-  country: GB
-  h2-opts: {}
-  http-opts: {}
-  name: '1,307|United Kingdom #17'
-  network: ws
-  port: 30000
-  server: 51.89.122.175
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 9f58234c-355b-4065-ae21-d4a63099aba5
-  ws-opts:
-    headers:
-      Host: ''
-    path: /path/323127100515
-- alterId: 0
-  cipher: auto
-  country: GB
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_GB-BE_942
-  network: ws
+- cipher: chacha20-ietf-poly1305
+  country: ' US'
+  name: '1,4,5,6,141,172,295|🇺🇸 US 2 → tg@nicevpn123 #1'
+  password: mps3FwmDjLrWaOVg
   port: 443
-  server: 194.36.55.55
-  servername: aveiror.com
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      HOST: aveiror.com
-    path: /linkvws
-- alterId: 0
-  cipher: auto
-  country: NL
-  h2-opts: {}
-  http-opts: {}
-  name: 1,88|[mianfeifq/share]荷兰_0809213
-  network: ws
-  port: '443'
-  server: 102.724064.xyz
-  servername: 102.724064.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 8f33df9e-0255-4341-bea5-93ccc9f62fa7
-  ws-opts:
-    headers:
-      Host: ''
-    path: /oqpsvws
+  server: series-a2.varzesh360.co
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   country: ZZ
   h2-opts: {}
   http-opts: {}
-  name: 1,124|Relay_ZZ-FR_1276
+  name: 1|Relay_ZZ-GB_2272
   network: ws
   port: 443
   server: 104.21.94.64
@@ -300,7 +771,7 @@ proxies:
   country: ZZ
   h2-opts: {}
   http-opts: {}
-  name: 1|Relay_ZZ-GB_2355
+  name: 1|Relay_ZZ-GB_2311
   network: ws
   port: 443
   server: 104.21.49.154
@@ -313,45 +784,42 @@ proxies:
     headers:
       HOST: nezuko.raidenshogun.cloudns.org
     path: /linkws/obdii.cfd
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 1,124|Relay_ZZ-US_1274
+- cipher: chacha20-ietf-poly1305
+  country: GB
+  name: 6,124|Relay_GB-GB_831
+  password: mps3FwmDjLrWaOVg
+  port: 443
+  server: 3.11.47.184
+  type: ss
+- country: 🇺🇸US
+  delay: 1193
+  name: '6,124,204|美国 - 东洛杉矶 - Cloudflare, Inc. -... #74'
   network: ws
-  port: 2083
-  server: 104.16.61.8
-  servername: 6ba6-sound-6ba6.siliy37818.workers.dev
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  password: NISHIKUITAN222
+  port: 443
+  server: tz.ylks.xyz
+  type: trojan
+  udp: true
   ws-opts:
     headers:
-      HOST: 6ba6-sound-6ba6.siliy37818.workers.dev
-    path: /obdii.cfd/linkws
-- alterId: 0
-  cipher: auto
-  country: ZZ
-  h2-opts: {}
-  http-opts: {}
-  name: 1|Relay_ZZ-GB_2372
+      Host: tz.ylks.xyz
+    path: /
+- country: US
+  name: 6,124|Relay_US-JP_1208
   network: ws
-  port: 2053
-  server: 104.16.61.8
-  servername: worgold21yagranghadeyaakbarshokretbozorg.abza.workers.dev
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf
+  password: auto
+  port: 443
+  server: 172.67.161.104
+  sni: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
+  type: trojan
+  udp: true
   ws-opts:
     headers:
-      HOST: worgold21yagranghadeyaakbarshokretbozorg.abza.workers.dev
-    path: /linde06.indiavideo.sbs/linkws
+      Host: 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
+    path: /abbas.ab841vpn.workers.dev/?ed=2560.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY.Telegram-@ViP_FRAGMENT_V2RAY
 - cipher: aes-128-gcm
   country: GB
-  name: '7,113,166,167,219,289,344|🇺🇸US-172.234.222.143-6277 #1'
+  name: '7,166,167,219,289,344|🇺🇸US-172.234.222.143-6277 #1'
   password: shadowsocks
   port: 443
   server: ak1784.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou
@@ -379,24 +847,6 @@ proxies:
   ws-path: /
 - alterId: 0
   cipher: auto
-  country: GB
-  h2-opts: {}
-  http-opts: {}
-  name: '11,66,307|United Kingdom #9'
-  network: ws
-  port: 80
-  server: 4un1.09vpn.com
-  servername: ''
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18f96d21-4563-4d25-965e-14ef852f6d1c
-  ws-opts:
-    headers:
-      Host: ''
-    path: /vmess/
-- alterId: 0
-  cipher: auto
   name: '35,68,172,183,205,218,219,237,295,310,344,362,413,414|🇬🇧 United Kingdom 01
     @nodpai #2'
   network: ws
@@ -410,15 +860,6 @@ proxies:
   uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
   ws-opts:
     path: linkvws
-- country: GB
-  name: 36,124|GB_691
-  network: tcp
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.170.85.86
-  sni: trojan.burgerip.co.uk
-  type: trojan
-  udp: true
 - cipher: chacha20-ietf-poly1305
   name: '48,192,219,344,346|GB-51.141.73.244-021 #1'
   password: nEyOTWmtPG5tdgZqMQEq4R
@@ -449,11 +890,14 @@ proxies:
   port: 3306
   server: 172.99.190.87
   type: ss
-- cipher: aes-256-gcm
-  name: '48,74,219,344,346|🇬🇧GB-172.99.190.61-173 #1'
+- alterId: 0
+  cipher: aes-256-gcm
+  name: '48,55,74,102,219,260,344,346,385|🇺US #3'
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 172.99.190.61
+  skip-cert-verify: true
+  tls: true
   type: ss
 - alterId: 1
   cipher: auto
@@ -765,20 +1209,6 @@ proxies:
     path: /vmess/
 - alterId: 0
   cipher: auto
-  name: 65,66,88|[mianfeifq/share]英国_0809137
-  network: ws
-  port: '443'
-  server: 17.724064.xyz
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
-  ws-opts:
-    headers:
-      Host: ''
-    path: /hbtovws
-- alterId: 0
-  cipher: auto
   name: '65,66|🔒🇬🇧 GB 129.151.68.253 ◈ ws:443... #3'
   network: ws
   port: '443'
@@ -807,7 +1237,7 @@ proxies:
     path: /IVApi/UK/7
 - alterId: 0
   cipher: auto
-  name: '65,66|💰🇬🇧 GB 51.89.150.41 ◈ ws:80 ◈ ... #1'
+  name: '65,66,88|[ermaozi/get_subscribe]65,66|💰... #17'
   network: ws
   port: 80
   server: 4un1.09vpn.com
@@ -1059,23 +1489,6 @@ proxies:
     path: /linkvws
 - alterId: 0
   cipher: auto
-  name: 66,70,71,141|🏳️UN(AzadNet.t.me)_017
-  network: ws
-  port: 443
-  server: 149.7.16.75
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  skip-cert-verify: true
-  skip-cert-vertify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
-  ws-opts:
-    headers:
-      host: google.com
-    path: /linkvws
-- alterId: 0
-  cipher: auto
   name: '66|💰💥🇬🇧 GB 149.7.16.102 ◈ ws:443 ... #3'
   network: ws
   port: '443'
@@ -1157,6 +1570,20 @@ proxies:
   ws-opts:
     headers:
       Host: 4un1.09vpn.com
+    path: /vmess/
+- alterId: 0
+  cipher: auto
+  name: '66,88,307|United Kingdom #9'
+  network: ws
+  port: 80
+  server: 4un1.09vpn.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 18f96d21-4563-4d25-965e-14ef852f6d1c
+  ws-opts:
+    headers:
+      Host: ''
     path: /vmess/
 - alterId: 0
   cipher: auto
@@ -1317,7 +1744,7 @@ proxies:
     path: /wmzmvws
 - alterId: 0
   cipher: auto
-  name: '68,205,218,219,297,344|🇧GB-198.244.148.214-8128 #1'
+  name: '68,110,205,218,219,297,344|🇧GB-198.244.148.214-8128 #1'
   network: ws
   port: 443
   server: 198.244.148.214
@@ -1355,7 +1782,7 @@ proxies:
     path: /swoole
 - alterId: 0
   cipher: auto
-  name: '68,158,166,167,205,218,219,284,289,297,344,408|法国_0808048 #1'
+  name: '68,106,158,166,167,205,218,219,284,289,297,344,408|法国_0808048 #1'
   network: ws
   port: '80'
   server: 51.38.82.132
@@ -1400,7 +1827,7 @@ proxies:
     path: /V2RayyNGvpn
 - alterId: 0
   cipher: auto
-  name: '68,113,158,166,167,205,218,219,284,289,297,344,408|荷兰_0808020 #1'
+  name: '68,158,166,167,205,218,219,284,289,297,344,408|荷兰_0808020 #1'
   network: ws
   port: '2083'
   server: 51.15.19.206
@@ -1552,64 +1979,40 @@ proxies:
   port: 25150
   server: 51.140.68.123
   type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 87,89|🇧 英国01-1B
+  password: 658cae9d-b73d-4390-8c55-09c555892883
+  port: 15634
+  server: gdcub.yunnode.win
+  type: ss
+  udp: true
 - cipher: aes-128-gcm
-  name: 87|🇬🇧 英国 UK | BIZ-1B
+  name: 87|🇬🇧 英国 UK | BIZ-1A
   password: 935730d8-e6e5-443f-bb59-6899af931148
   port: 35605
   server: uk1.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 87,89|🇧 英国01-1A
-  password: 9e0ccbc0-7fd1-4d25-8395-5013a21e5129
-  port: 15634
-  server: gdcub.yunnode.win
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
   name: 87,89|🇧 DX英国-SS|1x
-  password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
+  password: cba3fb85-0c6c-4ec2-a970-f1a55ead1227
   port: 10522
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - alterId: 0
   cipher: auto
-  name: 88|[mianfeifq/share]英国_0809107
+  name: 88|[mianfeifq/share]英国_0809098
   network: ''
   port: '8099'
-  server: 154.47.21.27
+  server: 154.47.21.54
   servername: ''
   tls: false
   type: vmess
   uuid: fa1897db-1925-4c86-a495-939a959af900
 - alterId: 0
   cipher: auto
-  name: 88|[mianfeifq/share]英国_0809130
-  network: ws
-  port: '443'
-  server: 129.151.68.253
-  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
-  tls: true
-  type: vmess
-  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
-  ws-opts:
-    headers:
-      Host: 17.724064.xyz
-    path: /hbtovws
-- alterId: 0
-  cipher: auto
-  name: 88|[mianfeifq/share]英国_0809101
-  network: ''
-  port: '8099'
-  server: 154.47.21.52
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: fa1897db-1925-4c86-a495-939a959af900
-- alterId: 0
-  cipher: auto
-  name: 88|[mianfeifq/share]英国_0809100
+  name: 88|[mianfeifq/share]英国_0809044
   network: ''
   port: '8099'
   server: 154.47.21.44
@@ -1619,7 +2022,21 @@ proxies:
   uuid: fa1897db-1925-4c86-a495-939a959af900
 - alterId: 0
   cipher: auto
-  name: 88|[mianfeifq/share]英国_0809038
+  name: 88|[mianfeifq/share]英国_0809134
+  network: ws
+  port: '443'
+  server: 129.151.68.253
+  servername: 17.724064.xyz
+  tls: true
+  type: vmess
+  uuid: 959100fb-68eb-407f-9ec9-2a01dd41671a
+  ws-opts:
+    headers:
+      Host: 17.724064.xyz
+    path: /hbtovws
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]英国_0809052
   network: ''
   port: '8099'
   server: 154.47.21.56
@@ -1629,7 +2046,17 @@ proxies:
   uuid: fa1897db-1925-4c86-a495-939a959af900
 - alterId: 0
   cipher: auto
-  name: 88|[mianfeifq/share]英国_0809145
+  name: 88|[mianfeifq/share]英国_0809097
+  network: ''
+  port: '8099'
+  server: 154.47.21.27
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: fa1897db-1925-4c86-a495-939a959af900
+- alterId: 0
+  cipher: auto
+  name: '88|[ermaozi/get_subscribe]88|[mia... #29'
   network: ws
   port: '80'
   server: 51.89.150.41
@@ -1643,31 +2070,29 @@ proxies:
     path: /vmess/
 - alterId: 0
   cipher: auto
-  name: 88|[mianfeifq/share]英国_0809045
+  name: 88|[mianfeifq/share]英国_0809046
   network: ''
   port: '8099'
-  server: 154.47.21.54
+  server: 154.47.21.52
   servername: ''
   tls: false
   type: vmess
   uuid: fa1897db-1925-4c86-a495-939a959af900
-- cipher: aes-256-gcm
-  name: '109,219,344|🇬🇧GB-172.99.190.149-6814 #1'
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 172.99.190.149
-  type: ss
-- name: 109|disney_GB 2🌍
+- alterId: 0
+  cipher: auto
+  name: 88|[mianfeifq/share]英国_0809138
   network: ws
-  password: NISHIKUITAN222
-  port: 443
-  server: tz.ylks.xyz
-  skip-cert-verify: true
-  type: trojan
-  udp: true
+  port: '80'
+  server: 51.89.150.41
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 18f96d21-4563-4d25-965e-14ef852f6d1c
   ws-opts:
-    path: /
-- name: 109|🇧 GB😈github.com/Ruk1ng001_-249...
+    headers:
+      Host: 4un1.09vpn.com
+    path: /vmess/
+- name: 106|🇬🇧 GB😈github.com/Ruk1ng001_-24...
   network: ws
   password: ComYEI7fQv
   port: 443
@@ -1680,45 +2105,21 @@ proxies:
     headers:
       Host: uk-04.allhubb.info
     path: /TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg
-- cipher: chacha20-ietf-poly1305
-  name: 113|UK国
-  password: 3eb2f289-790c-401f-b991-07031de3e7a1
-  port: 35506
-  server: gw.liangyuandianwan.com
-  type: ss
-- name: '113,219,344|🏁RELAY-164.38.155.61-2061 #1'
+- alterId: -1
+  country: 🇬🇧GB
+  fingerprint: chrome
+  name: 124,298|GB😈github.com/Ruk1ng001_-24912...
   network: ws
-  password: TeleGram-VPNCTVIP
+  password: ComYEI7fQv
   port: 443
-  server: 164.38.155.61
-  skip-cert-verify: false
-  sni: trojan-ws.vpnctvip.dns-dynamic.NeT
-  type: trojan
-  ws-opts:
-    headers:
-      Host: trojan-ws.vpnctvip.dns-dynamic.NeT
-    path: '%2F'
-- alterId: 0
-  cipher: auto
-  name: '113,181,308|Russia #11'
-  network: ws
-  port: 2024
-  server: 45.14.244.133
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 39d755be-0123-418b-9638-a383957a28d2
-  ws-opts:
-    path: /
-- country: GB
-  name: 124|GB_689
-  network: tcp
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.170.247.138
-  sni: trojan.burgerip.co.uk
+  server: 51.68.215.55
+  sni: uk-04.allhubb.info
   type: trojan
   udp: true
+  ws-opts:
+    headers:
+      Host: 51.68.215.55
+    path: /TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg
 - name: 141|GB(AzadNet.t.me)_001
   network: tcp
   password: your_password
@@ -2377,12 +2778,12 @@ proxies:
       Host: ''
     path: /
 - client-fingerprint: chrome
-  name: '185,269,316,353,406|GB_speednode_0135 #1'
+  name: '185,269,316,353,406,420|12|GB_speednode_0135 #3'
   network: ws
   password: TeleGram-VPNCTVIP
   port: 443
   server: 164.38.155.61
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: trojan-ws.vpnctvip.dns-dynamic.NeT
   type: trojan
   udp: false
@@ -2391,12 +2792,12 @@ proxies:
       Host: trojan-ws.vpnctvip.dns-dynamic.NeT
     path: /proxyIP=proxyip.us.fxxk.dedyn.io
 - client-fingerprint: chrome
-  name: '185,269,316,353,406|GB_speednode_0137 #1'
+  name: '185,269,316,353,406,420|12|GB_speednode_0137 #3'
   network: ws
   password: TeleGram-VPNCTVIP
   port: 443
   server: 164.38.155.61
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: trojan-ws.vpnctvip.dns-dynamic.NeT
   type: trojan
   udp: false
@@ -2701,6 +3102,12 @@ proxies:
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 172.99.190.87
+  type: ss
+- cipher: aes-256-gcm
+  name: '219,344|🇬🇧GB-172.99.190.149-6814 #1'
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 172.99.190.149
   type: ss
 - cipher: aes-256-gcm
   name: '219,344|🇧GB-172.99.190.87-6816 #1'
@@ -3146,21 +3553,6 @@ proxies:
   port: 2376
   server: 145.239.7.164
   type: ss
-- alterId: -1
-  country: 🇬🇧GB
-  fingerprint: chrome
-  name: 298|GB😈github.com/Ruk1ng001_-24912...
-  network: ws
-  password: ComYEI7fQv
-  port: 443
-  server: 51.68.215.55
-  sni: uk-04.allhubb.info
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: 51.68.215.55
-    path: /TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg
 - cipher: aes-256-gcm
   name: 318|VIP0.英国1.ChatGPT
   password: f7126755-abb2-42ce-8c7b-a3c0dc111825

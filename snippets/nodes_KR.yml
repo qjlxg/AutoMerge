@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '2,4|🇰🇷 韩国-1Z #1'
+  name: '3,5|🇰🇷 韩国-1Z #1'
   password: 2ba27c40-7468-4558-a32b-e709e104106b
   port: 59203
   server: kr3.jhsadyua7astto9idu88746.sanxi.online
@@ -12,7 +12,7 @@ proxies:
   udp: true
   uuid: 299c9161-cc42-4615-9dde-3edf807d2944
 - auth: dc690412-c786-4131-b0d1-3c071cedc024
-  name: 2|🇰🇷 韩国 02-2C
+  name: 3|🇰🇷 韩国 02-2C
   password: dc690412-c786-4131-b0d1-3c071cedc024
   port: 44300
   server: kr-04.worldfirst.eu.org
@@ -21,7 +21,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 5f548cd4-912d-4d98-a7b7-be5898876107
-  name: 2|🇰🇷 韩国 01-3A
+  name: 3|🇰🇷 韩国 01-3A
   password: 5f548cd4-912d-4d98-a7b7-be5898876107
   port: 44301
   server: kr-01.worldfirst.eu.org
@@ -30,7 +30,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: '2,4|🇰🇷 韩国-1 #1'
+  name: '3,5|🇰🇷 韩国-1 #1'
   password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
   port: 30001
   server: oracle-arm-chuncheon1.lanmaoyun.icu
@@ -39,28 +39,28 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 B KR-1B
+  name: 3|🇰🇷 韩国 B KR-1B
   password: 935730d8-e6e5-443f-bb59-6899af931148
   port: 35102
   server: kr2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇷 LS韩国|1x
+  name: 3,5|🇷 LS韩国|1x
   password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
   port: 48296
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 C KR-1B
+  name: 3|🇰🇷 韩国 C KR-1B
   password: 935730d8-e6e5-443f-bb59-6899af931148
   port: 35609
   server: kr3.iepl.cooc.icu
   type: ss
   udp: true
 - auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: 2,4|🇷 韩国-2
+  name: 3,5|🇷 韩国-2
   password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
   port: 30001
   server: oracle-arm-chuncheon2.lanmaoyun.icu
@@ -69,7 +69,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: 2,4|🇷 韩国-
+  name: 3,5|🇷 韩国-
   password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
   port: 30001
   server: oracle-arm-seoul1.lanmaoyun.icu
@@ -78,14 +78,14 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇰🇷 DX韩国|1x #1'
+  name: '3,5|🇰🇷 DX韩国|1x #1'
   password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
   port: 13666
   server: hzgg.ewenhot.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇰🇷 韩国 A KR-1A
+  name: 3|🇰🇷 韩国 A KR-1A
   password: 28c041c1-f21b-4771-afee-ffae26b191e1
   port: 35101
   server: kr1.iepl.cooc.icu
@@ -93,7 +93,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0809066
+  name: 4|[mianfeifq/share]韩国_0809066
   network: tcp
   port: '8881'
   server: 141.164.58.88
@@ -103,7 +103,7 @@ proxies:
   uuid: db5afae4-ac23-41a6-8378-f307a9a47436
 - alterId: 16
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0809065
+  name: 4|[mianfeifq/share]韩国_0809065
   network: ws
   port: '10053'
   server: 43.200.39.221
@@ -117,7 +117,7 @@ proxies:
     path: /oacgb5dszy8zplwp
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0809019
+  name: 4|[mianfeifq/share]韩国_0809019
   network: ''
   port: '26022'
   server: 152.70.39.9
@@ -127,7 +127,7 @@ proxies:
   uuid: e0254dda-dc8c-46b0-8df8-07c453aaafd7
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0809061
+  name: 4|[mianfeifq/share]韩国_0809061
   network: ws
   port: '54700'
   server: 193.123.244.147
@@ -141,7 +141,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]韩国_0809060
+  name: 4|[mianfeifq/share]韩国_0809060
   network: tcp
   port: '26022'
   server: 152.70.39.9

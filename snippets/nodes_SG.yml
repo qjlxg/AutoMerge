@@ -1,6 +1,6 @@
 proxies:
 - auth: 1a2ab636-acf0-4482-b92d-37cbce6317df
-  name: 2|🇸🇬 新加坡 02-4G
+  name: 3|🇸🇬 新加坡 02-4G
   password: 1a2ab636-acf0-4482-b92d-37cbce6317df
   port: 44300
   server: sg-02.worldfirst.eu.org
@@ -9,7 +9,7 @@ proxies:
   type: hysteria2
   udp: true
 - auth: 7766c752-d48b-474c-9355-93e0e5abc275
-  name: 2|🇸🇬 新加坡-3P
+  name: 3|🇸🇬 新加坡-3P
   password: 7766c752-d48b-474c-9355-93e0e5abc275
   port: 46606
   server: zz.worldfirst.eu.org
@@ -19,7 +19,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: auto
-  name: 2,3|[mianfeifq/share]未知_08095693
+  name: 3,4|[mianfeifq/share]未知_08095693
   network: ws
   port: '80'
   server: m2-sg3.m2network.icu
@@ -34,7 +34,7 @@ proxies:
     path: /ws?ed=2560
 - alterId: 0
   cipher: auto
-  name: 2,3|[mianfeifq/share]美国_08094042
+  name: 3,4|[mianfeifq/share]美国_08094042
   network: ws
   port: '80'
   server: m2-sg2.m2network.icu
@@ -49,7 +49,7 @@ proxies:
     path: /ws?ed=2560
 - alterId: 0
   cipher: auto
-  name: 2,3|[mianfeifq/share]美国_08093101
+  name: 3,4|[mianfeifq/share]美国_08093101
   network: ws
   port: '80'
   server: m2-sg1.m2network.icu
@@ -63,42 +63,42 @@ proxies:
       Host: m2-sg1.m2network.icu
     path: /ws?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 B SG-1A
+  name: 3|🇸🇬 新加坡 B SG-1A
   password: 28c041c1-f21b-4771-afee-ffae26b191e1
   port: 35106
   server: sg2.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇸🇬 新加坡01-1B #1'
+  name: '3,5|🇸🇬 新加坡01-1B #1'
   password: faaae20f-006b-4f7a-b414-2e6cec56edac
   port: 15636
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡02-1E
+  name: 3,5|🇬 新加坡02-1E
   password: 269917ec-db94-49bb-8dcc-90f8a1253f76
   port: 15637
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 新加坡03-1F
+  name: 3,5|🇬 新加坡03-1F
   password: 658cae9d-b73d-4390-8c55-09c555892883
   port: 15627
   server: gdcub.yunnode.win
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 A SG-1A
+  name: 3|🇸🇬 新加坡 A SG-1A
   password: 28c041c1-f21b-4771-afee-ffae26b191e1
   port: 35105
   server: sg1.iepl.cooc.icu
   type: ss
   udp: true
 - auth: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
-  name: 2,4|🇬 新加坡-1
+  name: 3,5|🇬 新加坡-1
   password: ea01db66-ad4a-46d3-8f04-f1f79de40fbc
   port: 30001
   server: oracle-amd-singapore1.lanmaoyun.icu
@@ -107,21 +107,21 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2|🇸🇬 新加坡 C SG-1B
+  name: 3|🇸🇬 新加坡 C SG-1B
   password: 935730d8-e6e5-443f-bb59-6899af931148
   port: 35107
   server: sg3.iepl.cooc.icu
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: '2,4|🇸🇬 LS新加坡01|优化|1x #1'
+  name: '3,5|🇸🇬 LS新加坡01|优化|1x #1'
   password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
   port: 21508
   server: szyd.ewenhot.top
   type: ss
   udp: true
 - auth: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
-  name: 2,4|🇬 HY2新加坡-0.8x
+  name: 3,5|🇬 HY2新加坡-0.8x
   password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
   port: 20082
   server: xjpnat2.dackcf1.top
@@ -130,7 +130,7 @@ proxies:
   type: hysteria2
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 2,4|🇬 DX新加坡01|优化|1x
+  name: 3,5|🇬 DX新加坡01|优化|1x
   password: 95df2c8d-88ec-4cc6-bcd2-e2e84b1beb2f
   port: 45769
   server: hzgg.ewenhot.top
@@ -138,7 +138,7 @@ proxies:
   udp: true
 - alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]新加坡_0809137
+  name: 4|[mianfeifq/share]新加坡_0809137
   network: ws
   port: '80'
   server: djzze.makhluk.my.id
@@ -152,7 +152,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: none
-  name: 3|[mianfeifq/share]新加坡_0809136
+  name: 4|[mianfeifq/share]新加坡_0809136
   network: ws
   port: '443'
   server: djzze.makhluk.my.id
@@ -166,7 +166,7 @@ proxies:
     path: /vmess
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809224
+  name: 4|[mianfeifq/share]新加坡_0809224
   network: ws
   port: '443'
   server: 138.2.91.40
@@ -180,7 +180,7 @@ proxies:
     path: /04198516-1acb-429e-f222-d344ed1cd9da
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809168
+  name: 4|[mianfeifq/share]新加坡_0809168
   network: ws
   port: '80'
   server: 165.232.169.81
@@ -194,7 +194,7 @@ proxies:
     path: /ht4gvpn.com
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809195
+  name: 4|[mianfeifq/share]新加坡_0809195
   network: ''
   port: '57614'
   server: 5.34.176.111
@@ -204,7 +204,7 @@ proxies:
   uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809140
+  name: 4|[mianfeifq/share]新加坡_0809140
   network: ws
   port: '40000'
   server: ml1.333210.xyz
@@ -218,7 +218,7 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809116
+  name: 4|[mianfeifq/share]新加坡_0809116
   network: tcp
   port: '57614'
   server: 5.34.176.111
@@ -228,7 +228,7 @@ proxies:
   uuid: 4e55ce40-9f8e-417d-f8ae-aa6af97a7097
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809216
+  name: 4|[mianfeifq/share]新加坡_0809216
   network: ws
   port: '443'
   server: osg4.dean52.top
@@ -242,7 +242,7 @@ proxies:
     path: /04198516-1acb-429e-f222-d344ed1cd9da
 - alterId: 0
   cipher: auto
-  name: 3|[mianfeifq/share]新加坡_0809228
+  name: 4|[mianfeifq/share]新加坡_0809228
   network: tcp
   port: '12954'
   server: 64.lwdh.us
